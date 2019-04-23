@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Linknode.dir/LinkNode.cpp.o  -o Linknode 

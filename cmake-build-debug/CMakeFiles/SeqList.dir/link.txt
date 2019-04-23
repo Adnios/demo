@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SeqList.dir/SeqList.cpp.o  -o SeqList 
