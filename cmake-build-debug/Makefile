@@ -137,6 +137,19 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
+# Target rules for targets named LinkedStack
+
+# Build rule for target.
+LinkedStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
+.PHONY : LinkedStack
+
+# fast build rule for target.
+LinkedStack/fast:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
+.PHONY : LinkedStack/fast
+
+#=============================================================================
 # Target rules for targets named BubbleSort
 
 # Build rule for target.
@@ -232,6 +245,33 @@ LinkNode.cpp.s:
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/LinkNode.cpp.s
 .PHONY : LinkNode.cpp.s
 
+LinkedStack.o: LinkedStack.cpp.o
+
+.PHONY : LinkedStack.o
+
+# target to build an object file
+LinkedStack.cpp.o:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/LinkedStack.cpp.o
+.PHONY : LinkedStack.cpp.o
+
+LinkedStack.i: LinkedStack.cpp.i
+
+.PHONY : LinkedStack.i
+
+# target to preprocess a source file
+LinkedStack.cpp.i:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/LinkedStack.cpp.i
+.PHONY : LinkedStack.cpp.i
+
+LinkedStack.s: LinkedStack.cpp.s
+
+.PHONY : LinkedStack.s
+
+# target to generate assembly for a file
+LinkedStack.cpp.s:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/LinkedStack.cpp.s
+.PHONY : LinkedStack.cpp.s
+
 SeqList.o: SeqList.cpp.o
 
 .PHONY : SeqList.o
@@ -320,18 +360,22 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... edit_cache"
 	@echo "... sort"
 	@echo "... SeqList"
+	@echo "... LinkedStack"
 	@echo "... BubbleSort"
 	@echo "... Linknode"
 	@echo "... SeqStack"
-	@echo "... edit_cache"
 	@echo "... BubbleSort.o"
 	@echo "... BubbleSort.i"
 	@echo "... BubbleSort.s"
 	@echo "... LinkNode.o"
 	@echo "... LinkNode.i"
 	@echo "... LinkNode.s"
+	@echo "... LinkedStack.o"
+	@echo "... LinkedStack.i"
+	@echo "... LinkedStack.s"
 	@echo "... SeqList.o"
 	@echo "... SeqList.i"
 	@echo "... SeqList.s"

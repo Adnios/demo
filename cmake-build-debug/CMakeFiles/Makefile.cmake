@@ -48,6 +48,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/sort.dir/DependInfo.cmake"
   "CMakeFiles/SeqList.dir/DependInfo.cmake"
+  "CMakeFiles/LinkedStack.dir/DependInfo.cmake"
   "CMakeFiles/BubbleSort.dir/DependInfo.cmake"
   "CMakeFiles/Linknode.dir/DependInfo.cmake"
   "CMakeFiles/SeqStack.dir/DependInfo.cmake"
