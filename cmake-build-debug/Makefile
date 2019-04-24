@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named Graphmtx
+
+# Build rule for target.
+Graphmtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
+.PHONY : Graphmtx
+
+# fast build rule for target.
+Graphmtx/fast:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
+.PHONY : Graphmtx/fast
+
+#=============================================================================
 # Target rules for targets named sort
 
 # Build rule for target.
@@ -214,6 +227,33 @@ BubbleSort.s: BubbleSort.cpp.s
 BubbleSort.cpp.s:
 	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/BubbleSort.cpp.s
 .PHONY : BubbleSort.cpp.s
+
+Graphmtx.o: Graphmtx.cpp.o
+
+.PHONY : Graphmtx.o
+
+# target to build an object file
+Graphmtx.cpp.o:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.o
+.PHONY : Graphmtx.cpp.o
+
+Graphmtx.i: Graphmtx.cpp.i
+
+.PHONY : Graphmtx.i
+
+# target to preprocess a source file
+Graphmtx.cpp.i:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.i
+.PHONY : Graphmtx.cpp.i
+
+Graphmtx.s: Graphmtx.cpp.s
+
+.PHONY : Graphmtx.s
+
+# target to generate assembly for a file
+Graphmtx.cpp.s:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.s
+.PHONY : Graphmtx.cpp.s
 
 LinkNode.o: LinkNode.cpp.o
 
@@ -361,6 +401,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... Graphmtx"
 	@echo "... sort"
 	@echo "... SeqList"
 	@echo "... LinkedStack"
@@ -370,6 +411,9 @@ help:
 	@echo "... BubbleSort.o"
 	@echo "... BubbleSort.i"
 	@echo "... BubbleSort.s"
+	@echo "... Graphmtx.o"
+	@echo "... Graphmtx.i"
+	@echo "... Graphmtx.s"
 	@echo "... LinkNode.o"
 	@echo "... LinkNode.i"
 	@echo "... LinkNode.s"
