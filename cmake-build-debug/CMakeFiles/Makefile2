@@ -65,6 +65,117 @@ CMAKE_SOURCE_DIR = /home/adnois/CLionProjects/demo
 CMAKE_BINARY_DIR = /home/adnois/CLionProjects/demo/cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct2.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct2.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=20,21 "Built target sort_the_struct2"
+.PHONY : CMakeFiles/sort_the_struct2.dir/all
+
+# Include target in all.
+all: CMakeFiles/sort_the_struct2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct2.dir/rule
+
+# Convenience name for target.
+sort_the_struct2: CMakeFiles/sort_the_struct2.dir/rule
+
+.PHONY : sort_the_struct2
+
+# clean rule for target.
+CMakeFiles/sort_the_struct2.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/clean
+.PHONY : CMakeFiles/sort_the_struct2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/sort_the_struct2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/floyed.dir
+
+# All Build rule for target.
+CMakeFiles/floyed.dir/all:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/depend
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=14,15 "Built target floyed"
+.PHONY : CMakeFiles/floyed.dir/all
+
+# Include target in all.
+all: CMakeFiles/floyed.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/floyed.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/floyed.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/floyed.dir/rule
+
+# Convenience name for target.
+floyed: CMakeFiles/floyed.dir/rule
+
+.PHONY : floyed
+
+# clean rule for target.
+CMakeFiles/floyed.dir/clean:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/clean
+.PHONY : CMakeFiles/floyed.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/floyed.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct1.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct1.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=18,19 "Built target sort_the_struct1"
+.PHONY : CMakeFiles/sort_the_struct1.dir/all
+
+# Include target in all.
+all: CMakeFiles/sort_the_struct1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct1.dir/rule
+
+# Convenience name for target.
+sort_the_struct1: CMakeFiles/sort_the_struct1.dir/rule
+
+.PHONY : sort_the_struct1
+
+# clean rule for target.
+CMakeFiles/sort_the_struct1.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/clean
+.PHONY : CMakeFiles/sort_the_struct1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/sort_the_struct1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/Graphmtx.dir
 
 # All Build rule for target.
@@ -108,7 +219,7 @@ clean: CMakeFiles/Graphmtx.dir/clean
 CMakeFiles/sort.dir/all:
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/depend
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=14,15 "Built target sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target sort"
 .PHONY : CMakeFiles/sort.dir/all
 
 # Include target in all.

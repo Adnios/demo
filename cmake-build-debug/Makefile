@@ -111,6 +111,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named floyed
+
+# Build rule for target.
+floyed: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 floyed
+.PHONY : floyed
+
+# fast build rule for target.
+floyed/fast:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+.PHONY : floyed/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct1
+
+# Build rule for target.
+sort_the_struct1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
+.PHONY : sort_the_struct1
+
+# fast build rule for target.
+sort_the_struct1/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+.PHONY : sort_the_struct1/fast
+
+#=============================================================================
 # Target rules for targets named Graphmtx
 
 # Build rule for target.
@@ -366,6 +405,33 @@ SeqStack.cpp.s:
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/SeqStack.cpp.s
 .PHONY : SeqStack.cpp.s
 
+floyed.o: floyed.cpp.o
+
+.PHONY : floyed.o
+
+# target to build an object file
+floyed.cpp.o:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.o
+.PHONY : floyed.cpp.o
+
+floyed.i: floyed.cpp.i
+
+.PHONY : floyed.i
+
+# target to preprocess a source file
+floyed.cpp.i:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.i
+.PHONY : floyed.cpp.i
+
+floyed.s: floyed.cpp.s
+
+.PHONY : floyed.s
+
+# target to generate assembly for a file
+floyed.cpp.s:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.s
+.PHONY : floyed.cpp.s
+
 sort.o: sort.cpp.o
 
 .PHONY : sort.o
@@ -393,6 +459,60 @@ sort.cpp.s:
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/sort.cpp.s
 .PHONY : sort.cpp.s
 
+sort_the_struct1.o: sort_the_struct1.cpp.o
+
+.PHONY : sort_the_struct1.o
+
+# target to build an object file
+sort_the_struct1.cpp.o:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.o
+.PHONY : sort_the_struct1.cpp.o
+
+sort_the_struct1.i: sort_the_struct1.cpp.i
+
+.PHONY : sort_the_struct1.i
+
+# target to preprocess a source file
+sort_the_struct1.cpp.i:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.i
+.PHONY : sort_the_struct1.cpp.i
+
+sort_the_struct1.s: sort_the_struct1.cpp.s
+
+.PHONY : sort_the_struct1.s
+
+# target to generate assembly for a file
+sort_the_struct1.cpp.s:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.s
+.PHONY : sort_the_struct1.cpp.s
+
+sort_the_struct2.o: sort_the_struct2.cpp.o
+
+.PHONY : sort_the_struct2.o
+
+# target to build an object file
+sort_the_struct2.cpp.o:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.o
+.PHONY : sort_the_struct2.cpp.o
+
+sort_the_struct2.i: sort_the_struct2.cpp.i
+
+.PHONY : sort_the_struct2.i
+
+# target to preprocess a source file
+sort_the_struct2.cpp.i:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.i
+.PHONY : sort_the_struct2.cpp.i
+
+sort_the_struct2.s: sort_the_struct2.cpp.s
+
+.PHONY : sort_the_struct2.s
+
+# target to generate assembly for a file
+sort_the_struct2.cpp.s:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.s
+.PHONY : sort_the_struct2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -400,7 +520,10 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... sort_the_struct2"
 	@echo "... edit_cache"
+	@echo "... floyed"
+	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... sort"
 	@echo "... SeqList"
@@ -426,9 +549,18 @@ help:
 	@echo "... SeqStack.o"
 	@echo "... SeqStack.i"
 	@echo "... SeqStack.s"
+	@echo "... floyed.o"
+	@echo "... floyed.i"
+	@echo "... floyed.s"
 	@echo "... sort.o"
 	@echo "... sort.i"
 	@echo "... sort.s"
+	@echo "... sort_the_struct1.o"
+	@echo "... sort_the_struct1.i"
+	@echo "... sort_the_struct1.s"
+	@echo "... sort_the_struct2.o"
+	@echo "... sort_the_struct2.i"
+	@echo "... sort_the_struct2.s"
 .PHONY : help
 
 
