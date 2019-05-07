@@ -65,187 +65,113 @@ CMAKE_SOURCE_DIR = /home/adnois/CLionProjects/demo
 CMAKE_BINARY_DIR = /home/adnois/CLionProjects/demo/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/sort_the_struct2.dir
+# Target rules for target CMakeFiles/SeqStack.dir
 
 # All Build rule for target.
-CMakeFiles/sort_the_struct2.dir/all:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/depend
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=20,21 "Built target sort_the_struct2"
-.PHONY : CMakeFiles/sort_the_struct2.dir/all
+CMakeFiles/SeqStack.dir/all:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/depend
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=20,21 "Built target SeqStack"
+.PHONY : CMakeFiles/SeqStack.dir/all
 
 # Include target in all.
-all: CMakeFiles/sort_the_struct2.dir/all
+all: CMakeFiles/SeqStack.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/sort_the_struct2.dir/rule: cmake_check_build_system
+CMakeFiles/SeqStack.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct2.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SeqStack.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/sort_the_struct2.dir/rule
+.PHONY : CMakeFiles/SeqStack.dir/rule
 
 # Convenience name for target.
-sort_the_struct2: CMakeFiles/sort_the_struct2.dir/rule
+SeqStack: CMakeFiles/SeqStack.dir/rule
 
-.PHONY : sort_the_struct2
-
-# clean rule for target.
-CMakeFiles/sort_the_struct2.dir/clean:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/clean
-.PHONY : CMakeFiles/sort_the_struct2.dir/clean
+.PHONY : SeqStack
 
 # clean rule for target.
-clean: CMakeFiles/sort_the_struct2.dir/clean
+CMakeFiles/SeqStack.dir/clean:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/clean
+.PHONY : CMakeFiles/SeqStack.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SeqStack.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/floyed.dir
+# Target rules for target CMakeFiles/Hash1.dir
 
 # All Build rule for target.
-CMakeFiles/floyed.dir/all:
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/depend
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=14,15 "Built target floyed"
-.PHONY : CMakeFiles/floyed.dir/all
+CMakeFiles/Hash1.dir/all:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/depend
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=8,9 "Built target Hash1"
+.PHONY : CMakeFiles/Hash1.dir/all
 
 # Include target in all.
-all: CMakeFiles/floyed.dir/all
+all: CMakeFiles/Hash1.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/floyed.dir/rule: cmake_check_build_system
+CMakeFiles/Hash1.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/floyed.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Hash1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/floyed.dir/rule
+.PHONY : CMakeFiles/Hash1.dir/rule
 
 # Convenience name for target.
-floyed: CMakeFiles/floyed.dir/rule
+Hash1: CMakeFiles/Hash1.dir/rule
 
-.PHONY : floyed
-
-# clean rule for target.
-CMakeFiles/floyed.dir/clean:
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/clean
-.PHONY : CMakeFiles/floyed.dir/clean
+.PHONY : Hash1
 
 # clean rule for target.
-clean: CMakeFiles/floyed.dir/clean
+CMakeFiles/Hash1.dir/clean:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/clean
+.PHONY : CMakeFiles/Hash1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Hash1.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/sort_the_struct1.dir
+# Target rules for target CMakeFiles/Linknode.dir
 
 # All Build rule for target.
-CMakeFiles/sort_the_struct1.dir/all:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/depend
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=18,19 "Built target sort_the_struct1"
-.PHONY : CMakeFiles/sort_the_struct1.dir/all
+CMakeFiles/Linknode.dir/all:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/depend
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=14,15 "Built target Linknode"
+.PHONY : CMakeFiles/Linknode.dir/all
 
 # Include target in all.
-all: CMakeFiles/sort_the_struct1.dir/all
+all: CMakeFiles/Linknode.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/sort_the_struct1.dir/rule: cmake_check_build_system
+CMakeFiles/Linknode.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct1.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Linknode.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/sort_the_struct1.dir/rule
+.PHONY : CMakeFiles/Linknode.dir/rule
 
 # Convenience name for target.
-sort_the_struct1: CMakeFiles/sort_the_struct1.dir/rule
+Linknode: CMakeFiles/Linknode.dir/rule
 
-.PHONY : sort_the_struct1
-
-# clean rule for target.
-CMakeFiles/sort_the_struct1.dir/clean:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/clean
-.PHONY : CMakeFiles/sort_the_struct1.dir/clean
+.PHONY : Linknode
 
 # clean rule for target.
-clean: CMakeFiles/sort_the_struct1.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/Graphmtx.dir
-
-# All Build rule for target.
-CMakeFiles/Graphmtx.dir/all:
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/depend
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target Graphmtx"
-.PHONY : CMakeFiles/Graphmtx.dir/all
-
-# Include target in all.
-all: CMakeFiles/Graphmtx.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/Graphmtx.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Graphmtx.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Graphmtx.dir/rule
-
-# Convenience name for target.
-Graphmtx: CMakeFiles/Graphmtx.dir/rule
-
-.PHONY : Graphmtx
+CMakeFiles/Linknode.dir/clean:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/clean
+.PHONY : CMakeFiles/Linknode.dir/clean
 
 # clean rule for target.
-CMakeFiles/Graphmtx.dir/clean:
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/clean
-.PHONY : CMakeFiles/Graphmtx.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/Graphmtx.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/sort.dir
-
-# All Build rule for target.
-CMakeFiles/sort.dir/all:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/depend
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target sort"
-.PHONY : CMakeFiles/sort.dir/all
-
-# Include target in all.
-all: CMakeFiles/sort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/sort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/sort.dir/rule
-
-# Convenience name for target.
-sort: CMakeFiles/sort.dir/rule
-
-.PHONY : sort
-
-# clean rule for target.
-CMakeFiles/sort.dir/clean:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/clean
-.PHONY : CMakeFiles/sort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/sort.dir/clean
+clean: CMakeFiles/Linknode.dir/clean
 
 .PHONY : clean
 
@@ -256,7 +182,7 @@ clean: CMakeFiles/sort.dir/clean
 CMakeFiles/SeqList.dir/all:
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/depend
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target SeqList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=18,19 "Built target SeqList"
 .PHONY : CMakeFiles/SeqList.dir/all
 
 # Include target in all.
@@ -287,13 +213,124 @@ clean: CMakeFiles/SeqList.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/sort.dir
+
+# All Build rule for target.
+CMakeFiles/sort.dir/all:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/depend
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=30,31 "Built target sort"
+.PHONY : CMakeFiles/sort.dir/all
+
+# Include target in all.
+all: CMakeFiles/sort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort.dir/rule
+
+# Convenience name for target.
+sort: CMakeFiles/sort.dir/rule
+
+.PHONY : sort
+
+# clean rule for target.
+CMakeFiles/sort.dir/clean:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/clean
+.PHONY : CMakeFiles/sort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/sort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Not_AC.dir
+
+# All Build rule for target.
+CMakeFiles/Not_AC.dir/all:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/depend
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target Not_AC"
+.PHONY : CMakeFiles/Not_AC.dir/all
+
+# Include target in all.
+all: CMakeFiles/Not_AC.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Not_AC.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Not_AC.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Not_AC.dir/rule
+
+# Convenience name for target.
+Not_AC: CMakeFiles/Not_AC.dir/rule
+
+.PHONY : Not_AC
+
+# clean rule for target.
+CMakeFiles/Not_AC.dir/clean:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/clean
+.PHONY : CMakeFiles/Not_AC.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Not_AC.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Graphmtx.dir
+
+# All Build rule for target.
+CMakeFiles/Graphmtx.dir/all:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/depend
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=6,7 "Built target Graphmtx"
+.PHONY : CMakeFiles/Graphmtx.dir/all
+
+# Include target in all.
+all: CMakeFiles/Graphmtx.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Graphmtx.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Graphmtx.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Graphmtx.dir/rule
+
+# Convenience name for target.
+Graphmtx: CMakeFiles/Graphmtx.dir/rule
+
+.PHONY : Graphmtx
+
+# clean rule for target.
+CMakeFiles/Graphmtx.dir/clean:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/clean
+.PHONY : CMakeFiles/Graphmtx.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Graphmtx.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/LinkedStack.dir
 
 # All Build rule for target.
 CMakeFiles/LinkedStack.dir/all:
 	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/depend
 	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=6,7 "Built target LinkedStack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target LinkedStack"
 .PHONY : CMakeFiles/LinkedStack.dir/all
 
 # Include target in all.
@@ -320,6 +357,265 @@ CMakeFiles/LinkedStack.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/LinkedStack.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct1.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct1.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=32,33 "Built target sort_the_struct1"
+.PHONY : CMakeFiles/sort_the_struct1.dir/all
+
+# Include target in all.
+all: CMakeFiles/sort_the_struct1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct1.dir/rule
+
+# Convenience name for target.
+sort_the_struct1: CMakeFiles/sort_the_struct1.dir/rule
+
+.PHONY : sort_the_struct1
+
+# clean rule for target.
+CMakeFiles/sort_the_struct1.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/clean
+.PHONY : CMakeFiles/sort_the_struct1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/sort_the_struct1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/floyed.dir
+
+# All Build rule for target.
+CMakeFiles/floyed.dir/all:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/depend
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=26,27 "Built target floyed"
+.PHONY : CMakeFiles/floyed.dir/all
+
+# Include target in all.
+all: CMakeFiles/floyed.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/floyed.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/floyed.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/floyed.dir/rule
+
+# Convenience name for target.
+floyed: CMakeFiles/floyed.dir/rule
+
+.PHONY : floyed
+
+# clean rule for target.
+CMakeFiles/floyed.dir/clean:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/clean
+.PHONY : CMakeFiles/floyed.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/floyed.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct2.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct2.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=34,35 "Built target sort_the_struct2"
+.PHONY : CMakeFiles/sort_the_struct2.dir/all
+
+# Include target in all.
+all: CMakeFiles/sort_the_struct2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct2.dir/rule
+
+# Convenience name for target.
+sort_the_struct2: CMakeFiles/sort_the_struct2.dir/rule
+
+.PHONY : sort_the_struct2
+
+# clean rule for target.
+CMakeFiles/sort_the_struct2.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/clean
+.PHONY : CMakeFiles/sort_the_struct2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/sort_the_struct2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/data1.dir
+
+# All Build rule for target.
+CMakeFiles/data1.dir/all:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/depend
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=22,23 "Built target data1"
+.PHONY : CMakeFiles/data1.dir/all
+
+# Include target in all.
+all: CMakeFiles/data1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/data1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/data1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/data1.dir/rule
+
+# Convenience name for target.
+data1: CMakeFiles/data1.dir/rule
+
+.PHONY : data1
+
+# clean rule for target.
+CMakeFiles/data1.dir/clean:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/clean
+.PHONY : CMakeFiles/data1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/data1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/data2.dir
+
+# All Build rule for target.
+CMakeFiles/data2.dir/all:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/depend
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target data2"
+.PHONY : CMakeFiles/data2.dir/all
+
+# Include target in all.
+all: CMakeFiles/data2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/data2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/data2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/data2.dir/rule
+
+# Convenience name for target.
+data2: CMakeFiles/data2.dir/rule
+
+.PHONY : data2
+
+# clean rule for target.
+CMakeFiles/data2.dir/clean:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/clean
+.PHONY : CMakeFiles/data2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/data2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Hash2.dir
+
+# All Build rule for target.
+CMakeFiles/Hash2.dir/all:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/depend
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target Hash2"
+.PHONY : CMakeFiles/Hash2.dir/all
+
+# Include target in all.
+all: CMakeFiles/Hash2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Hash2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Hash2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Hash2.dir/rule
+
+# Convenience name for target.
+Hash2: CMakeFiles/Hash2.dir/rule
+
+.PHONY : Hash2
+
+# clean rule for target.
+CMakeFiles/Hash2.dir/clean:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/clean
+.PHONY : CMakeFiles/Hash2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Hash2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/search.dir
+
+# All Build rule for target.
+CMakeFiles/search.dir/all:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/depend
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=28,29 "Built target search"
+.PHONY : CMakeFiles/search.dir/all
+
+# Include target in all.
+all: CMakeFiles/search.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/search.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/search.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/search.dir/rule
+
+# Convenience name for target.
+search: CMakeFiles/search.dir/rule
+
+.PHONY : search
+
+# clean rule for target.
+CMakeFiles/search.dir/clean:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/clean
+.PHONY : CMakeFiles/search.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/search.dir/clean
 
 .PHONY : clean
 
@@ -361,76 +657,39 @@ clean: CMakeFiles/BubbleSort.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Linknode.dir
+# Target rules for target CMakeFiles/FatMouseTrade.dir
 
 # All Build rule for target.
-CMakeFiles/Linknode.dir/all:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/depend
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=8,9 "Built target Linknode"
-.PHONY : CMakeFiles/Linknode.dir/all
+CMakeFiles/FatMouseTrade.dir/all:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/depend
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target FatMouseTrade"
+.PHONY : CMakeFiles/FatMouseTrade.dir/all
 
 # Include target in all.
-all: CMakeFiles/Linknode.dir/all
+all: CMakeFiles/FatMouseTrade.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Linknode.dir/rule: cmake_check_build_system
+CMakeFiles/FatMouseTrade.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Linknode.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/FatMouseTrade.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Linknode.dir/rule
+.PHONY : CMakeFiles/FatMouseTrade.dir/rule
 
 # Convenience name for target.
-Linknode: CMakeFiles/Linknode.dir/rule
+FatMouseTrade: CMakeFiles/FatMouseTrade.dir/rule
 
-.PHONY : Linknode
-
-# clean rule for target.
-CMakeFiles/Linknode.dir/clean:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/clean
-.PHONY : CMakeFiles/Linknode.dir/clean
+.PHONY : FatMouseTrade
 
 # clean rule for target.
-clean: CMakeFiles/Linknode.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/SeqStack.dir
-
-# All Build rule for target.
-CMakeFiles/SeqStack.dir/all:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/depend
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target SeqStack"
-.PHONY : CMakeFiles/SeqStack.dir/all
-
-# Include target in all.
-all: CMakeFiles/SeqStack.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/SeqStack.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SeqStack.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/SeqStack.dir/rule
-
-# Convenience name for target.
-SeqStack: CMakeFiles/SeqStack.dir/rule
-
-.PHONY : SeqStack
+CMakeFiles/FatMouseTrade.dir/clean:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/clean
+.PHONY : CMakeFiles/FatMouseTrade.dir/clean
 
 # clean rule for target.
-CMakeFiles/SeqStack.dir/clean:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/clean
-.PHONY : CMakeFiles/SeqStack.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/SeqStack.dir/clean
+clean: CMakeFiles/FatMouseTrade.dir/clean
 
 .PHONY : clean
 

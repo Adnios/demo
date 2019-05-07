@@ -2,6 +2,10 @@
 // Created by adnois on 19-4-22.
 //
 //自定义sort，从大到小排列
+/*
+ * sort时间复杂度为nlogn
+ *
+ * */
 #include <iostream>
 #include <algorithm>
 

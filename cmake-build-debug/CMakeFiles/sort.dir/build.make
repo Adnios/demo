@@ -57,27 +57,27 @@ include CMakeFiles/sort.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/sort.dir/flags.make
 
-CMakeFiles/sort.dir/sort.cpp.o: CMakeFiles/sort.dir/flags.make
-CMakeFiles/sort.dir/sort.cpp.o: ../sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sort.dir/sort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sort.dir/sort.cpp.o -c /home/adnois/CLionProjects/demo/sort.cpp
+CMakeFiles/sort.dir/1.sort/sort.cpp.o: CMakeFiles/sort.dir/flags.make
+CMakeFiles/sort.dir/1.sort/sort.cpp.o: ../1.sort/sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sort.dir/1.sort/sort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sort.dir/1.sort/sort.cpp.o -c /home/adnois/CLionProjects/demo/1.sort/sort.cpp
 
-CMakeFiles/sort.dir/sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sort.dir/sort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adnois/CLionProjects/demo/sort.cpp > CMakeFiles/sort.dir/sort.cpp.i
+CMakeFiles/sort.dir/1.sort/sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sort.dir/1.sort/sort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adnois/CLionProjects/demo/1.sort/sort.cpp > CMakeFiles/sort.dir/1.sort/sort.cpp.i
 
-CMakeFiles/sort.dir/sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sort.dir/sort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adnois/CLionProjects/demo/sort.cpp -o CMakeFiles/sort.dir/sort.cpp.s
+CMakeFiles/sort.dir/1.sort/sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sort.dir/1.sort/sort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adnois/CLionProjects/demo/1.sort/sort.cpp -o CMakeFiles/sort.dir/1.sort/sort.cpp.s
 
 # Object files for target sort
 sort_OBJECTS = \
-"CMakeFiles/sort.dir/sort.cpp.o"
+"CMakeFiles/sort.dir/1.sort/sort.cpp.o"
 
 # External object files for target sort
 sort_EXTERNAL_OBJECTS =
 
-sort: CMakeFiles/sort.dir/sort.cpp.o
+sort: CMakeFiles/sort.dir/1.sort/sort.cpp.o
 sort: CMakeFiles/sort.dir/build.make
 sort: CMakeFiles/sort.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable sort"

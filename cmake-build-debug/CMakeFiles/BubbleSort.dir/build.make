@@ -57,18 +57,18 @@ include CMakeFiles/BubbleSort.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/BubbleSort.dir/flags.make
 
-CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o: CMakeFiles/BubbleSort.dir/flags.make
-CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o: ../BubbleSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o -c /home/adnois/CLionProjects/demo/BubbleSort.cpp
+CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o: CMakeFiles/BubbleSort.dir/flags.make
+CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o: ../1.sort/BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o -c /home/adnois/CLionProjects/demo/1.sort/BubbleSort.cpp
 
-CMakeFiles/BubbleSort.dir/BubbleSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BubbleSort.dir/BubbleSort.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adnois/CLionProjects/demo/BubbleSort.cpp > CMakeFiles/BubbleSort.dir/BubbleSort.cpp.i
+CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adnois/CLionProjects/demo/1.sort/BubbleSort.cpp > CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.i
 
-CMakeFiles/BubbleSort.dir/BubbleSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BubbleSort.dir/BubbleSort.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adnois/CLionProjects/demo/BubbleSort.cpp -o CMakeFiles/BubbleSort.dir/BubbleSort.cpp.s
+CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adnois/CLionProjects/demo/1.sort/BubbleSort.cpp -o CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.s
 
 CMakeFiles/BubbleSort.dir/LinkNode.cpp.o: CMakeFiles/BubbleSort.dir/flags.make
 CMakeFiles/BubbleSort.dir/LinkNode.cpp.o: ../LinkNode.cpp
@@ -85,13 +85,13 @@ CMakeFiles/BubbleSort.dir/LinkNode.cpp.s: cmake_force
 
 # Object files for target BubbleSort
 BubbleSort_OBJECTS = \
-"CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o" \
+"CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o" \
 "CMakeFiles/BubbleSort.dir/LinkNode.cpp.o"
 
 # External object files for target BubbleSort
 BubbleSort_EXTERNAL_OBJECTS =
 
-BubbleSort: CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o
+BubbleSort: CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o
 BubbleSort: CMakeFiles/BubbleSort.dir/LinkNode.cpp.o
 BubbleSort: CMakeFiles/BubbleSort.dir/build.make
 BubbleSort: CMakeFiles/BubbleSort.dir/link.txt

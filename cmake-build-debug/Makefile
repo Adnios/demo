@@ -111,108 +111,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named sort_the_struct2
+# Target rules for targets named SeqStack
 
 # Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
+SeqStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
+.PHONY : SeqStack
 
 # fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
+SeqStack/fast:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
+.PHONY : SeqStack/fast
 
 #=============================================================================
-# Target rules for targets named floyed
+# Target rules for targets named Hash1
 
 # Build rule for target.
-floyed: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 floyed
-.PHONY : floyed
+Hash1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash1
+.PHONY : Hash1
 
 # fast build rule for target.
-floyed/fast:
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
-.PHONY : floyed/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct1
-
-# Build rule for target.
-sort_the_struct1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
-.PHONY : sort_the_struct1
-
-# fast build rule for target.
-sort_the_struct1/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-.PHONY : sort_the_struct1/fast
-
-#=============================================================================
-# Target rules for targets named Graphmtx
-
-# Build rule for target.
-Graphmtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
-.PHONY : Graphmtx
-
-# fast build rule for target.
-Graphmtx/fast:
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-.PHONY : Graphmtx/fast
-
-#=============================================================================
-# Target rules for targets named sort
-
-# Build rule for target.
-sort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort
-.PHONY : sort
-
-# fast build rule for target.
-sort/fast:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
-.PHONY : sort/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
-
-#=============================================================================
-# Target rules for targets named LinkedStack
-
-# Build rule for target.
-LinkedStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
-.PHONY : LinkedStack
-
-# fast build rule for target.
-LinkedStack/fast:
-	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-.PHONY : LinkedStack/fast
-
-#=============================================================================
-# Target rules for targets named BubbleSort
-
-# Build rule for target.
-BubbleSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
-.PHONY : BubbleSort
-
-# fast build rule for target.
-BubbleSort/fast:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-.PHONY : BubbleSort/fast
+Hash1/fast:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
+.PHONY : Hash1/fast
 
 #=============================================================================
 # Target rules for targets named Linknode
@@ -228,44 +150,483 @@ Linknode/fast:
 .PHONY : Linknode/fast
 
 #=============================================================================
-# Target rules for targets named SeqStack
+# Target rules for targets named SeqList
 
 # Build rule for target.
-SeqStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
-.PHONY : SeqStack
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
 
 # fast build rule for target.
-SeqStack/fast:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-.PHONY : SeqStack/fast
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
 
-BubbleSort.o: BubbleSort.cpp.o
+#=============================================================================
+# Target rules for targets named sort
 
-.PHONY : BubbleSort.o
+# Build rule for target.
+sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort
+.PHONY : sort
+
+# fast build rule for target.
+sort/fast:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
+.PHONY : sort/fast
+
+#=============================================================================
+# Target rules for targets named Not_AC
+
+# Build rule for target.
+Not_AC: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Not_AC
+.PHONY : Not_AC
+
+# fast build rule for target.
+Not_AC/fast:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
+.PHONY : Not_AC/fast
+
+#=============================================================================
+# Target rules for targets named Graphmtx
+
+# Build rule for target.
+Graphmtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
+.PHONY : Graphmtx
+
+# fast build rule for target.
+Graphmtx/fast:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
+.PHONY : Graphmtx/fast
+
+#=============================================================================
+# Target rules for targets named LinkedStack
+
+# Build rule for target.
+LinkedStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
+.PHONY : LinkedStack
+
+# fast build rule for target.
+LinkedStack/fast:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
+.PHONY : LinkedStack/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct1
+
+# Build rule for target.
+sort_the_struct1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
+.PHONY : sort_the_struct1
+
+# fast build rule for target.
+sort_the_struct1/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+.PHONY : sort_the_struct1/fast
+
+#=============================================================================
+# Target rules for targets named floyed
+
+# Build rule for target.
+floyed: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 floyed
+.PHONY : floyed
+
+# fast build rule for target.
+floyed/fast:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+.PHONY : floyed/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named data1
+
+# Build rule for target.
+data1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data1
+.PHONY : data1
+
+# fast build rule for target.
+data1/fast:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
+.PHONY : data1/fast
+
+#=============================================================================
+# Target rules for targets named data2
+
+# Build rule for target.
+data2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data2
+.PHONY : data2
+
+# fast build rule for target.
+data2/fast:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
+.PHONY : data2/fast
+
+#=============================================================================
+# Target rules for targets named Hash2
+
+# Build rule for target.
+Hash2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash2
+.PHONY : Hash2
+
+# fast build rule for target.
+Hash2/fast:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
+.PHONY : Hash2/fast
+
+#=============================================================================
+# Target rules for targets named search
+
+# Build rule for target.
+search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 search
+.PHONY : search
+
+# fast build rule for target.
+search/fast:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
+.PHONY : search/fast
+
+#=============================================================================
+# Target rules for targets named BubbleSort
+
+# Build rule for target.
+BubbleSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
+.PHONY : BubbleSort
+
+# fast build rule for target.
+BubbleSort/fast:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
+.PHONY : BubbleSort/fast
+
+#=============================================================================
+# Target rules for targets named FatMouseTrade
+
+# Build rule for target.
+FatMouseTrade: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 FatMouseTrade
+.PHONY : FatMouseTrade
+
+# fast build rule for target.
+FatMouseTrade/fast:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
+.PHONY : FatMouseTrade/fast
+
+1.sort/BubbleSort.o: 1.sort/BubbleSort.cpp.o
+
+.PHONY : 1.sort/BubbleSort.o
 
 # target to build an object file
-BubbleSort.cpp.o:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/BubbleSort.cpp.o
-.PHONY : BubbleSort.cpp.o
+1.sort/BubbleSort.cpp.o:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o
+.PHONY : 1.sort/BubbleSort.cpp.o
 
-BubbleSort.i: BubbleSort.cpp.i
+1.sort/BubbleSort.i: 1.sort/BubbleSort.cpp.i
 
-.PHONY : BubbleSort.i
+.PHONY : 1.sort/BubbleSort.i
 
 # target to preprocess a source file
-BubbleSort.cpp.i:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/BubbleSort.cpp.i
-.PHONY : BubbleSort.cpp.i
+1.sort/BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.i
+.PHONY : 1.sort/BubbleSort.cpp.i
 
-BubbleSort.s: BubbleSort.cpp.s
+1.sort/BubbleSort.s: 1.sort/BubbleSort.cpp.s
 
-.PHONY : BubbleSort.s
+.PHONY : 1.sort/BubbleSort.s
 
 # target to generate assembly for a file
-BubbleSort.cpp.s:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/BubbleSort.cpp.s
-.PHONY : BubbleSort.cpp.s
+1.sort/BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.s
+.PHONY : 1.sort/BubbleSort.cpp.s
+
+1.sort/sort.o: 1.sort/sort.cpp.o
+
+.PHONY : 1.sort/sort.o
+
+# target to build an object file
+1.sort/sort.cpp.o:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/1.sort/sort.cpp.o
+.PHONY : 1.sort/sort.cpp.o
+
+1.sort/sort.i: 1.sort/sort.cpp.i
+
+.PHONY : 1.sort/sort.i
+
+# target to preprocess a source file
+1.sort/sort.cpp.i:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/1.sort/sort.cpp.i
+.PHONY : 1.sort/sort.cpp.i
+
+1.sort/sort.s: 1.sort/sort.cpp.s
+
+.PHONY : 1.sort/sort.s
+
+# target to generate assembly for a file
+1.sort/sort.cpp.s:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/1.sort/sort.cpp.s
+.PHONY : 1.sort/sort.cpp.s
+
+1.sort/sort_the_struct1.o: 1.sort/sort_the_struct1.cpp.o
+
+.PHONY : 1.sort/sort_the_struct1.o
+
+# target to build an object file
+1.sort/sort_the_struct1.cpp.o:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/1.sort/sort_the_struct1.cpp.o
+.PHONY : 1.sort/sort_the_struct1.cpp.o
+
+1.sort/sort_the_struct1.i: 1.sort/sort_the_struct1.cpp.i
+
+.PHONY : 1.sort/sort_the_struct1.i
+
+# target to preprocess a source file
+1.sort/sort_the_struct1.cpp.i:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/1.sort/sort_the_struct1.cpp.i
+.PHONY : 1.sort/sort_the_struct1.cpp.i
+
+1.sort/sort_the_struct1.s: 1.sort/sort_the_struct1.cpp.s
+
+.PHONY : 1.sort/sort_the_struct1.s
+
+# target to generate assembly for a file
+1.sort/sort_the_struct1.cpp.s:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/1.sort/sort_the_struct1.cpp.s
+.PHONY : 1.sort/sort_the_struct1.cpp.s
+
+1.sort/sort_the_struct2.o: 1.sort/sort_the_struct2.cpp.o
+
+.PHONY : 1.sort/sort_the_struct2.o
+
+# target to build an object file
+1.sort/sort_the_struct2.cpp.o:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/1.sort/sort_the_struct2.cpp.o
+.PHONY : 1.sort/sort_the_struct2.cpp.o
+
+1.sort/sort_the_struct2.i: 1.sort/sort_the_struct2.cpp.i
+
+.PHONY : 1.sort/sort_the_struct2.i
+
+# target to preprocess a source file
+1.sort/sort_the_struct2.cpp.i:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/1.sort/sort_the_struct2.cpp.i
+.PHONY : 1.sort/sort_the_struct2.cpp.i
+
+1.sort/sort_the_struct2.s: 1.sort/sort_the_struct2.cpp.s
+
+.PHONY : 1.sort/sort_the_struct2.s
+
+# target to generate assembly for a file
+1.sort/sort_the_struct2.cpp.s:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/1.sort/sort_the_struct2.cpp.s
+.PHONY : 1.sort/sort_the_struct2.cpp.s
+
+2.data/data1.o: 2.data/data1.cpp.o
+
+.PHONY : 2.data/data1.o
+
+# target to build an object file
+2.data/data1.cpp.o:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/2.data/data1.cpp.o
+.PHONY : 2.data/data1.cpp.o
+
+2.data/data1.i: 2.data/data1.cpp.i
+
+.PHONY : 2.data/data1.i
+
+# target to preprocess a source file
+2.data/data1.cpp.i:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/2.data/data1.cpp.i
+.PHONY : 2.data/data1.cpp.i
+
+2.data/data1.s: 2.data/data1.cpp.s
+
+.PHONY : 2.data/data1.s
+
+# target to generate assembly for a file
+2.data/data1.cpp.s:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/2.data/data1.cpp.s
+.PHONY : 2.data/data1.cpp.s
+
+2.data/data2.o: 2.data/data2.cpp.o
+
+.PHONY : 2.data/data2.o
+
+# target to build an object file
+2.data/data2.cpp.o:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/2.data/data2.cpp.o
+.PHONY : 2.data/data2.cpp.o
+
+2.data/data2.i: 2.data/data2.cpp.i
+
+.PHONY : 2.data/data2.i
+
+# target to preprocess a source file
+2.data/data2.cpp.i:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/2.data/data2.cpp.i
+.PHONY : 2.data/data2.cpp.i
+
+2.data/data2.s: 2.data/data2.cpp.s
+
+.PHONY : 2.data/data2.s
+
+# target to generate assembly for a file
+2.data/data2.cpp.s:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/2.data/data2.cpp.s
+.PHONY : 2.data/data2.cpp.s
+
+3.Hash/Hash1.o: 3.Hash/Hash1.cpp.o
+
+.PHONY : 3.Hash/Hash1.o
+
+# target to build an object file
+3.Hash/Hash1.cpp.o:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/3.Hash/Hash1.cpp.o
+.PHONY : 3.Hash/Hash1.cpp.o
+
+3.Hash/Hash1.i: 3.Hash/Hash1.cpp.i
+
+.PHONY : 3.Hash/Hash1.i
+
+# target to preprocess a source file
+3.Hash/Hash1.cpp.i:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/3.Hash/Hash1.cpp.i
+.PHONY : 3.Hash/Hash1.cpp.i
+
+3.Hash/Hash1.s: 3.Hash/Hash1.cpp.s
+
+.PHONY : 3.Hash/Hash1.s
+
+# target to generate assembly for a file
+3.Hash/Hash1.cpp.s:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/3.Hash/Hash1.cpp.s
+.PHONY : 3.Hash/Hash1.cpp.s
+
+3.Hash/Hash2.o: 3.Hash/Hash2.cpp.o
+
+.PHONY : 3.Hash/Hash2.o
+
+# target to build an object file
+3.Hash/Hash2.cpp.o:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/3.Hash/Hash2.cpp.o
+.PHONY : 3.Hash/Hash2.cpp.o
+
+3.Hash/Hash2.i: 3.Hash/Hash2.cpp.i
+
+.PHONY : 3.Hash/Hash2.i
+
+# target to preprocess a source file
+3.Hash/Hash2.cpp.i:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/3.Hash/Hash2.cpp.i
+.PHONY : 3.Hash/Hash2.cpp.i
+
+3.Hash/Hash2.s: 3.Hash/Hash2.cpp.s
+
+.PHONY : 3.Hash/Hash2.s
+
+# target to generate assembly for a file
+3.Hash/Hash2.cpp.s:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/3.Hash/Hash2.cpp.s
+.PHONY : 3.Hash/Hash2.cpp.s
+
+5.search/BinarySearch.o: 5.search/BinarySearch.cpp.o
+
+.PHONY : 5.search/BinarySearch.o
+
+# target to build an object file
+5.search/BinarySearch.cpp.o:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/5.search/BinarySearch.cpp.o
+.PHONY : 5.search/BinarySearch.cpp.o
+
+5.search/BinarySearch.i: 5.search/BinarySearch.cpp.i
+
+.PHONY : 5.search/BinarySearch.i
+
+# target to preprocess a source file
+5.search/BinarySearch.cpp.i:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/5.search/BinarySearch.cpp.i
+.PHONY : 5.search/BinarySearch.cpp.i
+
+5.search/BinarySearch.s: 5.search/BinarySearch.cpp.s
+
+.PHONY : 5.search/BinarySearch.s
+
+# target to generate assembly for a file
+5.search/BinarySearch.cpp.s:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/5.search/BinarySearch.cpp.s
+.PHONY : 5.search/BinarySearch.cpp.s
+
+6.GreedyAlgorithm/FatMouseTrade.o: 6.GreedyAlgorithm/FatMouseTrade.cpp.o
+
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.o
+
+# target to build an object file
+6.GreedyAlgorithm/FatMouseTrade.cpp.o:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/6.GreedyAlgorithm/FatMouseTrade.cpp.o
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.cpp.o
+
+6.GreedyAlgorithm/FatMouseTrade.i: 6.GreedyAlgorithm/FatMouseTrade.cpp.i
+
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.i
+
+# target to preprocess a source file
+6.GreedyAlgorithm/FatMouseTrade.cpp.i:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/6.GreedyAlgorithm/FatMouseTrade.cpp.i
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.cpp.i
+
+6.GreedyAlgorithm/FatMouseTrade.s: 6.GreedyAlgorithm/FatMouseTrade.cpp.s
+
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.s
+
+# target to generate assembly for a file
+6.GreedyAlgorithm/FatMouseTrade.cpp.s:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/6.GreedyAlgorithm/FatMouseTrade.cpp.s
+.PHONY : 6.GreedyAlgorithm/FatMouseTrade.cpp.s
+
+6.GreedyAlgorithm/Not_AC.o: 6.GreedyAlgorithm/Not_AC.cpp.o
+
+.PHONY : 6.GreedyAlgorithm/Not_AC.o
+
+# target to build an object file
+6.GreedyAlgorithm/Not_AC.cpp.o:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/6.GreedyAlgorithm/Not_AC.cpp.o
+.PHONY : 6.GreedyAlgorithm/Not_AC.cpp.o
+
+6.GreedyAlgorithm/Not_AC.i: 6.GreedyAlgorithm/Not_AC.cpp.i
+
+.PHONY : 6.GreedyAlgorithm/Not_AC.i
+
+# target to preprocess a source file
+6.GreedyAlgorithm/Not_AC.cpp.i:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/6.GreedyAlgorithm/Not_AC.cpp.i
+.PHONY : 6.GreedyAlgorithm/Not_AC.cpp.i
+
+6.GreedyAlgorithm/Not_AC.s: 6.GreedyAlgorithm/Not_AC.cpp.s
+
+.PHONY : 6.GreedyAlgorithm/Not_AC.s
+
+# target to generate assembly for a file
+6.GreedyAlgorithm/Not_AC.cpp.s:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/6.GreedyAlgorithm/Not_AC.cpp.s
+.PHONY : 6.GreedyAlgorithm/Not_AC.cpp.s
 
 Graphmtx.o: Graphmtx.cpp.o
 
@@ -300,8 +661,8 @@ LinkNode.o: LinkNode.cpp.o
 
 # target to build an object file
 LinkNode.cpp.o:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.o
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/LinkNode.cpp.o
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.o
 .PHONY : LinkNode.cpp.o
 
 LinkNode.i: LinkNode.cpp.i
@@ -310,8 +671,8 @@ LinkNode.i: LinkNode.cpp.i
 
 # target to preprocess a source file
 LinkNode.cpp.i:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.i
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/LinkNode.cpp.i
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.i
 .PHONY : LinkNode.cpp.i
 
 LinkNode.s: LinkNode.cpp.s
@@ -320,8 +681,8 @@ LinkNode.s: LinkNode.cpp.s
 
 # target to generate assembly for a file
 LinkNode.cpp.s:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.s
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/LinkNode.cpp.s
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/LinkNode.cpp.s
 .PHONY : LinkNode.cpp.s
 
 LinkedStack.o: LinkedStack.cpp.o
@@ -432,87 +793,6 @@ floyed.cpp.s:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.s
 .PHONY : floyed.cpp.s
 
-sort.o: sort.cpp.o
-
-.PHONY : sort.o
-
-# target to build an object file
-sort.cpp.o:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/sort.cpp.o
-.PHONY : sort.cpp.o
-
-sort.i: sort.cpp.i
-
-.PHONY : sort.i
-
-# target to preprocess a source file
-sort.cpp.i:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/sort.cpp.i
-.PHONY : sort.cpp.i
-
-sort.s: sort.cpp.s
-
-.PHONY : sort.s
-
-# target to generate assembly for a file
-sort.cpp.s:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/sort.cpp.s
-.PHONY : sort.cpp.s
-
-sort_the_struct1.o: sort_the_struct1.cpp.o
-
-.PHONY : sort_the_struct1.o
-
-# target to build an object file
-sort_the_struct1.cpp.o:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.o
-.PHONY : sort_the_struct1.cpp.o
-
-sort_the_struct1.i: sort_the_struct1.cpp.i
-
-.PHONY : sort_the_struct1.i
-
-# target to preprocess a source file
-sort_the_struct1.cpp.i:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.i
-.PHONY : sort_the_struct1.cpp.i
-
-sort_the_struct1.s: sort_the_struct1.cpp.s
-
-.PHONY : sort_the_struct1.s
-
-# target to generate assembly for a file
-sort_the_struct1.cpp.s:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/sort_the_struct1.cpp.s
-.PHONY : sort_the_struct1.cpp.s
-
-sort_the_struct2.o: sort_the_struct2.cpp.o
-
-.PHONY : sort_the_struct2.o
-
-# target to build an object file
-sort_the_struct2.cpp.o:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.o
-.PHONY : sort_the_struct2.cpp.o
-
-sort_the_struct2.i: sort_the_struct2.cpp.i
-
-.PHONY : sort_the_struct2.i
-
-# target to preprocess a source file
-sort_the_struct2.cpp.i:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.i
-.PHONY : sort_the_struct2.cpp.i
-
-sort_the_struct2.s: sort_the_struct2.cpp.s
-
-.PHONY : sort_the_struct2.s
-
-# target to generate assembly for a file
-sort_the_struct2.cpp.s:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/sort_the_struct2.cpp.s
-.PHONY : sort_the_struct2.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -520,20 +800,57 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... sort_the_struct2"
 	@echo "... edit_cache"
-	@echo "... floyed"
-	@echo "... sort_the_struct1"
-	@echo "... Graphmtx"
-	@echo "... sort"
-	@echo "... SeqList"
-	@echo "... LinkedStack"
-	@echo "... BubbleSort"
-	@echo "... Linknode"
 	@echo "... SeqStack"
-	@echo "... BubbleSort.o"
-	@echo "... BubbleSort.i"
-	@echo "... BubbleSort.s"
+	@echo "... Hash1"
+	@echo "... Linknode"
+	@echo "... SeqList"
+	@echo "... sort"
+	@echo "... Not_AC"
+	@echo "... Graphmtx"
+	@echo "... LinkedStack"
+	@echo "... sort_the_struct1"
+	@echo "... floyed"
+	@echo "... sort_the_struct2"
+	@echo "... data1"
+	@echo "... data2"
+	@echo "... Hash2"
+	@echo "... search"
+	@echo "... BubbleSort"
+	@echo "... FatMouseTrade"
+	@echo "... 1.sort/BubbleSort.o"
+	@echo "... 1.sort/BubbleSort.i"
+	@echo "... 1.sort/BubbleSort.s"
+	@echo "... 1.sort/sort.o"
+	@echo "... 1.sort/sort.i"
+	@echo "... 1.sort/sort.s"
+	@echo "... 1.sort/sort_the_struct1.o"
+	@echo "... 1.sort/sort_the_struct1.i"
+	@echo "... 1.sort/sort_the_struct1.s"
+	@echo "... 1.sort/sort_the_struct2.o"
+	@echo "... 1.sort/sort_the_struct2.i"
+	@echo "... 1.sort/sort_the_struct2.s"
+	@echo "... 2.data/data1.o"
+	@echo "... 2.data/data1.i"
+	@echo "... 2.data/data1.s"
+	@echo "... 2.data/data2.o"
+	@echo "... 2.data/data2.i"
+	@echo "... 2.data/data2.s"
+	@echo "... 3.Hash/Hash1.o"
+	@echo "... 3.Hash/Hash1.i"
+	@echo "... 3.Hash/Hash1.s"
+	@echo "... 3.Hash/Hash2.o"
+	@echo "... 3.Hash/Hash2.i"
+	@echo "... 3.Hash/Hash2.s"
+	@echo "... 5.search/BinarySearch.o"
+	@echo "... 5.search/BinarySearch.i"
+	@echo "... 5.search/BinarySearch.s"
+	@echo "... 6.GreedyAlgorithm/FatMouseTrade.o"
+	@echo "... 6.GreedyAlgorithm/FatMouseTrade.i"
+	@echo "... 6.GreedyAlgorithm/FatMouseTrade.s"
+	@echo "... 6.GreedyAlgorithm/Not_AC.o"
+	@echo "... 6.GreedyAlgorithm/Not_AC.i"
+	@echo "... 6.GreedyAlgorithm/Not_AC.s"
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
@@ -552,15 +869,6 @@ help:
 	@echo "... floyed.o"
 	@echo "... floyed.i"
 	@echo "... floyed.s"
-	@echo "... sort.o"
-	@echo "... sort.i"
-	@echo "... sort.s"
-	@echo "... sort_the_struct1.o"
-	@echo "... sort_the_struct1.i"
-	@echo "... sort_the_struct1.s"
-	@echo "... sort_the_struct2.o"
-	@echo "... sort_the_struct2.i"
-	@echo "... sort_the_struct2.s"
 .PHONY : help
 
 
