@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/adnois/CLionProjects/demo/1.sort/BubbleSort.cpp" "/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir/1.sort/BubbleSort.cpp.o"
-  "/home/adnois/CLionProjects/demo/LinkNode.cpp" "/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir/LinkNode.cpp.o"
+  "/home/adnois/CLionProjects/demo/2.Classic_entry/1.sort/BubbleSort.cpp" "/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir/2.Classic_entry/1.sort/BubbleSort.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

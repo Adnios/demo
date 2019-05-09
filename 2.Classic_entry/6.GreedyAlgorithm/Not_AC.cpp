@@ -45,7 +45,7 @@ class program{
 public:
     int startTime;
     int endTime;
-    bool operator <<(const program &A) const{
+    bool operator <(const program &A) const{
         return endTime<A.endTime;
     }
 };
@@ -57,7 +57,13 @@ int main(){
         cin>>program1[i].startTime>>program1[i].endTime;
     }
     sort(program1,program1+n);
-    int ans=0;
-    int
+    int currentTime=0,ans=0;
+    for(int i=0;i<n;i++){
+        if(currentTime<=program1[i].startTime){
+            currentTime=program1[i].endTime;
+            ans++;
+        }
+    }
+    cout<<ans<<endl;
 
 }
