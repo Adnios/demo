@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/adnois/CLionProjects/demo/sort.cpp
+/home/adnois/CLionProjects/demo/2.Classic_entry/1.sort/sort.cpp
 iostream
 -
 algorithm

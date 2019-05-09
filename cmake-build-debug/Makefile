@@ -137,19 +137,6 @@ sort_the_struct2/fast:
 .PHONY : sort_the_struct2/fast
 
 #=============================================================================
-# Target rules for targets named data1
-
-# Build rule for target.
-data1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data1
-.PHONY : data1
-
-# fast build rule for target.
-data1/fast:
-	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
-.PHONY : data1/fast
-
-#=============================================================================
 # Target rules for targets named Linknode
 
 # Build rule for target.
@@ -176,19 +163,6 @@ data2/fast:
 .PHONY : data2/fast
 
 #=============================================================================
-# Target rules for targets named Not_AC
-
-# Build rule for target.
-Not_AC: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Not_AC
-.PHONY : Not_AC
-
-# fast build rule for target.
-Not_AC/fast:
-	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
-.PHONY : Not_AC/fast
-
-#=============================================================================
 # Target rules for targets named Graphmtx
 
 # Build rule for target.
@@ -200,6 +174,19 @@ Graphmtx: cmake_check_build_system
 Graphmtx/fast:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
 .PHONY : Graphmtx/fast
+
+#=============================================================================
+# Target rules for targets named Not_AC
+
+# Build rule for target.
+Not_AC: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Not_AC
+.PHONY : Not_AC
+
+# fast build rule for target.
+Not_AC/fast:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
+.PHONY : Not_AC/fast
 
 #=============================================================================
 # Target rules for targets named sort
@@ -252,6 +239,32 @@ Hash2: cmake_check_build_system
 Hash2/fast:
 	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
 .PHONY : Hash2/fast
+
+#=============================================================================
+# Target rules for targets named data1
+
+# Build rule for target.
+data1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data1
+.PHONY : data1
+
+# fast build rule for target.
+data1/fast:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
+.PHONY : data1/fast
+
+#=============================================================================
+# Target rules for targets named Bracket_Matching_Problem
+
+# Build rule for target.
+Bracket_Matching_Problem: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Bracket_Matching_Problem
+.PHONY : Bracket_Matching_Problem
+
+# fast build rule for target.
+Bracket_Matching_Problem/fast:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
+.PHONY : Bracket_Matching_Problem/fast
 
 #=============================================================================
 # Target rules for targets named search
@@ -628,6 +641,33 @@ LinkedStack/fast:
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp.s
 .PHONY : 2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp.s
 
+3.Data_Structure/1.stack/Bracket_Matching_Problem.o: 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.o
+
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.o
+
+# target to build an object file
+3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.o:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.o
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.o
+
+3.Data_Structure/1.stack/Bracket_Matching_Problem.i: 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.i
+
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.i
+
+# target to preprocess a source file
+3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.i:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.i
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.i
+
+3.Data_Structure/1.stack/Bracket_Matching_Problem.s: 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s
+
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.s
+
+# target to generate assembly for a file
+3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s
+.PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s
+
 Graphmtx.o: Graphmtx.cpp.o
 
 .PHONY : Graphmtx.o
@@ -800,15 +840,16 @@ help:
 	@echo "... edit_cache"
 	@echo "... floyed"
 	@echo "... sort_the_struct2"
-	@echo "... data1"
 	@echo "... Linknode"
 	@echo "... data2"
-	@echo "... Not_AC"
 	@echo "... Graphmtx"
+	@echo "... Not_AC"
 	@echo "... sort"
 	@echo "... Hash1"
 	@echo "... SeqStack"
 	@echo "... Hash2"
+	@echo "... data1"
+	@echo "... Bracket_Matching_Problem"
 	@echo "... search"
 	@echo "... BubbleSort"
 	@echo "... FatMouseTrade"
@@ -848,6 +889,9 @@ help:
 	@echo "... 2.Classic_entry/6.GreedyAlgorithm/Not_AC.o"
 	@echo "... 2.Classic_entry/6.GreedyAlgorithm/Not_AC.i"
 	@echo "... 2.Classic_entry/6.GreedyAlgorithm/Not_AC.s"
+	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.o"
+	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.i"
+	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.s"
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
