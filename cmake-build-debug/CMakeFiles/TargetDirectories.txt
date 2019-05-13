@@ -4,6 +4,8 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/data2.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/LinkedStack.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Graphmtx.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Not_AC.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort.dir
@@ -15,6 +17,5 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/search.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/FatMouseTrade.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct1.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/LinkedStack.dir

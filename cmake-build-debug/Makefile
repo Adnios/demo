@@ -163,6 +163,32 @@ data2/fast:
 .PHONY : data2/fast
 
 #=============================================================================
+# Target rules for targets named LinkedStack
+
+# Build rule for target.
+LinkedStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
+.PHONY : LinkedStack
+
+# fast build rule for target.
+LinkedStack/fast:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
+.PHONY : LinkedStack/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct1
+
+# Build rule for target.
+sort_the_struct1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
+.PHONY : sort_the_struct1
+
+# fast build rule for target.
+sort_the_struct1/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+.PHONY : sort_the_struct1/fast
+
+#=============================================================================
 # Target rules for targets named Graphmtx
 
 # Build rule for target.
@@ -306,6 +332,19 @@ FatMouseTrade/fast:
 .PHONY : FatMouseTrade/fast
 
 #=============================================================================
+# Target rules for targets named Wildcard_Matching
+
+# Build rule for target.
+Wildcard_Matching: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
+.PHONY : Wildcard_Matching
+
+# fast build rule for target.
+Wildcard_Matching/fast:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
+.PHONY : Wildcard_Matching/fast
+
+#=============================================================================
 # Target rules for targets named SeqList
 
 # Build rule for target.
@@ -317,32 +356,6 @@ SeqList: cmake_check_build_system
 SeqList/fast:
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
 .PHONY : SeqList/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct1
-
-# Build rule for target.
-sort_the_struct1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
-.PHONY : sort_the_struct1
-
-# fast build rule for target.
-sort_the_struct1/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-.PHONY : sort_the_struct1/fast
-
-#=============================================================================
-# Target rules for targets named LinkedStack
-
-# Build rule for target.
-LinkedStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
-.PHONY : LinkedStack
-
-# fast build rule for target.
-LinkedStack/fast:
-	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-.PHONY : LinkedStack/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -695,6 +708,33 @@ Graphmtx.cpp.s:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.s
 .PHONY : Graphmtx.cpp.s
 
+LeetCode/44.Wildcard_Matching/Solution.o: LeetCode/44.Wildcard_Matching/Solution.cpp.o
+
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.o
+
+# target to build an object file
+LeetCode/44.Wildcard_Matching/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.o
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.o
+
+LeetCode/44.Wildcard_Matching/Solution.i: LeetCode/44.Wildcard_Matching/Solution.cpp.i
+
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.i
+
+# target to preprocess a source file
+LeetCode/44.Wildcard_Matching/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.i
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.i
+
+LeetCode/44.Wildcard_Matching/Solution.s: LeetCode/44.Wildcard_Matching/Solution.cpp.s
+
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.s
+
+# target to generate assembly for a file
+LeetCode/44.Wildcard_Matching/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
+.PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
+
 LinkNode.o: LinkNode.cpp.o
 
 .PHONY : LinkNode.o
@@ -842,6 +882,8 @@ help:
 	@echo "... sort_the_struct2"
 	@echo "... Linknode"
 	@echo "... data2"
+	@echo "... LinkedStack"
+	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... Not_AC"
 	@echo "... sort"
@@ -853,9 +895,8 @@ help:
 	@echo "... search"
 	@echo "... BubbleSort"
 	@echo "... FatMouseTrade"
+	@echo "... Wildcard_Matching"
 	@echo "... SeqList"
-	@echo "... sort_the_struct1"
-	@echo "... LinkedStack"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -895,6 +936,9 @@ help:
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
+	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
+	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
+	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
 	@echo "... LinkNode.o"
 	@echo "... LinkNode.i"
 	@echo "... LinkNode.s"

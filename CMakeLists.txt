@@ -17,6 +17,8 @@ add_executable(Not_AC 2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp)
 
 add_executable(Bracket_Matching_Problem 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp)
 
+add_executable(Wildcard_Matching LeetCode/44.Wildcard_Matching/Solution.cpp)
+
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
