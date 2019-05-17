@@ -12,6 +12,7 @@
       <config projectName="demo" targetName="search" />
       <config projectName="demo" targetName="LinkedStack" />
       <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
       <config projectName="demo" targetName="Hash2" />
       <config projectName="demo" targetName="Hash1" />
       <config projectName="demo" targetName="Not_AC" />
@@ -30,7 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
@@ -54,26 +55,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/1038. Binary Search Tree to Greater Sum Tree/Solution.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="30" column="2" lean-forward="true" selection-start-line="6" selection-end-line="30" selection-end-column="2" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="50" selection-end-column="2" />
               <folding>
                 <element signature="e#39#58#0" expanded="true" />
               </folding>
@@ -123,12 +115,13 @@
         <option value="$PROJECT_DIR$/3.Data_Structure/1.stack/Calculator.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/1038. Binary Search Tree to Greater Sum Tree/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/44. Wildcard Matching/Solution.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="y" value="25" />
     <option name="width" value="683" />
@@ -142,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,17 +148,10 @@
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="44.Wildcard_Matching" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Wildcard_Matching">
+  <component name="RunManager" selected="Application.UncommonWordsfromTwoSentences">
     <configuration name="Bracket_Matching_Problem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Bracket_Matching_Problem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Bracket_Matching_Problem">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -248,6 +235,11 @@
       </method>
     </configuration>
     <configuration name="SeqStack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="SeqStack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="SeqStack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncommonWordsfromTwoSentences" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="UncommonWordsfromTwoSentences" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="UncommonWordsfromTwoSentences">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -311,6 +303,7 @@
       <item itemvalue="Application.sort" />
       <item itemvalue="Application.sort_the_struct1" />
       <item itemvalue="Application.sort_the_struct2" />
+      <item itemvalue="Application.UncommonWordsfromTwoSentences" />
       <item itemvalue="Application.Wildcard_Matching" />
     </list>
   </component>
@@ -351,7 +344,8 @@
       <workItem from="1557642010920" duration="942000" />
       <workItem from="1557650156577" duration="2382000" />
       <workItem from="1557661549835" duration="911000" />
-      <workItem from="1557754144232" duration="3353000" />
+      <workItem from="1557754144232" duration="3537000" />
+      <workItem from="1558096853063" duration="2216000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -416,11 +410,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557662772454</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="18/5/13/LeetCode/44. Wildcard Matching">
+      <created>1557757923960</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557757923961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48961000" />
+    <option name="totallyTimeSpent" value="51361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,16 +433,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="25" width="683" height="743" extended-state="4" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25984848" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.53846157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32520324" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
@@ -542,7 +543,8 @@
     <MESSAGE value="5/9change the dictionary" />
     <MESSAGE value="括号匹配问题" />
     <MESSAGE value="18/5/12/LeetCode/1038. Binary Search Tree to Greater Sum Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/5/12/LeetCode/1038. Binary Search Tree to Greater Sum Tree" />
+    <MESSAGE value="18/5/13/LeetCode/44. Wildcard Matching" />
+    <option name="LAST_COMMIT_MESSAGE" value="18/5/13/LeetCode/44. Wildcard Matching" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tree.cpp" />
@@ -728,24 +730,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1038. Binary Search Tree to Greater Sum Tree/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
+        <state relative-caret-position="336">
           <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+        <state relative-caret-position="300">
+          <caret line="20" column="100" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp">
+    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="6" selection-end-line="30" selection-end-column="2" />
+        <state relative-caret-position="30">
+          <caret line="798" selection-start-line="798" selection-end-line="798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="50" selection-end-column="2" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>

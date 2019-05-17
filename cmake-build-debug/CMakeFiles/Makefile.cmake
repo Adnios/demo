@@ -47,16 +47,17 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/floyed.dir/DependInfo.cmake"
+  "CMakeFiles/SeqStack.dir/DependInfo.cmake"
   "CMakeFiles/sort_the_struct2.dir/DependInfo.cmake"
   "CMakeFiles/Linknode.dir/DependInfo.cmake"
   "CMakeFiles/data2.dir/DependInfo.cmake"
+  "CMakeFiles/UncommonWordsfromTwoSentences.dir/DependInfo.cmake"
   "CMakeFiles/LinkedStack.dir/DependInfo.cmake"
   "CMakeFiles/sort_the_struct1.dir/DependInfo.cmake"
   "CMakeFiles/Graphmtx.dir/DependInfo.cmake"
   "CMakeFiles/Not_AC.dir/DependInfo.cmake"
   "CMakeFiles/sort.dir/DependInfo.cmake"
   "CMakeFiles/Hash1.dir/DependInfo.cmake"
-  "CMakeFiles/SeqStack.dir/DependInfo.cmake"
   "CMakeFiles/Hash2.dir/DependInfo.cmake"
   "CMakeFiles/data1.dir/DependInfo.cmake"
   "CMakeFiles/Bracket_Matching_Problem.dir/DependInfo.cmake"

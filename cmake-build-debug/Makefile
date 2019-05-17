@@ -124,6 +124,19 @@ floyed/fast:
 .PHONY : floyed/fast
 
 #=============================================================================
+# Target rules for targets named SeqStack
+
+# Build rule for target.
+SeqStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
+.PHONY : SeqStack
+
+# fast build rule for target.
+SeqStack/fast:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
+.PHONY : SeqStack/fast
+
+#=============================================================================
 # Target rules for targets named sort_the_struct2
 
 # Build rule for target.
@@ -161,6 +174,19 @@ data2: cmake_check_build_system
 data2/fast:
 	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
 .PHONY : data2/fast
+
+#=============================================================================
+# Target rules for targets named UncommonWordsfromTwoSentences
+
+# Build rule for target.
+UncommonWordsfromTwoSentences: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 UncommonWordsfromTwoSentences
+.PHONY : UncommonWordsfromTwoSentences
+
+# fast build rule for target.
+UncommonWordsfromTwoSentences/fast:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
+.PHONY : UncommonWordsfromTwoSentences/fast
 
 #=============================================================================
 # Target rules for targets named LinkedStack
@@ -239,19 +265,6 @@ Hash1: cmake_check_build_system
 Hash1/fast:
 	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
 .PHONY : Hash1/fast
-
-#=============================================================================
-# Target rules for targets named SeqStack
-
-# Build rule for target.
-SeqStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
-.PHONY : SeqStack
-
-# fast build rule for target.
-SeqStack/fast:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-.PHONY : SeqStack/fast
 
 #=============================================================================
 # Target rules for targets named Hash2
@@ -735,6 +748,33 @@ LeetCode/44.Wildcard_Matching/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
 
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.o: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
+
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.o
+
+# target to build an object file
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
+
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.i: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.i
+
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.i
+
+# target to preprocess a source file
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.i
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.i
+
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.s: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s
+
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.s
+
+# target to generate assembly for a file
+LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s
+.PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s
+
 LinkNode.o: LinkNode.cpp.o
 
 .PHONY : LinkNode.o
@@ -879,16 +919,17 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... floyed"
+	@echo "... SeqStack"
 	@echo "... sort_the_struct2"
 	@echo "... Linknode"
 	@echo "... data2"
+	@echo "... UncommonWordsfromTwoSentences"
 	@echo "... LinkedStack"
 	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... Not_AC"
 	@echo "... sort"
 	@echo "... Hash1"
-	@echo "... SeqStack"
 	@echo "... Hash2"
 	@echo "... data1"
 	@echo "... Bracket_Matching_Problem"
@@ -939,6 +980,9 @@ help:
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
+	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.o"
+	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.i"
+	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.s"
 	@echo "... LinkNode.o"
 	@echo "... LinkNode.i"
 	@echo "... LinkNode.s"
