@@ -137,6 +137,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named Linknode
+
+# Build rule for target.
+Linknode: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Linknode
+.PHONY : Linknode
+
+# fast build rule for target.
+Linknode/fast:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
+.PHONY : Linknode/fast
+
+#=============================================================================
 # Target rules for targets named sort_the_struct2
 
 # Build rule for target.
@@ -150,17 +163,17 @@ sort_the_struct2/fast:
 .PHONY : sort_the_struct2/fast
 
 #=============================================================================
-# Target rules for targets named Linknode
+# Target rules for targets named CombinationSumIII
 
 # Build rule for target.
-Linknode: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Linknode
-.PHONY : Linknode
+CombinationSumIII: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
+.PHONY : CombinationSumIII
 
 # fast build rule for target.
-Linknode/fast:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-.PHONY : Linknode/fast
+CombinationSumIII/fast:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
+.PHONY : CombinationSumIII/fast
 
 #=============================================================================
 # Target rules for targets named data2
@@ -721,6 +734,33 @@ Graphmtx.cpp.s:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.s
 .PHONY : Graphmtx.cpp.s
 
+LeetCode/216.CombinationSumIII/Solution.o: LeetCode/216.CombinationSumIII/Solution.cpp.o
+
+.PHONY : LeetCode/216.CombinationSumIII/Solution.o
+
+# target to build an object file
+LeetCode/216.CombinationSumIII/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.o
+.PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.o
+
+LeetCode/216.CombinationSumIII/Solution.i: LeetCode/216.CombinationSumIII/Solution.cpp.i
+
+.PHONY : LeetCode/216.CombinationSumIII/Solution.i
+
+# target to preprocess a source file
+LeetCode/216.CombinationSumIII/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.i
+.PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.i
+
+LeetCode/216.CombinationSumIII/Solution.s: LeetCode/216.CombinationSumIII/Solution.cpp.s
+
+.PHONY : LeetCode/216.CombinationSumIII/Solution.s
+
+# target to generate assembly for a file
+LeetCode/216.CombinationSumIII/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.s
+.PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.s
+
 LeetCode/44.Wildcard_Matching/Solution.o: LeetCode/44.Wildcard_Matching/Solution.cpp.o
 
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.o
@@ -920,8 +960,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... floyed"
 	@echo "... SeqStack"
-	@echo "... sort_the_struct2"
 	@echo "... Linknode"
+	@echo "... sort_the_struct2"
+	@echo "... CombinationSumIII"
 	@echo "... data2"
 	@echo "... UncommonWordsfromTwoSentences"
 	@echo "... LinkedStack"
@@ -977,6 +1018,9 @@ help:
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
+	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
+	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
+	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"

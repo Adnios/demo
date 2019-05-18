@@ -19,7 +19,7 @@ add_executable(Bracket_Matching_Problem 3.Data_Structure/1.stack/Bracket_Matchin
 
 add_executable(Wildcard_Matching LeetCode/44.Wildcard_Matching/Solution.cpp)
 add_executable(UncommonWordsfromTwoSentences LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp)
-
+add_executable(CombinationSumIII LeetCode/216.CombinationSumIII/Solution.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
