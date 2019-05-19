@@ -150,6 +150,19 @@ Linknode/fast:
 .PHONY : Linknode/fast
 
 #=============================================================================
+# Target rules for targets named SeqList
+
+# Build rule for target.
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
+
+# fast build rule for target.
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
+
+#=============================================================================
 # Target rules for targets named sort_the_struct2
 
 # Build rule for target.
@@ -252,6 +265,19 @@ Not_AC: cmake_check_build_system
 Not_AC/fast:
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
 .PHONY : Not_AC/fast
+
+#=============================================================================
+# Target rules for targets named PathSum
+
+# Build rule for target.
+PathSum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PathSum
+.PHONY : PathSum
+
+# fast build rule for target.
+PathSum/fast:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
+.PHONY : PathSum/fast
 
 #=============================================================================
 # Target rules for targets named sort
@@ -369,19 +395,6 @@ Wildcard_Matching: cmake_check_build_system
 Wildcard_Matching/fast:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
 .PHONY : Wildcard_Matching/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -734,6 +747,33 @@ Graphmtx.cpp.s:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.s
 .PHONY : Graphmtx.cpp.s
 
+LeetCode/112.PathSum/Solution.o: LeetCode/112.PathSum/Solution.cpp.o
+
+.PHONY : LeetCode/112.PathSum/Solution.o
+
+# target to build an object file
+LeetCode/112.PathSum/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/LeetCode/112.PathSum/Solution.cpp.o
+.PHONY : LeetCode/112.PathSum/Solution.cpp.o
+
+LeetCode/112.PathSum/Solution.i: LeetCode/112.PathSum/Solution.cpp.i
+
+.PHONY : LeetCode/112.PathSum/Solution.i
+
+# target to preprocess a source file
+LeetCode/112.PathSum/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/LeetCode/112.PathSum/Solution.cpp.i
+.PHONY : LeetCode/112.PathSum/Solution.cpp.i
+
+LeetCode/112.PathSum/Solution.s: LeetCode/112.PathSum/Solution.cpp.s
+
+.PHONY : LeetCode/112.PathSum/Solution.s
+
+# target to generate assembly for a file
+LeetCode/112.PathSum/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/LeetCode/112.PathSum/Solution.cpp.s
+.PHONY : LeetCode/112.PathSum/Solution.cpp.s
+
 LeetCode/216.CombinationSumIII/Solution.o: LeetCode/216.CombinationSumIII/Solution.cpp.o
 
 .PHONY : LeetCode/216.CombinationSumIII/Solution.o
@@ -961,6 +1001,7 @@ help:
 	@echo "... floyed"
 	@echo "... SeqStack"
 	@echo "... Linknode"
+	@echo "... SeqList"
 	@echo "... sort_the_struct2"
 	@echo "... CombinationSumIII"
 	@echo "... data2"
@@ -969,6 +1010,7 @@ help:
 	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... Not_AC"
+	@echo "... PathSum"
 	@echo "... sort"
 	@echo "... Hash1"
 	@echo "... Hash2"
@@ -978,7 +1020,6 @@ help:
 	@echo "... BubbleSort"
 	@echo "... FatMouseTrade"
 	@echo "... Wildcard_Matching"
-	@echo "... SeqList"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -1018,6 +1059,9 @@ help:
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
+	@echo "... LeetCode/112.PathSum/Solution.o"
+	@echo "... LeetCode/112.PathSum/Solution.i"
+	@echo "... LeetCode/112.PathSum/Solution.s"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
