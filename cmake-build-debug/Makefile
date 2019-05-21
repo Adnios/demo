@@ -163,17 +163,30 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
-# Target rules for targets named sort_the_struct2
+# Target rules for targets named PathSum
 
 # Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
+PathSum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PathSum
+.PHONY : PathSum
 
 # fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
+PathSum/fast:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
+.PHONY : PathSum/fast
+
+#=============================================================================
+# Target rules for targets named Unique_Binary_Search_Trees
+
+# Build rule for target.
+Unique_Binary_Search_Trees: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Unique_Binary_Search_Trees
+.PHONY : Unique_Binary_Search_Trees
+
+# fast build rule for target.
+Unique_Binary_Search_Trees/fast:
+	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/build
+.PHONY : Unique_Binary_Search_Trees/fast
 
 #=============================================================================
 # Target rules for targets named CombinationSumIII
@@ -187,6 +200,19 @@ CombinationSumIII: cmake_check_build_system
 CombinationSumIII/fast:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
 .PHONY : CombinationSumIII/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
 
 #=============================================================================
 # Target rules for targets named data2
@@ -267,19 +293,6 @@ Not_AC/fast:
 .PHONY : Not_AC/fast
 
 #=============================================================================
-# Target rules for targets named PathSum
-
-# Build rule for target.
-PathSum: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 PathSum
-.PHONY : PathSum
-
-# fast build rule for target.
-PathSum/fast:
-	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
-.PHONY : PathSum/fast
-
-#=============================================================================
 # Target rules for targets named sort
 
 # Build rule for target.
@@ -345,6 +358,19 @@ Bracket_Matching_Problem/fast:
 .PHONY : Bracket_Matching_Problem/fast
 
 #=============================================================================
+# Target rules for targets named Huffman_Tree
+
+# Build rule for target.
+Huffman_Tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Huffman_Tree
+.PHONY : Huffman_Tree
+
+# fast build rule for target.
+Huffman_Tree/fast:
+	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/build
+.PHONY : Huffman_Tree/fast
+
+#=============================================================================
 # Target rules for targets named search
 
 # Build rule for target.
@@ -382,6 +408,19 @@ FatMouseTrade: cmake_check_build_system
 FatMouseTrade/fast:
 	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
 .PHONY : FatMouseTrade/fast
+
+#=============================================================================
+# Target rules for targets named Binary_Tree_Order
+
+# Build rule for target.
+Binary_Tree_Order: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Binary_Tree_Order
+.PHONY : Binary_Tree_Order
+
+# fast build rule for target.
+Binary_Tree_Order/fast:
+	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
+.PHONY : Binary_Tree_Order/fast
 
 #=============================================================================
 # Target rules for targets named Wildcard_Matching
@@ -720,6 +759,60 @@ Wildcard_Matching/fast:
 	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s
 .PHONY : 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.s
 
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.o: 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.o
+
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.o
+
+# target to build an object file
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.o:
+	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.o
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.o
+
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.i: 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.i
+
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.i
+
+# target to preprocess a source file
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.i:
+	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.i
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.i
+
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.s: 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.s
+
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.s
+
+# target to generate assembly for a file
+3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.s:
+	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.s
+.PHONY : 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.s
+
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.o: 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.o
+
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.o
+
+# target to build an object file
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.o:
+	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.o
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.o
+
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.i: 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.i
+
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.i
+
+# target to preprocess a source file
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.i:
+	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.i
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.i
+
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.s: 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s
+
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.s
+
+# target to generate assembly for a file
+3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s:
+	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s
+.PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s
+
 Graphmtx.o: Graphmtx.cpp.o
 
 .PHONY : Graphmtx.o
@@ -854,6 +947,33 @@ LeetCode/884.UncommonWordsfromTwoSentences/Solution.s: LeetCode/884.UncommonWord
 LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s
 .PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.s
+
+LeetCode/96.Unique_Binary_Search_Trees/Solution.o: LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o
+
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.o
+
+# target to build an object file
+LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o
+
+LeetCode/96.Unique_Binary_Search_Trees/Solution.i: LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.i
+
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.i
+
+# target to preprocess a source file
+LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.i
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.i
+
+LeetCode/96.Unique_Binary_Search_Trees/Solution.s: LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s
+
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.s
+
+# target to generate assembly for a file
+LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s
+.PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s
 
 LinkNode.o: LinkNode.cpp.o
 
@@ -1002,23 +1122,26 @@ help:
 	@echo "... SeqStack"
 	@echo "... Linknode"
 	@echo "... SeqList"
-	@echo "... sort_the_struct2"
+	@echo "... PathSum"
+	@echo "... Unique_Binary_Search_Trees"
 	@echo "... CombinationSumIII"
+	@echo "... sort_the_struct2"
 	@echo "... data2"
 	@echo "... UncommonWordsfromTwoSentences"
 	@echo "... LinkedStack"
 	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... Not_AC"
-	@echo "... PathSum"
 	@echo "... sort"
 	@echo "... Hash1"
 	@echo "... Hash2"
 	@echo "... data1"
 	@echo "... Bracket_Matching_Problem"
+	@echo "... Huffman_Tree"
 	@echo "... search"
 	@echo "... BubbleSort"
 	@echo "... FatMouseTrade"
+	@echo "... Binary_Tree_Order"
 	@echo "... Wildcard_Matching"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
@@ -1056,6 +1179,12 @@ help:
 	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.o"
 	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.i"
 	@echo "... 3.Data_Structure/1.stack/Bracket_Matching_Problem.s"
+	@echo "... 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.o"
+	@echo "... 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.i"
+	@echo "... 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.s"
+	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.o"
+	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.i"
+	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.s"
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
@@ -1071,6 +1200,9 @@ help:
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.o"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.i"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.s"
+	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.o"
+	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.i"
+	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.s"
 	@echo "... LinkNode.o"
 	@echo "... LinkNode.i"
 	@echo "... LinkNode.s"

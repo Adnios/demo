@@ -16,11 +16,14 @@ add_executable(FatMouseTrade 2.Classic_entry/6.GreedyAlgorithm/FatMouseTrade.cpp
 add_executable(Not_AC 2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp)
 
 add_executable(Bracket_Matching_Problem 3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp)
+add_executable(Huffman_Tree 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp)
+add_executable(Binary_Tree_Order 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order)
 
 add_executable(Wildcard_Matching LeetCode/44.Wildcard_Matching/Solution.cpp)
 add_executable(UncommonWordsfromTwoSentences LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp)
 add_executable(CombinationSumIII LeetCode/216.CombinationSumIII/Solution.cpp)
 add_executable(PathSum LeetCode/112.PathSum/Solution.cpp)
+add_executable(Unique_Binary_Search_Trees LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
