@@ -3,11 +3,13 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="demo" targetName="sort_the_struct2" />
+      <config projectName="demo" targetName="Another_A+B" />
       <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="Huffman_Tree" />
       <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="search" />
+      <config projectName="demo" targetName="Special_Multiplication" />
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="search" />
       <config projectName="demo" targetName="Hash2" />
       <config projectName="demo" targetName="Hash1" />
       <config projectName="demo" targetName="Wildcard_Matching" />
@@ -35,11 +37,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="18/5/20/LeetCode/938. Range Sum of BST">
-      <change afterPath="$PROJECT_DIR$/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp" afterDir="false" />
+    <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
@@ -69,17 +71,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="93" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
+            <state relative-caret-position="330">
+              <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="e#39#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,14 +137,16 @@
         <option value="$PROJECT_DIR$/LeetCode/112.PathSum/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/938.RangeSumofBST/Solution.cpp" />
         <option value="$PROJECT_DIR$/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp" />
-        <option value="$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/96.Unique_Binary_Search_Trees.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp" />
+        <option value="$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp" />
+        <option value="$PROJECT_DIR$/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="683" />
     <option name="y" value="25" />
     <option name="width" value="683" />
@@ -153,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,78 +171,12 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Data_Structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Data_Structure" type="462c0819:PsiDirectoryNode" />
-              <item name="1.stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Data_Structure" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Binary_Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="44.Wildcard_Matching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="96.Unique_Binary_Search_Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="101. Symmetric Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="112.PathSum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="216.CombinationSumIII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="884.UncommonWordsfromTwoSentences" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="938.RangeSumofBST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="1038. Binary Search Tree to Greater Sum Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="4.Math_Problem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,13 +192,13 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Classic_entry" />
       <recent name="$PROJECT_DIR$/1.sort" />
       <recent name="$PROJECT_DIR$/data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,7 +213,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.Unique_Binary_Search_Trees">
+  <component name="RunManager" selected="CMake Application.Another_A+B">
+    <configuration name="Another_A+B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Another_A+B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Another_A+B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Binary_Tree_Order" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Binary_Tree_Order" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Binary_Tree_Order">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -347,6 +294,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Special_Multiplication" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Special_Multiplication" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Special_Multiplication">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UncommonWordsfromTwoSentences" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="UncommonWordsfromTwoSentences" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="UncommonWordsfromTwoSentences">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -398,6 +350,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.Another_A+B" />
       <item itemvalue="CMake Application.Binary_Tree_Order" />
       <item itemvalue="CMake Application.Bracket_Matching_Problem" />
       <item itemvalue="CMake Application.BubbleSort" />
@@ -423,6 +376,7 @@
       <item itemvalue="CMake Application.sort" />
       <item itemvalue="CMake Application.sort_the_struct1" />
       <item itemvalue="CMake Application.sort_the_struct2" />
+      <item itemvalue="CMake Application.Special_Multiplication" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -469,7 +423,8 @@
       <workItem from="1558339359919" duration="424000" />
       <workItem from="1558339892999" duration="3901000" />
       <workItem from="1558424660105" duration="637000" />
-      <workItem from="1558440291738" duration="405000" />
+      <workItem from="1558440291738" duration="538000" />
+      <workItem from="1558491240240" duration="3026000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -569,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558340856653</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="18/5/21/LeetCode/96.Unique_Binary_Search_Trees">
+      <created>1558440741748</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558440741748</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66186000" />
+    <option name="totallyTimeSpent" value="69345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,10 +547,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="683" y="25" width="683" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24469697" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24803768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -701,7 +663,8 @@
     <MESSAGE value="18/5/18/LeetCode/216. Combination Sum III" />
     <MESSAGE value="18/5/19/LeetCode/112. Path Sum" />
     <MESSAGE value="18/5/20/LeetCode/938. Range Sum of BST" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/5/20/LeetCode/938. Range Sum of BST" />
+    <MESSAGE value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tree.cpp" />
@@ -955,24 +918,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="204">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <element signature="e#80#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="93" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
+        <state relative-caret-position="330">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp">
+    <entry file="file://$PROJECT_DIR$/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

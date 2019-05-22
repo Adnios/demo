@@ -19,6 +19,9 @@ add_executable(Bracket_Matching_Problem 3.Data_Structure/1.stack/Bracket_Matchin
 add_executable(Huffman_Tree 3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp)
 add_executable(Binary_Tree_Order 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order)
 
+add_executable(Special_Multiplication 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp)
+add_executable(Another_A+B 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp)
+
 add_executable(Wildcard_Matching LeetCode/44.Wildcard_Matching/Solution.cpp)
 add_executable(UncommonWordsfromTwoSentences LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp)
 add_executable(CombinationSumIII LeetCode/216.CombinationSumIII/Solution.cpp)

@@ -202,30 +202,17 @@ CombinationSumIII/fast:
 .PHONY : CombinationSumIII/fast
 
 #=============================================================================
-# Target rules for targets named sort_the_struct2
+# Target rules for targets named Wildcard_Matching
 
 # Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
+Wildcard_Matching: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
+.PHONY : Wildcard_Matching
 
 # fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
-
-#=============================================================================
-# Target rules for targets named data2
-
-# Build rule for target.
-data2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data2
-.PHONY : data2
-
-# fast build rule for target.
-data2/fast:
-	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
-.PHONY : data2/fast
+Wildcard_Matching/fast:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
+.PHONY : Wildcard_Matching/fast
 
 #=============================================================================
 # Target rules for targets named UncommonWordsfromTwoSentences
@@ -239,6 +226,19 @@ UncommonWordsfromTwoSentences: cmake_check_build_system
 UncommonWordsfromTwoSentences/fast:
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
 .PHONY : UncommonWordsfromTwoSentences/fast
+
+#=============================================================================
+# Target rules for targets named data2
+
+# Build rule for target.
+data2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data2
+.PHONY : data2
+
+# fast build rule for target.
+data2/fast:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
+.PHONY : data2/fast
 
 #=============================================================================
 # Target rules for targets named LinkedStack
@@ -423,17 +423,43 @@ Binary_Tree_Order/fast:
 .PHONY : Binary_Tree_Order/fast
 
 #=============================================================================
-# Target rules for targets named Wildcard_Matching
+# Target rules for targets named Special_Multiplication
 
 # Build rule for target.
-Wildcard_Matching: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
-.PHONY : Wildcard_Matching
+Special_Multiplication: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Special_Multiplication
+.PHONY : Special_Multiplication
 
 # fast build rule for target.
-Wildcard_Matching/fast:
-	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
-.PHONY : Wildcard_Matching/fast
+Special_Multiplication/fast:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
+.PHONY : Special_Multiplication/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named Another_A+B
+
+# Build rule for target.
+Another_A+B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Another_A+B
+.PHONY : Another_A+B
+
+# fast build rule for target.
+Another_A+B/fast:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
+.PHONY : Another_A+B/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -813,6 +839,60 @@ Wildcard_Matching/fast:
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s
 .PHONY : 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.cpp.s
 
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.o: 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.o
+
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.o
+
+# target to build an object file
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.o:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.o
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.o
+
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.i: 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.i
+
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.i
+
+# target to preprocess a source file
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.i:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.i
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.i
+
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.s: 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.s
+
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.s
+
+# target to generate assembly for a file
+4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.s:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.s
+.PHONY : 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.s
+
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.o: 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o
+
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.o
+
+# target to build an object file
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o
+
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.i: 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.i
+
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.i
+
+# target to preprocess a source file
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.i:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.i
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.i
+
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.s: 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.s
+
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.s
+
+# target to generate assembly for a file
+4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.s:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.s
+.PHONY : 4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.s
+
 Graphmtx.o: Graphmtx.cpp.o
 
 .PHONY : Graphmtx.o
@@ -1125,9 +1205,9 @@ help:
 	@echo "... PathSum"
 	@echo "... Unique_Binary_Search_Trees"
 	@echo "... CombinationSumIII"
-	@echo "... sort_the_struct2"
-	@echo "... data2"
+	@echo "... Wildcard_Matching"
 	@echo "... UncommonWordsfromTwoSentences"
+	@echo "... data2"
 	@echo "... LinkedStack"
 	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
@@ -1142,7 +1222,9 @@ help:
 	@echo "... BubbleSort"
 	@echo "... FatMouseTrade"
 	@echo "... Binary_Tree_Order"
-	@echo "... Wildcard_Matching"
+	@echo "... Special_Multiplication"
+	@echo "... sort_the_struct2"
+	@echo "... Another_A+B"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -1185,6 +1267,12 @@ help:
 	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.o"
 	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.i"
 	@echo "... 3.Data_Structure/3.Binary_Tree/Binary_Tree_Order.s"
+	@echo "... 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.o"
+	@echo "... 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.i"
+	@echo "... 4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.s"
+	@echo "... 4.Math_Problem/3.Number_Conversion/1.Another_A+B.o"
+	@echo "... 4.Math_Problem/3.Number_Conversion/1.Another_A+B.i"
+	@echo "... 4.Math_Problem/3.Number_Conversion/1.Another_A+B.s"
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
