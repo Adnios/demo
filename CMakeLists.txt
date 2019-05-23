@@ -3,6 +3,8 @@ project(demo)
 
 set(CMAKE_CXX_STANDARD 14)
 
+add_executable(test test.cpp)
+
 add_executable(BubbleSort 2.Classic_entry/1.sort/BubbleSort.cpp)
 add_executable(sort 2.Classic_entry/1.sort/sort.cpp)
 add_executable(sort_the_struct1 2.Classic_entry/1.sort/sort_the_struct1.cpp)
@@ -27,6 +29,7 @@ add_executable(UncommonWordsfromTwoSentences LeetCode/884.UncommonWordsfromTwoSe
 add_executable(CombinationSumIII LeetCode/216.CombinationSumIII/Solution.cpp)
 add_executable(PathSum LeetCode/112.PathSum/Solution.cpp)
 add_executable(Unique_Binary_Search_Trees LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp)
+add_executable(162.Find_Peak_Element LeetCode/162.Find_Peak_Element/Solution.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)

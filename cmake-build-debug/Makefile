@@ -163,6 +163,19 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
+# Target rules for targets named 162.Find_Peak_Element
+
+# Build rule for target.
+162.Find_Peak_Element: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 162.Find_Peak_Element
+.PHONY : 162.Find_Peak_Element
+
+# fast build rule for target.
+162.Find_Peak_Element/fast:
+	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/build
+.PHONY : 162.Find_Peak_Element/fast
+
+#=============================================================================
 # Target rules for targets named PathSum
 
 # Build rule for target.
@@ -215,30 +228,30 @@ Wildcard_Matching/fast:
 .PHONY : Wildcard_Matching/fast
 
 #=============================================================================
-# Target rules for targets named UncommonWordsfromTwoSentences
+# Target rules for targets named Another_A+B
 
 # Build rule for target.
-UncommonWordsfromTwoSentences: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 UncommonWordsfromTwoSentences
-.PHONY : UncommonWordsfromTwoSentences
+Another_A+B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Another_A+B
+.PHONY : Another_A+B
 
 # fast build rule for target.
-UncommonWordsfromTwoSentences/fast:
-	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
-.PHONY : UncommonWordsfromTwoSentences/fast
+Another_A+B/fast:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
+.PHONY : Another_A+B/fast
 
 #=============================================================================
-# Target rules for targets named data2
+# Target rules for targets named sort_the_struct2
 
 # Build rule for target.
-data2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data2
-.PHONY : data2
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
 
 # fast build rule for target.
-data2/fast:
-	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
-.PHONY : data2/fast
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
 
 #=============================================================================
 # Target rules for targets named LinkedStack
@@ -304,6 +317,45 @@ sort: cmake_check_build_system
 sort/fast:
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
 .PHONY : sort/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named UncommonWordsfromTwoSentences
+
+# Build rule for target.
+UncommonWordsfromTwoSentences: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 UncommonWordsfromTwoSentences
+.PHONY : UncommonWordsfromTwoSentences
+
+# fast build rule for target.
+UncommonWordsfromTwoSentences/fast:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
+.PHONY : UncommonWordsfromTwoSentences/fast
+
+#=============================================================================
+# Target rules for targets named data2
+
+# Build rule for target.
+data2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data2
+.PHONY : data2
+
+# fast build rule for target.
+data2/fast:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
+.PHONY : data2/fast
 
 #=============================================================================
 # Target rules for targets named Hash1
@@ -434,32 +486,6 @@ Special_Multiplication: cmake_check_build_system
 Special_Multiplication/fast:
 	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
 .PHONY : Special_Multiplication/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct2
-
-# Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
-
-# fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
-
-#=============================================================================
-# Target rules for targets named Another_A+B
-
-# Build rule for target.
-Another_A+B: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Another_A+B
-.PHONY : Another_A+B
-
-# fast build rule for target.
-Another_A+B/fast:
-	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
-.PHONY : Another_A+B/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -947,6 +973,33 @@ LeetCode/112.PathSum/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/LeetCode/112.PathSum/Solution.cpp.s
 .PHONY : LeetCode/112.PathSum/Solution.cpp.s
 
+LeetCode/162.Find_Peak_Element/Solution.o: LeetCode/162.Find_Peak_Element/Solution.cpp.o
+
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.o
+
+# target to build an object file
+LeetCode/162.Find_Peak_Element/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/LeetCode/162.Find_Peak_Element/Solution.cpp.o
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.cpp.o
+
+LeetCode/162.Find_Peak_Element/Solution.i: LeetCode/162.Find_Peak_Element/Solution.cpp.i
+
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.i
+
+# target to preprocess a source file
+LeetCode/162.Find_Peak_Element/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/LeetCode/162.Find_Peak_Element/Solution.cpp.i
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.cpp.i
+
+LeetCode/162.Find_Peak_Element/Solution.s: LeetCode/162.Find_Peak_Element/Solution.cpp.s
+
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.s
+
+# target to generate assembly for a file
+LeetCode/162.Find_Peak_Element/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/LeetCode/162.Find_Peak_Element/Solution.cpp.s
+.PHONY : LeetCode/162.Find_Peak_Element/Solution.cpp.s
+
 LeetCode/216.CombinationSumIII/Solution.o: LeetCode/216.CombinationSumIII/Solution.cpp.o
 
 .PHONY : LeetCode/216.CombinationSumIII/Solution.o
@@ -1190,6 +1243,33 @@ floyed.cpp.s:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.s
 .PHONY : floyed.cpp.s
 
+test.o: test.cpp.o
+
+.PHONY : test.o
+
+# target to build an object file
+test.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.o
+.PHONY : test.cpp.o
+
+test.i: test.cpp.i
+
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.s
+.PHONY : test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1202,17 +1282,21 @@ help:
 	@echo "... SeqStack"
 	@echo "... Linknode"
 	@echo "... SeqList"
+	@echo "... 162.Find_Peak_Element"
 	@echo "... PathSum"
 	@echo "... Unique_Binary_Search_Trees"
 	@echo "... CombinationSumIII"
 	@echo "... Wildcard_Matching"
-	@echo "... UncommonWordsfromTwoSentences"
-	@echo "... data2"
+	@echo "... Another_A+B"
+	@echo "... sort_the_struct2"
 	@echo "... LinkedStack"
 	@echo "... sort_the_struct1"
 	@echo "... Graphmtx"
 	@echo "... Not_AC"
 	@echo "... sort"
+	@echo "... test"
+	@echo "... UncommonWordsfromTwoSentences"
+	@echo "... data2"
 	@echo "... Hash1"
 	@echo "... Hash2"
 	@echo "... data1"
@@ -1223,8 +1307,6 @@ help:
 	@echo "... FatMouseTrade"
 	@echo "... Binary_Tree_Order"
 	@echo "... Special_Multiplication"
-	@echo "... sort_the_struct2"
-	@echo "... Another_A+B"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -1279,6 +1361,9 @@ help:
 	@echo "... LeetCode/112.PathSum/Solution.o"
 	@echo "... LeetCode/112.PathSum/Solution.i"
 	@echo "... LeetCode/112.PathSum/Solution.s"
+	@echo "... LeetCode/162.Find_Peak_Element/Solution.o"
+	@echo "... LeetCode/162.Find_Peak_Element/Solution.i"
+	@echo "... LeetCode/162.Find_Peak_Element/Solution.s"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
@@ -1306,6 +1391,9 @@ help:
 	@echo "... floyed.o"
 	@echo "... floyed.i"
 	@echo "... floyed.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 
