@@ -30,6 +30,7 @@ add_executable(CombinationSumIII LeetCode/216.CombinationSumIII/Solution.cpp)
 add_executable(PathSum LeetCode/112.PathSum/Solution.cpp)
 add_executable(Unique_Binary_Search_Trees LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp)
 add_executable(162.Find_Peak_Element LeetCode/162.Find_Peak_Element/Solution.cpp)
+add_executable(674.Longest_Continuous_Increasing_Subsequence LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)

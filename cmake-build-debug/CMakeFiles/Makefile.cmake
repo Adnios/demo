@@ -57,6 +57,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Unique_Binary_Search_Trees.dir/DependInfo.cmake"
   "CMakeFiles/CombinationSumIII.dir/DependInfo.cmake"
   "CMakeFiles/Wildcard_Matching.dir/DependInfo.cmake"
+  "CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/DependInfo.cmake"
   "CMakeFiles/Another_A+B.dir/DependInfo.cmake"
   "CMakeFiles/sort_the_struct2.dir/DependInfo.cmake"
   "CMakeFiles/LinkedStack.dir/DependInfo.cmake"

@@ -228,6 +228,19 @@ Wildcard_Matching/fast:
 .PHONY : Wildcard_Matching/fast
 
 #=============================================================================
+# Target rules for targets named 674.Longest_Continuous_Increasing_Subsequence
+
+# Build rule for target.
+674.Longest_Continuous_Increasing_Subsequence: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 674.Longest_Continuous_Increasing_Subsequence
+.PHONY : 674.Longest_Continuous_Increasing_Subsequence
+
+# fast build rule for target.
+674.Longest_Continuous_Increasing_Subsequence/fast:
+	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
+.PHONY : 674.Longest_Continuous_Increasing_Subsequence/fast
+
+#=============================================================================
 # Target rules for targets named Another_A+B
 
 # Build rule for target.
@@ -1054,6 +1067,33 @@ LeetCode/44.Wildcard_Matching/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
 
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o: LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.o
+
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o
+
+# target to build an object file
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.o
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.o
+
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i: LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.i
+
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i
+
+# target to preprocess a source file
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.i
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.i
+
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s: LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
+
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s
+
+# target to generate assembly for a file
+LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
+.PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
+
 LeetCode/884.UncommonWordsfromTwoSentences/Solution.o: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
 
 .PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.o
@@ -1287,6 +1327,7 @@ help:
 	@echo "... Unique_Binary_Search_Trees"
 	@echo "... CombinationSumIII"
 	@echo "... Wildcard_Matching"
+	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
 	@echo "... Another_A+B"
 	@echo "... sort_the_struct2"
 	@echo "... LinkedStack"
@@ -1370,6 +1411,9 @@ help:
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
+	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o"
+	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i"
+	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.o"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.i"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.s"
