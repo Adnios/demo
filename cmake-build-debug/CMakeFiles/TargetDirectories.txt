@@ -4,11 +4,13 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqStack.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/704.Binary_Search.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/PathSum.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/CombinationSumIII.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Another_A+B.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct2.dir

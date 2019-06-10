@@ -163,6 +163,19 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
+# Target rules for targets named 704.Binary_Search
+
+# Build rule for target.
+704.Binary_Search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
+.PHONY : 704.Binary_Search
+
+# fast build rule for target.
+704.Binary_Search/fast:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
+.PHONY : 704.Binary_Search/fast
+
+#=============================================================================
 # Target rules for targets named 162.Find_Peak_Element
 
 # Build rule for target.
@@ -226,6 +239,19 @@ Wildcard_Matching: cmake_check_build_system
 Wildcard_Matching/fast:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
 .PHONY : Wildcard_Matching/fast
+
+#=============================================================================
+# Target rules for targets named 35.Search_Insert_Position
+
+# Build rule for target.
+35.Search_Insert_Position: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 35.Search_Insert_Position
+.PHONY : 35.Search_Insert_Position
+
+# fast build rule for target.
+35.Search_Insert_Position/fast:
+	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/build
+.PHONY : 35.Search_Insert_Position/fast
 
 #=============================================================================
 # Target rules for targets named 674.Longest_Continuous_Increasing_Subsequence
@@ -1040,6 +1066,33 @@ LeetCode/216.CombinationSumIII/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.s
 .PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.s
 
+LeetCode/35.Search_Insert_Position/Solution.o: LeetCode/35.Search_Insert_Position/Solution.cpp.o
+
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.o
+
+# target to build an object file
+LeetCode/35.Search_Insert_Position/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/LeetCode/35.Search_Insert_Position/Solution.cpp.o
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.cpp.o
+
+LeetCode/35.Search_Insert_Position/Solution.i: LeetCode/35.Search_Insert_Position/Solution.cpp.i
+
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.i
+
+# target to preprocess a source file
+LeetCode/35.Search_Insert_Position/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/LeetCode/35.Search_Insert_Position/Solution.cpp.i
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.cpp.i
+
+LeetCode/35.Search_Insert_Position/Solution.s: LeetCode/35.Search_Insert_Position/Solution.cpp.s
+
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.s
+
+# target to generate assembly for a file
+LeetCode/35.Search_Insert_Position/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/LeetCode/35.Search_Insert_Position/Solution.cpp.s
+.PHONY : LeetCode/35.Search_Insert_Position/Solution.cpp.s
+
 LeetCode/44.Wildcard_Matching/Solution.o: LeetCode/44.Wildcard_Matching/Solution.cpp.o
 
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.o
@@ -1093,6 +1146,33 @@ LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s: LeetCode/674.
 LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
 .PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
+
+LeetCode/704.Binary_Search/Solution.o: LeetCode/704.Binary_Search/Solution.cpp.o
+
+.PHONY : LeetCode/704.Binary_Search/Solution.o
+
+# target to build an object file
+LeetCode/704.Binary_Search/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/LeetCode/704.Binary_Search/Solution.cpp.o
+.PHONY : LeetCode/704.Binary_Search/Solution.cpp.o
+
+LeetCode/704.Binary_Search/Solution.i: LeetCode/704.Binary_Search/Solution.cpp.i
+
+.PHONY : LeetCode/704.Binary_Search/Solution.i
+
+# target to preprocess a source file
+LeetCode/704.Binary_Search/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/LeetCode/704.Binary_Search/Solution.cpp.i
+.PHONY : LeetCode/704.Binary_Search/Solution.cpp.i
+
+LeetCode/704.Binary_Search/Solution.s: LeetCode/704.Binary_Search/Solution.cpp.s
+
+.PHONY : LeetCode/704.Binary_Search/Solution.s
+
+# target to generate assembly for a file
+LeetCode/704.Binary_Search/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/LeetCode/704.Binary_Search/Solution.cpp.s
+.PHONY : LeetCode/704.Binary_Search/Solution.cpp.s
 
 LeetCode/884.UncommonWordsfromTwoSentences/Solution.o: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
 
@@ -1322,11 +1402,13 @@ help:
 	@echo "... SeqStack"
 	@echo "... Linknode"
 	@echo "... SeqList"
+	@echo "... 704.Binary_Search"
 	@echo "... 162.Find_Peak_Element"
 	@echo "... PathSum"
 	@echo "... Unique_Binary_Search_Trees"
 	@echo "... CombinationSumIII"
 	@echo "... Wildcard_Matching"
+	@echo "... 35.Search_Insert_Position"
 	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
 	@echo "... Another_A+B"
 	@echo "... sort_the_struct2"
@@ -1408,12 +1490,18 @@ help:
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
+	@echo "... LeetCode/35.Search_Insert_Position/Solution.o"
+	@echo "... LeetCode/35.Search_Insert_Position/Solution.i"
+	@echo "... LeetCode/35.Search_Insert_Position/Solution.s"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s"
+	@echo "... LeetCode/704.Binary_Search/Solution.o"
+	@echo "... LeetCode/704.Binary_Search/Solution.i"
+	@echo "... LeetCode/704.Binary_Search/Solution.s"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.o"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.i"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.s"

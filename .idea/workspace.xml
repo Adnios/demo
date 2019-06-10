@@ -2,35 +2,37 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="CombinationSumIII" />
-      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
-      <config projectName="demo" targetName="Hash2" />
-      <config projectName="demo" targetName="Linknode" />
-      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
-      <config projectName="demo" targetName="sort" />
-      <config projectName="demo" targetName="162.Find_Peak_Element" />
-      <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="Special_Multiplication" />
-      <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="Hash1" />
-      <config projectName="demo" targetName="search" />
-      <config projectName="demo" targetName="Binary_Tree_Order" />
       <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="LinkedStack" />
-      <config projectName="demo" targetName="BubbleSort" />
-      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="Special_Multiplication" />
+      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="search" />
+      <config projectName="demo" targetName="Hash2" />
+      <config projectName="demo" targetName="Hash1" />
+      <config projectName="demo" targetName="704.Binary_Search" />
+      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="BubbleSort" />
       <config projectName="demo" targetName="data2" />
       <config projectName="demo" targetName="data1" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="Linknode" />
       <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="Binary_Tree_Order" />
       <config projectName="demo" targetName="SeqList" />
-      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
+      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="sort" />
+      <config projectName="demo" targetName="162.Find_Peak_Element" />
       <config projectName="demo" targetName="PathSum" />
     </generated>
   </component>
@@ -41,7 +43,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/35.Search_Insert_Position/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/704.Binary_Search/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,22 +72,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="194">
+              <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/35.Search_Insert_Position/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
               <folding>
-                <element signature="e#39#58#0" expanded="true" />
+                <element signature="e#40#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,8 +148,11 @@
         <option value="$PROJECT_DIR$/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp" />
         <option value="$PROJECT_DIR$/test.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/162.Find_Peak_Element/Solution.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/92. Reverse Linked List II/Solution.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/704.Binary_Search/Solution.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/35.Search_Insert_Position/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -151,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,14 +187,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode/704.Binary_Search" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -183,13 +202,14 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Classic_entry" />
       <recent name="$PROJECT_DIR$/1.sort" />
       <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode/704.Binary_Search" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -204,13 +224,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.674.Longest_Continuous_Increasing_Subsequence">
+  <component name="RunManager" selected="CMake Application.35.Search_Insert_Position">
     <configuration name="162.Find_Peak_Element" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="162.Find_Peak_Element" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="162.Find_Peak_Element">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="35.Search_Insert_Position" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="35.Search_Insert_Position" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="35.Search_Insert_Position">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="674.Longest_Continuous_Increasing_Subsequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="674.Longest_Continuous_Increasing_Subsequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="674.Longest_Continuous_Increasing_Subsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="704.Binary_Search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="704.Binary_Search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="704.Binary_Search">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -357,7 +387,9 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
+      <item itemvalue="CMake Application.35.Search_Insert_Position" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
+      <item itemvalue="CMake Application.704.Binary_Search" />
       <item itemvalue="CMake Application.Another_A+B" />
       <item itemvalue="CMake Application.Binary_Tree_Order" />
       <item itemvalue="CMake Application.Bracket_Matching_Problem" />
@@ -437,7 +469,9 @@
       <workItem from="1558520096560" duration="1280000" />
       <workItem from="1558578977979" duration="3380000" />
       <workItem from="1558705874022" duration="1295000" />
-      <workItem from="1558785245615" duration="508000" />
+      <workItem from="1558785245615" duration="967000" />
+      <workItem from="1558835287509" duration="818000" />
+      <workItem from="1560147246677" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -558,11 +592,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558707142209</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="18/5/25/LeetCode/92. Reverse Linked List II">
+      <created>1558785832550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558785832551</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75914000" />
+    <option name="totallyTimeSpent" value="78292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -574,25 +615,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="738" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2590909" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26742426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32520324" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32459018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32520324" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32459018" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3273906" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32520324" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.3203252" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3241491" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.31967214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -693,7 +734,8 @@
     <MESSAGE value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
     <MESSAGE value="18/5/22/" />
     <MESSAGE value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
+    <MESSAGE value="18/5/25/LeetCode/92. Reverse Linked List II" />
+    <option name="LAST_COMMIT_MESSAGE" value="18/5/25/LeetCode/92. Reverse Linked List II" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tree.cpp" />
@@ -998,19 +1040,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence.cpp" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/92. Reverse Linked List II/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/704.Binary_Search/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" selection-start-line="6" selection-end-line="26" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/35.Search_Insert_Position/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
           </folding>
         </state>
       </provider>

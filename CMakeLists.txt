@@ -31,6 +31,8 @@ add_executable(PathSum LeetCode/112.PathSum/Solution.cpp)
 add_executable(Unique_Binary_Search_Trees LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp)
 add_executable(162.Find_Peak_Element LeetCode/162.Find_Peak_Element/Solution.cpp)
 add_executable(674.Longest_Continuous_Increasing_Subsequence LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp)
+add_executable(704.Binary_Search LeetCode/704.Binary_Search/Solution.cpp)
+add_executable(35.Search_Insert_Position LeetCode/35.Search_Insert_Position/Solution.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
