@@ -2,38 +2,38 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="69.Sqrtx" />
-      <config projectName="demo" targetName="CombinationSumIII" />
-      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
-      <config projectName="demo" targetName="Hash2" />
-      <config projectName="demo" targetName="Linknode" />
-      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
-      <config projectName="demo" targetName="sort" />
-      <config projectName="demo" targetName="SeqStack" />
-      <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="Special_Multiplication" />
-      <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="Hash1" />
-      <config projectName="demo" targetName="search" />
-      <config projectName="demo" targetName="Binary_Tree_Order" />
-      <config projectName="demo" targetName="data1" />
       <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="LinkedStack" />
-      <config projectName="demo" targetName="BubbleSort" />
-      <config projectName="demo" targetName="FatMouseTrade" />
-      <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="162.Find_Peak_Element" />
-      <config projectName="demo" targetName="Not_AC" />
-      <config projectName="demo" targetName="data2" />
-      <config projectName="demo" targetName="704.Binary_Search" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
       <config projectName="demo" targetName="35.Search_Insert_Position" />
-      <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="Huffman_Tree" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="Special_Multiplication" />
+      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="search" />
+      <config projectName="demo" targetName="Hash2" />
+      <config projectName="demo" targetName="Hash1" />
       <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="704.Binary_Search" />
+      <config projectName="demo" targetName="BubbleSort" />
+      <config projectName="demo" targetName="data2" />
+      <config projectName="demo" targetName="data1" />
+      <config projectName="demo" targetName="Linknode" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="Binary_Tree_Order" />
+      <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="69.Sqrtx" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
+      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="sort" />
+      <config projectName="demo" targetName="162.Find_Peak_Element" />
       <config projectName="demo" targetName="PathSum" />
     </generated>
   </component>
@@ -44,20 +44,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/234.Palindrome_Linked_List/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,17 +63,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="196">
+              <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/234.Palindrome_Linked_List/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="600">
+              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -152,8 +149,9 @@
         <option value="$PROJECT_DIR$/LeetCode/704.Binary_Search/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/35.Search_Insert_Position/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/69.Sqrt(x)/Solution.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/234.Palindrome_Linked_List/Solution.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -171,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +191,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -490,6 +488,7 @@
       <workItem from="1561743509728" duration="77000" />
       <workItem from="1561769945158" duration="3032000" />
       <workItem from="1561774192914" duration="536000" />
+      <workItem from="1561777073587" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -628,7 +627,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84549000" />
+    <option name="totallyTimeSpent" value="85468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +642,7 @@
     <frame x="0" y="25" width="1327" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22794692" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22794692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -658,7 +657,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3273906" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3241491" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.31921825" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.31921825" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1103,17 +1102,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/234.Palindrome_Linked_List/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
         </state>
       </provider>
     </entry>
