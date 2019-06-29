@@ -163,6 +163,19 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
+# Target rules for targets named 69.Sqrtx
+
+# Build rule for target.
+69.Sqrtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 69.Sqrtx
+.PHONY : 69.Sqrtx
+
+# fast build rule for target.
+69.Sqrtx/fast:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
+.PHONY : 69.Sqrtx/fast
+
+#=============================================================================
 # Target rules for targets named 704.Binary_Search
 
 # Build rule for target.
@@ -1147,6 +1160,33 @@ LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
 .PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.s
 
+LeetCode/69.Sqrtx/Solution.o: LeetCode/69.Sqrtx/Solution.cpp.o
+
+.PHONY : LeetCode/69.Sqrtx/Solution.o
+
+# target to build an object file
+LeetCode/69.Sqrtx/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/LeetCode/69.Sqrtx/Solution.cpp.o
+.PHONY : LeetCode/69.Sqrtx/Solution.cpp.o
+
+LeetCode/69.Sqrtx/Solution.i: LeetCode/69.Sqrtx/Solution.cpp.i
+
+.PHONY : LeetCode/69.Sqrtx/Solution.i
+
+# target to preprocess a source file
+LeetCode/69.Sqrtx/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/LeetCode/69.Sqrtx/Solution.cpp.i
+.PHONY : LeetCode/69.Sqrtx/Solution.cpp.i
+
+LeetCode/69.Sqrtx/Solution.s: LeetCode/69.Sqrtx/Solution.cpp.s
+
+.PHONY : LeetCode/69.Sqrtx/Solution.s
+
+# target to generate assembly for a file
+LeetCode/69.Sqrtx/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/LeetCode/69.Sqrtx/Solution.cpp.s
+.PHONY : LeetCode/69.Sqrtx/Solution.cpp.s
+
 LeetCode/704.Binary_Search/Solution.o: LeetCode/704.Binary_Search/Solution.cpp.o
 
 .PHONY : LeetCode/704.Binary_Search/Solution.o
@@ -1402,6 +1442,7 @@ help:
 	@echo "... SeqStack"
 	@echo "... Linknode"
 	@echo "... SeqList"
+	@echo "... 69.Sqrtx"
 	@echo "... 704.Binary_Search"
 	@echo "... 162.Find_Peak_Element"
 	@echo "... PathSum"
@@ -1499,6 +1540,9 @@ help:
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s"
+	@echo "... LeetCode/69.Sqrtx/Solution.o"
+	@echo "... LeetCode/69.Sqrtx/Solution.i"
+	@echo "... LeetCode/69.Sqrtx/Solution.s"
 	@echo "... LeetCode/704.Binary_Search/Solution.o"
 	@echo "... LeetCode/704.Binary_Search/Solution.i"
 	@echo "... LeetCode/704.Binary_Search/Solution.s"
