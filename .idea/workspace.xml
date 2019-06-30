@@ -19,6 +19,7 @@
       <config projectName="demo" targetName="data2" />
       <config projectName="demo" targetName="data1" />
       <config projectName="demo" targetName="Linknode" />
+      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
       <config projectName="demo" targetName="66.PlusOne" />
       <config projectName="demo" targetName="SeqStack" />
       <config projectName="demo" targetName="Bracket_Matching_Problem" />
@@ -45,7 +46,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/66.PlusOne/Solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/172.FactorialTrailingZeroes/Solution.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -76,20 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+            <state relative-caret-position="379">
+              <caret line="37" column="92" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/66.PlusOne/Solution.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/172.FactorialTrailingZeroes/Solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="46" selection-end-column="2" />
-              <folding>
-                <element signature="e#39#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -158,8 +156,9 @@
         <option value="$PROJECT_DIR$/LeetCode/69.Sqrt(x)/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/234.Palindrome_Linked_List/Solution.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/66.PlusOne/Solution.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/172.FactorialTrailingZeroes/Solution.cpp" />
       </list>
     </option>
   </component>
@@ -188,12 +187,6 @@
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="69.Sqrtx" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,8 +230,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.66.PlusOne">
+  <component name="RunManager" selected="CMake Application.172.FactorialTrailingZeroes">
     <configuration name="162.Find_Peak_Element" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="162.Find_Peak_Element" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="162.Find_Peak_Element">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="172.FactorialTrailingZeroes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="172.FactorialTrailingZeroes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="172.FactorialTrailingZeroes">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -410,6 +408,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
+      <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
       <item itemvalue="CMake Application.66.PlusOne" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
@@ -503,7 +502,7 @@
       <workItem from="1561769945158" duration="3032000" />
       <workItem from="1561774192914" duration="536000" />
       <workItem from="1561777073587" duration="919000" />
-      <workItem from="1561857543008" duration="3434000" />
+      <workItem from="1561857543008" duration="8024000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -638,11 +637,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560148473123</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="66.Plus One">
+      <created>1561861272405</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1561861272408</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88902000" />
+    <option name="totallyTimeSpent" value="93492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -775,7 +781,8 @@
     <MESSAGE value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
     <MESSAGE value="18/5/25/LeetCode/92. Reverse Linked List II" />
     <MESSAGE value="18/6/10/LeetCode/35. Search Insert Position王者回归" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/6/10/LeetCode/35. Search Insert Position王者回归" />
+    <MESSAGE value="66.Plus One" />
+    <option name="LAST_COMMIT_MESSAGE" value="66.Plus One" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tree.cpp" />
@@ -1131,20 +1138,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/66.PlusOne/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="46" selection-end-column="2" />
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="37" column="92" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/172.FactorialTrailingZeroes/Solution.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="17" />
         </state>
       </provider>
     </entry>

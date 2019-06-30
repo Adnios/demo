@@ -111,420 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named floyed
+# Target rules for targets named Special_Multiplication
 
 # Build rule for target.
-floyed: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 floyed
-.PHONY : floyed
+Special_Multiplication: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Special_Multiplication
+.PHONY : Special_Multiplication
 
 # fast build rule for target.
-floyed/fast:
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
-.PHONY : floyed/fast
-
-#=============================================================================
-# Target rules for targets named SeqStack
-
-# Build rule for target.
-SeqStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
-.PHONY : SeqStack
-
-# fast build rule for target.
-SeqStack/fast:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-.PHONY : SeqStack/fast
-
-#=============================================================================
-# Target rules for targets named Linknode
-
-# Build rule for target.
-Linknode: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Linknode
-.PHONY : Linknode
-
-# fast build rule for target.
-Linknode/fast:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-.PHONY : Linknode/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
-
-#=============================================================================
-# Target rules for targets named 69.Sqrtx
-
-# Build rule for target.
-69.Sqrtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 69.Sqrtx
-.PHONY : 69.Sqrtx
-
-# fast build rule for target.
-69.Sqrtx/fast:
-	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
-.PHONY : 69.Sqrtx/fast
-
-#=============================================================================
-# Target rules for targets named 66.PlusOne
-
-# Build rule for target.
-66.PlusOne: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 66.PlusOne
-.PHONY : 66.PlusOne
-
-# fast build rule for target.
-66.PlusOne/fast:
-	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/build
-.PHONY : 66.PlusOne/fast
-
-#=============================================================================
-# Target rules for targets named 704.Binary_Search
-
-# Build rule for target.
-704.Binary_Search: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
-.PHONY : 704.Binary_Search
-
-# fast build rule for target.
-704.Binary_Search/fast:
-	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
-.PHONY : 704.Binary_Search/fast
-
-#=============================================================================
-# Target rules for targets named 162.Find_Peak_Element
-
-# Build rule for target.
-162.Find_Peak_Element: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 162.Find_Peak_Element
-.PHONY : 162.Find_Peak_Element
-
-# fast build rule for target.
-162.Find_Peak_Element/fast:
-	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/build
-.PHONY : 162.Find_Peak_Element/fast
-
-#=============================================================================
-# Target rules for targets named PathSum
-
-# Build rule for target.
-PathSum: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 PathSum
-.PHONY : PathSum
-
-# fast build rule for target.
-PathSum/fast:
-	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
-.PHONY : PathSum/fast
-
-#=============================================================================
-# Target rules for targets named Unique_Binary_Search_Trees
-
-# Build rule for target.
-Unique_Binary_Search_Trees: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Unique_Binary_Search_Trees
-.PHONY : Unique_Binary_Search_Trees
-
-# fast build rule for target.
-Unique_Binary_Search_Trees/fast:
-	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/build
-.PHONY : Unique_Binary_Search_Trees/fast
-
-#=============================================================================
-# Target rules for targets named CombinationSumIII
-
-# Build rule for target.
-CombinationSumIII: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
-.PHONY : CombinationSumIII
-
-# fast build rule for target.
-CombinationSumIII/fast:
-	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
-.PHONY : CombinationSumIII/fast
-
-#=============================================================================
-# Target rules for targets named Wildcard_Matching
-
-# Build rule for target.
-Wildcard_Matching: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
-.PHONY : Wildcard_Matching
-
-# fast build rule for target.
-Wildcard_Matching/fast:
-	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
-.PHONY : Wildcard_Matching/fast
-
-#=============================================================================
-# Target rules for targets named 35.Search_Insert_Position
-
-# Build rule for target.
-35.Search_Insert_Position: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 35.Search_Insert_Position
-.PHONY : 35.Search_Insert_Position
-
-# fast build rule for target.
-35.Search_Insert_Position/fast:
-	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/build
-.PHONY : 35.Search_Insert_Position/fast
-
-#=============================================================================
-# Target rules for targets named 674.Longest_Continuous_Increasing_Subsequence
-
-# Build rule for target.
-674.Longest_Continuous_Increasing_Subsequence: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 674.Longest_Continuous_Increasing_Subsequence
-.PHONY : 674.Longest_Continuous_Increasing_Subsequence
-
-# fast build rule for target.
-674.Longest_Continuous_Increasing_Subsequence/fast:
-	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
-.PHONY : 674.Longest_Continuous_Increasing_Subsequence/fast
-
-#=============================================================================
-# Target rules for targets named Another_A+B
-
-# Build rule for target.
-Another_A+B: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Another_A+B
-.PHONY : Another_A+B
-
-# fast build rule for target.
-Another_A+B/fast:
-	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
-.PHONY : Another_A+B/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct2
-
-# Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
-
-# fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
-
-#=============================================================================
-# Target rules for targets named LinkedStack
-
-# Build rule for target.
-LinkedStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
-.PHONY : LinkedStack
-
-# fast build rule for target.
-LinkedStack/fast:
-	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-.PHONY : LinkedStack/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct1
-
-# Build rule for target.
-sort_the_struct1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
-.PHONY : sort_the_struct1
-
-# fast build rule for target.
-sort_the_struct1/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-.PHONY : sort_the_struct1/fast
-
-#=============================================================================
-# Target rules for targets named Graphmtx
-
-# Build rule for target.
-Graphmtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
-.PHONY : Graphmtx
-
-# fast build rule for target.
-Graphmtx/fast:
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-.PHONY : Graphmtx/fast
-
-#=============================================================================
-# Target rules for targets named Not_AC
-
-# Build rule for target.
-Not_AC: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Not_AC
-.PHONY : Not_AC
-
-# fast build rule for target.
-Not_AC/fast:
-	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
-.PHONY : Not_AC/fast
-
-#=============================================================================
-# Target rules for targets named sort
-
-# Build rule for target.
-sort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort
-.PHONY : sort
-
-# fast build rule for target.
-sort/fast:
-	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
-.PHONY : sort/fast
-
-#=============================================================================
-# Target rules for targets named test
-
-# Build rule for target.
-test: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 test
-.PHONY : test
-
-# fast build rule for target.
-test/fast:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-.PHONY : test/fast
-
-#=============================================================================
-# Target rules for targets named UncommonWordsfromTwoSentences
-
-# Build rule for target.
-UncommonWordsfromTwoSentences: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 UncommonWordsfromTwoSentences
-.PHONY : UncommonWordsfromTwoSentences
-
-# fast build rule for target.
-UncommonWordsfromTwoSentences/fast:
-	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
-.PHONY : UncommonWordsfromTwoSentences/fast
-
-#=============================================================================
-# Target rules for targets named data2
-
-# Build rule for target.
-data2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data2
-.PHONY : data2
-
-# fast build rule for target.
-data2/fast:
-	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
-.PHONY : data2/fast
-
-#=============================================================================
-# Target rules for targets named Hash1
-
-# Build rule for target.
-Hash1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Hash1
-.PHONY : Hash1
-
-# fast build rule for target.
-Hash1/fast:
-	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
-.PHONY : Hash1/fast
-
-#=============================================================================
-# Target rules for targets named Hash2
-
-# Build rule for target.
-Hash2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Hash2
-.PHONY : Hash2
-
-# fast build rule for target.
-Hash2/fast:
-	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
-.PHONY : Hash2/fast
-
-#=============================================================================
-# Target rules for targets named data1
-
-# Build rule for target.
-data1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data1
-.PHONY : data1
-
-# fast build rule for target.
-data1/fast:
-	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
-.PHONY : data1/fast
-
-#=============================================================================
-# Target rules for targets named Bracket_Matching_Problem
-
-# Build rule for target.
-Bracket_Matching_Problem: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Bracket_Matching_Problem
-.PHONY : Bracket_Matching_Problem
-
-# fast build rule for target.
-Bracket_Matching_Problem/fast:
-	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
-.PHONY : Bracket_Matching_Problem/fast
-
-#=============================================================================
-# Target rules for targets named Huffman_Tree
-
-# Build rule for target.
-Huffman_Tree: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Huffman_Tree
-.PHONY : Huffman_Tree
-
-# fast build rule for target.
-Huffman_Tree/fast:
-	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/build
-.PHONY : Huffman_Tree/fast
-
-#=============================================================================
-# Target rules for targets named search
-
-# Build rule for target.
-search: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 search
-.PHONY : search
-
-# fast build rule for target.
-search/fast:
-	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
-.PHONY : search/fast
-
-#=============================================================================
-# Target rules for targets named BubbleSort
-
-# Build rule for target.
-BubbleSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
-.PHONY : BubbleSort
-
-# fast build rule for target.
-BubbleSort/fast:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-.PHONY : BubbleSort/fast
-
-#=============================================================================
-# Target rules for targets named FatMouseTrade
-
-# Build rule for target.
-FatMouseTrade: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 FatMouseTrade
-.PHONY : FatMouseTrade
-
-# fast build rule for target.
-FatMouseTrade/fast:
-	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
-.PHONY : FatMouseTrade/fast
+Special_Multiplication/fast:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
+.PHONY : Special_Multiplication/fast
 
 #=============================================================================
 # Target rules for targets named Binary_Tree_Order
@@ -540,17 +137,433 @@ Binary_Tree_Order/fast:
 .PHONY : Binary_Tree_Order/fast
 
 #=============================================================================
-# Target rules for targets named Special_Multiplication
+# Target rules for targets named FatMouseTrade
 
 # Build rule for target.
-Special_Multiplication: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Special_Multiplication
-.PHONY : Special_Multiplication
+FatMouseTrade: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 FatMouseTrade
+.PHONY : FatMouseTrade
 
 # fast build rule for target.
-Special_Multiplication/fast:
-	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
-.PHONY : Special_Multiplication/fast
+FatMouseTrade/fast:
+	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
+.PHONY : FatMouseTrade/fast
+
+#=============================================================================
+# Target rules for targets named BubbleSort
+
+# Build rule for target.
+BubbleSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
+.PHONY : BubbleSort
+
+# fast build rule for target.
+BubbleSort/fast:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
+.PHONY : BubbleSort/fast
+
+#=============================================================================
+# Target rules for targets named Huffman_Tree
+
+# Build rule for target.
+Huffman_Tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Huffman_Tree
+.PHONY : Huffman_Tree
+
+# fast build rule for target.
+Huffman_Tree/fast:
+	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/build
+.PHONY : Huffman_Tree/fast
+
+#=============================================================================
+# Target rules for targets named Bracket_Matching_Problem
+
+# Build rule for target.
+Bracket_Matching_Problem: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Bracket_Matching_Problem
+.PHONY : Bracket_Matching_Problem
+
+# fast build rule for target.
+Bracket_Matching_Problem/fast:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
+.PHONY : Bracket_Matching_Problem/fast
+
+#=============================================================================
+# Target rules for targets named data1
+
+# Build rule for target.
+data1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data1
+.PHONY : data1
+
+# fast build rule for target.
+data1/fast:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
+.PHONY : data1/fast
+
+#=============================================================================
+# Target rules for targets named UncommonWordsfromTwoSentences
+
+# Build rule for target.
+UncommonWordsfromTwoSentences: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 UncommonWordsfromTwoSentences
+.PHONY : UncommonWordsfromTwoSentences
+
+# fast build rule for target.
+UncommonWordsfromTwoSentences/fast:
+	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
+.PHONY : UncommonWordsfromTwoSentences/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named sort
+
+# Build rule for target.
+sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort
+.PHONY : sort
+
+# fast build rule for target.
+sort/fast:
+	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
+.PHONY : sort/fast
+
+#=============================================================================
+# Target rules for targets named Not_AC
+
+# Build rule for target.
+Not_AC: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Not_AC
+.PHONY : Not_AC
+
+# fast build rule for target.
+Not_AC/fast:
+	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
+.PHONY : Not_AC/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct1
+
+# Build rule for target.
+sort_the_struct1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
+.PHONY : sort_the_struct1
+
+# fast build rule for target.
+sort_the_struct1/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+.PHONY : sort_the_struct1/fast
+
+#=============================================================================
+# Target rules for targets named LinkedStack
+
+# Build rule for target.
+LinkedStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
+.PHONY : LinkedStack
+
+# fast build rule for target.
+LinkedStack/fast:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
+.PHONY : LinkedStack/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named Another_A+B
+
+# Build rule for target.
+Another_A+B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Another_A+B
+.PHONY : Another_A+B
+
+# fast build rule for target.
+Another_A+B/fast:
+	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
+.PHONY : Another_A+B/fast
+
+#=============================================================================
+# Target rules for targets named 674.Longest_Continuous_Increasing_Subsequence
+
+# Build rule for target.
+674.Longest_Continuous_Increasing_Subsequence: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 674.Longest_Continuous_Increasing_Subsequence
+.PHONY : 674.Longest_Continuous_Increasing_Subsequence
+
+# fast build rule for target.
+674.Longest_Continuous_Increasing_Subsequence/fast:
+	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
+.PHONY : 674.Longest_Continuous_Increasing_Subsequence/fast
+
+#=============================================================================
+# Target rules for targets named 35.Search_Insert_Position
+
+# Build rule for target.
+35.Search_Insert_Position: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 35.Search_Insert_Position
+.PHONY : 35.Search_Insert_Position
+
+# fast build rule for target.
+35.Search_Insert_Position/fast:
+	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/build
+.PHONY : 35.Search_Insert_Position/fast
+
+#=============================================================================
+# Target rules for targets named Hash1
+
+# Build rule for target.
+Hash1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash1
+.PHONY : Hash1
+
+# fast build rule for target.
+Hash1/fast:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
+.PHONY : Hash1/fast
+
+#=============================================================================
+# Target rules for targets named Wildcard_Matching
+
+# Build rule for target.
+Wildcard_Matching: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
+.PHONY : Wildcard_Matching
+
+# fast build rule for target.
+Wildcard_Matching/fast:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
+.PHONY : Wildcard_Matching/fast
+
+#=============================================================================
+# Target rules for targets named 172.FactorialTrailingZeroes
+
+# Build rule for target.
+172.FactorialTrailingZeroes: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 172.FactorialTrailingZeroes
+.PHONY : 172.FactorialTrailingZeroes
+
+# fast build rule for target.
+172.FactorialTrailingZeroes/fast:
+	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/build
+.PHONY : 172.FactorialTrailingZeroes/fast
+
+#=============================================================================
+# Target rules for targets named Unique_Binary_Search_Trees
+
+# Build rule for target.
+Unique_Binary_Search_Trees: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Unique_Binary_Search_Trees
+.PHONY : Unique_Binary_Search_Trees
+
+# fast build rule for target.
+Unique_Binary_Search_Trees/fast:
+	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/build
+.PHONY : Unique_Binary_Search_Trees/fast
+
+#=============================================================================
+# Target rules for targets named PathSum
+
+# Build rule for target.
+PathSum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PathSum
+.PHONY : PathSum
+
+# fast build rule for target.
+PathSum/fast:
+	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
+.PHONY : PathSum/fast
+
+#=============================================================================
+# Target rules for targets named 162.Find_Peak_Element
+
+# Build rule for target.
+162.Find_Peak_Element: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 162.Find_Peak_Element
+.PHONY : 162.Find_Peak_Element
+
+# fast build rule for target.
+162.Find_Peak_Element/fast:
+	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/build
+.PHONY : 162.Find_Peak_Element/fast
+
+#=============================================================================
+# Target rules for targets named search
+
+# Build rule for target.
+search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 search
+.PHONY : search
+
+# fast build rule for target.
+search/fast:
+	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
+.PHONY : search/fast
+
+#=============================================================================
+# Target rules for targets named 66.PlusOne
+
+# Build rule for target.
+66.PlusOne: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 66.PlusOne
+.PHONY : 66.PlusOne
+
+# fast build rule for target.
+66.PlusOne/fast:
+	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/build
+.PHONY : 66.PlusOne/fast
+
+#=============================================================================
+# Target rules for targets named data2
+
+# Build rule for target.
+data2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data2
+.PHONY : data2
+
+# fast build rule for target.
+data2/fast:
+	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
+.PHONY : data2/fast
+
+#=============================================================================
+# Target rules for targets named 69.Sqrtx
+
+# Build rule for target.
+69.Sqrtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 69.Sqrtx
+.PHONY : 69.Sqrtx
+
+# fast build rule for target.
+69.Sqrtx/fast:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
+.PHONY : 69.Sqrtx/fast
+
+#=============================================================================
+# Target rules for targets named Hash2
+
+# Build rule for target.
+Hash2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash2
+.PHONY : Hash2
+
+# fast build rule for target.
+Hash2/fast:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
+.PHONY : Hash2/fast
+
+#=============================================================================
+# Target rules for targets named SeqList
+
+# Build rule for target.
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
+
+# fast build rule for target.
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
+
+#=============================================================================
+# Target rules for targets named Linknode
+
+# Build rule for target.
+Linknode: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Linknode
+.PHONY : Linknode
+
+# fast build rule for target.
+Linknode/fast:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
+.PHONY : Linknode/fast
+
+#=============================================================================
+# Target rules for targets named SeqStack
+
+# Build rule for target.
+SeqStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
+.PHONY : SeqStack
+
+# fast build rule for target.
+SeqStack/fast:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
+.PHONY : SeqStack/fast
+
+#=============================================================================
+# Target rules for targets named floyed
+
+# Build rule for target.
+floyed: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 floyed
+.PHONY : floyed
+
+# fast build rule for target.
+floyed/fast:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+.PHONY : floyed/fast
+
+#=============================================================================
+# Target rules for targets named Graphmtx
+
+# Build rule for target.
+Graphmtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
+.PHONY : Graphmtx
+
+# fast build rule for target.
+Graphmtx/fast:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
+.PHONY : Graphmtx/fast
+
+#=============================================================================
+# Target rules for targets named CombinationSumIII
+
+# Build rule for target.
+CombinationSumIII: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
+.PHONY : CombinationSumIII
+
+# fast build rule for target.
+CombinationSumIII/fast:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
+.PHONY : CombinationSumIII/fast
+
+#=============================================================================
+# Target rules for targets named 704.Binary_Search
+
+# Build rule for target.
+704.Binary_Search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
+.PHONY : 704.Binary_Search
+
+# fast build rule for target.
+704.Binary_Search/fast:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
+.PHONY : 704.Binary_Search/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -1065,6 +1078,33 @@ LeetCode/162.Find_Peak_Element/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/LeetCode/162.Find_Peak_Element/Solution.cpp.s
 .PHONY : LeetCode/162.Find_Peak_Element/Solution.cpp.s
 
+LeetCode/172.FactorialTrailingZeroes/Solution.o: LeetCode/172.FactorialTrailingZeroes/Solution.cpp.o
+
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.o
+
+# target to build an object file
+LeetCode/172.FactorialTrailingZeroes/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/LeetCode/172.FactorialTrailingZeroes/Solution.cpp.o
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.cpp.o
+
+LeetCode/172.FactorialTrailingZeroes/Solution.i: LeetCode/172.FactorialTrailingZeroes/Solution.cpp.i
+
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.i
+
+# target to preprocess a source file
+LeetCode/172.FactorialTrailingZeroes/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/LeetCode/172.FactorialTrailingZeroes/Solution.cpp.i
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.cpp.i
+
+LeetCode/172.FactorialTrailingZeroes/Solution.s: LeetCode/172.FactorialTrailingZeroes/Solution.cpp.s
+
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.s
+
+# target to generate assembly for a file
+LeetCode/172.FactorialTrailingZeroes/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/LeetCode/172.FactorialTrailingZeroes/Solution.cpp.s
+.PHONY : LeetCode/172.FactorialTrailingZeroes/Solution.cpp.s
+
 LeetCode/216.CombinationSumIII/Solution.o: LeetCode/216.CombinationSumIII/Solution.cpp.o
 
 .PHONY : LeetCode/216.CombinationSumIII/Solution.o
@@ -1476,42 +1516,43 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
-	@echo "... edit_cache"
-	@echo "... floyed"
-	@echo "... SeqStack"
-	@echo "... Linknode"
-	@echo "... SeqList"
-	@echo "... 69.Sqrtx"
-	@echo "... 66.PlusOne"
-	@echo "... 704.Binary_Search"
-	@echo "... 162.Find_Peak_Element"
-	@echo "... PathSum"
-	@echo "... Unique_Binary_Search_Trees"
-	@echo "... CombinationSumIII"
-	@echo "... Wildcard_Matching"
-	@echo "... 35.Search_Insert_Position"
-	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
-	@echo "... Another_A+B"
-	@echo "... sort_the_struct2"
-	@echo "... LinkedStack"
-	@echo "... sort_the_struct1"
-	@echo "... Graphmtx"
-	@echo "... Not_AC"
-	@echo "... sort"
-	@echo "... test"
-	@echo "... UncommonWordsfromTwoSentences"
-	@echo "... data2"
-	@echo "... Hash1"
-	@echo "... Hash2"
-	@echo "... data1"
-	@echo "... Bracket_Matching_Problem"
-	@echo "... Huffman_Tree"
-	@echo "... search"
-	@echo "... BubbleSort"
-	@echo "... FatMouseTrade"
-	@echo "... Binary_Tree_Order"
 	@echo "... Special_Multiplication"
+	@echo "... Binary_Tree_Order"
+	@echo "... FatMouseTrade"
+	@echo "... BubbleSort"
+	@echo "... Huffman_Tree"
+	@echo "... Bracket_Matching_Problem"
+	@echo "... data1"
+	@echo "... UncommonWordsfromTwoSentences"
+	@echo "... test"
+	@echo "... sort"
+	@echo "... Not_AC"
+	@echo "... sort_the_struct1"
+	@echo "... LinkedStack"
+	@echo "... sort_the_struct2"
+	@echo "... Another_A+B"
+	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
+	@echo "... 35.Search_Insert_Position"
+	@echo "... Hash1"
+	@echo "... Wildcard_Matching"
+	@echo "... 172.FactorialTrailingZeroes"
+	@echo "... Unique_Binary_Search_Trees"
+	@echo "... PathSum"
+	@echo "... 162.Find_Peak_Element"
+	@echo "... rebuild_cache"
+	@echo "... search"
+	@echo "... 66.PlusOne"
+	@echo "... data2"
+	@echo "... 69.Sqrtx"
+	@echo "... Hash2"
+	@echo "... SeqList"
+	@echo "... Linknode"
+	@echo "... SeqStack"
+	@echo "... floyed"
+	@echo "... Graphmtx"
+	@echo "... CombinationSumIII"
+	@echo "... 704.Binary_Search"
+	@echo "... edit_cache"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -1569,6 +1610,9 @@ help:
 	@echo "... LeetCode/162.Find_Peak_Element/Solution.o"
 	@echo "... LeetCode/162.Find_Peak_Element/Solution.i"
 	@echo "... LeetCode/162.Find_Peak_Element/Solution.s"
+	@echo "... LeetCode/172.FactorialTrailingZeroes/Solution.o"
+	@echo "... LeetCode/172.FactorialTrailingZeroes/Solution.i"
+	@echo "... LeetCode/172.FactorialTrailingZeroes/Solution.s"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
