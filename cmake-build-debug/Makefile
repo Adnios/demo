@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/adnois/CLionProjects/demo/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/usr/local/clion-2018.3.4/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/local/clion-2018.3.4/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -410,6 +410,45 @@ PathSum/fast:
 .PHONY : 162.Find_Peak_Element/fast
 
 #=============================================================================
+# Target rules for targets named Graphmtx
+
+# Build rule for target.
+Graphmtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
+.PHONY : Graphmtx
+
+# fast build rule for target.
+Graphmtx/fast:
+	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
+.PHONY : Graphmtx/fast
+
+#=============================================================================
+# Target rules for targets named CombinationSumIII
+
+# Build rule for target.
+CombinationSumIII: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
+.PHONY : CombinationSumIII
+
+# fast build rule for target.
+CombinationSumIII/fast:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
+.PHONY : CombinationSumIII/fast
+
+#=============================================================================
+# Target rules for targets named 704.Binary_Search
+
+# Build rule for target.
+704.Binary_Search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
+.PHONY : 704.Binary_Search
+
+# fast build rule for target.
+704.Binary_Search/fast:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
+.PHONY : 704.Binary_Search/fast
+
+#=============================================================================
 # Target rules for targets named search
 
 # Build rule for target.
@@ -460,6 +499,19 @@ data2/fast:
 69.Sqrtx/fast:
 	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
 .PHONY : 69.Sqrtx/fast
+
+#=============================================================================
+# Target rules for targets named 771.JewelsandStones
+
+# Build rule for target.
+771.JewelsandStones: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 771.JewelsandStones
+.PHONY : 771.JewelsandStones
+
+# fast build rule for target.
+771.JewelsandStones/fast:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
+.PHONY : 771.JewelsandStones/fast
 
 #=============================================================================
 # Target rules for targets named Hash2
@@ -525,45 +577,6 @@ floyed: cmake_check_build_system
 floyed/fast:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
 .PHONY : floyed/fast
-
-#=============================================================================
-# Target rules for targets named Graphmtx
-
-# Build rule for target.
-Graphmtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Graphmtx
-.PHONY : Graphmtx
-
-# fast build rule for target.
-Graphmtx/fast:
-	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-.PHONY : Graphmtx/fast
-
-#=============================================================================
-# Target rules for targets named CombinationSumIII
-
-# Build rule for target.
-CombinationSumIII: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
-.PHONY : CombinationSumIII
-
-# fast build rule for target.
-CombinationSumIII/fast:
-	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
-.PHONY : CombinationSumIII/fast
-
-#=============================================================================
-# Target rules for targets named 704.Binary_Search
-
-# Build rule for target.
-704.Binary_Search: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
-.PHONY : 704.Binary_Search
-
-# fast build rule for target.
-704.Binary_Search/fast:
-	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
-.PHONY : 704.Binary_Search/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -1294,6 +1307,33 @@ LeetCode/704.Binary_Search/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/LeetCode/704.Binary_Search/Solution.cpp.s
 .PHONY : LeetCode/704.Binary_Search/Solution.cpp.s
 
+LeetCode/771.JewelsandStones/Solution.o: LeetCode/771.JewelsandStones/Solution.cpp.o
+
+.PHONY : LeetCode/771.JewelsandStones/Solution.o
+
+# target to build an object file
+LeetCode/771.JewelsandStones/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/LeetCode/771.JewelsandStones/Solution.cpp.o
+.PHONY : LeetCode/771.JewelsandStones/Solution.cpp.o
+
+LeetCode/771.JewelsandStones/Solution.i: LeetCode/771.JewelsandStones/Solution.cpp.i
+
+.PHONY : LeetCode/771.JewelsandStones/Solution.i
+
+# target to preprocess a source file
+LeetCode/771.JewelsandStones/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/LeetCode/771.JewelsandStones/Solution.cpp.i
+.PHONY : LeetCode/771.JewelsandStones/Solution.cpp.i
+
+LeetCode/771.JewelsandStones/Solution.s: LeetCode/771.JewelsandStones/Solution.cpp.s
+
+.PHONY : LeetCode/771.JewelsandStones/Solution.s
+
+# target to generate assembly for a file
+LeetCode/771.JewelsandStones/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/LeetCode/771.JewelsandStones/Solution.cpp.s
+.PHONY : LeetCode/771.JewelsandStones/Solution.cpp.s
+
 LeetCode/884.UncommonWordsfromTwoSentences/Solution.o: LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o
 
 .PHONY : LeetCode/884.UncommonWordsfromTwoSentences/Solution.o
@@ -1539,20 +1579,21 @@ help:
 	@echo "... Unique_Binary_Search_Trees"
 	@echo "... PathSum"
 	@echo "... 162.Find_Peak_Element"
+	@echo "... edit_cache"
+	@echo "... Graphmtx"
+	@echo "... CombinationSumIII"
+	@echo "... 704.Binary_Search"
 	@echo "... rebuild_cache"
 	@echo "... search"
 	@echo "... 66.PlusOne"
 	@echo "... data2"
 	@echo "... 69.Sqrtx"
+	@echo "... 771.JewelsandStones"
 	@echo "... Hash2"
 	@echo "... SeqList"
 	@echo "... Linknode"
 	@echo "... SeqStack"
 	@echo "... floyed"
-	@echo "... Graphmtx"
-	@echo "... CombinationSumIII"
-	@echo "... 704.Binary_Search"
-	@echo "... edit_cache"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -1634,6 +1675,9 @@ help:
 	@echo "... LeetCode/704.Binary_Search/Solution.o"
 	@echo "... LeetCode/704.Binary_Search/Solution.i"
 	@echo "... LeetCode/704.Binary_Search/Solution.s"
+	@echo "... LeetCode/771.JewelsandStones/Solution.o"
+	@echo "... LeetCode/771.JewelsandStones/Solution.i"
+	@echo "... LeetCode/771.JewelsandStones/Solution.s"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.o"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.i"
 	@echo "... LeetCode/884.UncommonWordsfromTwoSentences/Solution.s"

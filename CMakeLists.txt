@@ -36,6 +36,8 @@ add_executable(35.Search_Insert_Position LeetCode/35.Search_Insert_Position/Solu
 add_executable(69.Sqrtx LeetCode/69.Sqrtx/Solution.cpp)
 add_executable(66.PlusOne LeetCode/66.PlusOne/Solution.cpp)
 add_executable(172.FactorialTrailingZeroes LeetCode/172.FactorialTrailingZeroes/Solution.cpp)
+add_executable(771.JewelsandStones LeetCode/771.JewelsandStones/Solution.cpp)
+
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
