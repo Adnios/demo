@@ -176,6 +176,19 @@ SeqList/fast:
 .PHONY : 69.Sqrtx/fast
 
 #=============================================================================
+# Target rules for targets named 66.PlusOne
+
+# Build rule for target.
+66.PlusOne: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 66.PlusOne
+.PHONY : 66.PlusOne
+
+# fast build rule for target.
+66.PlusOne/fast:
+	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/build
+.PHONY : 66.PlusOne/fast
+
+#=============================================================================
 # Target rules for targets named 704.Binary_Search
 
 # Build rule for target.
@@ -1133,6 +1146,33 @@ LeetCode/44.Wildcard_Matching/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
 
+LeetCode/66.PlusOne/Solution.o: LeetCode/66.PlusOne/Solution.cpp.o
+
+.PHONY : LeetCode/66.PlusOne/Solution.o
+
+# target to build an object file
+LeetCode/66.PlusOne/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/LeetCode/66.PlusOne/Solution.cpp.o
+.PHONY : LeetCode/66.PlusOne/Solution.cpp.o
+
+LeetCode/66.PlusOne/Solution.i: LeetCode/66.PlusOne/Solution.cpp.i
+
+.PHONY : LeetCode/66.PlusOne/Solution.i
+
+# target to preprocess a source file
+LeetCode/66.PlusOne/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/LeetCode/66.PlusOne/Solution.cpp.i
+.PHONY : LeetCode/66.PlusOne/Solution.cpp.i
+
+LeetCode/66.PlusOne/Solution.s: LeetCode/66.PlusOne/Solution.cpp.s
+
+.PHONY : LeetCode/66.PlusOne/Solution.s
+
+# target to generate assembly for a file
+LeetCode/66.PlusOne/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/LeetCode/66.PlusOne/Solution.cpp.s
+.PHONY : LeetCode/66.PlusOne/Solution.cpp.s
+
 LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o: LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp.o
 
 .PHONY : LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o
@@ -1443,6 +1483,7 @@ help:
 	@echo "... Linknode"
 	@echo "... SeqList"
 	@echo "... 69.Sqrtx"
+	@echo "... 66.PlusOne"
 	@echo "... 704.Binary_Search"
 	@echo "... 162.Find_Peak_Element"
 	@echo "... PathSum"
@@ -1537,6 +1578,9 @@ help:
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
+	@echo "... LeetCode/66.PlusOne/Solution.o"
+	@echo "... LeetCode/66.PlusOne/Solution.i"
+	@echo "... LeetCode/66.PlusOne/Solution.s"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.o"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.i"
 	@echo "... LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.s"

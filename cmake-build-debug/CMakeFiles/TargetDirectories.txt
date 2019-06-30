@@ -5,6 +5,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/69.Sqrtx.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/66.PlusOne.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/704.Binary_Search.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/PathSum.dir
