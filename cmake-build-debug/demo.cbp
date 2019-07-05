@@ -17,6 +17,144 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="2018-3">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-3"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-3/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-3/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-2">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-2"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-2/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-2/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-1">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-1"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-1/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/2018-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-1/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="Special_Multiplication">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Special_Multiplication" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -1798,6 +1936,15 @@
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/floyed.cpp">
 			<Option target="floyed"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/preparation/tianda/2018-1.cpp">
+			<Option target="2018-1"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/preparation/tianda/2018-2.cpp">
+			<Option target="2018-2"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/preparation/tianda/2018-3.cpp">
+			<Option target="2018-3"/>
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/test.cpp">
 			<Option target="test"/>

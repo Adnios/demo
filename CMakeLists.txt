@@ -45,3 +45,8 @@ add_executable(SeqStack SeqStack.cpp)
 add_executable(LinkedStack LinkedStack.cpp)
 add_executable(Graphmtx Graphmtx.cpp)
 add_executable(floyed floyed.cpp)
+
+
+add_executable(2018-1 preparation/tianda/2018-1.cpp)
+add_executable(2018-2 preparation/tianda/2018-2.cpp)
+add_executable(2018-3 preparation/tianda/2018-3.cpp)

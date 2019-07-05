@@ -111,6 +111,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 2018-3
+
+# Build rule for target.
+2018-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2018-3
+.PHONY : 2018-3
+
+# fast build rule for target.
+2018-3/fast:
+	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/build
+.PHONY : 2018-3/fast
+
+#=============================================================================
+# Target rules for targets named 2018-2
+
+# Build rule for target.
+2018-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2018-2
+.PHONY : 2018-2
+
+# fast build rule for target.
+2018-2/fast:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
+.PHONY : 2018-2/fast
+
+#=============================================================================
+# Target rules for targets named 2018-1
+
+# Build rule for target.
+2018-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2018-1
+.PHONY : 2018-1
+
+# fast build rule for target.
+2018-1/fast:
+	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/build
+.PHONY : 2018-1/fast
+
+#=============================================================================
 # Target rules for targets named Special_Multiplication
 
 # Build rule for target.
@@ -1523,6 +1562,87 @@ floyed.cpp.s:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.s
 .PHONY : floyed.cpp.s
 
+preparation/tianda/2018-1.o: preparation/tianda/2018-1.cpp.o
+
+.PHONY : preparation/tianda/2018-1.o
+
+# target to build an object file
+preparation/tianda/2018-1.cpp.o:
+	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/preparation/tianda/2018-1.cpp.o
+.PHONY : preparation/tianda/2018-1.cpp.o
+
+preparation/tianda/2018-1.i: preparation/tianda/2018-1.cpp.i
+
+.PHONY : preparation/tianda/2018-1.i
+
+# target to preprocess a source file
+preparation/tianda/2018-1.cpp.i:
+	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/preparation/tianda/2018-1.cpp.i
+.PHONY : preparation/tianda/2018-1.cpp.i
+
+preparation/tianda/2018-1.s: preparation/tianda/2018-1.cpp.s
+
+.PHONY : preparation/tianda/2018-1.s
+
+# target to generate assembly for a file
+preparation/tianda/2018-1.cpp.s:
+	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/preparation/tianda/2018-1.cpp.s
+.PHONY : preparation/tianda/2018-1.cpp.s
+
+preparation/tianda/2018-2.o: preparation/tianda/2018-2.cpp.o
+
+.PHONY : preparation/tianda/2018-2.o
+
+# target to build an object file
+preparation/tianda/2018-2.cpp.o:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/preparation/tianda/2018-2.cpp.o
+.PHONY : preparation/tianda/2018-2.cpp.o
+
+preparation/tianda/2018-2.i: preparation/tianda/2018-2.cpp.i
+
+.PHONY : preparation/tianda/2018-2.i
+
+# target to preprocess a source file
+preparation/tianda/2018-2.cpp.i:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/preparation/tianda/2018-2.cpp.i
+.PHONY : preparation/tianda/2018-2.cpp.i
+
+preparation/tianda/2018-2.s: preparation/tianda/2018-2.cpp.s
+
+.PHONY : preparation/tianda/2018-2.s
+
+# target to generate assembly for a file
+preparation/tianda/2018-2.cpp.s:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/preparation/tianda/2018-2.cpp.s
+.PHONY : preparation/tianda/2018-2.cpp.s
+
+preparation/tianda/2018-3.o: preparation/tianda/2018-3.cpp.o
+
+.PHONY : preparation/tianda/2018-3.o
+
+# target to build an object file
+preparation/tianda/2018-3.cpp.o:
+	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/preparation/tianda/2018-3.cpp.o
+.PHONY : preparation/tianda/2018-3.cpp.o
+
+preparation/tianda/2018-3.i: preparation/tianda/2018-3.cpp.i
+
+.PHONY : preparation/tianda/2018-3.i
+
+# target to preprocess a source file
+preparation/tianda/2018-3.cpp.i:
+	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/preparation/tianda/2018-3.cpp.i
+.PHONY : preparation/tianda/2018-3.cpp.i
+
+preparation/tianda/2018-3.s: preparation/tianda/2018-3.cpp.s
+
+.PHONY : preparation/tianda/2018-3.s
+
+# target to generate assembly for a file
+preparation/tianda/2018-3.cpp.s:
+	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/preparation/tianda/2018-3.cpp.s
+.PHONY : preparation/tianda/2018-3.cpp.s
+
 test.o: test.cpp.o
 
 .PHONY : test.o
@@ -1556,6 +1676,9 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... 2018-3"
+	@echo "... 2018-2"
+	@echo "... 2018-1"
 	@echo "... Special_Multiplication"
 	@echo "... Binary_Tree_Order"
 	@echo "... FatMouseTrade"
@@ -1699,6 +1822,15 @@ help:
 	@echo "... floyed.o"
 	@echo "... floyed.i"
 	@echo "... floyed.s"
+	@echo "... preparation/tianda/2018-1.o"
+	@echo "... preparation/tianda/2018-1.i"
+	@echo "... preparation/tianda/2018-1.s"
+	@echo "... preparation/tianda/2018-2.o"
+	@echo "... preparation/tianda/2018-2.i"
+	@echo "... preparation/tianda/2018-2.s"
+	@echo "... preparation/tianda/2018-3.o"
+	@echo "... preparation/tianda/2018-3.i"
+	@echo "... preparation/tianda/2018-3.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
