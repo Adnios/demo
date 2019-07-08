@@ -1,8 +1,12 @@
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1-1.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2-2.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2-1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-3.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Special_Multiplication.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1-2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/FatMouseTrade.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Huffman_Tree.dir

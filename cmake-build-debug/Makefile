@@ -111,6 +111,45 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 1-1
+
+# Build rule for target.
+1-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1-1
+.PHONY : 1-1
+
+# fast build rule for target.
+1-1/fast:
+	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/build
+.PHONY : 1-1/fast
+
+#=============================================================================
+# Target rules for targets named 2-2
+
+# Build rule for target.
+2-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2-2
+.PHONY : 2-2
+
+# fast build rule for target.
+2-2/fast:
+	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/build
+.PHONY : 2-2/fast
+
+#=============================================================================
+# Target rules for targets named 2-1
+
+# Build rule for target.
+2-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2-1
+.PHONY : 2-1
+
+# fast build rule for target.
+2-1/fast:
+	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/build
+.PHONY : 2-1/fast
+
+#=============================================================================
 # Target rules for targets named 2018-3
 
 # Build rule for target.
@@ -174,6 +213,19 @@ Binary_Tree_Order: cmake_check_build_system
 Binary_Tree_Order/fast:
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
 .PHONY : Binary_Tree_Order/fast
+
+#=============================================================================
+# Target rules for targets named 1-2
+
+# Build rule for target.
+1-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1-2
+.PHONY : 1-2
+
+# fast build rule for target.
+1-2/fast:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/build
+.PHONY : 1-2/fast
 
 #=============================================================================
 # Target rules for targets named FatMouseTrade
@@ -1562,6 +1614,114 @@ floyed.cpp.s:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/floyed.cpp.s
 .PHONY : floyed.cpp.s
 
+preparation/bit/1-1.o: preparation/bit/1-1.cpp.o
+
+.PHONY : preparation/bit/1-1.o
+
+# target to build an object file
+preparation/bit/1-1.cpp.o:
+	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/preparation/bit/1-1.cpp.o
+.PHONY : preparation/bit/1-1.cpp.o
+
+preparation/bit/1-1.i: preparation/bit/1-1.cpp.i
+
+.PHONY : preparation/bit/1-1.i
+
+# target to preprocess a source file
+preparation/bit/1-1.cpp.i:
+	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/preparation/bit/1-1.cpp.i
+.PHONY : preparation/bit/1-1.cpp.i
+
+preparation/bit/1-1.s: preparation/bit/1-1.cpp.s
+
+.PHONY : preparation/bit/1-1.s
+
+# target to generate assembly for a file
+preparation/bit/1-1.cpp.s:
+	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/preparation/bit/1-1.cpp.s
+.PHONY : preparation/bit/1-1.cpp.s
+
+preparation/bit/1-2.o: preparation/bit/1-2.cpp.o
+
+.PHONY : preparation/bit/1-2.o
+
+# target to build an object file
+preparation/bit/1-2.cpp.o:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/preparation/bit/1-2.cpp.o
+.PHONY : preparation/bit/1-2.cpp.o
+
+preparation/bit/1-2.i: preparation/bit/1-2.cpp.i
+
+.PHONY : preparation/bit/1-2.i
+
+# target to preprocess a source file
+preparation/bit/1-2.cpp.i:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/preparation/bit/1-2.cpp.i
+.PHONY : preparation/bit/1-2.cpp.i
+
+preparation/bit/1-2.s: preparation/bit/1-2.cpp.s
+
+.PHONY : preparation/bit/1-2.s
+
+# target to generate assembly for a file
+preparation/bit/1-2.cpp.s:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/preparation/bit/1-2.cpp.s
+.PHONY : preparation/bit/1-2.cpp.s
+
+preparation/bit/2-1.o: preparation/bit/2-1.cpp.o
+
+.PHONY : preparation/bit/2-1.o
+
+# target to build an object file
+preparation/bit/2-1.cpp.o:
+	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/preparation/bit/2-1.cpp.o
+.PHONY : preparation/bit/2-1.cpp.o
+
+preparation/bit/2-1.i: preparation/bit/2-1.cpp.i
+
+.PHONY : preparation/bit/2-1.i
+
+# target to preprocess a source file
+preparation/bit/2-1.cpp.i:
+	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/preparation/bit/2-1.cpp.i
+.PHONY : preparation/bit/2-1.cpp.i
+
+preparation/bit/2-1.s: preparation/bit/2-1.cpp.s
+
+.PHONY : preparation/bit/2-1.s
+
+# target to generate assembly for a file
+preparation/bit/2-1.cpp.s:
+	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/preparation/bit/2-1.cpp.s
+.PHONY : preparation/bit/2-1.cpp.s
+
+preparation/bit/2-2.o: preparation/bit/2-2.cpp.o
+
+.PHONY : preparation/bit/2-2.o
+
+# target to build an object file
+preparation/bit/2-2.cpp.o:
+	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/preparation/bit/2-2.cpp.o
+.PHONY : preparation/bit/2-2.cpp.o
+
+preparation/bit/2-2.i: preparation/bit/2-2.cpp.i
+
+.PHONY : preparation/bit/2-2.i
+
+# target to preprocess a source file
+preparation/bit/2-2.cpp.i:
+	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/preparation/bit/2-2.cpp.i
+.PHONY : preparation/bit/2-2.cpp.i
+
+preparation/bit/2-2.s: preparation/bit/2-2.cpp.s
+
+.PHONY : preparation/bit/2-2.s
+
+# target to generate assembly for a file
+preparation/bit/2-2.cpp.s:
+	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/preparation/bit/2-2.cpp.s
+.PHONY : preparation/bit/2-2.cpp.s
+
 preparation/tianda/2018-1.o: preparation/tianda/2018-1.cpp.o
 
 .PHONY : preparation/tianda/2018-1.o
@@ -1676,11 +1836,15 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... 1-1"
+	@echo "... 2-2"
+	@echo "... 2-1"
 	@echo "... 2018-3"
 	@echo "... 2018-2"
 	@echo "... 2018-1"
 	@echo "... Special_Multiplication"
 	@echo "... Binary_Tree_Order"
+	@echo "... 1-2"
 	@echo "... FatMouseTrade"
 	@echo "... BubbleSort"
 	@echo "... Huffman_Tree"
@@ -1822,6 +1986,18 @@ help:
 	@echo "... floyed.o"
 	@echo "... floyed.i"
 	@echo "... floyed.s"
+	@echo "... preparation/bit/1-1.o"
+	@echo "... preparation/bit/1-1.i"
+	@echo "... preparation/bit/1-1.s"
+	@echo "... preparation/bit/1-2.o"
+	@echo "... preparation/bit/1-2.i"
+	@echo "... preparation/bit/1-2.s"
+	@echo "... preparation/bit/2-1.o"
+	@echo "... preparation/bit/2-1.i"
+	@echo "... preparation/bit/2-1.s"
+	@echo "... preparation/bit/2-2.o"
+	@echo "... preparation/bit/2-2.i"
+	@echo "... preparation/bit/2-2.s"
 	@echo "... preparation/tianda/2018-1.o"
 	@echo "... preparation/tianda/2018-1.i"
 	@echo "... preparation/tianda/2018-1.s"

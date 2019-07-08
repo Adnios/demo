@@ -48,11 +48,15 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/1-1.dir/DependInfo.cmake"
+  "CMakeFiles/2-2.dir/DependInfo.cmake"
+  "CMakeFiles/2-1.dir/DependInfo.cmake"
   "CMakeFiles/2018-3.dir/DependInfo.cmake"
   "CMakeFiles/2018-2.dir/DependInfo.cmake"
   "CMakeFiles/2018-1.dir/DependInfo.cmake"
   "CMakeFiles/Special_Multiplication.dir/DependInfo.cmake"
   "CMakeFiles/Binary_Tree_Order.dir/DependInfo.cmake"
+  "CMakeFiles/1-2.dir/DependInfo.cmake"
   "CMakeFiles/FatMouseTrade.dir/DependInfo.cmake"
   "CMakeFiles/BubbleSort.dir/DependInfo.cmake"
   "CMakeFiles/Huffman_Tree.dir/DependInfo.cmake"
