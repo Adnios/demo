@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named 2019-1
+
+# Build rule for target.
+2019-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2019-1
+.PHONY : 2019-1
+
+# fast build rule for target.
+2019-1/fast:
+	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/build
+.PHONY : 2019-1/fast
+
+#=============================================================================
+# Target rules for targets named 2014-1
+
+# Build rule for target.
+2014-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2014-1
+.PHONY : 2014-1
+
+# fast build rule for target.
+2014-1/fast:
+	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/build
+.PHONY : 2014-1/fast
+
+#=============================================================================
 # Target rules for targets named 1-1
 
 # Build rule for target.
@@ -1722,6 +1748,60 @@ preparation/bit/2-2.cpp.s:
 	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/preparation/bit/2-2.cpp.s
 .PHONY : preparation/bit/2-2.cpp.s
 
+preparation/buaa/2014-1.o: preparation/buaa/2014-1.c.o
+
+.PHONY : preparation/buaa/2014-1.o
+
+# target to build an object file
+preparation/buaa/2014-1.c.o:
+	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/preparation/buaa/2014-1.c.o
+.PHONY : preparation/buaa/2014-1.c.o
+
+preparation/buaa/2014-1.i: preparation/buaa/2014-1.c.i
+
+.PHONY : preparation/buaa/2014-1.i
+
+# target to preprocess a source file
+preparation/buaa/2014-1.c.i:
+	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/preparation/buaa/2014-1.c.i
+.PHONY : preparation/buaa/2014-1.c.i
+
+preparation/buaa/2014-1.s: preparation/buaa/2014-1.c.s
+
+.PHONY : preparation/buaa/2014-1.s
+
+# target to generate assembly for a file
+preparation/buaa/2014-1.c.s:
+	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/preparation/buaa/2014-1.c.s
+.PHONY : preparation/buaa/2014-1.c.s
+
+preparation/nju/2019-1.o: preparation/nju/2019-1.cpp.o
+
+.PHONY : preparation/nju/2019-1.o
+
+# target to build an object file
+preparation/nju/2019-1.cpp.o:
+	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/preparation/nju/2019-1.cpp.o
+.PHONY : preparation/nju/2019-1.cpp.o
+
+preparation/nju/2019-1.i: preparation/nju/2019-1.cpp.i
+
+.PHONY : preparation/nju/2019-1.i
+
+# target to preprocess a source file
+preparation/nju/2019-1.cpp.i:
+	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/preparation/nju/2019-1.cpp.i
+.PHONY : preparation/nju/2019-1.cpp.i
+
+preparation/nju/2019-1.s: preparation/nju/2019-1.cpp.s
+
+.PHONY : preparation/nju/2019-1.s
+
+# target to generate assembly for a file
+preparation/nju/2019-1.cpp.s:
+	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/preparation/nju/2019-1.cpp.s
+.PHONY : preparation/nju/2019-1.cpp.s
+
 preparation/tianda/2018-1.o: preparation/tianda/2018-1.cpp.o
 
 .PHONY : preparation/tianda/2018-1.o
@@ -1836,6 +1916,8 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... 2019-1"
+	@echo "... 2014-1"
 	@echo "... 1-1"
 	@echo "... 2-2"
 	@echo "... 2-1"
@@ -1998,6 +2080,12 @@ help:
 	@echo "... preparation/bit/2-2.o"
 	@echo "... preparation/bit/2-2.i"
 	@echo "... preparation/bit/2-2.s"
+	@echo "... preparation/buaa/2014-1.o"
+	@echo "... preparation/buaa/2014-1.i"
+	@echo "... preparation/buaa/2014-1.s"
+	@echo "... preparation/nju/2019-1.o"
+	@echo "... preparation/nju/2019-1.i"
+	@echo "... preparation/nju/2019-1.s"
 	@echo "... preparation/tianda/2018-1.o"
 	@echo "... preparation/tianda/2018-1.i"
 	@echo "... preparation/tianda/2018-1.s"
