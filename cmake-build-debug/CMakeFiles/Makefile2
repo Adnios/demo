@@ -250,6 +250,43 @@ clean: CMakeFiles/2-1.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/tianda2019-1.dir
+
+# All Build rule for target.
+CMakeFiles/tianda2019-1.dir/all:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/depend
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=91,92 "Built target tianda2019-1"
+.PHONY : CMakeFiles/tianda2019-1.dir/all
+
+# Include target in all.
+all: CMakeFiles/tianda2019-1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/tianda2019-1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tianda2019-1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/tianda2019-1.dir/rule
+
+# Convenience name for target.
+tianda2019-1: CMakeFiles/tianda2019-1.dir/rule
+
+.PHONY : tianda2019-1
+
+# clean rule for target.
+CMakeFiles/tianda2019-1.dir/clean:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/clean
+.PHONY : CMakeFiles/tianda2019-1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/tianda2019-1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/2018-3.dir
 
 # All Build rule for target.
@@ -912,6 +949,43 @@ CMakeFiles/sort_the_struct2.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/sort_the_struct2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/tianda2019-2.dir
+
+# All Build rule for target.
+CMakeFiles/tianda2019-2.dir/all:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/depend
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=93,94 "Built target tianda2019-2"
+.PHONY : CMakeFiles/tianda2019-2.dir/all
+
+# Include target in all.
+all: CMakeFiles/tianda2019-2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/tianda2019-2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tianda2019-2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/tianda2019-2.dir/rule
+
+# Convenience name for target.
+tianda2019-2: CMakeFiles/tianda2019-2.dir/rule
+
+.PHONY : tianda2019-2
+
+# clean rule for target.
+CMakeFiles/tianda2019-2.dir/clean:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/clean
+.PHONY : CMakeFiles/tianda2019-2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/tianda2019-2.dir/clean
 
 .PHONY : clean
 

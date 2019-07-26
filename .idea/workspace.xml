@@ -2,51 +2,53 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="1-1" />
-      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
-      <config projectName="demo" targetName="2014-1" />
-      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="sort_the_struct2" />
+      <config projectName="demo" targetName="Another_A+B" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="Huffman_Tree" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="Special_Multiplication" />
+      <config projectName="demo" targetName="771.JewelsandStones" />
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="search" />
       <config projectName="demo" targetName="Hash2" />
       <config projectName="demo" targetName="Hash1" />
-      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
-      <config projectName="demo" targetName="sort" />
-      <config projectName="demo" targetName="69.Sqrtx" />
-      <config projectName="demo" targetName="66.PlusOne" />
-      <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
-      <config projectName="demo" targetName="Special_Multiplication" />
-      <config projectName="demo" targetName="2018-2" />
-      <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="2-1" />
-      <config projectName="demo" targetName="search" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
-      <config projectName="demo" targetName="Binary_Tree_Order" />
-      <config projectName="demo" targetName="data1" />
-      <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="SeqList" />
-      <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="LinkedStack" />
-      <config projectName="demo" targetName="2019-1" />
-      <config projectName="demo" targetName="Linknode" />
-      <config projectName="demo" targetName="FatMouseTrade" />
-      <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="162.Find_Peak_Element" />
-      <config projectName="demo" targetName="Not_AC" />
-      <config projectName="demo" targetName="771.JewelsandStones" />
-      <config projectName="demo" targetName="2-2" />
-      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="704.Binary_Search" />
       <config projectName="demo" targetName="BubbleSort" />
       <config projectName="demo" targetName="data2" />
-      <config projectName="demo" targetName="2018-1" />
-      <config projectName="demo" targetName="Wildcard_Matching" />
-      <config projectName="demo" targetName="2018-3" />
-      <config projectName="demo" targetName="704.Binary_Search" />
-      <config projectName="demo" targetName="PathSum" />
+      <config projectName="demo" targetName="data1" />
+      <config projectName="demo" targetName="Linknode" />
+      <config projectName="demo" targetName="tianda2019-1" />
+      <config projectName="demo" targetName="tianda2019-2" />
+      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
+      <config projectName="demo" targetName="2-1" />
       <config projectName="demo" targetName="1-2" />
+      <config projectName="demo" targetName="1-1" />
+      <config projectName="demo" targetName="66.PlusOne" />
+      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="2-2" />
+      <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="Binary_Tree_Order" />
+      <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="69.Sqrtx" />
+      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
+      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="2018-3" />
+      <config projectName="demo" targetName="2018-1" />
+      <config projectName="demo" targetName="2018-2" />
+      <config projectName="demo" targetName="2019-1" />
+      <config projectName="demo" targetName="2014-1" />
+      <config projectName="demo" targetName="sort" />
+      <config projectName="demo" targetName="162.Find_Peak_Element" />
+      <config projectName="demo" targetName="PathSum" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -56,20 +58,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/preparation/buaa/2014-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/nju/2019-1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/tianda/2019-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/tianda/上机说明.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/tianda/日程-简版.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/tianda/活动重要说明.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -89,17 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="197">
+              <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preparation/nju/2019-1.cpp">
+        <entry file="file://$PROJECT_DIR$/preparation/tianda/2019-2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="105">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="e#39#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sort_the_struct2.cpp" />
-        <option value="$PROJECT_DIR$/data1.cpp" />
         <option value="$PROJECT_DIR$/data/data2.cpp" />
         <option value="$PROJECT_DIR$/3.Hash/hash1.cpp" />
         <option value="$PROJECT_DIR$/1.sort/sort.cpp" />
@@ -175,12 +175,14 @@
         <option value="$PROJECT_DIR$/preparation/bit/1-1.cpp" />
         <option value="$PROJECT_DIR$/preparation/bit/1-2.cpp" />
         <option value="$PROJECT_DIR$/preparation/buaa/2014-1.c" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/preparation/nju/2019-1.cpp" />
+        <option value="$PROJECT_DIR$/preparation/tianda/2019-1.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="660" />
     <option name="y" value="25" />
     <option name="width" value="661" />
@@ -194,7 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,30 +212,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/preparation/buaa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/preparation/tianda" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/preparation/buaa" />
-      <recent name="$PROJECT_DIR$/LeetCode/704.Binary_Search" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Classic_entry" />
       <recent name="$PROJECT_DIR$/1.sort" />
       <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/preparation/tianda" />
+      <recent name="$PROJECT_DIR$/preparation/buaa" />
+      <recent name="$PROJECT_DIR$/LeetCode/704.Binary_Search" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.2019-1">
+  <component name="RunManager" selected="CMake Application.tianda2019-2">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -475,6 +481,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tianda2019-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="tianda2019-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="tianda2019-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tianda2019-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="tianda2019-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="tianda2019-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.1-1" />
       <item itemvalue="CMake Application.1-2" />
@@ -521,6 +537,8 @@
       <item itemvalue="CMake Application.sort_the_struct1" />
       <item itemvalue="CMake Application.sort_the_struct2" />
       <item itemvalue="CMake Application.test" />
+      <item itemvalue="CMake Application.tianda2019-1" />
+      <item itemvalue="CMake Application.tianda2019-2" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -594,7 +612,10 @@
       <workItem from="1562764350441" duration="5077000" />
       <workItem from="1562934377061" duration="3286000" />
       <workItem from="1562980706758" duration="1293000" />
-      <workItem from="1563371313695" duration="314000" />
+      <workItem from="1563371313695" duration="475000" />
+      <workItem from="1563527976308" duration="258000" />
+      <workItem from="1563759379574" duration="898000" />
+      <workItem from="1564125335726" duration="1603000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -764,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562584645373</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="南大机试练习">
+      <created>1563371787592</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1563371787592</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135629000" />
+    <option name="totallyTimeSpent" value="138549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -780,15 +808,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="660" y="25" width="661" height="743" extended-state="4" />
+    <frame x="0" y="25" width="1321" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17803922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16313726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3219512" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3219512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -906,17 +934,10 @@
     <MESSAGE value="771. Jewels and Stones" />
     <MESSAGE value="天大2018机试" />
     <MESSAGE value="北理2018机试" />
-    <option name="LAST_COMMIT_MESSAGE" value="北理2018机试" />
+    <MESSAGE value="南大机试练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="南大机试练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/include/c++/7/bits/stl_stack.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.Data_Structure/1.stack/Calculator.cpp" />
     <entry file="file://$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1219,10 +1240,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/preparation/buaa/405-数组合并.cpp" />
+    <entry file="file://$PROJECT_DIR$/preparation/buaa/2014-1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preparation/bit/1-1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#38#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/preparation/bit/1-2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preparation/bit/2-1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#50#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1233,17 +1282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preparation/bit/2-1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#50#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preparation/buaa/405-数组合并.cpp" />
     <entry file="file://$PROJECT_DIR$/preparation/tianda/2018-1.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1265,34 +1303,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preparation/bit/1-1.cpp">
+    <entry file="file://$PROJECT_DIR$/preparation/nju/2019-1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preparation/buaa/2014-1.c">
+    <entry file="file://$PROJECT_DIR$/preparation/tianda/2019-1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="197">
+          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preparation/nju/2019-1.cpp">
+    <entry file="file://$PROJECT_DIR$/preparation/tianda/2019-2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

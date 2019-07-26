@@ -176,6 +176,19 @@ depend:
 .PHONY : 2-1/fast
 
 #=============================================================================
+# Target rules for targets named tianda2019-1
+
+# Build rule for target.
+tianda2019-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tianda2019-1
+.PHONY : tianda2019-1
+
+# fast build rule for target.
+tianda2019-1/fast:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/build
+.PHONY : tianda2019-1/fast
+
+#=============================================================================
 # Target rules for targets named 2018-3
 
 # Build rule for target.
@@ -408,6 +421,19 @@ sort_the_struct2: cmake_check_build_system
 sort_the_struct2/fast:
 	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
 .PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named tianda2019-2
+
+# Build rule for target.
+tianda2019-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tianda2019-2
+.PHONY : tianda2019-2
+
+# fast build rule for target.
+tianda2019-2/fast:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/build
+.PHONY : tianda2019-2/fast
 
 #=============================================================================
 # Target rules for targets named Another_A+B
@@ -1883,6 +1909,60 @@ preparation/tianda/2018-3.cpp.s:
 	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/preparation/tianda/2018-3.cpp.s
 .PHONY : preparation/tianda/2018-3.cpp.s
 
+preparation/tianda/2019-1.o: preparation/tianda/2019-1.cpp.o
+
+.PHONY : preparation/tianda/2019-1.o
+
+# target to build an object file
+preparation/tianda/2019-1.cpp.o:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/preparation/tianda/2019-1.cpp.o
+.PHONY : preparation/tianda/2019-1.cpp.o
+
+preparation/tianda/2019-1.i: preparation/tianda/2019-1.cpp.i
+
+.PHONY : preparation/tianda/2019-1.i
+
+# target to preprocess a source file
+preparation/tianda/2019-1.cpp.i:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/preparation/tianda/2019-1.cpp.i
+.PHONY : preparation/tianda/2019-1.cpp.i
+
+preparation/tianda/2019-1.s: preparation/tianda/2019-1.cpp.s
+
+.PHONY : preparation/tianda/2019-1.s
+
+# target to generate assembly for a file
+preparation/tianda/2019-1.cpp.s:
+	$(MAKE) -f CMakeFiles/tianda2019-1.dir/build.make CMakeFiles/tianda2019-1.dir/preparation/tianda/2019-1.cpp.s
+.PHONY : preparation/tianda/2019-1.cpp.s
+
+preparation/tianda/2019-2.o: preparation/tianda/2019-2.cpp.o
+
+.PHONY : preparation/tianda/2019-2.o
+
+# target to build an object file
+preparation/tianda/2019-2.cpp.o:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/preparation/tianda/2019-2.cpp.o
+.PHONY : preparation/tianda/2019-2.cpp.o
+
+preparation/tianda/2019-2.i: preparation/tianda/2019-2.cpp.i
+
+.PHONY : preparation/tianda/2019-2.i
+
+# target to preprocess a source file
+preparation/tianda/2019-2.cpp.i:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/preparation/tianda/2019-2.cpp.i
+.PHONY : preparation/tianda/2019-2.cpp.i
+
+preparation/tianda/2019-2.s: preparation/tianda/2019-2.cpp.s
+
+.PHONY : preparation/tianda/2019-2.s
+
+# target to generate assembly for a file
+preparation/tianda/2019-2.cpp.s:
+	$(MAKE) -f CMakeFiles/tianda2019-2.dir/build.make CMakeFiles/tianda2019-2.dir/preparation/tianda/2019-2.cpp.s
+.PHONY : preparation/tianda/2019-2.cpp.s
+
 test.o: test.cpp.o
 
 .PHONY : test.o
@@ -1921,6 +2001,7 @@ help:
 	@echo "... 1-1"
 	@echo "... 2-2"
 	@echo "... 2-1"
+	@echo "... tianda2019-1"
 	@echo "... 2018-3"
 	@echo "... 2018-2"
 	@echo "... 2018-1"
@@ -1939,6 +2020,7 @@ help:
 	@echo "... sort_the_struct1"
 	@echo "... LinkedStack"
 	@echo "... sort_the_struct2"
+	@echo "... tianda2019-2"
 	@echo "... Another_A+B"
 	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
 	@echo "... 35.Search_Insert_Position"
@@ -2095,6 +2177,12 @@ help:
 	@echo "... preparation/tianda/2018-3.o"
 	@echo "... preparation/tianda/2018-3.i"
 	@echo "... preparation/tianda/2018-3.s"
+	@echo "... preparation/tianda/2019-1.o"
+	@echo "... preparation/tianda/2019-1.i"
+	@echo "... preparation/tianda/2019-1.s"
+	@echo "... preparation/tianda/2019-2.o"
+	@echo "... preparation/tianda/2019-2.i"
+	@echo "... preparation/tianda/2019-2.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
