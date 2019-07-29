@@ -2,49 +2,51 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
-      <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="Graphmtx" />
       <config projectName="demo" targetName="Special_Multiplication" />
       <config projectName="demo" targetName="771.JewelsandStones" />
-      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
       <config projectName="demo" targetName="search" />
       <config projectName="demo" targetName="Hash2" />
       <config projectName="demo" targetName="Hash1" />
-      <config projectName="demo" targetName="Wildcard_Matching" />
       <config projectName="demo" targetName="704.Binary_Search" />
-      <config projectName="demo" targetName="BubbleSort" />
       <config projectName="demo" targetName="data2" />
       <config projectName="demo" targetName="data1" />
+      <config projectName="demo" targetName="1-2" />
+      <config projectName="demo" targetName="1-1" />
+      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="2019-1" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="sort_the_struct2" />
+      <config projectName="demo" targetName="Another_A+B" />
+      <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="Huffman_Tree" />
+      <config projectName="demo" targetName="bit2019-1" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="BubbleSort" />
       <config projectName="demo" targetName="Linknode" />
       <config projectName="demo" targetName="tianda2019-1" />
       <config projectName="demo" targetName="tianda2019-2" />
       <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
       <config projectName="demo" targetName="2-1" />
-      <config projectName="demo" targetName="1-2" />
-      <config projectName="demo" targetName="1-1" />
       <config projectName="demo" targetName="66.PlusOne" />
-      <config projectName="demo" targetName="SeqStack" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
       <config projectName="demo" targetName="2-2" />
       <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="FatMouseTrade" />
-      <config projectName="demo" targetName="CombinationSumIII" />
-      <config projectName="demo" targetName="LinkedStack" />
       <config projectName="demo" targetName="Binary_Tree_Order" />
       <config projectName="demo" targetName="SeqList" />
       <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
       <config projectName="demo" targetName="69.Sqrtx" />
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="Not_AC" />
       <config projectName="demo" targetName="2018-3" />
       <config projectName="demo" targetName="2018-1" />
+      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
       <config projectName="demo" targetName="2018-2" />
-      <config projectName="demo" targetName="2019-1" />
       <config projectName="demo" targetName="2014-1" />
       <config projectName="demo" targetName="sort" />
       <config projectName="demo" targetName="162.Find_Peak_Element" />
@@ -58,17 +60,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/preparation/tianda/2019-1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/tianda/上机说明.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/tianda/日程-简版.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/tianda/活动重要说明.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preparation/bit/2019-1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -88,17 +92,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+            <state relative-caret-position="258">
+              <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preparation/tianda/2019-2.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="150">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding>
                 <element signature="e#39#58#0" expanded="true" />
               </folding>
@@ -128,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/data2.cpp" />
-        <option value="$PROJECT_DIR$/3.Hash/hash1.cpp" />
         <option value="$PROJECT_DIR$/1.sort/sort.cpp" />
         <option value="$PROJECT_DIR$/3.Hash/Hash2.cpp" />
         <option value="$PROJECT_DIR$/4.排版题/输出梯形.cpp" />
@@ -177,8 +179,10 @@
         <option value="$PROJECT_DIR$/preparation/buaa/2014-1.c" />
         <option value="$PROJECT_DIR$/preparation/nju/2019-1.cpp" />
         <option value="$PROJECT_DIR$/preparation/tianda/2019-1.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" />
+        <option value="$PROJECT_DIR$/preparation/bit/2019-1.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" />
       </list>
     </option>
   </component>
@@ -206,7 +210,7 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.tianda2019-2">
+  <component name="RunManager" selected="CMake Application.64.Minimum_Path_Sum">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -312,6 +316,11 @@
       </method>
     </configuration>
     <configuration name="35.Search_Insert_Position" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="35.Search_Insert_Position" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="35.Search_Insert_Position">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="64.Minimum_Path_Sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="64.Minimum_Path_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="64.Minimum_Path_Sum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -441,6 +450,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bit2019-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="bit2019-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="bit2019-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="data1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="data1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="data1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -504,6 +518,7 @@
       <item itemvalue="CMake Application.2018-3" />
       <item itemvalue="CMake Application.2019-1" />
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
+      <item itemvalue="CMake Application.64.Minimum_Path_Sum" />
       <item itemvalue="CMake Application.66.PlusOne" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
       <item itemvalue="CMake Application.69.Sqrtx" />
@@ -511,6 +526,7 @@
       <item itemvalue="CMake Application.771.JewelsandStones" />
       <item itemvalue="CMake Application.Another_A+B" />
       <item itemvalue="CMake Application.Binary_Tree_Order" />
+      <item itemvalue="CMake Application.bit2019-1" />
       <item itemvalue="CMake Application.Bracket_Matching_Problem" />
       <item itemvalue="CMake Application.BubbleSort" />
       <item itemvalue="CMake Application.CombinationSumIII" />
@@ -615,7 +631,8 @@
       <workItem from="1563371313695" duration="475000" />
       <workItem from="1563527976308" duration="258000" />
       <workItem from="1563759379574" duration="898000" />
-      <workItem from="1564125335726" duration="1603000" />
+      <workItem from="1564125335726" duration="2680000" />
+      <workItem from="1564367323554" duration="3381000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -792,11 +809,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563371787592</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="天大2019真题">
+      <created>1564129082778</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1564129082781</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138549000" />
+    <option name="totallyTimeSpent" value="143007000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -811,12 +835,12 @@
     <frame x="0" y="25" width="1321" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16313726" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3219512" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3219512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -910,7 +934,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="单链表" />
     <MESSAGE value="顺序栈" />
     <MESSAGE value="链式栈" />
     <MESSAGE value="4/28" />
@@ -935,26 +958,10 @@
     <MESSAGE value="天大2018机试" />
     <MESSAGE value="北理2018机试" />
     <MESSAGE value="南大机试练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="南大机试练习" />
+    <MESSAGE value="天大2019真题" />
+    <option name="LAST_COMMIT_MESSAGE" value="天大2019真题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/44.Wildcard_Matching/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-          <folding>
-            <element signature="e#39#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/1038. Binary Search Tree to Greater Sum Tree/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1317,17 +1324,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preparation/tianda/2019-2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preparation/bit/2019-1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>

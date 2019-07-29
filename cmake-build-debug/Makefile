@@ -137,6 +137,19 @@ depend:
 .PHONY : 2014-1/fast
 
 #=============================================================================
+# Target rules for targets named bit2019-1
+
+# Build rule for target.
+bit2019-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 bit2019-1
+.PHONY : bit2019-1
+
+# fast build rule for target.
+bit2019-1/fast:
+	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/build
+.PHONY : bit2019-1/fast
+
+#=============================================================================
 # Target rules for targets named 1-1
 
 # Build rule for target.
@@ -226,6 +239,19 @@ tianda2019-1/fast:
 2018-1/fast:
 	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/build
 .PHONY : 2018-1/fast
+
+#=============================================================================
+# Target rules for targets named floyed
+
+# Build rule for target.
+floyed: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 floyed
+.PHONY : floyed
+
+# fast build rule for target.
+floyed/fast:
+	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
+.PHONY : floyed/fast
 
 #=============================================================================
 # Target rules for targets named Special_Multiplication
@@ -683,6 +709,19 @@ SeqList/fast:
 .PHONY : SeqList/fast
 
 #=============================================================================
+# Target rules for targets named 64.Minimum_Path_Sum
+
+# Build rule for target.
+64.Minimum_Path_Sum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 64.Minimum_Path_Sum
+.PHONY : 64.Minimum_Path_Sum
+
+# fast build rule for target.
+64.Minimum_Path_Sum/fast:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
+.PHONY : 64.Minimum_Path_Sum/fast
+
+#=============================================================================
 # Target rules for targets named Linknode
 
 # Build rule for target.
@@ -707,19 +746,6 @@ SeqStack: cmake_check_build_system
 SeqStack/fast:
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
 .PHONY : SeqStack/fast
-
-#=============================================================================
-# Target rules for targets named floyed
-
-# Build rule for target.
-floyed: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 floyed
-.PHONY : floyed
-
-# fast build rule for target.
-floyed/fast:
-	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
-.PHONY : floyed/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -1342,6 +1368,33 @@ LeetCode/44.Wildcard_Matching/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
 
+LeetCode/64.Minimum_Path_Sum.o: LeetCode/64.Minimum_Path_Sum.cpp.o
+
+.PHONY : LeetCode/64.Minimum_Path_Sum.o
+
+# target to build an object file
+LeetCode/64.Minimum_Path_Sum.cpp.o:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/LeetCode/64.Minimum_Path_Sum.cpp.o
+.PHONY : LeetCode/64.Minimum_Path_Sum.cpp.o
+
+LeetCode/64.Minimum_Path_Sum.i: LeetCode/64.Minimum_Path_Sum.cpp.i
+
+.PHONY : LeetCode/64.Minimum_Path_Sum.i
+
+# target to preprocess a source file
+LeetCode/64.Minimum_Path_Sum.cpp.i:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/LeetCode/64.Minimum_Path_Sum.cpp.i
+.PHONY : LeetCode/64.Minimum_Path_Sum.cpp.i
+
+LeetCode/64.Minimum_Path_Sum.s: LeetCode/64.Minimum_Path_Sum.cpp.s
+
+.PHONY : LeetCode/64.Minimum_Path_Sum.s
+
+# target to generate assembly for a file
+LeetCode/64.Minimum_Path_Sum.cpp.s:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/LeetCode/64.Minimum_Path_Sum.cpp.s
+.PHONY : LeetCode/64.Minimum_Path_Sum.cpp.s
+
 LeetCode/66.PlusOne/Solution.o: LeetCode/66.PlusOne/Solution.cpp.o
 
 .PHONY : LeetCode/66.PlusOne/Solution.o
@@ -1774,6 +1827,33 @@ preparation/bit/2-2.cpp.s:
 	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/preparation/bit/2-2.cpp.s
 .PHONY : preparation/bit/2-2.cpp.s
 
+preparation/bit/2019-1.o: preparation/bit/2019-1.cpp.o
+
+.PHONY : preparation/bit/2019-1.o
+
+# target to build an object file
+preparation/bit/2019-1.cpp.o:
+	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/preparation/bit/2019-1.cpp.o
+.PHONY : preparation/bit/2019-1.cpp.o
+
+preparation/bit/2019-1.i: preparation/bit/2019-1.cpp.i
+
+.PHONY : preparation/bit/2019-1.i
+
+# target to preprocess a source file
+preparation/bit/2019-1.cpp.i:
+	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/preparation/bit/2019-1.cpp.i
+.PHONY : preparation/bit/2019-1.cpp.i
+
+preparation/bit/2019-1.s: preparation/bit/2019-1.cpp.s
+
+.PHONY : preparation/bit/2019-1.s
+
+# target to generate assembly for a file
+preparation/bit/2019-1.cpp.s:
+	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/preparation/bit/2019-1.cpp.s
+.PHONY : preparation/bit/2019-1.cpp.s
+
 preparation/buaa/2014-1.o: preparation/buaa/2014-1.c.o
 
 .PHONY : preparation/buaa/2014-1.o
@@ -1998,6 +2078,7 @@ help:
 	@echo "... depend"
 	@echo "... 2019-1"
 	@echo "... 2014-1"
+	@echo "... bit2019-1"
 	@echo "... 1-1"
 	@echo "... 2-2"
 	@echo "... 2-1"
@@ -2005,6 +2086,7 @@ help:
 	@echo "... 2018-3"
 	@echo "... 2018-2"
 	@echo "... 2018-1"
+	@echo "... floyed"
 	@echo "... Special_Multiplication"
 	@echo "... Binary_Tree_Order"
 	@echo "... 1-2"
@@ -2042,9 +2124,9 @@ help:
 	@echo "... 771.JewelsandStones"
 	@echo "... Hash2"
 	@echo "... SeqList"
+	@echo "... 64.Minimum_Path_Sum"
 	@echo "... Linknode"
 	@echo "... SeqStack"
-	@echo "... floyed"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -2114,6 +2196,9 @@ help:
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
+	@echo "... LeetCode/64.Minimum_Path_Sum.o"
+	@echo "... LeetCode/64.Minimum_Path_Sum.i"
+	@echo "... LeetCode/64.Minimum_Path_Sum.s"
 	@echo "... LeetCode/66.PlusOne/Solution.o"
 	@echo "... LeetCode/66.PlusOne/Solution.i"
 	@echo "... LeetCode/66.PlusOne/Solution.s"
@@ -2162,6 +2247,9 @@ help:
 	@echo "... preparation/bit/2-2.o"
 	@echo "... preparation/bit/2-2.i"
 	@echo "... preparation/bit/2-2.s"
+	@echo "... preparation/bit/2019-1.o"
+	@echo "... preparation/bit/2019-1.i"
+	@echo "... preparation/bit/2019-1.s"
 	@echo "... preparation/buaa/2014-1.o"
 	@echo "... preparation/buaa/2014-1.i"
 	@echo "... preparation/buaa/2014-1.s"

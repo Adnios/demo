@@ -1,5 +1,6 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2019-1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2014-1.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/bit2019-1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1-1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2-2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2-1.dir
@@ -7,6 +8,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-3.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/2018-1.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/floyed.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Special_Multiplication.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1-2.dir
@@ -44,6 +46,6 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqStack.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/floyed.dir
