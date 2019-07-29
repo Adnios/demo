@@ -78,6 +78,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Another_A+B.dir/DependInfo.cmake"
   "CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/DependInfo.cmake"
   "CMakeFiles/35.Search_Insert_Position.dir/DependInfo.cmake"
+  "CMakeFiles/1025.Divisor_Game.dir/DependInfo.cmake"
   "CMakeFiles/Hash1.dir/DependInfo.cmake"
   "CMakeFiles/Wildcard_Matching.dir/DependInfo.cmake"
   "CMakeFiles/172.FactorialTrailingZeroes.dir/DependInfo.cmake"

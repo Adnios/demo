@@ -501,6 +501,19 @@ Another_A+B/fast:
 .PHONY : 35.Search_Insert_Position/fast
 
 #=============================================================================
+# Target rules for targets named 1025.Divisor_Game
+
+# Build rule for target.
+1025.Divisor_Game: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1025.Divisor_Game
+.PHONY : 1025.Divisor_Game
+
+# fast build rule for target.
+1025.Divisor_Game/fast:
+	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/build
+.PHONY : 1025.Divisor_Game/fast
+
+#=============================================================================
 # Target rules for targets named Hash1
 
 # Build rule for target.
@@ -1205,6 +1218,33 @@ Graphmtx.s: Graphmtx.cpp.s
 Graphmtx.cpp.s:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/Graphmtx.cpp.s
 .PHONY : Graphmtx.cpp.s
+
+LeetCode/1025.Divisor_Game.o: LeetCode/1025.Divisor_Game.cpp.o
+
+.PHONY : LeetCode/1025.Divisor_Game.o
+
+# target to build an object file
+LeetCode/1025.Divisor_Game.cpp.o:
+	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.o
+.PHONY : LeetCode/1025.Divisor_Game.cpp.o
+
+LeetCode/1025.Divisor_Game.i: LeetCode/1025.Divisor_Game.cpp.i
+
+.PHONY : LeetCode/1025.Divisor_Game.i
+
+# target to preprocess a source file
+LeetCode/1025.Divisor_Game.cpp.i:
+	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.i
+.PHONY : LeetCode/1025.Divisor_Game.cpp.i
+
+LeetCode/1025.Divisor_Game.s: LeetCode/1025.Divisor_Game.cpp.s
+
+.PHONY : LeetCode/1025.Divisor_Game.s
+
+# target to generate assembly for a file
+LeetCode/1025.Divisor_Game.cpp.s:
+	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.s
+.PHONY : LeetCode/1025.Divisor_Game.cpp.s
 
 LeetCode/112.PathSum/Solution.o: LeetCode/112.PathSum/Solution.cpp.o
 
@@ -2106,6 +2146,7 @@ help:
 	@echo "... Another_A+B"
 	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
 	@echo "... 35.Search_Insert_Position"
+	@echo "... 1025.Divisor_Game"
 	@echo "... Hash1"
 	@echo "... Wildcard_Matching"
 	@echo "... 172.FactorialTrailingZeroes"
@@ -2178,6 +2219,9 @@ help:
 	@echo "... Graphmtx.o"
 	@echo "... Graphmtx.i"
 	@echo "... Graphmtx.s"
+	@echo "... LeetCode/1025.Divisor_Game.o"
+	@echo "... LeetCode/1025.Divisor_Game.i"
+	@echo "... LeetCode/1025.Divisor_Game.s"
 	@echo "... LeetCode/112.PathSum/Solution.o"
 	@echo "... LeetCode/112.PathSum/Solution.i"
 	@echo "... LeetCode/112.PathSum/Solution.s"

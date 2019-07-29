@@ -28,6 +28,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Another_A+B.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir

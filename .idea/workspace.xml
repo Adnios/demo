@@ -30,6 +30,7 @@
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
       <config projectName="demo" targetName="Wildcard_Matching" />
       <config projectName="demo" targetName="BubbleSort" />
+      <config projectName="demo" targetName="1025.Divisor_Game" />
       <config projectName="demo" targetName="Linknode" />
       <config projectName="demo" targetName="tianda2019-1" />
       <config projectName="demo" targetName="tianda2019-2" />
@@ -60,8 +61,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preparation/bit/2019-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -92,17 +92,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+            <state relative-caret-position="273">
+              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="e#39#58#0" expanded="true" />
               </folding>
@@ -132,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.sort/sort.cpp" />
         <option value="$PROJECT_DIR$/3.Hash/Hash2.cpp" />
         <option value="$PROJECT_DIR$/4.排版题/输出梯形.cpp" />
         <option value="$PROJECT_DIR$/5.search/search.cpp" />
@@ -181,8 +180,9 @@
         <option value="$PROJECT_DIR$/preparation/tianda/2019-1.cpp" />
         <option value="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" />
         <option value="$PROJECT_DIR$/preparation/bit/2019-1.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp" />
       </list>
     </option>
   </component>
@@ -259,13 +259,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.64.Minimum_Path_Sum">
+  <component name="RunManager" selected="CMake Application.1025.Divisor_Game">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="1-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1025.Divisor_Game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1025.Divisor_Game" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1025.Divisor_Game">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -508,6 +513,7 @@
     <list>
       <item itemvalue="CMake Application.1-1" />
       <item itemvalue="CMake Application.1-2" />
+      <item itemvalue="CMake Application.1025.Divisor_Game" />
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
       <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
       <item itemvalue="CMake Application.2-1" />
@@ -632,7 +638,7 @@
       <workItem from="1563527976308" duration="258000" />
       <workItem from="1563759379574" duration="898000" />
       <workItem from="1564125335726" duration="2680000" />
-      <workItem from="1564367323554" duration="3381000" />
+      <workItem from="1564367323554" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -816,11 +822,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564129082781</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2019/7/29/LeetCode练习">
+      <created>1564393361565</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1564393361565</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143007000" />
+    <option name="totallyTimeSpent" value="144156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -934,7 +947,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="顺序栈" />
     <MESSAGE value="链式栈" />
     <MESSAGE value="4/28" />
     <MESSAGE value="19/5/7/LeetCode/101.Symmetric Tree" />
@@ -959,16 +971,10 @@
     <MESSAGE value="北理2018机试" />
     <MESSAGE value="南大机试练习" />
     <MESSAGE value="天大2019真题" />
-    <option name="LAST_COMMIT_MESSAGE" value="天大2019真题" />
+    <MESSAGE value="2019/7/29/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/7/29/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="798" selection-start-line="798" selection-end-line="798" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/216.CombinationSumIII/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1341,17 +1347,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>
