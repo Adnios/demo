@@ -39,6 +39,8 @@ add_executable(172.FactorialTrailingZeroes LeetCode/172.FactorialTrailingZeroes/
 add_executable(771.JewelsandStones LeetCode/771.JewelsandStones/Solution.cpp)
 add_executable(64.Minimum_Path_Sum LeetCode/64.Minimum_Path_Sum.cpp)
 add_executable(1025.Divisor_Game LeetCode/1025.Divisor_Game.cpp)
+add_executable(448.Find_All_Numbers_Disappeared_in_an_Array LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp)
+add_executable(72.Edit_Distance LeetCode/72.Edit_Distance.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)

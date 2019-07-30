@@ -254,6 +254,32 @@ floyed/fast:
 .PHONY : floyed/fast
 
 #=============================================================================
+# Target rules for targets named LinkedStack
+
+# Build rule for target.
+LinkedStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
+.PHONY : LinkedStack
+
+# fast build rule for target.
+LinkedStack/fast:
+	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
+.PHONY : LinkedStack/fast
+
+#=============================================================================
+# Target rules for targets named SeqStack
+
+# Build rule for target.
+SeqStack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
+.PHONY : SeqStack
+
+# fast build rule for target.
+SeqStack/fast:
+	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
+.PHONY : SeqStack/fast
+
+#=============================================================================
 # Target rules for targets named Special_Multiplication
 
 # Build rule for target.
@@ -421,19 +447,6 @@ sort_the_struct1: cmake_check_build_system
 sort_the_struct1/fast:
 	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
 .PHONY : sort_the_struct1/fast
-
-#=============================================================================
-# Target rules for targets named LinkedStack
-
-# Build rule for target.
-LinkedStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LinkedStack
-.PHONY : LinkedStack
-
-# fast build rule for target.
-LinkedStack/fast:
-	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-.PHONY : LinkedStack/fast
 
 #=============================================================================
 # Target rules for targets named sort_the_struct2
@@ -683,43 +696,17 @@ data2/fast:
 .PHONY : 69.Sqrtx/fast
 
 #=============================================================================
-# Target rules for targets named 771.JewelsandStones
+# Target rules for targets named 448.Find_All_Numbers_Disappeared_in_an_Array
 
 # Build rule for target.
-771.JewelsandStones: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 771.JewelsandStones
-.PHONY : 771.JewelsandStones
+448.Find_All_Numbers_Disappeared_in_an_Array: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 448.Find_All_Numbers_Disappeared_in_an_Array
+.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array
 
 # fast build rule for target.
-771.JewelsandStones/fast:
-	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
-.PHONY : 771.JewelsandStones/fast
-
-#=============================================================================
-# Target rules for targets named Hash2
-
-# Build rule for target.
-Hash2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Hash2
-.PHONY : Hash2
-
-# fast build rule for target.
-Hash2/fast:
-	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
-.PHONY : Hash2/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
+448.Find_All_Numbers_Disappeared_in_an_Array/fast:
+	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
+.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array/fast
 
 #=============================================================================
 # Target rules for targets named 64.Minimum_Path_Sum
@@ -748,17 +735,56 @@ Linknode/fast:
 .PHONY : Linknode/fast
 
 #=============================================================================
-# Target rules for targets named SeqStack
+# Target rules for targets named 771.JewelsandStones
 
 # Build rule for target.
-SeqStack: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqStack
-.PHONY : SeqStack
+771.JewelsandStones: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 771.JewelsandStones
+.PHONY : 771.JewelsandStones
 
 # fast build rule for target.
-SeqStack/fast:
-	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-.PHONY : SeqStack/fast
+771.JewelsandStones/fast:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
+.PHONY : 771.JewelsandStones/fast
+
+#=============================================================================
+# Target rules for targets named 72.Edit_Distance
+
+# Build rule for target.
+72.Edit_Distance: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 72.Edit_Distance
+.PHONY : 72.Edit_Distance
+
+# fast build rule for target.
+72.Edit_Distance/fast:
+	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
+.PHONY : 72.Edit_Distance/fast
+
+#=============================================================================
+# Target rules for targets named Hash2
+
+# Build rule for target.
+Hash2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash2
+.PHONY : Hash2
+
+# fast build rule for target.
+Hash2/fast:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
+.PHONY : Hash2/fast
+
+#=============================================================================
+# Target rules for targets named SeqList
+
+# Build rule for target.
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
+
+# fast build rule for target.
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -1408,6 +1434,33 @@ LeetCode/44.Wildcard_Matching/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.s
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.cpp.s
 
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o: LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o
+
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o
+
+# target to build an object file
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o:
+	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o
+
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i: LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.i
+
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i
+
+# target to preprocess a source file
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.i:
+	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.i
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.i
+
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s: LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
+
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s
+
+# target to generate assembly for a file
+LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s:
+	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
+.PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
+
 LeetCode/64.Minimum_Path_Sum.o: LeetCode/64.Minimum_Path_Sum.cpp.o
 
 .PHONY : LeetCode/64.Minimum_Path_Sum.o
@@ -1542,6 +1595,33 @@ LeetCode/704.Binary_Search/Solution.s: LeetCode/704.Binary_Search/Solution.cpp.s
 LeetCode/704.Binary_Search/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/LeetCode/704.Binary_Search/Solution.cpp.s
 .PHONY : LeetCode/704.Binary_Search/Solution.cpp.s
+
+LeetCode/72.Edit_Distance.o: LeetCode/72.Edit_Distance.cpp.o
+
+.PHONY : LeetCode/72.Edit_Distance.o
+
+# target to build an object file
+LeetCode/72.Edit_Distance.cpp.o:
+	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/LeetCode/72.Edit_Distance.cpp.o
+.PHONY : LeetCode/72.Edit_Distance.cpp.o
+
+LeetCode/72.Edit_Distance.i: LeetCode/72.Edit_Distance.cpp.i
+
+.PHONY : LeetCode/72.Edit_Distance.i
+
+# target to preprocess a source file
+LeetCode/72.Edit_Distance.cpp.i:
+	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/LeetCode/72.Edit_Distance.cpp.i
+.PHONY : LeetCode/72.Edit_Distance.cpp.i
+
+LeetCode/72.Edit_Distance.s: LeetCode/72.Edit_Distance.cpp.s
+
+.PHONY : LeetCode/72.Edit_Distance.s
+
+# target to generate assembly for a file
+LeetCode/72.Edit_Distance.cpp.s:
+	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/LeetCode/72.Edit_Distance.cpp.s
+.PHONY : LeetCode/72.Edit_Distance.cpp.s
 
 LeetCode/771.JewelsandStones/Solution.o: LeetCode/771.JewelsandStones/Solution.cpp.o
 
@@ -2127,6 +2207,8 @@ help:
 	@echo "... 2018-2"
 	@echo "... 2018-1"
 	@echo "... floyed"
+	@echo "... LinkedStack"
+	@echo "... SeqStack"
 	@echo "... Special_Multiplication"
 	@echo "... Binary_Tree_Order"
 	@echo "... 1-2"
@@ -2140,7 +2222,6 @@ help:
 	@echo "... sort"
 	@echo "... Not_AC"
 	@echo "... sort_the_struct1"
-	@echo "... LinkedStack"
 	@echo "... sort_the_struct2"
 	@echo "... tianda2019-2"
 	@echo "... Another_A+B"
@@ -2162,12 +2243,13 @@ help:
 	@echo "... 66.PlusOne"
 	@echo "... data2"
 	@echo "... 69.Sqrtx"
-	@echo "... 771.JewelsandStones"
-	@echo "... Hash2"
-	@echo "... SeqList"
+	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
 	@echo "... 64.Minimum_Path_Sum"
 	@echo "... Linknode"
-	@echo "... SeqStack"
+	@echo "... 771.JewelsandStones"
+	@echo "... 72.Edit_Distance"
+	@echo "... Hash2"
+	@echo "... SeqList"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -2240,6 +2322,9 @@ help:
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
+	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o"
+	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i"
+	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s"
 	@echo "... LeetCode/64.Minimum_Path_Sum.o"
 	@echo "... LeetCode/64.Minimum_Path_Sum.i"
 	@echo "... LeetCode/64.Minimum_Path_Sum.s"
@@ -2255,6 +2340,9 @@ help:
 	@echo "... LeetCode/704.Binary_Search/Solution.o"
 	@echo "... LeetCode/704.Binary_Search/Solution.i"
 	@echo "... LeetCode/704.Binary_Search/Solution.s"
+	@echo "... LeetCode/72.Edit_Distance.o"
+	@echo "... LeetCode/72.Edit_Distance.i"
+	@echo "... LeetCode/72.Edit_Distance.s"
 	@echo "... LeetCode/771.JewelsandStones/Solution.o"
 	@echo "... LeetCode/771.JewelsandStones/Solution.i"
 	@echo "... LeetCode/771.JewelsandStones/Solution.s"

@@ -12,18 +12,19 @@
       <config projectName="demo" targetName="data1" />
       <config projectName="demo" targetName="1-2" />
       <config projectName="demo" targetName="1-1" />
-      <config projectName="demo" targetName="SeqStack" />
       <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="SeqStack" />
       <config projectName="demo" targetName="floyed" />
       <config projectName="demo" targetName="FatMouseTrade" />
       <config projectName="demo" targetName="CombinationSumIII" />
       <config projectName="demo" targetName="LinkedStack" />
       <config projectName="demo" targetName="Not_AC" />
       <config projectName="demo" targetName="2019-1" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
       <config projectName="demo" targetName="sort_the_struct2" />
       <config projectName="demo" targetName="Another_A+B" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
       <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="72.Edit_Distance" />
       <config projectName="demo" targetName="Huffman_Tree" />
       <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Graphmtx" />
@@ -39,14 +40,15 @@
       <config projectName="demo" targetName="66.PlusOne" />
       <config projectName="demo" targetName="2-2" />
       <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="448.Find_All_Numbers_Disappeared_in_an_Array" />
       <config projectName="demo" targetName="Binary_Tree_Order" />
       <config projectName="demo" targetName="SeqList" />
       <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
       <config projectName="demo" targetName="69.Sqrtx" />
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
       <config projectName="demo" targetName="2018-3" />
-      <config projectName="demo" targetName="2018-1" />
       <config projectName="demo" targetName="64.Minimum_Path_Sum" />
+      <config projectName="demo" targetName="2018-1" />
       <config projectName="demo" targetName="2018-2" />
       <config projectName="demo" targetName="2014-1" />
       <config projectName="demo" targetName="sort" />
@@ -61,7 +63,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -71,8 +74,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -92,20 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+            <state relative-caret-position="363">
+              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="e#39#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -132,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.Hash/Hash2.cpp" />
-        <option value="$PROJECT_DIR$/4.排版题/输出梯形.cpp" />
         <option value="$PROJECT_DIR$/5.search/search.cpp" />
         <option value="$PROJECT_DIR$/5.search/BinarySearch.cpp" />
         <option value="$PROJECT_DIR$/6.GreedyAlgorithm/FatMouseTrade.cpp" />
@@ -181,13 +177,14 @@
         <option value="$PROJECT_DIR$/preparation/tianda/2019-2.cpp" />
         <option value="$PROJECT_DIR$/preparation/bit/2019-1.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="660" />
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="25" />
     <option name="width" value="661" />
     <option name="height" value="743" />
@@ -200,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,6 +230,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -259,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.1025.Divisor_Game">
+  <component name="RunManager" selected="CMake Application.72.Edit_Distance">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -325,6 +323,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="448.Find_All_Numbers_Disappeared_in_an_Array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="448.Find_All_Numbers_Disappeared_in_an_Array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="448.Find_All_Numbers_Disappeared_in_an_Array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="64.Minimum_Path_Sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="64.Minimum_Path_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="64.Minimum_Path_Sum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -346,6 +349,11 @@
       </method>
     </configuration>
     <configuration name="704.Binary_Search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="704.Binary_Search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="704.Binary_Search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="72.Edit_Distance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="72.Edit_Distance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="72.Edit_Distance">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -524,11 +532,13 @@
       <item itemvalue="CMake Application.2018-3" />
       <item itemvalue="CMake Application.2019-1" />
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
+      <item itemvalue="CMake Application.448.Find_All_Numbers_Disappeared_in_an_Array" />
       <item itemvalue="CMake Application.64.Minimum_Path_Sum" />
       <item itemvalue="CMake Application.66.PlusOne" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
       <item itemvalue="CMake Application.69.Sqrtx" />
       <item itemvalue="CMake Application.704.Binary_Search" />
+      <item itemvalue="CMake Application.72.Edit_Distance" />
       <item itemvalue="CMake Application.771.JewelsandStones" />
       <item itemvalue="CMake Application.Another_A+B" />
       <item itemvalue="CMake Application.Binary_Tree_Order" />
@@ -638,7 +648,8 @@
       <workItem from="1563527976308" duration="258000" />
       <workItem from="1563759379574" duration="898000" />
       <workItem from="1564125335726" duration="2680000" />
-      <workItem from="1564367323554" duration="4530000" />
+      <workItem from="1564367323554" duration="4720000" />
+      <workItem from="1564456231395" duration="3646000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -829,11 +840,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564393361565</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2019/7/29/LeetCode练习">
+      <created>1564395065881</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1564395065881</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144156000" />
+    <option name="totallyTimeSpent" value="147992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -845,10 +863,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1321" height="743" extended-state="6" />
+    <frame x="0" y="25" width="661" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654902" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22509804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -975,26 +993,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019/7/29/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/216.CombinationSumIII/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#39#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#39#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/112.PathSum/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1357,13 +1355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1371,6 +1362,30 @@
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
         </state>
       </provider>
     </entry>
