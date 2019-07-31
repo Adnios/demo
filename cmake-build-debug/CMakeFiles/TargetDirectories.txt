@@ -30,6 +30,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir
@@ -43,11 +44,11 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/search.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/66.PlusOne.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/data2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/69.Sqrtx.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash2.dir

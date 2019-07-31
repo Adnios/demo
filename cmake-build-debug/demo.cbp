@@ -1489,6 +1489,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="279.Perfect_Squares">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/279.Perfect_Squares" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 279.Perfect_Squares"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="279.Perfect_Squares/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/279.Perfect_Squares" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 279.Perfect_Squares/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="Hash1">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Hash1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -2015,6 +2061,98 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Linknode">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Linknode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linknode"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Linknode/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Linknode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linknode/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="64.Minimum_Path_Sum">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/64.Minimum_Path_Sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 64.Minimum_Path_Sum"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="64.Minimum_Path_Sum/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/64.Minimum_Path_Sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 64.Minimum_Path_Sum/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="data2">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/data2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -2148,98 +2286,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 448.Find_All_Numbers_Disappeared_in_an_Array/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="64.Minimum_Path_Sum">
-				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/64.Minimum_Path_Sum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 64.Minimum_Path_Sum"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="64.Minimum_Path_Sum/fast">
-				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/64.Minimum_Path_Sum" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 64.Minimum_Path_Sum/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Linknode">
-				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Linknode" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linknode"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Linknode/fast">
-				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/Linknode" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linknode/fast"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2495,6 +2541,9 @@
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/216.CombinationSumIII/Solution.cpp">
 			<Option target="CombinationSumIII"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/279.Perfect_Squares.cpp">
+			<Option target="279.Perfect_Squares"/>
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/35.Search_Insert_Position/Solution.cpp">
 			<Option target="35.Search_Insert_Position"/>

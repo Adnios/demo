@@ -527,6 +527,19 @@ Another_A+B/fast:
 .PHONY : 1025.Divisor_Game/fast
 
 #=============================================================================
+# Target rules for targets named 279.Perfect_Squares
+
+# Build rule for target.
+279.Perfect_Squares: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 279.Perfect_Squares
+.PHONY : 279.Perfect_Squares
+
+# fast build rule for target.
+279.Perfect_Squares/fast:
+	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/build
+.PHONY : 279.Perfect_Squares/fast
+
+#=============================================================================
 # Target rules for targets named Hash1
 
 # Build rule for target.
@@ -670,6 +683,32 @@ search/fast:
 .PHONY : 66.PlusOne/fast
 
 #=============================================================================
+# Target rules for targets named Linknode
+
+# Build rule for target.
+Linknode: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Linknode
+.PHONY : Linknode
+
+# fast build rule for target.
+Linknode/fast:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
+.PHONY : Linknode/fast
+
+#=============================================================================
+# Target rules for targets named 64.Minimum_Path_Sum
+
+# Build rule for target.
+64.Minimum_Path_Sum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 64.Minimum_Path_Sum
+.PHONY : 64.Minimum_Path_Sum
+
+# fast build rule for target.
+64.Minimum_Path_Sum/fast:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
+.PHONY : 64.Minimum_Path_Sum/fast
+
+#=============================================================================
 # Target rules for targets named data2
 
 # Build rule for target.
@@ -707,32 +746,6 @@ data2/fast:
 448.Find_All_Numbers_Disappeared_in_an_Array/fast:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
 .PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array/fast
-
-#=============================================================================
-# Target rules for targets named 64.Minimum_Path_Sum
-
-# Build rule for target.
-64.Minimum_Path_Sum: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 64.Minimum_Path_Sum
-.PHONY : 64.Minimum_Path_Sum
-
-# fast build rule for target.
-64.Minimum_Path_Sum/fast:
-	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
-.PHONY : 64.Minimum_Path_Sum/fast
-
-#=============================================================================
-# Target rules for targets named Linknode
-
-# Build rule for target.
-Linknode: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Linknode
-.PHONY : Linknode
-
-# fast build rule for target.
-Linknode/fast:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-.PHONY : Linknode/fast
 
 #=============================================================================
 # Target rules for targets named 771.JewelsandStones
@@ -1379,6 +1392,33 @@ LeetCode/216.CombinationSumIII/Solution.s: LeetCode/216.CombinationSumIII/Soluti
 LeetCode/216.CombinationSumIII/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.s
 .PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.s
+
+LeetCode/279.Perfect_Squares.o: LeetCode/279.Perfect_Squares.cpp.o
+
+.PHONY : LeetCode/279.Perfect_Squares.o
+
+# target to build an object file
+LeetCode/279.Perfect_Squares.cpp.o:
+	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/LeetCode/279.Perfect_Squares.cpp.o
+.PHONY : LeetCode/279.Perfect_Squares.cpp.o
+
+LeetCode/279.Perfect_Squares.i: LeetCode/279.Perfect_Squares.cpp.i
+
+.PHONY : LeetCode/279.Perfect_Squares.i
+
+# target to preprocess a source file
+LeetCode/279.Perfect_Squares.cpp.i:
+	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/LeetCode/279.Perfect_Squares.cpp.i
+.PHONY : LeetCode/279.Perfect_Squares.cpp.i
+
+LeetCode/279.Perfect_Squares.s: LeetCode/279.Perfect_Squares.cpp.s
+
+.PHONY : LeetCode/279.Perfect_Squares.s
+
+# target to generate assembly for a file
+LeetCode/279.Perfect_Squares.cpp.s:
+	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/LeetCode/279.Perfect_Squares.cpp.s
+.PHONY : LeetCode/279.Perfect_Squares.cpp.s
 
 LeetCode/35.Search_Insert_Position/Solution.o: LeetCode/35.Search_Insert_Position/Solution.cpp.o
 
@@ -2228,6 +2268,7 @@ help:
 	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
 	@echo "... 35.Search_Insert_Position"
 	@echo "... 1025.Divisor_Game"
+	@echo "... 279.Perfect_Squares"
 	@echo "... Hash1"
 	@echo "... Wildcard_Matching"
 	@echo "... 172.FactorialTrailingZeroes"
@@ -2241,11 +2282,11 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... search"
 	@echo "... 66.PlusOne"
+	@echo "... Linknode"
+	@echo "... 64.Minimum_Path_Sum"
 	@echo "... data2"
 	@echo "... 69.Sqrtx"
 	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
-	@echo "... 64.Minimum_Path_Sum"
-	@echo "... Linknode"
 	@echo "... 771.JewelsandStones"
 	@echo "... 72.Edit_Distance"
 	@echo "... Hash2"
@@ -2316,6 +2357,9 @@ help:
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
+	@echo "... LeetCode/279.Perfect_Squares.o"
+	@echo "... LeetCode/279.Perfect_Squares.i"
+	@echo "... LeetCode/279.Perfect_Squares.s"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.o"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.i"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.s"

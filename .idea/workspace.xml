@@ -26,8 +26,8 @@
       <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="72.Edit_Distance" />
       <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
       <config projectName="demo" targetName="Wildcard_Matching" />
       <config projectName="demo" targetName="BubbleSort" />
@@ -45,6 +45,7 @@
       <config projectName="demo" targetName="SeqList" />
       <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
       <config projectName="demo" targetName="69.Sqrtx" />
+      <config projectName="demo" targetName="279.Perfect_Squares" />
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
       <config projectName="demo" targetName="2018-3" />
       <config projectName="demo" targetName="64.Minimum_Path_Sum" />
@@ -63,16 +64,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/279.Perfect_Squares.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
@@ -93,17 +91,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="318">
+              <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/279.Perfect_Squares.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
+            <state relative-caret-position="17">
+              <caret line="7" selection-start-line="7" selection-end-line="24" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -130,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5.search/search.cpp" />
         <option value="$PROJECT_DIR$/5.search/BinarySearch.cpp" />
         <option value="$PROJECT_DIR$/6.GreedyAlgorithm/FatMouseTrade.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/101. Symmetric Tree/Solution.cpp" />
@@ -179,12 +176,13 @@
         <option value="$PROJECT_DIR$/LeetCode/64.Minimum_Path_Sum.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/1025.Divisor_Game.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/279.Perfect_Squares.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="661" />
     <option name="height" value="743" />
@@ -257,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.72.Edit_Distance">
+  <component name="RunManager" selected="CMake Application.279.Perfect_Squares">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -314,6 +312,11 @@
       </method>
     </configuration>
     <configuration name="2019-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="2019-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="2019-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="279.Perfect_Squares" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="279.Perfect_Squares" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="279.Perfect_Squares">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -531,6 +534,7 @@
       <item itemvalue="CMake Application.2018-2" />
       <item itemvalue="CMake Application.2018-3" />
       <item itemvalue="CMake Application.2019-1" />
+      <item itemvalue="CMake Application.279.Perfect_Squares" />
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
       <item itemvalue="CMake Application.448.Find_All_Numbers_Disappeared_in_an_Array" />
       <item itemvalue="CMake Application.64.Minimum_Path_Sum" />
@@ -650,6 +654,7 @@
       <workItem from="1564125335726" duration="2680000" />
       <workItem from="1564367323554" duration="4720000" />
       <workItem from="1564456231395" duration="3646000" />
+      <workItem from="1564563321509" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -851,7 +856,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147992000" />
+    <option name="totallyTimeSpent" value="149056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -863,10 +868,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="661" height="743" extended-state="4" />
+    <frame x="0" y="25" width="1321" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22509804" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22509804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -993,13 +998,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019/7/29/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/112.PathSum/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/938.RangeSumofBST/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1375,17 +1373,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/72.Edit_Distance.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/279.Perfect_Squares.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="7" selection-end-line="24" selection-end-column="2" />
         </state>
       </provider>
     </entry>
