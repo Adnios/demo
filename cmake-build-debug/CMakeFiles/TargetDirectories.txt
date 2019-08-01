@@ -17,8 +17,9 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/FatMouseTrade.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Huffman_Tree.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/data1.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/test.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort.dir
@@ -44,6 +45,8 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/search.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/66.PlusOne.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Linknode.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/data2.dir
@@ -51,5 +54,3 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Hash2.dir
-/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqList.dir

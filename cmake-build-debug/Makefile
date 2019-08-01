@@ -358,19 +358,6 @@ Huffman_Tree/fast:
 .PHONY : Huffman_Tree/fast
 
 #=============================================================================
-# Target rules for targets named Bracket_Matching_Problem
-
-# Build rule for target.
-Bracket_Matching_Problem: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Bracket_Matching_Problem
-.PHONY : Bracket_Matching_Problem
-
-# fast build rule for target.
-Bracket_Matching_Problem/fast:
-	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
-.PHONY : Bracket_Matching_Problem/fast
-
-#=============================================================================
 # Target rules for targets named data1
 
 # Build rule for target.
@@ -382,6 +369,32 @@ data1: cmake_check_build_system
 data1/fast:
 	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
 .PHONY : data1/fast
+
+#=============================================================================
+# Target rules for targets named SeqList
+
+# Build rule for target.
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
+
+# fast build rule for target.
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
+
+#=============================================================================
+# Target rules for targets named Hash2
+
+# Build rule for target.
+Hash2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash2
+.PHONY : Hash2
+
+# fast build rule for target.
+Hash2/fast:
+	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
+.PHONY : Hash2/fast
 
 #=============================================================================
 # Target rules for targets named UncommonWordsfromTwoSentences
@@ -683,6 +696,32 @@ search/fast:
 .PHONY : 66.PlusOne/fast
 
 #=============================================================================
+# Target rules for targets named Bracket_Matching_Problem
+
+# Build rule for target.
+Bracket_Matching_Problem: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Bracket_Matching_Problem
+.PHONY : Bracket_Matching_Problem
+
+# fast build rule for target.
+Bracket_Matching_Problem/fast:
+	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
+.PHONY : Bracket_Matching_Problem/fast
+
+#=============================================================================
+# Target rules for targets named 300.Longest_Increasing_Subsequence
+
+# Build rule for target.
+300.Longest_Increasing_Subsequence: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 300.Longest_Increasing_Subsequence
+.PHONY : 300.Longest_Increasing_Subsequence
+
+# fast build rule for target.
+300.Longest_Increasing_Subsequence/fast:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
+.PHONY : 300.Longest_Increasing_Subsequence/fast
+
+#=============================================================================
 # Target rules for targets named Linknode
 
 # Build rule for target.
@@ -772,32 +811,6 @@ data2/fast:
 72.Edit_Distance/fast:
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
 .PHONY : 72.Edit_Distance/fast
-
-#=============================================================================
-# Target rules for targets named Hash2
-
-# Build rule for target.
-Hash2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Hash2
-.PHONY : Hash2
-
-# fast build rule for target.
-Hash2/fast:
-	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
-.PHONY : Hash2/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -1419,6 +1432,33 @@ LeetCode/279.Perfect_Squares.s: LeetCode/279.Perfect_Squares.cpp.s
 LeetCode/279.Perfect_Squares.cpp.s:
 	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/LeetCode/279.Perfect_Squares.cpp.s
 .PHONY : LeetCode/279.Perfect_Squares.cpp.s
+
+LeetCode/300.Longest_Increasing_Subsequence.o: LeetCode/300.Longest_Increasing_Subsequence.cpp.o
+
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.o
+
+# target to build an object file
+LeetCode/300.Longest_Increasing_Subsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.o
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.cpp.o
+
+LeetCode/300.Longest_Increasing_Subsequence.i: LeetCode/300.Longest_Increasing_Subsequence.cpp.i
+
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.i
+
+# target to preprocess a source file
+LeetCode/300.Longest_Increasing_Subsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.i
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.cpp.i
+
+LeetCode/300.Longest_Increasing_Subsequence.s: LeetCode/300.Longest_Increasing_Subsequence.cpp.s
+
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.s
+
+# target to generate assembly for a file
+LeetCode/300.Longest_Increasing_Subsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.s
+.PHONY : LeetCode/300.Longest_Increasing_Subsequence.cpp.s
 
 LeetCode/35.Search_Insert_Position/Solution.o: LeetCode/35.Search_Insert_Position/Solution.cpp.o
 
@@ -2255,8 +2295,9 @@ help:
 	@echo "... FatMouseTrade"
 	@echo "... BubbleSort"
 	@echo "... Huffman_Tree"
-	@echo "... Bracket_Matching_Problem"
 	@echo "... data1"
+	@echo "... SeqList"
+	@echo "... Hash2"
 	@echo "... UncommonWordsfromTwoSentences"
 	@echo "... test"
 	@echo "... sort"
@@ -2282,6 +2323,8 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... search"
 	@echo "... 66.PlusOne"
+	@echo "... Bracket_Matching_Problem"
+	@echo "... 300.Longest_Increasing_Subsequence"
 	@echo "... Linknode"
 	@echo "... 64.Minimum_Path_Sum"
 	@echo "... data2"
@@ -2289,8 +2332,6 @@ help:
 	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
 	@echo "... 771.JewelsandStones"
 	@echo "... 72.Edit_Distance"
-	@echo "... Hash2"
-	@echo "... SeqList"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -2360,6 +2401,9 @@ help:
 	@echo "... LeetCode/279.Perfect_Squares.o"
 	@echo "... LeetCode/279.Perfect_Squares.i"
 	@echo "... LeetCode/279.Perfect_Squares.s"
+	@echo "... LeetCode/300.Longest_Increasing_Subsequence.o"
+	@echo "... LeetCode/300.Longest_Increasing_Subsequence.i"
+	@echo "... LeetCode/300.Longest_Increasing_Subsequence.s"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.o"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.i"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.s"
