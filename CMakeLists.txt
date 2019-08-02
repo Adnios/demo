@@ -43,6 +43,8 @@ add_executable(448.Find_All_Numbers_Disappeared_in_an_Array LeetCode/448.Find_Al
 add_executable(72.Edit_Distance LeetCode/72.Edit_Distance.cpp)
 add_executable(279.Perfect_Squares LeetCode/279.Perfect_Squares.cpp)
 add_executable(300.Longest_Increasing_Subsequence LeetCode/300.Longest_Increasing_Subsequence.cpp)
+add_executable(213.House_Robber_II LeetCode/213.House_Robber_II.cpp)
+add_executable(198.House_Robber LeetCode/198.House_Robber.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
