@@ -615,6 +615,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="143.Reorder_List">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/143.Reorder_List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 143.Reorder_List"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="143.Reorder_List/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/143.Reorder_List" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 143.Reorder_List/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="97.Interleaving_String">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/97.Interleaving_String" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -2716,6 +2762,9 @@
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/112.PathSum/Solution.cpp">
 			<Option target="PathSum"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/143.Reorder_List.cpp">
+			<Option target="143.Reorder_List"/>
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/162.Find_Peak_Element/Solution.cpp">
 			<Option target="162.Find_Peak_Element"/>

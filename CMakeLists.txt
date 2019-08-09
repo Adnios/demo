@@ -46,6 +46,7 @@ add_executable(300.Longest_Increasing_Subsequence LeetCode/300.Longest_Increasin
 add_executable(213.House_Robber_II LeetCode/213.House_Robber_II.cpp)
 add_executable(198.House_Robber LeetCode/198.House_Robber.cpp)
 add_executable(97.Interleaving_String LeetCode/97.Interleaving_String.cpp)
+add_executable(143.Reorder_List LeetCode/143.Reorder_List.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)

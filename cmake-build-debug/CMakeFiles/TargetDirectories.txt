@@ -11,6 +11,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/floyed.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/LinkedStack.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqStack.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/143.Reorder_List.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/198.House_Robber.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Special_Multiplication.dir

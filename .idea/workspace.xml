@@ -32,6 +32,7 @@
       <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Graphmtx" />
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="143.Reorder_List" />
       <config projectName="demo" targetName="Wildcard_Matching" />
       <config projectName="demo" targetName="BubbleSort" />
       <config projectName="demo" targetName="1025.Divisor_Game" />
@@ -68,13 +69,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/97.Interleaving_String.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/143.Reorder_List.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
@@ -96,16 +99,16 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/97.Interleaving_String.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/143.Reorder_List.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="29" column="2" lean-forward="true" selection-start-line="7" selection-end-line="29" selection-end-column="2" />
+            <state relative-caret-position="120">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -132,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp" />
         <option value="$PROJECT_DIR$/3.Data_Structure/1.stack/Calculator.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/1038. Binary Search Tree to Greater Sum Tree/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/44. Wildcard Matching/Solution.cpp" />
@@ -181,8 +183,9 @@
         <option value="$PROJECT_DIR$/LeetCode/300.Longest_Increasing_Subsequence.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/198.House_Robber.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/213.House_Robber_II.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/97.Interleaving_String.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/143.Reorder_List.cpp" />
       </list>
     </option>
   </component>
@@ -272,6 +275,11 @@
       </method>
     </configuration>
     <configuration name="1025.Divisor_Game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1025.Divisor_Game" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1025.Divisor_Game">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="143.Reorder_List" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="143.Reorder_List" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="143.Reorder_List">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -550,6 +558,7 @@
       <item itemvalue="CMake Application.1-1" />
       <item itemvalue="CMake Application.1-2" />
       <item itemvalue="CMake Application.1025.Divisor_Game" />
+      <item itemvalue="CMake Application.143.Reorder_List" />
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
       <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
       <item itemvalue="CMake Application.198.House_Robber" />
@@ -686,7 +695,8 @@
       <workItem from="1564563321509" duration="1162000" />
       <workItem from="1564625402009" duration="7668000" />
       <workItem from="1564712477848" duration="3235000" />
-      <workItem from="1565136458130" duration="2983000" />
+      <workItem from="1565136458130" duration="3125000" />
+      <workItem from="1565319042615" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -905,11 +915,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564715336401</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2019/8/7/LeetCode练习">
+      <created>1565140132306</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1565140132306</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163040000" />
+    <option name="totallyTimeSpent" value="163182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -924,12 +941,12 @@
     <frame x="660" y="25" width="661" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23294118" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42276424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960783" visible="true" weight="0.3219512" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960783" weight="0.3219512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -939,7 +956,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039214" side_tool="true" weight="0.31869918" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3241491" />
-      <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49960783" weight="0.31869918" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" sideWeight="0.49960783" visible="true" weight="0.31869918" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1023,7 +1040,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5/9change the dictionary" />
     <MESSAGE value="括号匹配问题" />
     <MESSAGE value="18/5/12/LeetCode/1038. Binary Search Tree to Greater Sum Tree" />
     <MESSAGE value="18/5/13/LeetCode/44. Wildcard Matching" />
@@ -1048,10 +1064,10 @@
     <MESSAGE value="2019/7/30/LeetCode练习" />
     <MESSAGE value="2019/8//1/LeetCode练习" />
     <MESSAGE value="2019/8/2/LeetCode练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/8/2/LeetCode练习" />
+    <MESSAGE value="2019/8/7/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/8/7/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence.cpp" />
     <entry file="file://$PROJECT_DIR$/LeetCode/674.Longest_Continuous_Increasing_Subsequence/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1443,17 +1459,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/LeetCode/97.Interleaving_String.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        <state relative-caret-position="338">
+          <caret line="29" column="2" selection-start-line="7" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/97.Interleaving_String.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="7" selection-end-line="29" selection-end-column="2" />
+        <state relative-caret-position="359">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/143.Reorder_List.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
