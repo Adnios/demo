@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/adnois/CLionProjects/demo/cmake-build-debug
 CMakeFiles/2019-1.dir/all:
 	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/depend
 	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 2019-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=23 "Built target 2019-1"
 .PHONY : CMakeFiles/2019-1.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/2019-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2019-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2019-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2019-1.dir/rule
@@ -108,7 +108,7 @@ clean: CMakeFiles/2019-1.dir/clean
 CMakeFiles/2014-1.dir/all:
 	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/depend
 	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=16,17 "Built target 2014-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=16 "Built target 2014-1"
 .PHONY : CMakeFiles/2014-1.dir/all
 
 # Include target in all.
@@ -118,7 +118,7 @@ all: CMakeFiles/2014-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2014-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2014-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2014-1.dir/rule
@@ -145,7 +145,7 @@ clean: CMakeFiles/2014-1.dir/clean
 CMakeFiles/bit2019-1.dir/all:
 	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/depend
 	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=82 "Built target bit2019-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=82,83 "Built target bit2019-1"
 .PHONY : CMakeFiles/bit2019-1.dir/all
 
 # Include target in all.
@@ -155,7 +155,7 @@ all: CMakeFiles/bit2019-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/bit2019-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/bit2019-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/bit2019-1.dir/rule
@@ -256,7 +256,7 @@ clean: CMakeFiles/2-2.dir/clean
 CMakeFiles/2-1.dir/all:
 	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/depend
 	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=13 "Built target 2-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target 2-1"
 .PHONY : CMakeFiles/2-1.dir/all
 
 # Include target in all.
@@ -266,7 +266,7 @@ all: CMakeFiles/2-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2-1.dir/rule
@@ -361,50 +361,13 @@ clean: CMakeFiles/2018-3.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/2018-2.dir
-
-# All Build rule for target.
-CMakeFiles/2018-2.dir/all:
-	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/depend
-	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 2018-2"
-.PHONY : CMakeFiles/2018-2.dir/all
-
-# Include target in all.
-all: CMakeFiles/2018-2.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/2018-2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018-2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/2018-2.dir/rule
-
-# Convenience name for target.
-2018-2: CMakeFiles/2018-2.dir/rule
-
-.PHONY : 2018-2
-
-# clean rule for target.
-CMakeFiles/2018-2.dir/clean:
-	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/clean
-.PHONY : CMakeFiles/2018-2.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/2018-2.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/2018-1.dir
 
 # All Build rule for target.
 CMakeFiles/2018-1.dir/all:
 	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/depend
 	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=18 "Built target 2018-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 2018-1"
 .PHONY : CMakeFiles/2018-1.dir/all
 
 # Include target in all.
@@ -414,7 +377,7 @@ all: CMakeFiles/2018-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2018-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2018-1.dir/rule
@@ -441,7 +404,7 @@ clean: CMakeFiles/2018-1.dir/clean
 CMakeFiles/floyed.dir/all:
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/depend
 	$(MAKE) -f CMakeFiles/floyed.dir/build.make CMakeFiles/floyed.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=87 "Built target floyed"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=87,88 "Built target floyed"
 .PHONY : CMakeFiles/floyed.dir/all
 
 # Include target in all.
@@ -451,7 +414,7 @@ all: CMakeFiles/floyed.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/floyed.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/floyed.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/floyed.dir/rule
@@ -478,7 +441,7 @@ clean: CMakeFiles/floyed.dir/clean
 CMakeFiles/LinkedStack.dir/all:
 	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/depend
 	$(MAKE) -f CMakeFiles/LinkedStack.dir/build.make CMakeFiles/LinkedStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=64,65 "Built target LinkedStack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target LinkedStack"
 .PHONY : CMakeFiles/LinkedStack.dir/all
 
 # Include target in all.
@@ -546,6 +509,80 @@ clean: CMakeFiles/SeqStack.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/2018-2.dir
+
+# All Build rule for target.
+CMakeFiles/2018-2.dir/all:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/depend
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 2018-2"
+.PHONY : CMakeFiles/2018-2.dir/all
+
+# Include target in all.
+all: CMakeFiles/2018-2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/2018-2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018-2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/2018-2.dir/rule
+
+# Convenience name for target.
+2018-2: CMakeFiles/2018-2.dir/rule
+
+.PHONY : 2018-2
+
+# clean rule for target.
+CMakeFiles/2018-2.dir/clean:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/clean
+.PHONY : CMakeFiles/2018-2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/2018-2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/401.Binary_Watch.dir
+
+# All Build rule for target.
+CMakeFiles/401.Binary_Watch.dir/all:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/depend
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 401.Binary_Watch"
+.PHONY : CMakeFiles/401.Binary_Watch.dir/all
+
+# Include target in all.
+all: CMakeFiles/401.Binary_Watch.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/401.Binary_Watch.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/401.Binary_Watch.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/401.Binary_Watch.dir/rule
+
+# Convenience name for target.
+401.Binary_Watch: CMakeFiles/401.Binary_Watch.dir/rule
+
+.PHONY : 401.Binary_Watch
+
+# clean rule for target.
+CMakeFiles/401.Binary_Watch.dir/clean:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/clean
+.PHONY : CMakeFiles/401.Binary_Watch.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/401.Binary_Watch.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/143.Reorder_List.dir
 
 # All Build rule for target.
@@ -589,7 +626,7 @@ clean: CMakeFiles/143.Reorder_List.dir/clean
 CMakeFiles/97.Interleaving_String.dir/all:
 	$(MAKE) -f CMakeFiles/97.Interleaving_String.dir/build.make CMakeFiles/97.Interleaving_String.dir/depend
 	$(MAKE) -f CMakeFiles/97.Interleaving_String.dir/build.make CMakeFiles/97.Interleaving_String.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target 97.Interleaving_String"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=46,47 "Built target 97.Interleaving_String"
 .PHONY : CMakeFiles/97.Interleaving_String.dir/all
 
 # Include target in all.
@@ -626,7 +663,7 @@ clean: CMakeFiles/97.Interleaving_String.dir/clean
 CMakeFiles/198.House_Robber.dir/all:
 	$(MAKE) -f CMakeFiles/198.House_Robber.dir/build.make CMakeFiles/198.House_Robber.dir/depend
 	$(MAKE) -f CMakeFiles/198.House_Robber.dir/build.make CMakeFiles/198.House_Robber.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 198.House_Robber"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=11 "Built target 198.House_Robber"
 .PHONY : CMakeFiles/198.House_Robber.dir/all
 
 # Include target in all.
@@ -636,7 +673,7 @@ all: CMakeFiles/198.House_Robber.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/198.House_Robber.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/198.House_Robber.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/198.House_Robber.dir/rule
@@ -663,7 +700,7 @@ clean: CMakeFiles/198.House_Robber.dir/clean
 CMakeFiles/Special_Multiplication.dir/all:
 	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/depend
 	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=75 "Built target Special_Multiplication"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target Special_Multiplication"
 .PHONY : CMakeFiles/Special_Multiplication.dir/all
 
 # Include target in all.
@@ -673,7 +710,7 @@ all: CMakeFiles/Special_Multiplication.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Special_Multiplication.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Special_Multiplication.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Special_Multiplication.dir/rule
@@ -700,7 +737,7 @@ clean: CMakeFiles/Special_Multiplication.dir/clean
 CMakeFiles/Binary_Tree_Order.dir/all:
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/depend
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target Binary_Tree_Order"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=50 "Built target Binary_Tree_Order"
 .PHONY : CMakeFiles/Binary_Tree_Order.dir/all
 
 # Include target in all.
@@ -710,7 +747,7 @@ all: CMakeFiles/Binary_Tree_Order.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Binary_Tree_Order.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Binary_Tree_Order.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Binary_Tree_Order.dir/rule
@@ -774,7 +811,7 @@ clean: CMakeFiles/1-2.dir/clean
 CMakeFiles/FatMouseTrade.dir/all:
 	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/depend
 	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=56 "Built target FatMouseTrade"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=56,57 "Built target FatMouseTrade"
 .PHONY : CMakeFiles/FatMouseTrade.dir/all
 
 # Include target in all.
@@ -784,7 +821,7 @@ all: CMakeFiles/FatMouseTrade.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FatMouseTrade.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/FatMouseTrade.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/FatMouseTrade.dir/rule
@@ -811,7 +848,7 @@ clean: CMakeFiles/FatMouseTrade.dir/clean
 CMakeFiles/BubbleSort.dir/all:
 	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/depend
 	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=52,53 "Built target BubbleSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target BubbleSort"
 .PHONY : CMakeFiles/BubbleSort.dir/all
 
 # Include target in all.
@@ -848,7 +885,7 @@ clean: CMakeFiles/BubbleSort.dir/clean
 CMakeFiles/Huffman_Tree.dir/all:
 	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/depend
 	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=63 "Built target Huffman_Tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target Huffman_Tree"
 .PHONY : CMakeFiles/Huffman_Tree.dir/all
 
 # Include target in all.
@@ -858,7 +895,7 @@ all: CMakeFiles/Huffman_Tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Huffman_Tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Huffman_Tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Huffman_Tree.dir/rule
@@ -885,7 +922,7 @@ clean: CMakeFiles/Huffman_Tree.dir/clean
 CMakeFiles/data1.dir/all:
 	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/depend
 	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target data1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=84 "Built target data1"
 .PHONY : CMakeFiles/data1.dir/all
 
 # Include target in all.
@@ -895,7 +932,7 @@ all: CMakeFiles/data1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/data1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/data1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/data1.dir/rule
@@ -922,7 +959,7 @@ clean: CMakeFiles/data1.dir/clean
 CMakeFiles/SeqList.dir/all:
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/depend
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target SeqList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=72 "Built target SeqList"
 .PHONY : CMakeFiles/SeqList.dir/all
 
 # Include target in all.
@@ -932,7 +969,7 @@ all: CMakeFiles/SeqList.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SeqList.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SeqList.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SeqList.dir/rule
@@ -959,7 +996,7 @@ clean: CMakeFiles/SeqList.dir/clean
 CMakeFiles/Hash2.dir/all:
 	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/depend
 	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target Hash2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=62 "Built target Hash2"
 .PHONY : CMakeFiles/Hash2.dir/all
 
 # Include target in all.
@@ -969,7 +1006,7 @@ all: CMakeFiles/Hash2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Hash2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Hash2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Hash2.dir/rule
@@ -996,7 +1033,7 @@ clean: CMakeFiles/Hash2.dir/clean
 CMakeFiles/UncommonWordsfromTwoSentences.dir/all:
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/depend
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=76,77 "Built target UncommonWordsfromTwoSentences"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=77 "Built target UncommonWordsfromTwoSentences"
 .PHONY : CMakeFiles/UncommonWordsfromTwoSentences.dir/all
 
 # Include target in all.
@@ -1006,7 +1043,7 @@ all: CMakeFiles/UncommonWordsfromTwoSentences.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/UncommonWordsfromTwoSentences.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/UncommonWordsfromTwoSentences.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/UncommonWordsfromTwoSentences.dir/rule
@@ -1107,7 +1144,7 @@ clean: CMakeFiles/sort.dir/clean
 CMakeFiles/Not_AC.dir/all:
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/depend
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=68 "Built target Not_AC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=68,69 "Built target Not_AC"
 .PHONY : CMakeFiles/Not_AC.dir/all
 
 # Include target in all.
@@ -1117,7 +1154,7 @@ all: CMakeFiles/Not_AC.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Not_AC.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Not_AC.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Not_AC.dir/rule
@@ -1255,7 +1292,7 @@ clean: CMakeFiles/tianda2019-2.dir/clean
 CMakeFiles/213.House_Robber_II.dir/all:
 	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/depend
 	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 213.House_Robber_II"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target 213.House_Robber_II"
 .PHONY : CMakeFiles/213.House_Robber_II.dir/all
 
 # Include target in all.
@@ -1265,7 +1302,7 @@ all: CMakeFiles/213.House_Robber_II.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/213.House_Robber_II.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/213.House_Robber_II.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/213.House_Robber_II.dir/rule
@@ -1292,7 +1329,7 @@ clean: CMakeFiles/213.House_Robber_II.dir/clean
 CMakeFiles/Another_A+B.dir/all:
 	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/depend
 	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target Another_A+B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=48,49 "Built target Another_A+B"
 .PHONY : CMakeFiles/Another_A+B.dir/all
 
 # Include target in all.
@@ -1329,7 +1366,7 @@ clean: CMakeFiles/Another_A+B.dir/clean
 CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all:
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/depend
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=37 "Built target 674.Longest_Continuous_Increasing_Subsequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 674.Longest_Continuous_Increasing_Subsequence"
 .PHONY : CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all
 
 # Include target in all.
@@ -1366,7 +1403,7 @@ clean: CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/clean
 CMakeFiles/35.Search_Insert_Position.dir/all:
 	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/depend
 	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=30,31 "Built target 35.Search_Insert_Position"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 35.Search_Insert_Position"
 .PHONY : CMakeFiles/35.Search_Insert_Position.dir/all
 
 # Include target in all.
@@ -1477,7 +1514,7 @@ clean: CMakeFiles/279.Perfect_Squares.dir/clean
 CMakeFiles/Hash1.dir/all:
 	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/depend
 	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target Hash1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=60,61 "Built target Hash1"
 .PHONY : CMakeFiles/Hash1.dir/all
 
 # Include target in all.
@@ -1625,7 +1662,7 @@ clean: CMakeFiles/Unique_Binary_Search_Trees.dir/clean
 CMakeFiles/PathSum.dir/all:
 	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/depend
 	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target PathSum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=70,71 "Built target PathSum"
 .PHONY : CMakeFiles/PathSum.dir/all
 
 # Include target in all.
@@ -1699,7 +1736,7 @@ clean: CMakeFiles/162.Find_Peak_Element.dir/clean
 CMakeFiles/Graphmtx.dir/all:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/depend
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target Graphmtx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=58,59 "Built target Graphmtx"
 .PHONY : CMakeFiles/Graphmtx.dir/all
 
 # Include target in all.
@@ -1736,7 +1773,7 @@ clean: CMakeFiles/Graphmtx.dir/clean
 CMakeFiles/CombinationSumIII.dir/all:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/depend
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=54,55 "Built target CombinationSumIII"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=55 "Built target CombinationSumIII"
 .PHONY : CMakeFiles/CombinationSumIII.dir/all
 
 # Include target in all.
@@ -1746,7 +1783,7 @@ all: CMakeFiles/CombinationSumIII.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CombinationSumIII.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CombinationSumIII.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CombinationSumIII.dir/rule
@@ -1773,7 +1810,7 @@ clean: CMakeFiles/CombinationSumIII.dir/clean
 CMakeFiles/704.Binary_Search.dir/all:
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/depend
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=40,41 "Built target 704.Binary_Search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 704.Binary_Search"
 .PHONY : CMakeFiles/704.Binary_Search.dir/all
 
 # Include target in all.
@@ -1810,7 +1847,7 @@ clean: CMakeFiles/704.Binary_Search.dir/clean
 CMakeFiles/search.dir/all:
 	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/depend
 	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=88,89 "Built target search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=89 "Built target search"
 .PHONY : CMakeFiles/search.dir/all
 
 # Include target in all.
@@ -1820,7 +1857,7 @@ all: CMakeFiles/search.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/search.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/search.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/search.dir/rule
@@ -1847,7 +1884,7 @@ clean: CMakeFiles/search.dir/clean
 CMakeFiles/66.PlusOne.dir/all:
 	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/depend
 	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 66.PlusOne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=36,37 "Built target 66.PlusOne"
 .PHONY : CMakeFiles/66.PlusOne.dir/all
 
 # Include target in all.
@@ -1884,7 +1921,7 @@ clean: CMakeFiles/66.PlusOne.dir/clean
 CMakeFiles/Bracket_Matching_Problem.dir/all:
 	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/depend
 	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=51 "Built target Bracket_Matching_Problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target Bracket_Matching_Problem"
 .PHONY : CMakeFiles/Bracket_Matching_Problem.dir/all
 
 # Include target in all.
@@ -1894,7 +1931,7 @@ all: CMakeFiles/Bracket_Matching_Problem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Bracket_Matching_Problem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Bracket_Matching_Problem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Bracket_Matching_Problem.dir/rule
@@ -1921,7 +1958,7 @@ clean: CMakeFiles/Bracket_Matching_Problem.dir/clean
 CMakeFiles/300.Longest_Increasing_Subsequence.dir/all:
 	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/depend
 	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=28,29 "Built target 300.Longest_Increasing_Subsequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 300.Longest_Increasing_Subsequence"
 .PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
 
 # Include target in all.
@@ -1931,7 +1968,7 @@ all: CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule
@@ -1958,7 +1995,7 @@ clean: CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
 CMakeFiles/Linknode.dir/all:
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/depend
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=66,67 "Built target Linknode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=67 "Built target Linknode"
 .PHONY : CMakeFiles/Linknode.dir/all
 
 # Include target in all.
@@ -1968,7 +2005,7 @@ all: CMakeFiles/Linknode.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Linknode.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Linknode.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Linknode.dir/rule
@@ -1995,7 +2032,7 @@ clean: CMakeFiles/Linknode.dir/clean
 CMakeFiles/64.Minimum_Path_Sum.dir/all:
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/depend
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 64.Minimum_Path_Sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=34,35 "Built target 64.Minimum_Path_Sum"
 .PHONY : CMakeFiles/64.Minimum_Path_Sum.dir/all
 
 # Include target in all.
@@ -2069,7 +2106,7 @@ clean: CMakeFiles/data2.dir/clean
 CMakeFiles/69.Sqrtx.dir/all:
 	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/depend
 	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=38,39 "Built target 69.Sqrtx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 69.Sqrtx"
 .PHONY : CMakeFiles/69.Sqrtx.dir/all
 
 # Include target in all.
@@ -2106,7 +2143,7 @@ clean: CMakeFiles/69.Sqrtx.dir/clean
 CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/all:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/depend
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 448.Find_All_Numbers_Disappeared_in_an_Array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=33 "Built target 448.Find_All_Numbers_Disappeared_in_an_Array"
 .PHONY : CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/all
 
 # Include target in all.
@@ -2143,7 +2180,7 @@ clean: CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/clean
 CMakeFiles/771.JewelsandStones.dir/all:
 	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/depend
 	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=44 "Built target 771.JewelsandStones"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 771.JewelsandStones"
 .PHONY : CMakeFiles/771.JewelsandStones.dir/all
 
 # Include target in all.
@@ -2180,7 +2217,7 @@ clean: CMakeFiles/771.JewelsandStones.dir/clean
 CMakeFiles/72.Edit_Distance.dir/all:
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/depend
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=42,43 "Built target 72.Edit_Distance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 72.Edit_Distance"
 .PHONY : CMakeFiles/72.Edit_Distance.dir/all
 
 # Include target in all.

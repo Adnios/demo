@@ -215,19 +215,6 @@ tianda2019-1/fast:
 .PHONY : 2018-3/fast
 
 #=============================================================================
-# Target rules for targets named 2018-2
-
-# Build rule for target.
-2018-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 2018-2
-.PHONY : 2018-2
-
-# fast build rule for target.
-2018-2/fast:
-	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
-.PHONY : 2018-2/fast
-
-#=============================================================================
 # Target rules for targets named 2018-1
 
 # Build rule for target.
@@ -278,6 +265,32 @@ SeqStack: cmake_check_build_system
 SeqStack/fast:
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
 .PHONY : SeqStack/fast
+
+#=============================================================================
+# Target rules for targets named 2018-2
+
+# Build rule for target.
+2018-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2018-2
+.PHONY : 2018-2
+
+# fast build rule for target.
+2018-2/fast:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
+.PHONY : 2018-2/fast
+
+#=============================================================================
+# Target rules for targets named 401.Binary_Watch
+
+# Build rule for target.
+401.Binary_Watch: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 401.Binary_Watch
+.PHONY : 401.Binary_Watch
+
+# fast build rule for target.
+401.Binary_Watch/fast:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/build
+.PHONY : 401.Binary_Watch/fast
 
 #=============================================================================
 # Target rules for targets named 143.Reorder_List
@@ -1620,6 +1633,33 @@ LeetCode/35.Search_Insert_Position/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/LeetCode/35.Search_Insert_Position/Solution.cpp.s
 .PHONY : LeetCode/35.Search_Insert_Position/Solution.cpp.s
 
+LeetCode/401.Binary_Watch.o: LeetCode/401.Binary_Watch.cpp.o
+
+.PHONY : LeetCode/401.Binary_Watch.o
+
+# target to build an object file
+LeetCode/401.Binary_Watch.cpp.o:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/LeetCode/401.Binary_Watch.cpp.o
+.PHONY : LeetCode/401.Binary_Watch.cpp.o
+
+LeetCode/401.Binary_Watch.i: LeetCode/401.Binary_Watch.cpp.i
+
+.PHONY : LeetCode/401.Binary_Watch.i
+
+# target to preprocess a source file
+LeetCode/401.Binary_Watch.cpp.i:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/LeetCode/401.Binary_Watch.cpp.i
+.PHONY : LeetCode/401.Binary_Watch.cpp.i
+
+LeetCode/401.Binary_Watch.s: LeetCode/401.Binary_Watch.cpp.s
+
+.PHONY : LeetCode/401.Binary_Watch.s
+
+# target to generate assembly for a file
+LeetCode/401.Binary_Watch.cpp.s:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/LeetCode/401.Binary_Watch.cpp.s
+.PHONY : LeetCode/401.Binary_Watch.cpp.s
+
 LeetCode/44.Wildcard_Matching/Solution.o: LeetCode/44.Wildcard_Matching/Solution.cpp.o
 
 .PHONY : LeetCode/44.Wildcard_Matching/Solution.o
@@ -2444,11 +2484,12 @@ help:
 	@echo "... 2-1"
 	@echo "... tianda2019-1"
 	@echo "... 2018-3"
-	@echo "... 2018-2"
 	@echo "... 2018-1"
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 2018-2"
+	@echo "... 401.Binary_Watch"
 	@echo "... 143.Reorder_List"
 	@echo "... 97.Interleaving_String"
 	@echo "... 198.House_Robber"
@@ -2580,6 +2621,9 @@ help:
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.o"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.i"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.s"
+	@echo "... LeetCode/401.Binary_Watch.o"
+	@echo "... LeetCode/401.Binary_Watch.i"
+	@echo "... LeetCode/401.Binary_Watch.s"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.o"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.i"
 	@echo "... LeetCode/44.Wildcard_Matching/Solution.s"
