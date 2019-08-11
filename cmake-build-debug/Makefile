@@ -267,6 +267,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 263.Ugly_Number
+
+# Build rule for target.
+263.Ugly_Number: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 263.Ugly_Number
+.PHONY : 263.Ugly_Number
+
+# fast build rule for target.
+263.Ugly_Number/fast:
+	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/build
+.PHONY : 263.Ugly_Number/fast
+
+#=============================================================================
 # Target rules for targets named 2018-2
 
 # Build rule for target.
@@ -1552,6 +1565,33 @@ LeetCode/216.CombinationSumIII/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.s
 .PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.s
 
+LeetCode/263.Ugly_Number.o: LeetCode/263.Ugly_Number.cpp.o
+
+.PHONY : LeetCode/263.Ugly_Number.o
+
+# target to build an object file
+LeetCode/263.Ugly_Number.cpp.o:
+	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/LeetCode/263.Ugly_Number.cpp.o
+.PHONY : LeetCode/263.Ugly_Number.cpp.o
+
+LeetCode/263.Ugly_Number.i: LeetCode/263.Ugly_Number.cpp.i
+
+.PHONY : LeetCode/263.Ugly_Number.i
+
+# target to preprocess a source file
+LeetCode/263.Ugly_Number.cpp.i:
+	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/LeetCode/263.Ugly_Number.cpp.i
+.PHONY : LeetCode/263.Ugly_Number.cpp.i
+
+LeetCode/263.Ugly_Number.s: LeetCode/263.Ugly_Number.cpp.s
+
+.PHONY : LeetCode/263.Ugly_Number.s
+
+# target to generate assembly for a file
+LeetCode/263.Ugly_Number.cpp.s:
+	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/LeetCode/263.Ugly_Number.cpp.s
+.PHONY : LeetCode/263.Ugly_Number.cpp.s
+
 LeetCode/279.Perfect_Squares.o: LeetCode/279.Perfect_Squares.cpp.o
 
 .PHONY : LeetCode/279.Perfect_Squares.o
@@ -2488,6 +2528,7 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 263.Ugly_Number"
 	@echo "... 2018-2"
 	@echo "... 401.Binary_Watch"
 	@echo "... 143.Reorder_List"
@@ -2612,6 +2653,9 @@ help:
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
+	@echo "... LeetCode/263.Ugly_Number.o"
+	@echo "... LeetCode/263.Ugly_Number.i"
+	@echo "... LeetCode/263.Ugly_Number.s"
 	@echo "... LeetCode/279.Perfect_Squares.o"
 	@echo "... LeetCode/279.Perfect_Squares.i"
 	@echo "... LeetCode/279.Perfect_Squares.s"
