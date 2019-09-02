@@ -569,6 +569,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="962.Maximum_Width_Ramp">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/962.Maximum_Width_Ramp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 962.Maximum_Width_Ramp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="962.Maximum_Width_Ramp/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/962.Maximum_Width_Ramp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 962.Maximum_Width_Ramp/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="263.Ugly_Number">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/263.Ugly_Number" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -2567,6 +2613,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="22.Generate_Parentheses">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/22.Generate_Parentheses" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 22.Generate_Parentheses"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22.Generate_Parentheses/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/22.Generate_Parentheses" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 22.Generate_Parentheses/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="data2">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/data2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -2873,6 +2965,9 @@
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/216.CombinationSumIII/Solution.cpp">
 			<Option target="CombinationSumIII"/>
 		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/22.Generate_Parentheses.cpp">
+			<Option target="22.Generate_Parentheses"/>
+		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/263.Ugly_Number.cpp">
 			<Option target="263.Ugly_Number"/>
 		</Unit>
@@ -2920,6 +3015,9 @@
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp">
 			<Option target="Unique_Binary_Search_Trees"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/962.Maximum_Width_Ramp.cpp">
+			<Option target="962.Maximum_Width_Ramp"/>
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/97.Interleaving_String.cpp">
 			<Option target="97.Interleaving_String"/>

@@ -267,6 +267,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 962.Maximum_Width_Ramp
+
+# Build rule for target.
+962.Maximum_Width_Ramp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 962.Maximum_Width_Ramp
+.PHONY : 962.Maximum_Width_Ramp
+
+# fast build rule for target.
+962.Maximum_Width_Ramp/fast:
+	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/build
+.PHONY : 962.Maximum_Width_Ramp/fast
+
+#=============================================================================
 # Target rules for targets named 263.Ugly_Number
 
 # Build rule for target.
@@ -824,6 +837,19 @@ Linknode/fast:
 64.Minimum_Path_Sum/fast:
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
 .PHONY : 64.Minimum_Path_Sum/fast
+
+#=============================================================================
+# Target rules for targets named 22.Generate_Parentheses
+
+# Build rule for target.
+22.Generate_Parentheses: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 22.Generate_Parentheses
+.PHONY : 22.Generate_Parentheses
+
+# fast build rule for target.
+22.Generate_Parentheses/fast:
+	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/build
+.PHONY : 22.Generate_Parentheses/fast
 
 #=============================================================================
 # Target rules for targets named data2
@@ -1565,6 +1591,33 @@ LeetCode/216.CombinationSumIII/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.s
 .PHONY : LeetCode/216.CombinationSumIII/Solution.cpp.s
 
+LeetCode/22.Generate_Parentheses.o: LeetCode/22.Generate_Parentheses.cpp.o
+
+.PHONY : LeetCode/22.Generate_Parentheses.o
+
+# target to build an object file
+LeetCode/22.Generate_Parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/LeetCode/22.Generate_Parentheses.cpp.o
+.PHONY : LeetCode/22.Generate_Parentheses.cpp.o
+
+LeetCode/22.Generate_Parentheses.i: LeetCode/22.Generate_Parentheses.cpp.i
+
+.PHONY : LeetCode/22.Generate_Parentheses.i
+
+# target to preprocess a source file
+LeetCode/22.Generate_Parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/LeetCode/22.Generate_Parentheses.cpp.i
+.PHONY : LeetCode/22.Generate_Parentheses.cpp.i
+
+LeetCode/22.Generate_Parentheses.s: LeetCode/22.Generate_Parentheses.cpp.s
+
+.PHONY : LeetCode/22.Generate_Parentheses.s
+
+# target to generate assembly for a file
+LeetCode/22.Generate_Parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/LeetCode/22.Generate_Parentheses.cpp.s
+.PHONY : LeetCode/22.Generate_Parentheses.cpp.s
+
 LeetCode/263.Ugly_Number.o: LeetCode/263.Ugly_Number.cpp.o
 
 .PHONY : LeetCode/263.Ugly_Number.o
@@ -1996,6 +2049,33 @@ LeetCode/96.Unique_Binary_Search_Trees/Solution.s: LeetCode/96.Unique_Binary_Sea
 LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s:
 	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s
 .PHONY : LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.s
+
+LeetCode/962.Maximum_Width_Ramp.o: LeetCode/962.Maximum_Width_Ramp.cpp.o
+
+.PHONY : LeetCode/962.Maximum_Width_Ramp.o
+
+# target to build an object file
+LeetCode/962.Maximum_Width_Ramp.cpp.o:
+	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/LeetCode/962.Maximum_Width_Ramp.cpp.o
+.PHONY : LeetCode/962.Maximum_Width_Ramp.cpp.o
+
+LeetCode/962.Maximum_Width_Ramp.i: LeetCode/962.Maximum_Width_Ramp.cpp.i
+
+.PHONY : LeetCode/962.Maximum_Width_Ramp.i
+
+# target to preprocess a source file
+LeetCode/962.Maximum_Width_Ramp.cpp.i:
+	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/LeetCode/962.Maximum_Width_Ramp.cpp.i
+.PHONY : LeetCode/962.Maximum_Width_Ramp.cpp.i
+
+LeetCode/962.Maximum_Width_Ramp.s: LeetCode/962.Maximum_Width_Ramp.cpp.s
+
+.PHONY : LeetCode/962.Maximum_Width_Ramp.s
+
+# target to generate assembly for a file
+LeetCode/962.Maximum_Width_Ramp.cpp.s:
+	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/LeetCode/962.Maximum_Width_Ramp.cpp.s
+.PHONY : LeetCode/962.Maximum_Width_Ramp.cpp.s
 
 LeetCode/97.Interleaving_String.o: LeetCode/97.Interleaving_String.cpp.o
 
@@ -2528,6 +2608,7 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 962.Maximum_Width_Ramp"
 	@echo "... 263.Ugly_Number"
 	@echo "... 2018-2"
 	@echo "... 401.Binary_Watch"
@@ -2573,6 +2654,7 @@ help:
 	@echo "... 300.Longest_Increasing_Subsequence"
 	@echo "... Linknode"
 	@echo "... 64.Minimum_Path_Sum"
+	@echo "... 22.Generate_Parentheses"
 	@echo "... data2"
 	@echo "... 69.Sqrtx"
 	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
@@ -2653,6 +2735,9 @@ help:
 	@echo "... LeetCode/216.CombinationSumIII/Solution.o"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.i"
 	@echo "... LeetCode/216.CombinationSumIII/Solution.s"
+	@echo "... LeetCode/22.Generate_Parentheses.o"
+	@echo "... LeetCode/22.Generate_Parentheses.i"
+	@echo "... LeetCode/22.Generate_Parentheses.s"
 	@echo "... LeetCode/263.Ugly_Number.o"
 	@echo "... LeetCode/263.Ugly_Number.i"
 	@echo "... LeetCode/263.Ugly_Number.s"
@@ -2701,6 +2786,9 @@ help:
 	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.o"
 	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.i"
 	@echo "... LeetCode/96.Unique_Binary_Search_Trees/Solution.s"
+	@echo "... LeetCode/962.Maximum_Width_Ramp.o"
+	@echo "... LeetCode/962.Maximum_Width_Ramp.i"
+	@echo "... LeetCode/962.Maximum_Width_Ramp.s"
 	@echo "... LeetCode/97.Interleaving_String.o"
 	@echo "... LeetCode/97.Interleaving_String.i"
 	@echo "... LeetCode/97.Interleaving_String.s"

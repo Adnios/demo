@@ -49,6 +49,8 @@ add_executable(97.Interleaving_String LeetCode/97.Interleaving_String.cpp)
 add_executable(143.Reorder_List LeetCode/143.Reorder_List.cpp)
 add_executable(401.Binary_Watch LeetCode/401.Binary_Watch.cpp)
 add_executable(263.Ugly_Number LeetCode/263.Ugly_Number.cpp)
+add_executable(962.Maximum_Width_Ramp LeetCode/962.Maximum_Width_Ramp.cpp)
+add_executable(22.Generate_Parentheses LeetCode/22.Generate_Parentheses.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
