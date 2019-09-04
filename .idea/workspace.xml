@@ -26,15 +26,16 @@
       <config projectName="demo" targetName="Not_AC" />
       <config projectName="demo" targetName="263.Ugly_Number" />
       <config projectName="demo" targetName="2019-1" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
       <config projectName="demo" targetName="sort_the_struct2" />
       <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
       <config projectName="demo" targetName="sort_the_struct1" />
       <config projectName="demo" targetName="72.Edit_Distance" />
       <config projectName="demo" targetName="Huffman_Tree" />
+      <config projectName="demo" targetName="503.Next_Greater_Element_II" />
       <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
-      <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="bit2019-1" />
       <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
       <config projectName="demo" targetName="143.Reorder_List" />
       <config projectName="demo" targetName="Wildcard_Matching" />
@@ -57,8 +58,8 @@
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
       <config projectName="demo" targetName="2018-3" />
       <config projectName="demo" targetName="198.House_Robber" />
-      <config projectName="demo" targetName="2018-1" />
       <config projectName="demo" targetName="64.Minimum_Path_Sum" />
+      <config projectName="demo" targetName="2018-1" />
       <config projectName="demo" targetName="2018-2" />
       <config projectName="demo" targetName="2014-1" />
       <config projectName="demo" targetName="sort" />
@@ -73,9 +74,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/208.Implement_Trie(Prefix_Tree).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/503.Next_Greater_Element_II.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -105,17 +104,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state relative-caret-position="345">
+              <caret line="53" column="84" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp">
+        <entry file="file://$PROJECT_DIR$/LeetCode/503.Next_Greater_Element_II.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="2" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="28" selection-end-column="2" />
               <folding>
                 <element signature="e#38#57#0" expanded="true" />
               </folding>
@@ -147,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/216.CombinationSumIII/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/112.PathSum/Solution.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/938.RangeSumofBST/Solution.cpp" />
@@ -196,8 +194,9 @@
         <option value="$PROJECT_DIR$/LeetCode/401.Binary_Watch.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/263.Ugly_Number.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/503.Next_Greater_Element_II.cpp" />
       </list>
     </option>
   </component>
@@ -275,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.22.Generate_Parentheses">
+  <component name="RunManager" selected="CMake Application.503.Next_Greater_Element_II">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -382,6 +381,11 @@
       </method>
     </configuration>
     <configuration name="448.Find_All_Numbers_Disappeared_in_an_Array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="448.Find_All_Numbers_Disappeared_in_an_Array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="448.Find_All_Numbers_Disappeared_in_an_Array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="503.Next_Greater_Element_II" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="503.Next_Greater_Element_II" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="503.Next_Greater_Element_II">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -609,6 +613,7 @@
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
       <item itemvalue="CMake Application.401.Binary_Watch" />
       <item itemvalue="CMake Application.448.Find_All_Numbers_Disappeared_in_an_Array" />
+      <item itemvalue="CMake Application.503.Next_Greater_Element_II" />
       <item itemvalue="CMake Application.64.Minimum_Path_Sum" />
       <item itemvalue="CMake Application.66.PlusOne" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
@@ -741,7 +746,9 @@
       <workItem from="1565693690582" duration="788000" />
       <workItem from="1567264066017" duration="215000" />
       <workItem from="1567313943741" duration="1237000" />
-      <workItem from="1567415814136" duration="2105000" />
+      <workItem from="1567415814136" duration="2587000" />
+      <workItem from="1567566943391" duration="598000" />
+      <workItem from="1567583399560" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -988,11 +995,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565488548413</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2019/9/2/LeetCode练习">
+      <created>1567423125597</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1567423125598</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174342000" />
+    <option name="totallyTimeSpent" value="176430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1004,25 +1018,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="28" width="1338" height="740" extended-state="6" />
+    <frame x="37" y="25" width="1329" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27167183" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27123928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960783" visible="true" weight="0.32189542" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960783" visible="true" weight="0.3203252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32189542" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3203252" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039214" side_tool="true" weight="0.31869918" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3241491" />
-      <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49960783" weight="0.31699347" />
+      <window_info anchor="bottom" id="CMake" order="12" sideWeight="0.49960783" weight="0.31544715" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1106,7 +1120,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/17/LeetCode/884. Uncommon Words from Two Sentences" />
     <MESSAGE value="18/5/17/LeetCode/216. Combination Sum III" />
     <MESSAGE value="18/5/18/LeetCode/216. Combination Sum III" />
     <MESSAGE value="18/5/19/LeetCode/112. Path Sum" />
@@ -1131,16 +1144,10 @@
     <MESSAGE value="2019/8/9/LeetCode练习" />
     <MESSAGE value="2019/8/10/LeetCode练习" />
     <MESSAGE value="2019/8/11/LeetCode练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/8/11/LeetCode练习" />
+    <MESSAGE value="2019/9/2/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/2/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/69.Sqrtx/Solution.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/66.PlusOne/Solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1525,17 +1532,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+        <state relative-caret-position="52">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#38#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="2" />
+        <state relative-caret-position="345">
+          <caret line="53" column="84" selection-start-line="53" selection-start-column="84" selection-end-line="53" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/503.Next_Greater_Element_II.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="28" selection-end-column="2" />
           <folding>
             <element signature="e#38#57#0" expanded="true" />
           </folding>

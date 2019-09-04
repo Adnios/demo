@@ -267,6 +267,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 503.Next_Greater_Element_II
+
+# Build rule for target.
+503.Next_Greater_Element_II: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 503.Next_Greater_Element_II
+.PHONY : 503.Next_Greater_Element_II
+
+# fast build rule for target.
+503.Next_Greater_Element_II/fast:
+	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/build
+.PHONY : 503.Next_Greater_Element_II/fast
+
+#=============================================================================
 # Target rules for targets named 962.Maximum_Width_Ramp
 
 # Build rule for target.
@@ -1807,6 +1820,33 @@ LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 .PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 
+LeetCode/503.Next_Greater_Element_II.o: LeetCode/503.Next_Greater_Element_II.cpp.o
+
+.PHONY : LeetCode/503.Next_Greater_Element_II.o
+
+# target to build an object file
+LeetCode/503.Next_Greater_Element_II.cpp.o:
+	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.o
+.PHONY : LeetCode/503.Next_Greater_Element_II.cpp.o
+
+LeetCode/503.Next_Greater_Element_II.i: LeetCode/503.Next_Greater_Element_II.cpp.i
+
+.PHONY : LeetCode/503.Next_Greater_Element_II.i
+
+# target to preprocess a source file
+LeetCode/503.Next_Greater_Element_II.cpp.i:
+	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.i
+.PHONY : LeetCode/503.Next_Greater_Element_II.cpp.i
+
+LeetCode/503.Next_Greater_Element_II.s: LeetCode/503.Next_Greater_Element_II.cpp.s
+
+.PHONY : LeetCode/503.Next_Greater_Element_II.s
+
+# target to generate assembly for a file
+LeetCode/503.Next_Greater_Element_II.cpp.s:
+	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.s
+.PHONY : LeetCode/503.Next_Greater_Element_II.cpp.s
+
 LeetCode/64.Minimum_Path_Sum.o: LeetCode/64.Minimum_Path_Sum.cpp.o
 
 .PHONY : LeetCode/64.Minimum_Path_Sum.o
@@ -2608,6 +2648,7 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 503.Next_Greater_Element_II"
 	@echo "... 962.Maximum_Width_Ramp"
 	@echo "... 263.Ugly_Number"
 	@echo "... 2018-2"
@@ -2759,6 +2800,9 @@ help:
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s"
+	@echo "... LeetCode/503.Next_Greater_Element_II.o"
+	@echo "... LeetCode/503.Next_Greater_Element_II.i"
+	@echo "... LeetCode/503.Next_Greater_Element_II.s"
 	@echo "... LeetCode/64.Minimum_Path_Sum.o"
 	@echo "... LeetCode/64.Minimum_Path_Sum.i"
 	@echo "... LeetCode/64.Minimum_Path_Sum.s"

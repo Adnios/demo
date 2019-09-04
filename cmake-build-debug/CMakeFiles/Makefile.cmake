@@ -60,6 +60,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/floyed.dir/DependInfo.cmake"
   "CMakeFiles/LinkedStack.dir/DependInfo.cmake"
   "CMakeFiles/SeqStack.dir/DependInfo.cmake"
+  "CMakeFiles/503.Next_Greater_Element_II.dir/DependInfo.cmake"
   "CMakeFiles/962.Maximum_Width_Ramp.dir/DependInfo.cmake"
   "CMakeFiles/263.Ugly_Number.dir/DependInfo.cmake"
   "CMakeFiles/2018-2.dir/DependInfo.cmake"
