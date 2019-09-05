@@ -2,70 +2,70 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="Special_Multiplication" />
-      <config projectName="demo" targetName="771.JewelsandStones" />
       <config projectName="demo" targetName="search" />
-      <config projectName="demo" targetName="401.Binary_Watch" />
-      <config projectName="demo" targetName="461.Hamming_Distance" />
-      <config projectName="demo" targetName="Hash2" />
-      <config projectName="demo" targetName="Hash1" />
-      <config projectName="demo" targetName="704.Binary_Search" />
-      <config projectName="demo" targetName="data2" />
-      <config projectName="demo" targetName="data1" />
-      <config projectName="demo" targetName="22.Generate_Parentheses" />
-      <config projectName="demo" targetName="1-2" />
-      <config projectName="demo" targetName="1-1" />
-      <config projectName="demo" targetName="SeqStack" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="FatMouseTrade" />
-      <config projectName="demo" targetName="97.Interleaving_String" />
-      <config projectName="demo" targetName="CombinationSumIII" />
-      <config projectName="demo" targetName="962.Maximum_Width_Ramp" />
-      <config projectName="demo" targetName="LinkedStack" />
-      <config projectName="demo" targetName="213.House_Robber_II" />
       <config projectName="demo" targetName="Not_AC" />
-      <config projectName="demo" targetName="263.Ugly_Number" />
-      <config projectName="demo" targetName="2019-1" />
-      <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
-      <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="72.Edit_Distance" />
-      <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="503.Next_Greater_Element_II" />
-      <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
-      <config projectName="demo" targetName="bit2019-1" />
-      <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
-      <config projectName="demo" targetName="143.Reorder_List" />
-      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="704.Binary_Search" />
+      <config projectName="demo" targetName="PathSum" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="962.Maximum_Width_Ramp" />
+      <config projectName="demo" targetName="data2" />
+      <config projectName="demo" targetName="213.House_Robber_II" />
+      <config projectName="demo" targetName="97.Interleaving_String" />
+      <config projectName="demo" targetName="Hash1" />
+      <config projectName="demo" targetName="1-2" />
+      <config projectName="demo" targetName="2014-1" />
       <config projectName="demo" targetName="BubbleSort" />
+      <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="sort_the_struct2" />
+      <config projectName="demo" targetName="sort" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="69.Sqrtx" />
+      <config projectName="demo" targetName="Hash2" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="771.JewelsandStones" />
+      <config projectName="demo" targetName="279.Perfect_Squares" />
+      <config projectName="demo" targetName="503.Next_Greater_Element_II" />
+      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
+      <config projectName="demo" targetName="448.Find_All_Numbers_Disappeared_in_an_Array" />
+      <config projectName="demo" targetName="198.House_Robber" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
+      <config projectName="demo" targetName="461.Hamming_Distance" />
+      <config projectName="demo" targetName="72.Edit_Distance" />
+      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
+      <config projectName="demo" targetName="263.Ugly_Number" />
+      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Huffman_Tree" />
+      <config projectName="demo" targetName="2018-3" />
+      <config projectName="demo" targetName="2018-2" />
+      <config projectName="demo" targetName="2018-1" />
+      <config projectName="demo" targetName="tianda2019-1" />
+      <config projectName="demo" targetName="162.Find_Peak_Element" />
+      <config projectName="demo" targetName="Binary_Tree_Order" />
+      <config projectName="demo" targetName="Another_A+B" />
+      <config projectName="demo" targetName="2019-1" />
+      <config projectName="demo" targetName="1-1" />
+      <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
+      <config projectName="demo" targetName="tianda2019-2" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="2-2" />
+      <config projectName="demo" targetName="2-1" />
+      <config projectName="demo" targetName="22.Generate_Parentheses" />
+      <config projectName="demo" targetName="66.PlusOne" />
+      <config projectName="demo" targetName="bit2019-1" />
+      <config projectName="demo" targetName="143.Reorder_List" />
       <config projectName="demo" targetName="1025.Divisor_Game" />
       <config projectName="demo" targetName="Linknode" />
-      <config projectName="demo" targetName="tianda2019-1" />
-      <config projectName="demo" targetName="tianda2019-2" />
-      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
-      <config projectName="demo" targetName="2-1" />
-      <config projectName="demo" targetName="66.PlusOne" />
-      <config projectName="demo" targetName="2-2" />
-      <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="448.Find_All_Numbers_Disappeared_in_an_Array" />
-      <config projectName="demo" targetName="Binary_Tree_Order" />
-      <config projectName="demo" targetName="SeqList" />
-      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
-      <config projectName="demo" targetName="279.Perfect_Squares" />
-      <config projectName="demo" targetName="69.Sqrtx" />
-      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="2018-3" />
-      <config projectName="demo" targetName="198.House_Robber" />
-      <config projectName="demo" targetName="2018-1" />
-      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
-      <config projectName="demo" targetName="2018-2" />
-      <config projectName="demo" targetName="2014-1" />
-      <config projectName="demo" targetName="sort" />
-      <config projectName="demo" targetName="162.Find_Peak_Element" />
-      <config projectName="demo" targetName="PathSum" />
+      <config projectName="demo" targetName="data1" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="401.Binary_Watch" />
+      <config projectName="demo" targetName="Special_Multiplication" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -75,18 +75,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/461.Hamming_Distance.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,17 +94,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="810">
               <caret line="54" column="69" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/461.Hamming_Distance.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#38#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -189,11 +191,11 @@
         <option value="$PROJECT_DIR$/LeetCode/143.Reorder_List.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/401.Binary_Watch.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/263.Ugly_Number.cpp" />
-        <option value="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/503.Next_Greater_Element_II.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/461.Hamming_Distance.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp" />
       </list>
     </option>
   </component>
@@ -271,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.461.Hamming_Distance">
+  <component name="RunManager" selected="CMake Application.962.Maximum_Width_Ramp">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -752,7 +754,8 @@
       <workItem from="1567415814136" duration="2587000" />
       <workItem from="1567566943391" duration="598000" />
       <workItem from="1567583399560" duration="1159000" />
-      <workItem from="1567643556226" duration="987000" />
+      <workItem from="1567643556226" duration="1112000" />
+      <workItem from="1567681518389" duration="2360000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -1013,11 +1016,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567584541614</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2019/9/5/LeetCode练习">
+      <created>1567644635204</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1567644635204</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177568000" />
+    <option name="totallyTimeSpent" value="180053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1032,7 +1042,7 @@
     <frame x="701" y="25" width="665" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27591583" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2746365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1131,7 +1141,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/18/LeetCode/216. Combination Sum III" />
     <MESSAGE value="18/5/19/LeetCode/112. Path Sum" />
     <MESSAGE value="18/5/20/LeetCode/938. Range Sum of BST" />
     <MESSAGE value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
@@ -1156,7 +1165,8 @@
     <MESSAGE value="2019/8/11/LeetCode练习" />
     <MESSAGE value="2019/9/2/LeetCode练习" />
     <MESSAGE value="2019/9/4/LeetCode练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/4/LeetCode练习" />
+    <MESSAGE value="2019/9/5/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/5/LeetCode练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LeetCode/172.FactorialTrailingZeroes/Solution.cpp">
@@ -1523,16 +1533,6 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/208.Implement_Trie(Prefix_Tree).cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#38#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/22.Generate_Parentheses.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -1555,15 +1555,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="810">
           <caret line="54" column="69" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/461.Hamming_Distance.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/962.Maximum_Width_Ramp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#38#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
