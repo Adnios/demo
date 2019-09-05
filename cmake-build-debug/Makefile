@@ -150,19 +150,6 @@ bit2019-1/fast:
 .PHONY : bit2019-1/fast
 
 #=============================================================================
-# Target rules for targets named 1-1
-
-# Build rule for target.
-1-1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1-1
-.PHONY : 1-1
-
-# fast build rule for target.
-1-1/fast:
-	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/build
-.PHONY : 1-1/fast
-
-#=============================================================================
 # Target rules for targets named 2-2
 
 # Build rule for target.
@@ -265,6 +252,32 @@ SeqStack: cmake_check_build_system
 SeqStack/fast:
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
 .PHONY : SeqStack/fast
+
+#=============================================================================
+# Target rules for targets named 1-1
+
+# Build rule for target.
+1-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1-1
+.PHONY : 1-1
+
+# fast build rule for target.
+1-1/fast:
+	$(MAKE) -f CMakeFiles/1-1.dir/build.make CMakeFiles/1-1.dir/build
+.PHONY : 1-1/fast
+
+#=============================================================================
+# Target rules for targets named 461.Hamming_Distance
+
+# Build rule for target.
+461.Hamming_Distance: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 461.Hamming_Distance
+.PHONY : 461.Hamming_Distance
+
+# fast build rule for target.
+461.Hamming_Distance/fast:
+	$(MAKE) -f CMakeFiles/461.Hamming_Distance.dir/build.make CMakeFiles/461.Hamming_Distance.dir/build
+.PHONY : 461.Hamming_Distance/fast
 
 #=============================================================================
 # Target rules for targets named 503.Next_Greater_Element_II
@@ -1820,6 +1833,33 @@ LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 .PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 
+LeetCode/461.Hamming_Distance.o: LeetCode/461.Hamming_Distance.cpp.o
+
+.PHONY : LeetCode/461.Hamming_Distance.o
+
+# target to build an object file
+LeetCode/461.Hamming_Distance.cpp.o:
+	$(MAKE) -f CMakeFiles/461.Hamming_Distance.dir/build.make CMakeFiles/461.Hamming_Distance.dir/LeetCode/461.Hamming_Distance.cpp.o
+.PHONY : LeetCode/461.Hamming_Distance.cpp.o
+
+LeetCode/461.Hamming_Distance.i: LeetCode/461.Hamming_Distance.cpp.i
+
+.PHONY : LeetCode/461.Hamming_Distance.i
+
+# target to preprocess a source file
+LeetCode/461.Hamming_Distance.cpp.i:
+	$(MAKE) -f CMakeFiles/461.Hamming_Distance.dir/build.make CMakeFiles/461.Hamming_Distance.dir/LeetCode/461.Hamming_Distance.cpp.i
+.PHONY : LeetCode/461.Hamming_Distance.cpp.i
+
+LeetCode/461.Hamming_Distance.s: LeetCode/461.Hamming_Distance.cpp.s
+
+.PHONY : LeetCode/461.Hamming_Distance.s
+
+# target to generate assembly for a file
+LeetCode/461.Hamming_Distance.cpp.s:
+	$(MAKE) -f CMakeFiles/461.Hamming_Distance.dir/build.make CMakeFiles/461.Hamming_Distance.dir/LeetCode/461.Hamming_Distance.cpp.s
+.PHONY : LeetCode/461.Hamming_Distance.cpp.s
+
 LeetCode/503.Next_Greater_Element_II.o: LeetCode/503.Next_Greater_Element_II.cpp.o
 
 .PHONY : LeetCode/503.Next_Greater_Element_II.o
@@ -2639,7 +2679,6 @@ help:
 	@echo "... 2019-1"
 	@echo "... 2014-1"
 	@echo "... bit2019-1"
-	@echo "... 1-1"
 	@echo "... 2-2"
 	@echo "... 2-1"
 	@echo "... tianda2019-1"
@@ -2648,6 +2687,8 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 1-1"
+	@echo "... 461.Hamming_Distance"
 	@echo "... 503.Next_Greater_Element_II"
 	@echo "... 962.Maximum_Width_Ramp"
 	@echo "... 263.Ugly_Number"
@@ -2800,6 +2841,9 @@ help:
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s"
+	@echo "... LeetCode/461.Hamming_Distance.o"
+	@echo "... LeetCode/461.Hamming_Distance.i"
+	@echo "... LeetCode/461.Hamming_Distance.s"
 	@echo "... LeetCode/503.Next_Greater_Element_II.o"
 	@echo "... LeetCode/503.Next_Greater_Element_II.i"
 	@echo "... LeetCode/503.Next_Greater_Element_II.s"
