@@ -280,6 +280,19 @@ SeqStack/fast:
 .PHONY : 461.Hamming_Distance/fast
 
 #=============================================================================
+# Target rules for targets named 453.Minimum_Moves_to_Equal_Array_Elements
+
+# Build rule for target.
+453.Minimum_Moves_to_Equal_Array_Elements: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 453.Minimum_Moves_to_Equal_Array_Elements
+.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements
+
+# fast build rule for target.
+453.Minimum_Moves_to_Equal_Array_Elements/fast:
+	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build
+.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements/fast
+
+#=============================================================================
 # Target rules for targets named 503.Next_Greater_Element_II
 
 # Build rule for target.
@@ -1833,6 +1846,33 @@ LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 .PHONY : LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.s
 
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.o: LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o
+
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.o
+
+# target to build an object file
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o:
+	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o
+
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.i: LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.i
+
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.i
+
+# target to preprocess a source file
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.i:
+	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.i
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.i
+
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.s: LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.s
+
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.s
+
+# target to generate assembly for a file
+LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.s:
+	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.s
+.PHONY : LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.s
+
 LeetCode/461.Hamming_Distance.o: LeetCode/461.Hamming_Distance.cpp.o
 
 .PHONY : LeetCode/461.Hamming_Distance.o
@@ -2689,6 +2729,7 @@ help:
 	@echo "... SeqStack"
 	@echo "... 1-1"
 	@echo "... 461.Hamming_Distance"
+	@echo "... 453.Minimum_Moves_to_Equal_Array_Elements"
 	@echo "... 503.Next_Greater_Element_II"
 	@echo "... 962.Maximum_Width_Ramp"
 	@echo "... 263.Ugly_Number"
@@ -2841,6 +2882,9 @@ help:
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.o"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.i"
 	@echo "... LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.s"
+	@echo "... LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.o"
+	@echo "... LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.i"
+	@echo "... LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.s"
 	@echo "... LeetCode/461.Hamming_Distance.o"
 	@echo "... LeetCode/461.Hamming_Distance.i"
 	@echo "... LeetCode/461.Hamming_Distance.s"
