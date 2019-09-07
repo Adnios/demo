@@ -254,6 +254,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 322.Coin_Change
+
+# Build rule for target.
+322.Coin_Change: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 322.Coin_Change
+.PHONY : 322.Coin_Change
+
+# fast build rule for target.
+322.Coin_Change/fast:
+	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/build
+.PHONY : 322.Coin_Change/fast
+
+#=============================================================================
 # Target rules for targets named 1-1
 
 # Build rule for target.
@@ -1738,6 +1751,33 @@ LeetCode/300.Longest_Increasing_Subsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.s
 .PHONY : LeetCode/300.Longest_Increasing_Subsequence.cpp.s
 
+LeetCode/322.Coin_Change.o: LeetCode/322.Coin_Change.cpp.o
+
+.PHONY : LeetCode/322.Coin_Change.o
+
+# target to build an object file
+LeetCode/322.Coin_Change.cpp.o:
+	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/LeetCode/322.Coin_Change.cpp.o
+.PHONY : LeetCode/322.Coin_Change.cpp.o
+
+LeetCode/322.Coin_Change.i: LeetCode/322.Coin_Change.cpp.i
+
+.PHONY : LeetCode/322.Coin_Change.i
+
+# target to preprocess a source file
+LeetCode/322.Coin_Change.cpp.i:
+	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/LeetCode/322.Coin_Change.cpp.i
+.PHONY : LeetCode/322.Coin_Change.cpp.i
+
+LeetCode/322.Coin_Change.s: LeetCode/322.Coin_Change.cpp.s
+
+.PHONY : LeetCode/322.Coin_Change.s
+
+# target to generate assembly for a file
+LeetCode/322.Coin_Change.cpp.s:
+	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/LeetCode/322.Coin_Change.cpp.s
+.PHONY : LeetCode/322.Coin_Change.cpp.s
+
 LeetCode/35.Search_Insert_Position/Solution.o: LeetCode/35.Search_Insert_Position/Solution.cpp.o
 
 .PHONY : LeetCode/35.Search_Insert_Position/Solution.o
@@ -2727,6 +2767,7 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 322.Coin_Change"
 	@echo "... 1-1"
 	@echo "... 461.Hamming_Distance"
 	@echo "... 453.Minimum_Moves_to_Equal_Array_Elements"
@@ -2870,6 +2911,9 @@ help:
 	@echo "... LeetCode/300.Longest_Increasing_Subsequence.o"
 	@echo "... LeetCode/300.Longest_Increasing_Subsequence.i"
 	@echo "... LeetCode/300.Longest_Increasing_Subsequence.s"
+	@echo "... LeetCode/322.Coin_Change.o"
+	@echo "... LeetCode/322.Coin_Change.i"
+	@echo "... LeetCode/322.Coin_Change.s"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.o"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.i"
 	@echo "... LeetCode/35.Search_Insert_Position/Solution.s"

@@ -3,6 +3,7 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="demo" targetName="Special_Multiplication" />
+      <config projectName="demo" targetName="322.Coin_Change" />
       <config projectName="demo" targetName="771.JewelsandStones" />
       <config projectName="demo" targetName="search" />
       <config projectName="demo" targetName="401.Binary_Watch" />
@@ -31,8 +32,8 @@
       <config projectName="demo" targetName="35.Search_Insert_Position" />
       <config projectName="demo" targetName="Another_A+B" />
       <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="72.Edit_Distance" />
       <config projectName="demo" targetName="453.Minimum_Moves_to_Equal_Array_Elements" />
+      <config projectName="demo" targetName="72.Edit_Distance" />
       <config projectName="demo" targetName="Huffman_Tree" />
       <config projectName="demo" targetName="503.Next_Greater_Element_II" />
       <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
@@ -76,18 +77,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/322.Coin_Change.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -166,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.453.Minimum_Moves_to_Equal_Array_Elements">
+  <component name="RunManager" selected="CMake Application.322.Coin_Change">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -258,6 +257,11 @@
       </method>
     </configuration>
     <configuration name="300.Longest_Increasing_Subsequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="300.Longest_Increasing_Subsequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="300.Longest_Increasing_Subsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="322.Coin_Change" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="322.Coin_Change" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="322.Coin_Change">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -512,6 +516,7 @@
       <item itemvalue="CMake Application.263.Ugly_Number" />
       <item itemvalue="CMake Application.279.Perfect_Squares" />
       <item itemvalue="CMake Application.300.Longest_Increasing_Subsequence" />
+      <item itemvalue="CMake Application.322.Coin_Change" />
       <item itemvalue="CMake Application.35.Search_Insert_Position" />
       <item itemvalue="CMake Application.401.Binary_Watch" />
       <item itemvalue="CMake Application.448.Find_All_Numbers_Disappeared_in_an_Array" />
@@ -657,7 +662,8 @@
       <workItem from="1567681518389" duration="2427000" />
       <workItem from="1567685051580" duration="196000" />
       <workItem from="1567685347025" duration="317000" />
-      <workItem from="1567729597107" duration="2978000" />
+      <workItem from="1567729597107" duration="3022000" />
+      <workItem from="1567818085570" duration="3230000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -932,7 +938,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567684937460</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2019/9/6/LeetCode练习*2">
+      <created>1567732905473</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1567732905473</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -986,7 +999,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/20/LeetCode/938. Range Sum of BST" />
     <MESSAGE value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
     <MESSAGE value="18/5/22/" />
     <MESSAGE value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
@@ -1011,6 +1023,7 @@
     <MESSAGE value="2019/9/4/LeetCode练习" />
     <MESSAGE value="2019/9/5/LeetCode练习" />
     <MESSAGE value="2019/9/5/LeetCode练习*2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/5/LeetCode练习*2" />
+    <MESSAGE value="2019/9/6/LeetCode练习*2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/6/LeetCode练习*2" />
   </component>
 </project>

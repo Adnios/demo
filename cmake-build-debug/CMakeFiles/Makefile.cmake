@@ -59,6 +59,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/floyed.dir/DependInfo.cmake"
   "CMakeFiles/LinkedStack.dir/DependInfo.cmake"
   "CMakeFiles/SeqStack.dir/DependInfo.cmake"
+  "CMakeFiles/322.Coin_Change.dir/DependInfo.cmake"
   "CMakeFiles/1-1.dir/DependInfo.cmake"
   "CMakeFiles/461.Hamming_Distance.dir/DependInfo.cmake"
   "CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/DependInfo.cmake"

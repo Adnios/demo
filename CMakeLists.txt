@@ -54,6 +54,7 @@ add_executable(22.Generate_Parentheses LeetCode/22.Generate_Parentheses.cpp)
 add_executable(503.Next_Greater_Element_II LeetCode/503.Next_Greater_Element_II.cpp)
 add_executable(461.Hamming_Distance LeetCode/461.Hamming_Distance.cpp)
 add_executable(453.Minimum_Moves_to_Equal_Array_Elements LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp)
+add_executable(322.Coin_Change LeetCode/322.Coin_Change.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)
