@@ -56,6 +56,7 @@ add_executable(461.Hamming_Distance LeetCode/461.Hamming_Distance.cpp)
 add_executable(453.Minimum_Moves_to_Equal_Array_Elements LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp)
 add_executable(322.Coin_Change LeetCode/322.Coin_Change.cpp)
 add_executable(1047.Remove_All_Adjacent_Duplicates_In_String LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp)
+add_executable(27.Remove_Element LeetCode/27.Remove_Element.cpp)
 
 add_executable(SeqList SeqList.cpp)
 add_executable(Linknode LinkNode.cpp)

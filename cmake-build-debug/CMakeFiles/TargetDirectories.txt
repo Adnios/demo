@@ -35,6 +35,7 @@
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/test.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/Not_AC.dir
+/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/27.Remove_Element.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct1.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/sort_the_struct2.dir
 /home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/tianda2019-2.dir

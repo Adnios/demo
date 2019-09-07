@@ -592,6 +592,19 @@ Not_AC/fast:
 .PHONY : Not_AC/fast
 
 #=============================================================================
+# Target rules for targets named 27.Remove_Element
+
+# Build rule for target.
+27.Remove_Element: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 27.Remove_Element
+.PHONY : 27.Remove_Element
+
+# fast build rule for target.
+27.Remove_Element/fast:
+	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/build
+.PHONY : 27.Remove_Element/fast
+
+#=============================================================================
 # Target rules for targets named sort_the_struct1
 
 # Build rule for target.
@@ -1737,6 +1750,33 @@ LeetCode/263.Ugly_Number.cpp.s:
 	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/LeetCode/263.Ugly_Number.cpp.s
 .PHONY : LeetCode/263.Ugly_Number.cpp.s
 
+LeetCode/27.Remove_Element.o: LeetCode/27.Remove_Element.cpp.o
+
+.PHONY : LeetCode/27.Remove_Element.o
+
+# target to build an object file
+LeetCode/27.Remove_Element.cpp.o:
+	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/LeetCode/27.Remove_Element.cpp.o
+.PHONY : LeetCode/27.Remove_Element.cpp.o
+
+LeetCode/27.Remove_Element.i: LeetCode/27.Remove_Element.cpp.i
+
+.PHONY : LeetCode/27.Remove_Element.i
+
+# target to preprocess a source file
+LeetCode/27.Remove_Element.cpp.i:
+	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/LeetCode/27.Remove_Element.cpp.i
+.PHONY : LeetCode/27.Remove_Element.cpp.i
+
+LeetCode/27.Remove_Element.s: LeetCode/27.Remove_Element.cpp.s
+
+.PHONY : LeetCode/27.Remove_Element.s
+
+# target to generate assembly for a file
+LeetCode/27.Remove_Element.cpp.s:
+	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/LeetCode/27.Remove_Element.cpp.s
+.PHONY : LeetCode/27.Remove_Element.cpp.s
+
 LeetCode/279.Perfect_Squares.o: LeetCode/279.Perfect_Squares.cpp.o
 
 .PHONY : LeetCode/279.Perfect_Squares.o
@@ -2833,6 +2873,7 @@ help:
 	@echo "... test"
 	@echo "... sort"
 	@echo "... Not_AC"
+	@echo "... 27.Remove_Element"
 	@echo "... sort_the_struct1"
 	@echo "... sort_the_struct2"
 	@echo "... tianda2019-2"
@@ -2949,6 +2990,9 @@ help:
 	@echo "... LeetCode/263.Ugly_Number.o"
 	@echo "... LeetCode/263.Ugly_Number.i"
 	@echo "... LeetCode/263.Ugly_Number.s"
+	@echo "... LeetCode/27.Remove_Element.o"
+	@echo "... LeetCode/27.Remove_Element.i"
+	@echo "... LeetCode/27.Remove_Element.s"
 	@echo "... LeetCode/279.Perfect_Squares.o"
 	@echo "... LeetCode/279.Perfect_Squares.i"
 	@echo "... LeetCode/279.Perfect_Squares.s"
