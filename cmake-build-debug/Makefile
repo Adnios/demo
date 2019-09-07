@@ -410,6 +410,19 @@ SeqStack/fast:
 .PHONY : 198.House_Robber/fast
 
 #=============================================================================
+# Target rules for targets named 1047.Remove_All_Adjacent_Duplicates_In_String
+
+# Build rule for target.
+1047.Remove_All_Adjacent_Duplicates_In_String: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1047.Remove_All_Adjacent_Duplicates_In_String
+.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String
+
+# fast build rule for target.
+1047.Remove_All_Adjacent_Duplicates_In_String/fast:
+	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build
+.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String/fast
+
+#=============================================================================
 # Target rules for targets named Special_Multiplication
 
 # Build rule for target.
@@ -1453,6 +1466,33 @@ LeetCode/1025.Divisor_Game.s: LeetCode/1025.Divisor_Game.cpp.s
 LeetCode/1025.Divisor_Game.cpp.s:
 	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.s
 .PHONY : LeetCode/1025.Divisor_Game.cpp.s
+
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.o: LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.o
+
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.o
+
+# target to build an object file
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.o:
+	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.o
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.o
+
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.i: LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.i
+
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.i
+
+# target to preprocess a source file
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.i:
+	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.i
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.i
+
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.s: LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s
+
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.s
+
+# target to generate assembly for a file
+LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s:
+	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s
+.PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s
 
 LeetCode/112.PathSum/Solution.o: LeetCode/112.PathSum/Solution.cpp.o
 
@@ -2779,6 +2819,7 @@ help:
 	@echo "... 143.Reorder_List"
 	@echo "... 97.Interleaving_String"
 	@echo "... 198.House_Robber"
+	@echo "... 1047.Remove_All_Adjacent_Duplicates_In_String"
 	@echo "... Special_Multiplication"
 	@echo "... Binary_Tree_Order"
 	@echo "... 1-2"
@@ -2878,6 +2919,9 @@ help:
 	@echo "... LeetCode/1025.Divisor_Game.o"
 	@echo "... LeetCode/1025.Divisor_Game.i"
 	@echo "... LeetCode/1025.Divisor_Game.s"
+	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.o"
+	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.i"
+	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.s"
 	@echo "... LeetCode/112.PathSum/Solution.o"
 	@echo "... LeetCode/112.PathSum/Solution.i"
 	@echo "... LeetCode/112.PathSum/Solution.s"

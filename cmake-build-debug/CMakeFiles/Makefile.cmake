@@ -71,6 +71,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/143.Reorder_List.dir/DependInfo.cmake"
   "CMakeFiles/97.Interleaving_String.dir/DependInfo.cmake"
   "CMakeFiles/198.House_Robber.dir/DependInfo.cmake"
+  "CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/DependInfo.cmake"
   "CMakeFiles/Special_Multiplication.dir/DependInfo.cmake"
   "CMakeFiles/Binary_Tree_Order.dir/DependInfo.cmake"
   "CMakeFiles/1-2.dir/DependInfo.cmake"

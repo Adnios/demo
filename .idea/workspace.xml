@@ -14,6 +14,7 @@
       <config projectName="demo" targetName="data2" />
       <config projectName="demo" targetName="data1" />
       <config projectName="demo" targetName="22.Generate_Parentheses" />
+      <config projectName="demo" targetName="1047.Remove_All_Adjacent_Duplicates_In_String" />
       <config projectName="demo" targetName="1-2" />
       <config projectName="demo" targetName="1-1" />
       <config projectName="demo" targetName="Bracket_Matching_Problem" />
@@ -77,7 +78,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/322.Coin_Change.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -87,6 +88,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -165,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.322.Coin_Change">
+  <component name="RunManager" selected="CMake Application.1047.Remove_All_Adjacent_Duplicates_In_String">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -177,6 +179,11 @@
       </method>
     </configuration>
     <configuration name="1025.Divisor_Game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1025.Divisor_Game" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1025.Divisor_Game">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1047.Remove_All_Adjacent_Duplicates_In_String" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1047.Remove_All_Adjacent_Duplicates_In_String" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1047.Remove_All_Adjacent_Duplicates_In_String">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -500,6 +507,7 @@
       <item itemvalue="CMake Application.1-1" />
       <item itemvalue="CMake Application.1-2" />
       <item itemvalue="CMake Application.1025.Divisor_Game" />
+      <item itemvalue="CMake Application.1047.Remove_All_Adjacent_Duplicates_In_String" />
       <item itemvalue="CMake Application.143.Reorder_List" />
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
       <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
@@ -663,7 +671,7 @@
       <workItem from="1567685051580" duration="196000" />
       <workItem from="1567685347025" duration="317000" />
       <workItem from="1567729597107" duration="3022000" />
-      <workItem from="1567818085570" duration="3230000" />
+      <workItem from="1567818085570" duration="3836000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -945,7 +953,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567732905473</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="2019/9/7/LeetCode练习">
+      <created>1567821729348</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1567821729348</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView">
@@ -999,7 +1014,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/21/LeetCode/96.Unique_Binary_Search_Trees" />
     <MESSAGE value="18/5/22/" />
     <MESSAGE value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
     <MESSAGE value="18/5/25/LeetCode/92. Reverse Linked List II" />
@@ -1024,6 +1038,7 @@
     <MESSAGE value="2019/9/5/LeetCode练习" />
     <MESSAGE value="2019/9/5/LeetCode练习*2" />
     <MESSAGE value="2019/9/6/LeetCode练习*2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/6/LeetCode练习*2" />
+    <MESSAGE value="2019/9/7/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/7/LeetCode练习" />
   </component>
 </project>
