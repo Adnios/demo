@@ -254,6 +254,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 1108.Defanging_an_IP_Address
+
+# Build rule for target.
+1108.Defanging_an_IP_Address: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1108.Defanging_an_IP_Address
+.PHONY : 1108.Defanging_an_IP_Address
+
+# fast build rule for target.
+1108.Defanging_an_IP_Address/fast:
+	$(MAKE) -f CMakeFiles/1108.Defanging_an_IP_Address.dir/build.make CMakeFiles/1108.Defanging_an_IP_Address.dir/build
+.PHONY : 1108.Defanging_an_IP_Address/fast
+
+#=============================================================================
 # Target rules for targets named 322.Coin_Change
 
 # Build rule for target.
@@ -1506,6 +1519,33 @@ LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.s: LeetCode/1047.Remove_A
 LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s:
 	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s
 .PHONY : LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.cpp.s
+
+LeetCode/1108.Defanging_an_IP_Address.o: LeetCode/1108.Defanging_an_IP_Address.cpp.o
+
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.o
+
+# target to build an object file
+LeetCode/1108.Defanging_an_IP_Address.cpp.o:
+	$(MAKE) -f CMakeFiles/1108.Defanging_an_IP_Address.dir/build.make CMakeFiles/1108.Defanging_an_IP_Address.dir/LeetCode/1108.Defanging_an_IP_Address.cpp.o
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.cpp.o
+
+LeetCode/1108.Defanging_an_IP_Address.i: LeetCode/1108.Defanging_an_IP_Address.cpp.i
+
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.i
+
+# target to preprocess a source file
+LeetCode/1108.Defanging_an_IP_Address.cpp.i:
+	$(MAKE) -f CMakeFiles/1108.Defanging_an_IP_Address.dir/build.make CMakeFiles/1108.Defanging_an_IP_Address.dir/LeetCode/1108.Defanging_an_IP_Address.cpp.i
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.cpp.i
+
+LeetCode/1108.Defanging_an_IP_Address.s: LeetCode/1108.Defanging_an_IP_Address.cpp.s
+
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.s
+
+# target to generate assembly for a file
+LeetCode/1108.Defanging_an_IP_Address.cpp.s:
+	$(MAKE) -f CMakeFiles/1108.Defanging_an_IP_Address.dir/build.make CMakeFiles/1108.Defanging_an_IP_Address.dir/LeetCode/1108.Defanging_an_IP_Address.cpp.s
+.PHONY : LeetCode/1108.Defanging_an_IP_Address.cpp.s
 
 LeetCode/112.PathSum/Solution.o: LeetCode/112.PathSum/Solution.cpp.o
 
@@ -2847,6 +2887,7 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 1108.Defanging_an_IP_Address"
 	@echo "... 322.Coin_Change"
 	@echo "... 1-1"
 	@echo "... 461.Hamming_Distance"
@@ -2963,6 +3004,9 @@ help:
 	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.o"
 	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.i"
 	@echo "... LeetCode/1047.Remove_All_Adjacent_Duplicates_In_String.s"
+	@echo "... LeetCode/1108.Defanging_an_IP_Address.o"
+	@echo "... LeetCode/1108.Defanging_an_IP_Address.i"
+	@echo "... LeetCode/1108.Defanging_an_IP_Address.s"
 	@echo "... LeetCode/112.PathSum/Solution.o"
 	@echo "... LeetCode/112.PathSum/Solution.i"
 	@echo "... LeetCode/112.PathSum/Solution.s"

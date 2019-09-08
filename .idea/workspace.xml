@@ -10,6 +10,7 @@
       <config projectName="demo" targetName="461.Hamming_Distance" />
       <config projectName="demo" targetName="Hash2" />
       <config projectName="demo" targetName="Hash1" />
+      <config projectName="demo" targetName="1108.Defanging_an_IP_Address" />
       <config projectName="demo" targetName="704.Binary_Search" />
       <config projectName="demo" targetName="data2" />
       <config projectName="demo" targetName="data1" />
@@ -27,8 +28,8 @@
       <config projectName="demo" targetName="LinkedStack" />
       <config projectName="demo" targetName="213.House_Robber_II" />
       <config projectName="demo" targetName="Not_AC" />
-      <config projectName="demo" targetName="263.Ugly_Number" />
       <config projectName="demo" targetName="27.Remove_Element" />
+      <config projectName="demo" targetName="263.Ugly_Number" />
       <config projectName="demo" targetName="2019-1" />
       <config projectName="demo" targetName="sort_the_struct2" />
       <config projectName="demo" targetName="35.Search_Insert_Position" />
@@ -57,8 +58,8 @@
       <config projectName="demo" targetName="test" />
       <config projectName="demo" targetName="SeqList" />
       <config projectName="demo" targetName="Binary_Tree_Order" />
-      <config projectName="demo" targetName="69.Sqrtx" />
       <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="69.Sqrtx" />
       <config projectName="demo" targetName="279.Perfect_Squares" />
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
       <config projectName="demo" targetName="2018-3" />
@@ -79,7 +80,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/27.Remove_Element.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1108.Defanging_an_IP_Address.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -89,6 +90,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
@@ -167,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.27.Remove_Element">
+  <component name="RunManager" selected="CMake Application.1108.Defanging_an_IP_Address">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -184,6 +186,11 @@
       </method>
     </configuration>
     <configuration name="1047.Remove_All_Adjacent_Duplicates_In_String" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1047.Remove_All_Adjacent_Duplicates_In_String" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1047.Remove_All_Adjacent_Duplicates_In_String">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1108.Defanging_an_IP_Address" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1108.Defanging_an_IP_Address" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1108.Defanging_an_IP_Address">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -513,6 +520,7 @@
       <item itemvalue="CMake Application.1-2" />
       <item itemvalue="CMake Application.1025.Divisor_Game" />
       <item itemvalue="CMake Application.1047.Remove_All_Adjacent_Duplicates_In_String" />
+      <item itemvalue="CMake Application.1108.Defanging_an_IP_Address" />
       <item itemvalue="CMake Application.143.Reorder_List" />
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
       <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
@@ -677,7 +685,8 @@
       <workItem from="1567685051580" duration="196000" />
       <workItem from="1567685347025" duration="317000" />
       <workItem from="1567729597107" duration="3022000" />
-      <workItem from="1567818085570" duration="4712000" />
+      <workItem from="1567818085570" duration="5529000" />
+      <workItem from="1567908613754" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -973,7 +982,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567822459094</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2019/9/7/LeetCode练习*3">
+      <created>1567823378235</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1567823378235</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1027,7 +1043,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/22/LeetCode/674.Longest_Continuous_Increasing_Subsequence" />
     <MESSAGE value="18/5/25/LeetCode/92. Reverse Linked List II" />
     <MESSAGE value="18/6/10/LeetCode/35. Search Insert Position王者回归" />
     <MESSAGE value="66.Plus One" />
@@ -1052,6 +1067,7 @@
     <MESSAGE value="2019/9/6/LeetCode练习*2" />
     <MESSAGE value="2019/9/7/LeetCode练习" />
     <MESSAGE value="2019/9/7/LeetCode练习*2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/7/LeetCode练习*2" />
+    <MESSAGE value="2019/9/7/LeetCode练习*3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/7/LeetCode练习*3" />
   </component>
 </project>
