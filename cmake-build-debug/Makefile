@@ -254,6 +254,19 @@ SeqStack/fast:
 .PHONY : SeqStack/fast
 
 #=============================================================================
+# Target rules for targets named 767.Reorganize_String
+
+# Build rule for target.
+767.Reorganize_String: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 767.Reorganize_String
+.PHONY : 767.Reorganize_String
+
+# fast build rule for target.
+767.Reorganize_String/fast:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/build
+.PHONY : 767.Reorganize_String/fast
+
+#=============================================================================
 # Target rules for targets named 1108.Defanging_an_IP_Address
 
 # Build rule for target.
@@ -304,6 +317,19 @@ SeqStack/fast:
 461.Hamming_Distance/fast:
 	$(MAKE) -f CMakeFiles/461.Hamming_Distance.dir/build.make CMakeFiles/461.Hamming_Distance.dir/build
 .PHONY : 461.Hamming_Distance/fast
+
+#=============================================================================
+# Target rules for targets named 763.Partition_Labels
+
+# Build rule for target.
+763.Partition_Labels: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 763.Partition_Labels
+.PHONY : 763.Partition_Labels
+
+# fast build rule for target.
+763.Partition_Labels/fast:
+	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/build
+.PHONY : 763.Partition_Labels/fast
 
 #=============================================================================
 # Target rules for targets named 453.Minimum_Moves_to_Equal_Array_Elements
@@ -928,6 +954,19 @@ Linknode/fast:
 64.Minimum_Path_Sum/fast:
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
 .PHONY : 64.Minimum_Path_Sum/fast
+
+#=============================================================================
+# Target rules for targets named 5181.Distance_Between_Bus_Stops
+
+# Build rule for target.
+5181.Distance_Between_Bus_Stops: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 5181.Distance_Between_Bus_Stops
+.PHONY : 5181.Distance_Between_Bus_Stops
+
+# fast build rule for target.
+5181.Distance_Between_Bus_Stops/fast:
+	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build
+.PHONY : 5181.Distance_Between_Bus_Stops/fast
 
 #=============================================================================
 # Target rules for targets named 22.Generate_Parentheses
@@ -2087,6 +2126,33 @@ LeetCode/503.Next_Greater_Element_II.cpp.s:
 	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.s
 .PHONY : LeetCode/503.Next_Greater_Element_II.cpp.s
 
+LeetCode/5181.Distance_Between_Bus_Stops.o: LeetCode/5181.Distance_Between_Bus_Stops.cpp.o
+
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.o
+
+# target to build an object file
+LeetCode/5181.Distance_Between_Bus_Stops.cpp.o:
+	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/LeetCode/5181.Distance_Between_Bus_Stops.cpp.o
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.cpp.o
+
+LeetCode/5181.Distance_Between_Bus_Stops.i: LeetCode/5181.Distance_Between_Bus_Stops.cpp.i
+
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.i
+
+# target to preprocess a source file
+LeetCode/5181.Distance_Between_Bus_Stops.cpp.i:
+	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/LeetCode/5181.Distance_Between_Bus_Stops.cpp.i
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.cpp.i
+
+LeetCode/5181.Distance_Between_Bus_Stops.s: LeetCode/5181.Distance_Between_Bus_Stops.cpp.s
+
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.s
+
+# target to generate assembly for a file
+LeetCode/5181.Distance_Between_Bus_Stops.cpp.s:
+	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/LeetCode/5181.Distance_Between_Bus_Stops.cpp.s
+.PHONY : LeetCode/5181.Distance_Between_Bus_Stops.cpp.s
+
 LeetCode/64.Minimum_Path_Sum.o: LeetCode/64.Minimum_Path_Sum.cpp.o
 
 .PHONY : LeetCode/64.Minimum_Path_Sum.o
@@ -2248,6 +2314,60 @@ LeetCode/72.Edit_Distance.s: LeetCode/72.Edit_Distance.cpp.s
 LeetCode/72.Edit_Distance.cpp.s:
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/LeetCode/72.Edit_Distance.cpp.s
 .PHONY : LeetCode/72.Edit_Distance.cpp.s
+
+LeetCode/763.Partition_Labels.o: LeetCode/763.Partition_Labels.cpp.o
+
+.PHONY : LeetCode/763.Partition_Labels.o
+
+# target to build an object file
+LeetCode/763.Partition_Labels.cpp.o:
+	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/LeetCode/763.Partition_Labels.cpp.o
+.PHONY : LeetCode/763.Partition_Labels.cpp.o
+
+LeetCode/763.Partition_Labels.i: LeetCode/763.Partition_Labels.cpp.i
+
+.PHONY : LeetCode/763.Partition_Labels.i
+
+# target to preprocess a source file
+LeetCode/763.Partition_Labels.cpp.i:
+	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/LeetCode/763.Partition_Labels.cpp.i
+.PHONY : LeetCode/763.Partition_Labels.cpp.i
+
+LeetCode/763.Partition_Labels.s: LeetCode/763.Partition_Labels.cpp.s
+
+.PHONY : LeetCode/763.Partition_Labels.s
+
+# target to generate assembly for a file
+LeetCode/763.Partition_Labels.cpp.s:
+	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/LeetCode/763.Partition_Labels.cpp.s
+.PHONY : LeetCode/763.Partition_Labels.cpp.s
+
+LeetCode/767.Reorganize_String.o: LeetCode/767.Reorganize_String.cpp.o
+
+.PHONY : LeetCode/767.Reorganize_String.o
+
+# target to build an object file
+LeetCode/767.Reorganize_String.cpp.o:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/LeetCode/767.Reorganize_String.cpp.o
+.PHONY : LeetCode/767.Reorganize_String.cpp.o
+
+LeetCode/767.Reorganize_String.i: LeetCode/767.Reorganize_String.cpp.i
+
+.PHONY : LeetCode/767.Reorganize_String.i
+
+# target to preprocess a source file
+LeetCode/767.Reorganize_String.cpp.i:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/LeetCode/767.Reorganize_String.cpp.i
+.PHONY : LeetCode/767.Reorganize_String.cpp.i
+
+LeetCode/767.Reorganize_String.s: LeetCode/767.Reorganize_String.cpp.s
+
+.PHONY : LeetCode/767.Reorganize_String.s
+
+# target to generate assembly for a file
+LeetCode/767.Reorganize_String.cpp.s:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/LeetCode/767.Reorganize_String.cpp.s
+.PHONY : LeetCode/767.Reorganize_String.cpp.s
 
 LeetCode/771.JewelsandStones/Solution.o: LeetCode/771.JewelsandStones/Solution.cpp.o
 
@@ -2887,10 +3007,12 @@ help:
 	@echo "... floyed"
 	@echo "... LinkedStack"
 	@echo "... SeqStack"
+	@echo "... 767.Reorganize_String"
 	@echo "... 1108.Defanging_an_IP_Address"
 	@echo "... 322.Coin_Change"
 	@echo "... 1-1"
 	@echo "... 461.Hamming_Distance"
+	@echo "... 763.Partition_Labels"
 	@echo "... 453.Minimum_Moves_to_Equal_Array_Elements"
 	@echo "... 503.Next_Greater_Element_II"
 	@echo "... 962.Maximum_Width_Ramp"
@@ -2941,6 +3063,7 @@ help:
 	@echo "... 300.Longest_Increasing_Subsequence"
 	@echo "... Linknode"
 	@echo "... 64.Minimum_Path_Sum"
+	@echo "... 5181.Distance_Between_Bus_Stops"
 	@echo "... 22.Generate_Parentheses"
 	@echo "... data2"
 	@echo "... 69.Sqrtx"
@@ -3067,6 +3190,9 @@ help:
 	@echo "... LeetCode/503.Next_Greater_Element_II.o"
 	@echo "... LeetCode/503.Next_Greater_Element_II.i"
 	@echo "... LeetCode/503.Next_Greater_Element_II.s"
+	@echo "... LeetCode/5181.Distance_Between_Bus_Stops.o"
+	@echo "... LeetCode/5181.Distance_Between_Bus_Stops.i"
+	@echo "... LeetCode/5181.Distance_Between_Bus_Stops.s"
 	@echo "... LeetCode/64.Minimum_Path_Sum.o"
 	@echo "... LeetCode/64.Minimum_Path_Sum.i"
 	@echo "... LeetCode/64.Minimum_Path_Sum.s"
@@ -3085,6 +3211,12 @@ help:
 	@echo "... LeetCode/72.Edit_Distance.o"
 	@echo "... LeetCode/72.Edit_Distance.i"
 	@echo "... LeetCode/72.Edit_Distance.s"
+	@echo "... LeetCode/763.Partition_Labels.o"
+	@echo "... LeetCode/763.Partition_Labels.i"
+	@echo "... LeetCode/763.Partition_Labels.s"
+	@echo "... LeetCode/767.Reorganize_String.o"
+	@echo "... LeetCode/767.Reorganize_String.i"
+	@echo "... LeetCode/767.Reorganize_String.s"
 	@echo "... LeetCode/771.JewelsandStones/Solution.o"
 	@echo "... LeetCode/771.JewelsandStones/Solution.i"
 	@echo "... LeetCode/771.JewelsandStones/Solution.s"

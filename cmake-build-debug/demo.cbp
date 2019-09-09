@@ -523,6 +523,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="767.Reorganize_String">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/767.Reorganize_String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 767.Reorganize_String"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="767.Reorganize_String/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/767.Reorganize_String" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 767.Reorganize_String/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="1108.Defanging_an_IP_Address">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/1108.Defanging_an_IP_Address" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -702,6 +748,52 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 461.Hamming_Distance/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="763.Partition_Labels">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/763.Partition_Labels" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 763.Partition_Labels"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="763.Partition_Labels/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/763.Partition_Labels" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 763.Partition_Labels/fast"/>
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2935,6 +3027,52 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="5181.Distance_Between_Bus_Stops">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/5181.Distance_Between_Bus_Stops" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 5181.Distance_Between_Bus_Stops"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5181.Distance_Between_Bus_Stops/fast">
+				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/5181.Distance_Between_Bus_Stops" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 5181.Distance_Between_Bus_Stops/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/adnois/CLionProjects/demo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="22.Generate_Parentheses">
 				<Option output="/home/adnois/CLionProjects/demo/cmake-build-debug/22.Generate_Parentheses" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/adnois/CLionProjects/demo/cmake-build-debug"/>
@@ -3332,6 +3470,9 @@
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/503.Next_Greater_Element_II.cpp">
 			<Option target="503.Next_Greater_Element_II"/>
 		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/5181.Distance_Between_Bus_Stops.cpp">
+			<Option target="5181.Distance_Between_Bus_Stops"/>
+		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/64.Minimum_Path_Sum.cpp">
 			<Option target="64.Minimum_Path_Sum"/>
 		</Unit>
@@ -3349,6 +3490,12 @@
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/72.Edit_Distance.cpp">
 			<Option target="72.Edit_Distance"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/763.Partition_Labels.cpp">
+			<Option target="763.Partition_Labels"/>
+		</Unit>
+		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/767.Reorganize_String.cpp">
+			<Option target="767.Reorganize_String"/>
 		</Unit>
 		<Unit filename="/home/adnois/CLionProjects/demo/LeetCode/771.JewelsandStones/Solution.cpp">
 			<Option target="771.JewelsandStones"/>

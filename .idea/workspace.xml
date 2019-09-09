@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="demo" targetName="767.Reorganize_String" />
       <config projectName="demo" targetName="Special_Multiplication" />
       <config projectName="demo" targetName="322.Coin_Change" />
       <config projectName="demo" targetName="771.JewelsandStones" />
@@ -25,18 +26,20 @@
       <config projectName="demo" targetName="97.Interleaving_String" />
       <config projectName="demo" targetName="CombinationSumIII" />
       <config projectName="demo" targetName="962.Maximum_Width_Ramp" />
+      <config projectName="demo" targetName="763.Partition_Labels" />
       <config projectName="demo" targetName="LinkedStack" />
       <config projectName="demo" targetName="213.House_Robber_II" />
+      <config projectName="demo" targetName="5181.Distance_Between_Bus_Stops" />
       <config projectName="demo" targetName="Not_AC" />
       <config projectName="demo" targetName="27.Remove_Element" />
       <config projectName="demo" targetName="263.Ugly_Number" />
       <config projectName="demo" targetName="2019-1" />
-      <config projectName="demo" targetName="sort_the_struct2" />
       <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="sort_the_struct2" />
       <config projectName="demo" targetName="Another_A+B" />
       <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="453.Minimum_Moves_to_Equal_Array_Elements" />
       <config projectName="demo" targetName="72.Edit_Distance" />
+      <config projectName="demo" targetName="453.Minimum_Moves_to_Equal_Array_Elements" />
       <config projectName="demo" targetName="Huffman_Tree" />
       <config projectName="demo" targetName="503.Next_Greater_Element_II" />
       <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
@@ -64,8 +67,8 @@
       <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
       <config projectName="demo" targetName="2018-3" />
       <config projectName="demo" targetName="198.House_Robber" />
-      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
       <config projectName="demo" targetName="2018-1" />
+      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
       <config projectName="demo" targetName="2018-2" />
       <config projectName="demo" targetName="2014-1" />
       <config projectName="demo" targetName="sort" />
@@ -80,7 +83,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/1108.Defanging_an_IP_Address.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/5181.Distance_Between_Bus_Stops.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/763.Partition_Labels.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/767.Reorganize_String.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
@@ -169,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.1108.Defanging_an_IP_Address">
+  <component name="RunManager" selected="CMake Application.767.Reorganize_String">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -315,6 +320,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="5181.Distance_Between_Bus_Stops" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="5181.Distance_Between_Bus_Stops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="5181.Distance_Between_Bus_Stops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="64.Minimum_Path_Sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="64.Minimum_Path_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="64.Minimum_Path_Sum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -341,6 +351,16 @@
       </method>
     </configuration>
     <configuration name="72.Edit_Distance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="72.Edit_Distance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="72.Edit_Distance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="763.Partition_Labels" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="763.Partition_Labels" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="763.Partition_Labels">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="767.Reorganize_String" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="767.Reorganize_String" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="767.Reorganize_String">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -545,12 +565,15 @@
       <item itemvalue="CMake Application.453.Minimum_Moves_to_Equal_Array_Elements" />
       <item itemvalue="CMake Application.461.Hamming_Distance" />
       <item itemvalue="CMake Application.503.Next_Greater_Element_II" />
+      <item itemvalue="CMake Application.5181.Distance_Between_Bus_Stops" />
       <item itemvalue="CMake Application.64.Minimum_Path_Sum" />
       <item itemvalue="CMake Application.66.PlusOne" />
       <item itemvalue="CMake Application.674.Longest_Continuous_Increasing_Subsequence" />
       <item itemvalue="CMake Application.69.Sqrtx" />
       <item itemvalue="CMake Application.704.Binary_Search" />
       <item itemvalue="CMake Application.72.Edit_Distance" />
+      <item itemvalue="CMake Application.763.Partition_Labels" />
+      <item itemvalue="CMake Application.767.Reorganize_String" />
       <item itemvalue="CMake Application.771.JewelsandStones" />
       <item itemvalue="CMake Application.962.Maximum_Width_Ramp" />
       <item itemvalue="CMake Application.97.Interleaving_String" />
@@ -686,7 +709,8 @@
       <workItem from="1567685347025" duration="317000" />
       <workItem from="1567729597107" duration="3022000" />
       <workItem from="1567818085570" duration="5529000" />
-      <workItem from="1567908613754" duration="830000" />
+      <workItem from="1567908613754" duration="3809000" />
+      <workItem from="1568011451741" duration="2569000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -989,7 +1013,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567823378235</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2019/9/8/LeetCode练习">
+      <created>1567909596103</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1567909596103</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1043,7 +1074,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/5/25/LeetCode/92. Reverse Linked List II" />
     <MESSAGE value="18/6/10/LeetCode/35. Search Insert Position王者回归" />
     <MESSAGE value="66.Plus One" />
     <MESSAGE value="172. Factorial Trailing Zeroes" />
@@ -1068,6 +1098,7 @@
     <MESSAGE value="2019/9/7/LeetCode练习" />
     <MESSAGE value="2019/9/7/LeetCode练习*2" />
     <MESSAGE value="2019/9/7/LeetCode练习*3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/7/LeetCode练习*3" />
+    <MESSAGE value="2019/9/8/LeetCode练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/8/LeetCode练习" />
   </component>
 </project>
