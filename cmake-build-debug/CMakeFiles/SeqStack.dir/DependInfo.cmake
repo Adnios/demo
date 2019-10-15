@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/adnois/CLionProjects/demo/SeqStack.cpp" "/home/adnois/CLionProjects/demo/cmake-build-debug/CMakeFiles/SeqStack.dir/SeqStack.cpp.o"
+  "/home/scrutiny/Desktop/C++/demo/SeqStack.cpp" "/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/SeqStack.dir/SeqStack.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

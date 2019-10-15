@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1-2.dir/preparation/bit/1-2.cpp.o  -o 1-2 

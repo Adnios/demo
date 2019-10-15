@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bracket_Matching_Problem.dir/3.Data_Structure/1.stack/Bracket_Matching_Problem.cpp.o  -o Bracket_Matching_Problem 

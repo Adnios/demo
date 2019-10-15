@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1350.dir/Class/basic/graph/1350.cpp.o  -o 1350 

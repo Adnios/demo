@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scrutiny/Desktop/C++/demo/Class/update/1/1448.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+cmath
+-
+cstring
+-
+string
+-
+queue
+-
+functional
+-
+cstdlib
+-
+utility
+-
+

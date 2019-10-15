@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/66.PlusOne.dir/LeetCode/66.PlusOne/Solution.cpp.o  -o 66.PlusOne 

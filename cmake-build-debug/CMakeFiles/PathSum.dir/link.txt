@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PathSum.dir/LeetCode/112.PathSum/Solution.cpp.o  -o PathSum 

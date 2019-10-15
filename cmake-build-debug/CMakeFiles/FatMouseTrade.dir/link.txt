@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FatMouseTrade.dir/2.Classic_entry/6.GreedyAlgorithm/FatMouseTrade.cpp.o  -o FatMouseTrade 

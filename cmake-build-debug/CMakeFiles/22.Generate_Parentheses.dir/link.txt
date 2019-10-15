@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/22.Generate_Parentheses.dir/LeetCode/22.Generate_Parentheses.cpp.o  -o 22.Generate_Parentheses 

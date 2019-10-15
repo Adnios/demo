@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2018-2.dir/preparation/tianda/2018-2.cpp.o  -o 2018-2 

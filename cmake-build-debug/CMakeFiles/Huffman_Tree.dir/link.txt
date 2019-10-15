@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Huffman_Tree.dir/3.Data_Structure/2.Huffman_Tree/Huffman_Tree.cpp.o  -o Huffman_Tree 

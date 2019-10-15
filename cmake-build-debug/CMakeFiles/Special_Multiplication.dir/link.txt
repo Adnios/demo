@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Special_Multiplication.dir/4.Math_Problem/2.Digital_Disassembly/1.Special_Multiplication.cpp.o  -o Special_Multiplication 

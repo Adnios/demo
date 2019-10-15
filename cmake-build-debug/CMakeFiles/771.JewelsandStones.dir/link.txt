@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/771.JewelsandStones.dir/LeetCode/771.JewelsandStones/Solution.cpp.o  -o 771.JewelsandStones 

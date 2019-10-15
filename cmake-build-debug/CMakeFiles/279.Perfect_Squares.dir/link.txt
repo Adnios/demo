@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/279.Perfect_Squares.dir/LeetCode/279.Perfect_Squares.cpp.o  -o 279.Perfect_Squares 

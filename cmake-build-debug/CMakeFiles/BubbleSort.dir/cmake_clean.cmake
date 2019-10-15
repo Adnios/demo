@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BubbleSort.dir/2.Classic_entry/1.sort/BubbleSort.cpp.o"
-  "BubbleSort.pdb"
   "BubbleSort"
+  "BubbleSort.pdb"
+  "CMakeFiles/BubbleSort.dir/2.Classic_entry/1.sort/BubbleSort.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

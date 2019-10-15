@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Linknode.dir/LinkNode.cpp.o"
-  "Linknode.pdb"
   "Linknode"
+  "Linknode.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

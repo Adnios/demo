@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/401.Binary_Watch.dir/LeetCode/401.Binary_Watch.cpp.o  -o 401.Binary_Watch 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/172.FactorialTrailingZeroes.dir/LeetCode/172.FactorialTrailingZeroes/Solution.cpp.o  -o 172.FactorialTrailingZeroes 

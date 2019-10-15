@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SeqStack.dir/SeqStack.cpp.o"
-  "SeqStack.pdb"
   "SeqStack"
+  "SeqStack.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

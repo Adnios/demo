@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/2014-1.dir/preparation/buaa/2014-1.c.o  -o 2014-1 

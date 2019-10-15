@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sort.dir/2.Classic_entry/1.sort/sort.cpp.o"
-  "sort.pdb"
   "sort"
+  "sort.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

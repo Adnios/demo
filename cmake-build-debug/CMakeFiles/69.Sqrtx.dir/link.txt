@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/69.Sqrtx.dir/LeetCode/69.Sqrtx/Solution.cpp.o  -o 69.Sqrtx 

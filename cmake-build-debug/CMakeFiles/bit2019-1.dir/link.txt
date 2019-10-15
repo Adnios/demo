@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bit2019-1.dir/preparation/bit/2019-1.cpp.o  -o bit2019-1 

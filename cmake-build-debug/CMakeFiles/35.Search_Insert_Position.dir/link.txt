@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/35.Search_Insert_Position.dir/LeetCode/35.Search_Insert_Position/Solution.cpp.o  -o 35.Search_Insert_Position 

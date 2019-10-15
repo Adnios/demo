@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/72.Edit_Distance.dir/LeetCode/72.Edit_Distance.cpp.o  -o 72.Edit_Distance 

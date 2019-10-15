@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/floyed.dir/Class/basic/graph/1376.cpp.o  -o floyed 

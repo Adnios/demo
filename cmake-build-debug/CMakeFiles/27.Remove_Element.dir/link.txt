@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/27.Remove_Element.dir/LeetCode/27.Remove_Element.cpp.o  -o 27.Remove_Element 

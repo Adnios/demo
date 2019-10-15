@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/compare.dir/Class/basic/compare.cpp.o  -o compare 

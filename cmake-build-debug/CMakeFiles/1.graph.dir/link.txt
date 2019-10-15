@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1.graph.dir/Class/1.Graphmtx.cpp.o  -o 1.graph 
