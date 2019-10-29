@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.o  -o 503.Next_Greater_Element_II 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/503.Next_Greater_Element_II.dir/LeetCode/503.Next_Greater_Element_II.cpp.o  -o 503.Next_Greater_Element_II 

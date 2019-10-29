@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Another_A+B.dir/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o  -o Another_A+B 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Another_A+B.dir/4.Math_Problem/3.Number_Conversion/1.Another_A+B.cpp.o  -o Another_A+B 

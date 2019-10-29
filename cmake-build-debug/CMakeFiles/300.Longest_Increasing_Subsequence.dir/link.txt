@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.o  -o 300.Longest_Increasing_Subsequence 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/300.Longest_Increasing_Subsequence.dir/LeetCode/300.Longest_Increasing_Subsequence.cpp.o  -o 300.Longest_Increasing_Subsequence 

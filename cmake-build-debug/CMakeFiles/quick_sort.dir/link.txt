@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/quick_sort.dir/2.Classic_entry/1.sort/quick_sort.cpp.o  -o quick_sort 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/quick_sort.dir/2.Classic_entry/1.sort/quick_sort.cpp.o  -o quick_sort 

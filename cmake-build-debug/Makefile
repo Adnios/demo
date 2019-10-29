@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/scrutiny/Desktop/C++/demo/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/opt/clion/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/opt/clion/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -254,71 +254,6 @@ SeqStack/fast:
 .PHONY : 767.Reorganize_String/fast
 
 #=============================================================================
-# Target rules for targets named Wildcard_Matching
-
-# Build rule for target.
-Wildcard_Matching: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
-.PHONY : Wildcard_Matching
-
-# fast build rule for target.
-Wildcard_Matching/fast:
-	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
-.PHONY : Wildcard_Matching/fast
-
-#=============================================================================
-# Target rules for targets named data1
-
-# Build rule for target.
-data1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 data1
-.PHONY : data1
-
-# fast build rule for target.
-data1/fast:
-	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
-.PHONY : data1/fast
-
-#=============================================================================
-# Target rules for targets named quick_sort
-
-# Build rule for target.
-quick_sort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 quick_sort
-.PHONY : quick_sort
-
-# fast build rule for target.
-quick_sort/fast:
-	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/build
-.PHONY : quick_sort/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct2
-
-# Build rule for target.
-sort_the_struct2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
-.PHONY : sort_the_struct2
-
-# fast build rule for target.
-sort_the_struct2/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-.PHONY : sort_the_struct2/fast
-
-#=============================================================================
-# Target rules for targets named sort_the_struct1
-
-# Build rule for target.
-sort_the_struct1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
-.PHONY : sort_the_struct1
-
-# fast build rule for target.
-sort_the_struct1/fast:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-.PHONY : sort_the_struct1/fast
-
-#=============================================================================
 # Target rules for targets named 27.Remove_Element
 
 # Build rule for target.
@@ -330,6 +265,149 @@ sort_the_struct1/fast:
 27.Remove_Element/fast:
 	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/build
 .PHONY : 27.Remove_Element/fast
+
+#=============================================================================
+# Target rules for targets named 1047.Remove_All_Adjacent_Duplicates_In_String
+
+# Build rule for target.
+1047.Remove_All_Adjacent_Duplicates_In_String: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1047.Remove_All_Adjacent_Duplicates_In_String
+.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String
+
+# fast build rule for target.
+1047.Remove_All_Adjacent_Duplicates_In_String/fast:
+	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build
+.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String/fast
+
+#=============================================================================
+# Target rules for targets named 453.Minimum_Moves_to_Equal_Array_Elements
+
+# Build rule for target.
+453.Minimum_Moves_to_Equal_Array_Elements: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 453.Minimum_Moves_to_Equal_Array_Elements
+.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements
+
+# fast build rule for target.
+453.Minimum_Moves_to_Equal_Array_Elements/fast:
+	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build
+.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements/fast
+
+#=============================================================================
+# Target rules for targets named 22.Generate_Parentheses
+
+# Build rule for target.
+22.Generate_Parentheses: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 22.Generate_Parentheses
+.PHONY : 22.Generate_Parentheses
+
+# fast build rule for target.
+22.Generate_Parentheses/fast:
+	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/build
+.PHONY : 22.Generate_Parentheses/fast
+
+#=============================================================================
+# Target rules for targets named 263.Ugly_Number
+
+# Build rule for target.
+263.Ugly_Number: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 263.Ugly_Number
+.PHONY : 263.Ugly_Number
+
+# fast build rule for target.
+263.Ugly_Number/fast:
+	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/build
+.PHONY : 263.Ugly_Number/fast
+
+#=============================================================================
+# Target rules for targets named 401.Binary_Watch
+
+# Build rule for target.
+401.Binary_Watch: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 401.Binary_Watch
+.PHONY : 401.Binary_Watch
+
+# fast build rule for target.
+401.Binary_Watch/fast:
+	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/build
+.PHONY : 401.Binary_Watch/fast
+
+#=============================================================================
+# Target rules for targets named 143.Reorder_List
+
+# Build rule for target.
+143.Reorder_List: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 143.Reorder_List
+.PHONY : 143.Reorder_List
+
+# fast build rule for target.
+143.Reorder_List/fast:
+	$(MAKE) -f CMakeFiles/143.Reorder_List.dir/build.make CMakeFiles/143.Reorder_List.dir/build
+.PHONY : 143.Reorder_List/fast
+
+#=============================================================================
+# Target rules for targets named 213.House_Robber_II
+
+# Build rule for target.
+213.House_Robber_II: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 213.House_Robber_II
+.PHONY : 213.House_Robber_II
+
+# fast build rule for target.
+213.House_Robber_II/fast:
+	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/build
+.PHONY : 213.House_Robber_II/fast
+
+#=============================================================================
+# Target rules for targets named 300.Longest_Increasing_Subsequence
+
+# Build rule for target.
+300.Longest_Increasing_Subsequence: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 300.Longest_Increasing_Subsequence
+.PHONY : 300.Longest_Increasing_Subsequence
+
+# fast build rule for target.
+300.Longest_Increasing_Subsequence/fast:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
+.PHONY : 300.Longest_Increasing_Subsequence/fast
+
+#=============================================================================
+# Target rules for targets named 448.Find_All_Numbers_Disappeared_in_an_Array
+
+# Build rule for target.
+448.Find_All_Numbers_Disappeared_in_an_Array: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 448.Find_All_Numbers_Disappeared_in_an_Array
+.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array
+
+# fast build rule for target.
+448.Find_All_Numbers_Disappeared_in_an_Array/fast:
+	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
+.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array/fast
+
+#=============================================================================
+# Target rules for targets named 64.Minimum_Path_Sum
+
+# Build rule for target.
+64.Minimum_Path_Sum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 64.Minimum_Path_Sum
+.PHONY : 64.Minimum_Path_Sum
+
+# fast build rule for target.
+64.Minimum_Path_Sum/fast:
+	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
+.PHONY : 64.Minimum_Path_Sum/fast
+
+#=============================================================================
+# Target rules for targets named test2
+
+# Build rule for target.
+test2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test2
+.PHONY : test2
+
+# fast build rule for target.
+test2/fast:
+	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/build
+.PHONY : test2/fast
 
 #=============================================================================
 # Target rules for targets named sort
@@ -345,17 +423,69 @@ sort/fast:
 .PHONY : sort/fast
 
 #=============================================================================
-# Target rules for targets named BubbleSort
+# Target rules for targets named 1479
 
 # Build rule for target.
-BubbleSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
-.PHONY : BubbleSort
+1479: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1479
+.PHONY : 1479
 
 # fast build rule for target.
-BubbleSort/fast:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-.PHONY : BubbleSort/fast
+1479/fast:
+	$(MAKE) -f CMakeFiles/1479.dir/build.make CMakeFiles/1479.dir/build
+.PHONY : 1479/fast
+
+#=============================================================================
+# Target rules for targets named 1471
+
+# Build rule for target.
+1471: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1471
+.PHONY : 1471
+
+# fast build rule for target.
+1471/fast:
+	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/build
+.PHONY : 1471/fast
+
+#=============================================================================
+# Target rules for targets named 322.Coin_Change
+
+# Build rule for target.
+322.Coin_Change: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 322.Coin_Change
+.PHONY : 322.Coin_Change
+
+# fast build rule for target.
+322.Coin_Change/fast:
+	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/build
+.PHONY : 322.Coin_Change/fast
+
+#=============================================================================
+# Target rules for targets named 69.Sqrtx
+
+# Build rule for target.
+69.Sqrtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 69.Sqrtx
+.PHONY : 69.Sqrtx
+
+# fast build rule for target.
+69.Sqrtx/fast:
+	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
+.PHONY : 69.Sqrtx/fast
+
+#=============================================================================
+# Target rules for targets named 1456
+
+# Build rule for target.
+1456: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1456
+.PHONY : 1456
+
+# fast build rule for target.
+1456/fast:
+	$(MAKE) -f CMakeFiles/1456.dir/build.make CMakeFiles/1456.dir/build
+.PHONY : 1456/fast
 
 #=============================================================================
 # Target rules for targets named 162.Find_Peak_Element
@@ -371,32 +501,6 @@ BubbleSort/fast:
 .PHONY : 162.Find_Peak_Element/fast
 
 #=============================================================================
-# Target rules for targets named 1448
-
-# Build rule for target.
-1448: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1448
-.PHONY : 1448
-
-# fast build rule for target.
-1448/fast:
-	$(MAKE) -f CMakeFiles/1448.dir/build.make CMakeFiles/1448.dir/build
-.PHONY : 1448/fast
-
-#=============================================================================
-# Target rules for targets named 1440
-
-# Build rule for target.
-1440: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1440
-.PHONY : 1440
-
-# fast build rule for target.
-1440/fast:
-	$(MAKE) -f CMakeFiles/1440.dir/build.make CMakeFiles/1440.dir/build
-.PHONY : 1440/fast
-
-#=============================================================================
 # Target rules for targets named disjoint1
 
 # Build rule for target.
@@ -410,32 +514,6 @@ disjoint1/fast:
 .PHONY : disjoint1/fast
 
 #=============================================================================
-# Target rules for targets named 1350
-
-# Build rule for target.
-1350: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1350
-.PHONY : 1350
-
-# fast build rule for target.
-1350/fast:
-	$(MAKE) -f CMakeFiles/1350.dir/build.make CMakeFiles/1350.dir/build
-.PHONY : 1350/fast
-
-#=============================================================================
-# Target rules for targets named 1.Graphmtx
-
-# Build rule for target.
-1.Graphmtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1.Graphmtx
-.PHONY : 1.Graphmtx
-
-# fast build rule for target.
-1.Graphmtx/fast:
-	$(MAKE) -f CMakeFiles/1.Graphmtx.dir/build.make CMakeFiles/1.Graphmtx.dir/build
-.PHONY : 1.Graphmtx/fast
-
-#=============================================================================
 # Target rules for targets named Not_AC
 
 # Build rule for target.
@@ -447,6 +525,32 @@ Not_AC: cmake_check_build_system
 Not_AC/fast:
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
 .PHONY : Not_AC/fast
+
+#=============================================================================
+# Target rules for targets named 72.Edit_Distance
+
+# Build rule for target.
+72.Edit_Distance: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 72.Edit_Distance
+.PHONY : 72.Edit_Distance
+
+# fast build rule for target.
+72.Edit_Distance/fast:
+	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
+.PHONY : 72.Edit_Distance/fast
+
+#=============================================================================
+# Target rules for targets named 1314
+
+# Build rule for target.
+1314: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1314
+.PHONY : 1314
+
+# fast build rule for target.
+1314/fast:
+	$(MAKE) -f CMakeFiles/1314.dir/build.make CMakeFiles/1314.dir/build
+.PHONY : 1314/fast
 
 #=============================================================================
 # Target rules for targets named LinkedStack
@@ -475,6 +579,19 @@ LinkedStack/fast:
 .PHONY : 4.stack/fast
 
 #=============================================================================
+# Target rules for targets named 2
+
+# Build rule for target.
+2 : cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2
+.PHONY : 2
+
+# fast build rule for target.
+2/fast:
+	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
+.PHONY : 2/fast
+
+#=============================================================================
 # Target rules for targets named 1.stack
 
 # Build rule for target.
@@ -486,6 +603,45 @@ LinkedStack/fast:
 1.stack/fast:
 	$(MAKE) -f CMakeFiles/1.stack.dir/build.make CMakeFiles/1.stack.dir/build
 .PHONY : 1.stack/fast
+
+#=============================================================================
+# Target rules for targets named 1472
+
+# Build rule for target.
+1472: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1472
+.PHONY : 1472
+
+# fast build rule for target.
+1472/fast:
+	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/build
+.PHONY : 1472/fast
+
+#=============================================================================
+# Target rules for targets named 1465
+
+# Build rule for target.
+1465: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1465
+.PHONY : 1465
+
+# fast build rule for target.
+1465/fast:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/build
+.PHONY : 1465/fast
+
+#=============================================================================
+# Target rules for targets named BubbleSort
+
+# Build rule for target.
+BubbleSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 BubbleSort
+.PHONY : BubbleSort
+
+# fast build rule for target.
+BubbleSort/fast:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
+.PHONY : BubbleSort/fast
 
 #=============================================================================
 # Target rules for targets named 1435
@@ -538,6 +694,32 @@ compare/fast:
 674.Longest_Continuous_Increasing_Subsequence/fast:
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
 .PHONY : 674.Longest_Continuous_Increasing_Subsequence/fast
+
+#=============================================================================
+# Target rules for targets named 503.Next_Greater_Element_II
+
+# Build rule for target.
+503.Next_Greater_Element_II: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 503.Next_Greater_Element_II
+.PHONY : 503.Next_Greater_Element_II
+
+# fast build rule for target.
+503.Next_Greater_Element_II/fast:
+	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/build
+.PHONY : 503.Next_Greater_Element_II/fast
+
+#=============================================================================
+# Target rules for targets named 1422
+
+# Build rule for target.
+1422: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1422
+.PHONY : 1422
+
+# fast build rule for target.
+1422/fast:
+	$(MAKE) -f CMakeFiles/1422.dir/build.make CMakeFiles/1422.dir/build
+.PHONY : 1422/fast
 
 #=============================================================================
 # Target rules for targets named thhdlx
@@ -605,19 +787,6 @@ test1/fast:
 .PHONY : test1/fast
 
 #=============================================================================
-# Target rules for targets named test
-
-# Build rule for target.
-test: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 test
-.PHONY : test
-
-# fast build rule for target.
-test/fast:
-	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-.PHONY : test/fast
-
-#=============================================================================
 # Target rules for targets named 2.Tree
 
 # Build rule for target.
@@ -629,6 +798,58 @@ test/fast:
 2.Tree/fast:
 	$(MAKE) -f CMakeFiles/2.Tree.dir/build.make CMakeFiles/2.Tree.dir/build
 .PHONY : 2.Tree/fast
+
+#=============================================================================
+# Target rules for targets named 1486
+
+# Build rule for target.
+1486: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1486
+.PHONY : 1486
+
+# fast build rule for target.
+1486/fast:
+	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/build
+.PHONY : 1486/fast
+
+#=============================================================================
+# Target rules for targets named 1350
+
+# Build rule for target.
+1350: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1350
+.PHONY : 1350
+
+# fast build rule for target.
+1350/fast:
+	$(MAKE) -f CMakeFiles/1350.dir/build.make CMakeFiles/1350.dir/build
+.PHONY : 1350/fast
+
+#=============================================================================
+# Target rules for targets named 1.Graphmtx
+
+# Build rule for target.
+1.Graphmtx: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1.Graphmtx
+.PHONY : 1.Graphmtx
+
+# fast build rule for target.
+1.Graphmtx/fast:
+	$(MAKE) -f CMakeFiles/1.Graphmtx.dir/build.make CMakeFiles/1.Graphmtx.dir/build
+.PHONY : 1.Graphmtx/fast
+
+#=============================================================================
+# Target rules for targets named 1456-2
+
+# Build rule for target.
+1456-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1456-2
+.PHONY : 1456-2
+
+# fast build rule for target.
+1456-2/fast:
+	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/build
+.PHONY : 1456-2/fast
 
 #=============================================================================
 # Target rules for targets named 3.Tree
@@ -683,58 +904,6 @@ tianda2019-2/fast:
 .PHONY : 1.Tree/fast
 
 #=============================================================================
-# Target rules for targets named 322.Coin_Change
-
-# Build rule for target.
-322.Coin_Change: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 322.Coin_Change
-.PHONY : 322.Coin_Change
-
-# fast build rule for target.
-322.Coin_Change/fast:
-	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/build
-.PHONY : 322.Coin_Change/fast
-
-#=============================================================================
-# Target rules for targets named 69.Sqrtx
-
-# Build rule for target.
-69.Sqrtx: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 69.Sqrtx
-.PHONY : 69.Sqrtx
-
-# fast build rule for target.
-69.Sqrtx/fast:
-	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
-.PHONY : 69.Sqrtx/fast
-
-#=============================================================================
-# Target rules for targets named 448.Find_All_Numbers_Disappeared_in_an_Array
-
-# Build rule for target.
-448.Find_All_Numbers_Disappeared_in_an_Array: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 448.Find_All_Numbers_Disappeared_in_an_Array
-.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array
-
-# fast build rule for target.
-448.Find_All_Numbers_Disappeared_in_an_Array/fast:
-	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
-.PHONY : 448.Find_All_Numbers_Disappeared_in_an_Array/fast
-
-#=============================================================================
-# Target rules for targets named 22.Generate_Parentheses
-
-# Build rule for target.
-22.Generate_Parentheses: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 22.Generate_Parentheses
-.PHONY : 22.Generate_Parentheses
-
-# fast build rule for target.
-22.Generate_Parentheses/fast:
-	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/build
-.PHONY : 22.Generate_Parentheses/fast
-
-#=============================================================================
 # Target rules for targets named 2.stack
 
 # Build rule for target.
@@ -746,19 +915,6 @@ tianda2019-2/fast:
 2.stack/fast:
 	$(MAKE) -f CMakeFiles/2.stack.dir/build.make CMakeFiles/2.stack.dir/build
 .PHONY : 2.stack/fast
-
-#=============================================================================
-# Target rules for targets named 213.House_Robber_II
-
-# Build rule for target.
-213.House_Robber_II: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 213.House_Robber_II
-.PHONY : 213.House_Robber_II
-
-# fast build rule for target.
-213.House_Robber_II/fast:
-	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/build
-.PHONY : 213.House_Robber_II/fast
 
 #=============================================================================
 # Target rules for targets named 3.stack
@@ -800,6 +956,19 @@ tianda2019-2/fast:
 .PHONY : 1381/fast
 
 #=============================================================================
+# Target rules for targets named 4
+
+# Build rule for target.
+4 : cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 4
+.PHONY : 4
+
+# fast build rule for target.
+4/fast:
+	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/build
+.PHONY : 4/fast
+
+#=============================================================================
 # Target rules for targets named 1382
 
 # Build rule for target.
@@ -826,17 +995,277 @@ tianda2019-2/fast:
 .PHONY : 1383/fast
 
 #=============================================================================
-# Target rules for targets named 1436
+# Target rules for targets named 1448
 
 # Build rule for target.
-1436: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1436
-.PHONY : 1436
+1448: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1448
+.PHONY : 1448
 
 # fast build rule for target.
-1436/fast:
-	$(MAKE) -f CMakeFiles/1436.dir/build.make CMakeFiles/1436.dir/build
-.PHONY : 1436/fast
+1448/fast:
+	$(MAKE) -f CMakeFiles/1448.dir/build.make CMakeFiles/1448.dir/build
+.PHONY : 1448/fast
+
+#=============================================================================
+# Target rules for targets named 1440
+
+# Build rule for target.
+1440: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1440
+.PHONY : 1440
+
+# fast build rule for target.
+1440/fast:
+	$(MAKE) -f CMakeFiles/1440.dir/build.make CMakeFiles/1440.dir/build
+.PHONY : 1440/fast
+
+#=============================================================================
+# Target rules for targets named 1488
+
+# Build rule for target.
+1488: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1488
+.PHONY : 1488
+
+# fast build rule for target.
+1488/fast:
+	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/build
+.PHONY : 1488/fast
+
+#=============================================================================
+# Target rules for targets named 1489
+
+# Build rule for target.
+1489: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1489
+.PHONY : 1489
+
+# fast build rule for target.
+1489/fast:
+	$(MAKE) -f CMakeFiles/1489.dir/build.make CMakeFiles/1489.dir/build
+.PHONY : 1489/fast
+
+#=============================================================================
+# Target rules for targets named P3128
+
+# Build rule for target.
+P3128: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 P3128
+.PHONY : P3128
+
+# fast build rule for target.
+P3128/fast:
+	$(MAKE) -f CMakeFiles/P3128.dir/build.make CMakeFiles/P3128.dir/build
+.PHONY : P3128/fast
+
+#=============================================================================
+# Target rules for targets named 763.Partition_Labels
+
+# Build rule for target.
+763.Partition_Labels: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 763.Partition_Labels
+.PHONY : 763.Partition_Labels
+
+# fast build rule for target.
+763.Partition_Labels/fast:
+	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/build
+.PHONY : 763.Partition_Labels/fast
+
+#=============================================================================
+# Target rules for targets named Binary_Tree_Order
+
+# Build rule for target.
+Binary_Tree_Order: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Binary_Tree_Order
+.PHONY : Binary_Tree_Order
+
+# fast build rule for target.
+Binary_Tree_Order/fast:
+	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
+.PHONY : Binary_Tree_Order/fast
+
+#=============================================================================
+# Target rules for targets named 2018-2
+
+# Build rule for target.
+2018-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 2018-2
+.PHONY : 2018-2
+
+# fast build rule for target.
+2018-2/fast:
+	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
+.PHONY : 2018-2/fast
+
+#=============================================================================
+# Target rules for targets named SeqList
+
+# Build rule for target.
+SeqList: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SeqList
+.PHONY : SeqList
+
+# fast build rule for target.
+SeqList/fast:
+	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
+.PHONY : SeqList/fast
+
+#=============================================================================
+# Target rules for targets named 279.Perfect_Squares
+
+# Build rule for target.
+279.Perfect_Squares: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 279.Perfect_Squares
+.PHONY : 279.Perfect_Squares
+
+# fast build rule for target.
+279.Perfect_Squares/fast:
+	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/build
+.PHONY : 279.Perfect_Squares/fast
+
+#=============================================================================
+# Target rules for targets named 1025.Divisor_Game
+
+# Build rule for target.
+1025.Divisor_Game: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1025.Divisor_Game
+.PHONY : 1025.Divisor_Game
+
+# fast build rule for target.
+1025.Divisor_Game/fast:
+	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/build
+.PHONY : 1025.Divisor_Game/fast
+
+#=============================================================================
+# Target rules for targets named P5312
+
+# Build rule for target.
+P5312: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 P5312
+.PHONY : P5312
+
+# fast build rule for target.
+P5312/fast:
+	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/build
+.PHONY : P5312/fast
+
+#=============================================================================
+# Target rules for targets named 771.JewelsandStones
+
+# Build rule for target.
+771.JewelsandStones: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 771.JewelsandStones
+.PHONY : 771.JewelsandStones
+
+# fast build rule for target.
+771.JewelsandStones/fast:
+	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
+.PHONY : 771.JewelsandStones/fast
+
+#=============================================================================
+# Target rules for targets named P2375
+
+# Build rule for target.
+P2375: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 P2375
+.PHONY : P2375
+
+# fast build rule for target.
+P2375/fast:
+	$(MAKE) -f CMakeFiles/P2375.dir/build.make CMakeFiles/P2375.dir/build
+.PHONY : P2375/fast
+
+#=============================================================================
+# Target rules for targets named 1
+
+# Build rule for target.
+1 : cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1
+.PHONY : 1
+
+# fast build rule for target.
+1/fast:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/build
+.PHONY : 1/fast
+
+#=============================================================================
+# Target rules for targets named Linknode
+
+# Build rule for target.
+Linknode: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Linknode
+.PHONY : Linknode
+
+# fast build rule for target.
+Linknode/fast:
+	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
+.PHONY : Linknode/fast
+
+#=============================================================================
+# Target rules for targets named 1.queue
+
+# Build rule for target.
+1.queue: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1.queue
+.PHONY : 1.queue
+
+# fast build rule for target.
+1.queue/fast:
+	$(MAKE) -f CMakeFiles/1.queue.dir/build.make CMakeFiles/1.queue.dir/build
+.PHONY : 1.queue/fast
+
+#=============================================================================
+# Target rules for targets named CombinationSumIII
+
+# Build rule for target.
+CombinationSumIII: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
+.PHONY : CombinationSumIII
+
+# fast build rule for target.
+CombinationSumIII/fast:
+	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
+.PHONY : CombinationSumIII/fast
+
+#=============================================================================
+# Target rules for targets named 704.Binary_Search
+
+# Build rule for target.
+704.Binary_Search: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
+.PHONY : 704.Binary_Search
+
+# fast build rule for target.
+704.Binary_Search/fast:
+	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
+.PHONY : 704.Binary_Search/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named 3
+
+# Build rule for target.
+3 : cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 3
+.PHONY : 3
+
+# fast build rule for target.
+3/fast:
+	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/build
+.PHONY : 3/fast
 
 #=============================================================================
 # Target rules for targets named 97.Interleaving_String
@@ -850,6 +1279,149 @@ tianda2019-2/fast:
 97.Interleaving_String/fast:
 	$(MAKE) -f CMakeFiles/97.Interleaving_String.dir/build.make CMakeFiles/97.Interleaving_String.dir/build
 .PHONY : 97.Interleaving_String/fast
+
+#=============================================================================
+# Target rules for targets named 1436
+
+# Build rule for target.
+1436: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1436
+.PHONY : 1436
+
+# fast build rule for target.
+1436/fast:
+	$(MAKE) -f CMakeFiles/1436.dir/build.make CMakeFiles/1436.dir/build
+.PHONY : 1436/fast
+
+#=============================================================================
+# Target rules for targets named 5
+
+# Build rule for target.
+5 : cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 5
+.PHONY : 5
+
+# fast build rule for target.
+5/fast:
+	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/build
+.PHONY : 5/fast
+
+#=============================================================================
+# Target rules for targets named Special_Multiplication
+
+# Build rule for target.
+Special_Multiplication: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Special_Multiplication
+.PHONY : Special_Multiplication
+
+# fast build rule for target.
+Special_Multiplication/fast:
+	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
+.PHONY : Special_Multiplication/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct1
+
+# Build rule for target.
+sort_the_struct1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct1
+.PHONY : sort_the_struct1
+
+# fast build rule for target.
+sort_the_struct1/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+.PHONY : sort_the_struct1/fast
+
+#=============================================================================
+# Target rules for targets named sort_the_struct2
+
+# Build rule for target.
+sort_the_struct2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 sort_the_struct2
+.PHONY : sort_the_struct2
+
+# fast build rule for target.
+sort_the_struct2/fast:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+.PHONY : sort_the_struct2/fast
+
+#=============================================================================
+# Target rules for targets named 1455
+
+# Build rule for target.
+1455: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1455
+.PHONY : 1455
+
+# fast build rule for target.
+1455/fast:
+	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/build
+.PHONY : 1455/fast
+
+#=============================================================================
+# Target rules for targets named quick_sort
+
+# Build rule for target.
+quick_sort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 quick_sort
+.PHONY : quick_sort
+
+# fast build rule for target.
+quick_sort/fast:
+	$(MAKE) -f CMakeFiles/quick_sort.dir/build.make CMakeFiles/quick_sort.dir/build
+.PHONY : quick_sort/fast
+
+#=============================================================================
+# Target rules for targets named data1
+
+# Build rule for target.
+data1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 data1
+.PHONY : data1
+
+# fast build rule for target.
+data1/fast:
+	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
+.PHONY : data1/fast
+
+#=============================================================================
+# Target rules for targets named 962.Maximum_Width_Ramp
+
+# Build rule for target.
+962.Maximum_Width_Ramp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 962.Maximum_Width_Ramp
+.PHONY : 962.Maximum_Width_Ramp
+
+# fast build rule for target.
+962.Maximum_Width_Ramp/fast:
+	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/build
+.PHONY : 962.Maximum_Width_Ramp/fast
+
+#=============================================================================
+# Target rules for targets named Hash1
+
+# Build rule for target.
+Hash1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Hash1
+.PHONY : Hash1
+
+# fast build rule for target.
+Hash1/fast:
+	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
+.PHONY : Hash1/fast
+
+#=============================================================================
+# Target rules for targets named Wildcard_Matching
+
+# Build rule for target.
+Wildcard_Matching: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Wildcard_Matching
+.PHONY : Wildcard_Matching
+
+# fast build rule for target.
+Wildcard_Matching/fast:
+	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
+.PHONY : Wildcard_Matching/fast
 
 #=============================================================================
 # Target rules for targets named 1.heap
@@ -917,6 +1489,19 @@ search/fast:
 .PHONY : 198.House_Robber/fast
 
 #=============================================================================
+# Target rules for targets named 1466
+
+# Build rule for target.
+1466: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1466
+.PHONY : 1466
+
+# fast build rule for target.
+1466/fast:
+	$(MAKE) -f CMakeFiles/1466.dir/build.make CMakeFiles/1466.dir/build
+.PHONY : 1466/fast
+
+#=============================================================================
 # Target rules for targets named data2
 
 # Build rule for target.
@@ -982,71 +1567,6 @@ Bracket_Matching_Problem/fast:
 .PHONY : Bracket_Matching_Problem/fast
 
 #=============================================================================
-# Target rules for targets named 300.Longest_Increasing_Subsequence
-
-# Build rule for target.
-300.Longest_Increasing_Subsequence: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 300.Longest_Increasing_Subsequence
-.PHONY : 300.Longest_Increasing_Subsequence
-
-# fast build rule for target.
-300.Longest_Increasing_Subsequence/fast:
-	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
-.PHONY : 300.Longest_Increasing_Subsequence/fast
-
-#=============================================================================
-# Target rules for targets named 763.Partition_Labels
-
-# Build rule for target.
-763.Partition_Labels: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 763.Partition_Labels
-.PHONY : 763.Partition_Labels
-
-# fast build rule for target.
-763.Partition_Labels/fast:
-	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/build
-.PHONY : 763.Partition_Labels/fast
-
-#=============================================================================
-# Target rules for targets named Binary_Tree_Order
-
-# Build rule for target.
-Binary_Tree_Order: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Binary_Tree_Order
-.PHONY : Binary_Tree_Order
-
-# fast build rule for target.
-Binary_Tree_Order/fast:
-	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
-.PHONY : Binary_Tree_Order/fast
-
-#=============================================================================
-# Target rules for targets named Special_Multiplication
-
-# Build rule for target.
-Special_Multiplication: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Special_Multiplication
-.PHONY : Special_Multiplication
-
-# fast build rule for target.
-Special_Multiplication/fast:
-	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
-.PHONY : Special_Multiplication/fast
-
-#=============================================================================
-# Target rules for targets named 1047.Remove_All_Adjacent_Duplicates_In_String
-
-# Build rule for target.
-1047.Remove_All_Adjacent_Duplicates_In_String: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1047.Remove_All_Adjacent_Duplicates_In_String
-.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String
-
-# fast build rule for target.
-1047.Remove_All_Adjacent_Duplicates_In_String/fast:
-	$(MAKE) -f CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build.make CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/build
-.PHONY : 1047.Remove_All_Adjacent_Duplicates_In_String/fast
-
-#=============================================================================
 # Target rules for targets named UncommonWordsfromTwoSentences
 
 # Build rule for target.
@@ -1058,58 +1578,6 @@ UncommonWordsfromTwoSentences: cmake_check_build_system
 UncommonWordsfromTwoSentences/fast:
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
 .PHONY : UncommonWordsfromTwoSentences/fast
-
-#=============================================================================
-# Target rules for targets named Linknode
-
-# Build rule for target.
-Linknode: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Linknode
-.PHONY : Linknode
-
-# fast build rule for target.
-Linknode/fast:
-	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-.PHONY : Linknode/fast
-
-#=============================================================================
-# Target rules for targets named 1.queue
-
-# Build rule for target.
-1.queue: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1.queue
-.PHONY : 1.queue
-
-# fast build rule for target.
-1.queue/fast:
-	$(MAKE) -f CMakeFiles/1.queue.dir/build.make CMakeFiles/1.queue.dir/build
-.PHONY : 1.queue/fast
-
-#=============================================================================
-# Target rules for targets named CombinationSumIII
-
-# Build rule for target.
-CombinationSumIII: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CombinationSumIII
-.PHONY : CombinationSumIII
-
-# fast build rule for target.
-CombinationSumIII/fast:
-	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
-.PHONY : CombinationSumIII/fast
-
-#=============================================================================
-# Target rules for targets named 704.Binary_Search
-
-# Build rule for target.
-704.Binary_Search: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 704.Binary_Search
-.PHONY : 704.Binary_Search
-
-# fast build rule for target.
-704.Binary_Search/fast:
-	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
-.PHONY : 704.Binary_Search/fast
 
 #=============================================================================
 # Target rules for targets named PathSum
@@ -1201,214 +1669,6 @@ Unique_Binary_Search_Trees/fast:
 35.Search_Insert_Position/fast:
 	$(MAKE) -f CMakeFiles/35.Search_Insert_Position.dir/build.make CMakeFiles/35.Search_Insert_Position.dir/build
 .PHONY : 35.Search_Insert_Position/fast
-
-#=============================================================================
-# Target rules for targets named 771.JewelsandStones
-
-# Build rule for target.
-771.JewelsandStones: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 771.JewelsandStones
-.PHONY : 771.JewelsandStones
-
-# fast build rule for target.
-771.JewelsandStones/fast:
-	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
-.PHONY : 771.JewelsandStones/fast
-
-#=============================================================================
-# Target rules for targets named 1314
-
-# Build rule for target.
-1314: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1314
-.PHONY : 1314
-
-# fast build rule for target.
-1314/fast:
-	$(MAKE) -f CMakeFiles/1314.dir/build.make CMakeFiles/1314.dir/build
-.PHONY : 1314/fast
-
-#=============================================================================
-# Target rules for targets named 72.Edit_Distance
-
-# Build rule for target.
-72.Edit_Distance: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 72.Edit_Distance
-.PHONY : 72.Edit_Distance
-
-# fast build rule for target.
-72.Edit_Distance/fast:
-	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
-.PHONY : 72.Edit_Distance/fast
-
-#=============================================================================
-# Target rules for targets named 64.Minimum_Path_Sum
-
-# Build rule for target.
-64.Minimum_Path_Sum: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 64.Minimum_Path_Sum
-.PHONY : 64.Minimum_Path_Sum
-
-# fast build rule for target.
-64.Minimum_Path_Sum/fast:
-	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
-.PHONY : 64.Minimum_Path_Sum/fast
-
-#=============================================================================
-# Target rules for targets named 2018-2
-
-# Build rule for target.
-2018-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 2018-2
-.PHONY : 2018-2
-
-# fast build rule for target.
-2018-2/fast:
-	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
-.PHONY : 2018-2/fast
-
-#=============================================================================
-# Target rules for targets named SeqList
-
-# Build rule for target.
-SeqList: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SeqList
-.PHONY : SeqList
-
-# fast build rule for target.
-SeqList/fast:
-	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-.PHONY : SeqList/fast
-
-#=============================================================================
-# Target rules for targets named 1025.Divisor_Game
-
-# Build rule for target.
-1025.Divisor_Game: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1025.Divisor_Game
-.PHONY : 1025.Divisor_Game
-
-# fast build rule for target.
-1025.Divisor_Game/fast:
-	$(MAKE) -f CMakeFiles/1025.Divisor_Game.dir/build.make CMakeFiles/1025.Divisor_Game.dir/build
-.PHONY : 1025.Divisor_Game/fast
-
-#=============================================================================
-# Target rules for targets named 279.Perfect_Squares
-
-# Build rule for target.
-279.Perfect_Squares: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 279.Perfect_Squares
-.PHONY : 279.Perfect_Squares
-
-# fast build rule for target.
-279.Perfect_Squares/fast:
-	$(MAKE) -f CMakeFiles/279.Perfect_Squares.dir/build.make CMakeFiles/279.Perfect_Squares.dir/build
-.PHONY : 279.Perfect_Squares/fast
-
-#=============================================================================
-# Target rules for targets named 143.Reorder_List
-
-# Build rule for target.
-143.Reorder_List: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 143.Reorder_List
-.PHONY : 143.Reorder_List
-
-# fast build rule for target.
-143.Reorder_List/fast:
-	$(MAKE) -f CMakeFiles/143.Reorder_List.dir/build.make CMakeFiles/143.Reorder_List.dir/build
-.PHONY : 143.Reorder_List/fast
-
-#=============================================================================
-# Target rules for targets named 401.Binary_Watch
-
-# Build rule for target.
-401.Binary_Watch: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 401.Binary_Watch
-.PHONY : 401.Binary_Watch
-
-# fast build rule for target.
-401.Binary_Watch/fast:
-	$(MAKE) -f CMakeFiles/401.Binary_Watch.dir/build.make CMakeFiles/401.Binary_Watch.dir/build
-.PHONY : 401.Binary_Watch/fast
-
-#=============================================================================
-# Target rules for targets named 263.Ugly_Number
-
-# Build rule for target.
-263.Ugly_Number: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 263.Ugly_Number
-.PHONY : 263.Ugly_Number
-
-# fast build rule for target.
-263.Ugly_Number/fast:
-	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/build
-.PHONY : 263.Ugly_Number/fast
-
-#=============================================================================
-# Target rules for targets named Hash1
-
-# Build rule for target.
-Hash1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Hash1
-.PHONY : Hash1
-
-# fast build rule for target.
-Hash1/fast:
-	$(MAKE) -f CMakeFiles/Hash1.dir/build.make CMakeFiles/Hash1.dir/build
-.PHONY : Hash1/fast
-
-#=============================================================================
-# Target rules for targets named 962.Maximum_Width_Ramp
-
-# Build rule for target.
-962.Maximum_Width_Ramp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 962.Maximum_Width_Ramp
-.PHONY : 962.Maximum_Width_Ramp
-
-# fast build rule for target.
-962.Maximum_Width_Ramp/fast:
-	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/build
-.PHONY : 962.Maximum_Width_Ramp/fast
-
-#=============================================================================
-# Target rules for targets named 1422
-
-# Build rule for target.
-1422: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 1422
-.PHONY : 1422
-
-# fast build rule for target.
-1422/fast:
-	$(MAKE) -f CMakeFiles/1422.dir/build.make CMakeFiles/1422.dir/build
-.PHONY : 1422/fast
-
-#=============================================================================
-# Target rules for targets named 503.Next_Greater_Element_II
-
-# Build rule for target.
-503.Next_Greater_Element_II: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 503.Next_Greater_Element_II
-.PHONY : 503.Next_Greater_Element_II
-
-# fast build rule for target.
-503.Next_Greater_Element_II/fast:
-	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/build
-.PHONY : 503.Next_Greater_Element_II/fast
-
-#=============================================================================
-# Target rules for targets named 453.Minimum_Moves_to_Equal_Array_Elements
-
-# Build rule for target.
-453.Minimum_Moves_to_Equal_Array_Elements: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 453.Minimum_Moves_to_Equal_Array_Elements
-.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements
-
-# fast build rule for target.
-453.Minimum_Moves_to_Equal_Array_Elements/fast:
-	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build
-.PHONY : 453.Minimum_Moves_to_Equal_Array_Elements/fast
 
 2.Classic_entry/1.sort/BubbleSort.o: 2.Classic_entry/1.sort/BubbleSort.cpp.o
 
@@ -2466,6 +2726,141 @@ Class/basic/graph/thhdlx.cpp.s:
 	$(MAKE) -f CMakeFiles/thhdlx.dir/build.make CMakeFiles/thhdlx.dir/Class/basic/graph/thhdlx.cpp.s
 .PHONY : Class/basic/graph/thhdlx.cpp.s
 
+Class/lanqiao/1.o: Class/lanqiao/1.cpp.o
+
+.PHONY : Class/lanqiao/1.o
+
+# target to build an object file
+Class/lanqiao/1.cpp.o:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/Class/lanqiao/1.cpp.o
+.PHONY : Class/lanqiao/1.cpp.o
+
+Class/lanqiao/1.i: Class/lanqiao/1.cpp.i
+
+.PHONY : Class/lanqiao/1.i
+
+# target to preprocess a source file
+Class/lanqiao/1.cpp.i:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/Class/lanqiao/1.cpp.i
+.PHONY : Class/lanqiao/1.cpp.i
+
+Class/lanqiao/1.s: Class/lanqiao/1.cpp.s
+
+.PHONY : Class/lanqiao/1.s
+
+# target to generate assembly for a file
+Class/lanqiao/1.cpp.s:
+	$(MAKE) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/Class/lanqiao/1.cpp.s
+.PHONY : Class/lanqiao/1.cpp.s
+
+Class/lanqiao/2.o: Class/lanqiao/2.cpp.o
+
+.PHONY : Class/lanqiao/2.o
+
+# target to build an object file
+Class/lanqiao/2.cpp.o:
+	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/Class/lanqiao/2.cpp.o
+.PHONY : Class/lanqiao/2.cpp.o
+
+Class/lanqiao/2.i: Class/lanqiao/2.cpp.i
+
+.PHONY : Class/lanqiao/2.i
+
+# target to preprocess a source file
+Class/lanqiao/2.cpp.i:
+	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/Class/lanqiao/2.cpp.i
+.PHONY : Class/lanqiao/2.cpp.i
+
+Class/lanqiao/2.s: Class/lanqiao/2.cpp.s
+
+.PHONY : Class/lanqiao/2.s
+
+# target to generate assembly for a file
+Class/lanqiao/2.cpp.s:
+	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/Class/lanqiao/2.cpp.s
+.PHONY : Class/lanqiao/2.cpp.s
+
+Class/lanqiao/3.o: Class/lanqiao/3.cpp.o
+
+.PHONY : Class/lanqiao/3.o
+
+# target to build an object file
+Class/lanqiao/3.cpp.o:
+	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/Class/lanqiao/3.cpp.o
+.PHONY : Class/lanqiao/3.cpp.o
+
+Class/lanqiao/3.i: Class/lanqiao/3.cpp.i
+
+.PHONY : Class/lanqiao/3.i
+
+# target to preprocess a source file
+Class/lanqiao/3.cpp.i:
+	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/Class/lanqiao/3.cpp.i
+.PHONY : Class/lanqiao/3.cpp.i
+
+Class/lanqiao/3.s: Class/lanqiao/3.cpp.s
+
+.PHONY : Class/lanqiao/3.s
+
+# target to generate assembly for a file
+Class/lanqiao/3.cpp.s:
+	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/Class/lanqiao/3.cpp.s
+.PHONY : Class/lanqiao/3.cpp.s
+
+Class/lanqiao/4.o: Class/lanqiao/4.cpp.o
+
+.PHONY : Class/lanqiao/4.o
+
+# target to build an object file
+Class/lanqiao/4.cpp.o:
+	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/Class/lanqiao/4.cpp.o
+.PHONY : Class/lanqiao/4.cpp.o
+
+Class/lanqiao/4.i: Class/lanqiao/4.cpp.i
+
+.PHONY : Class/lanqiao/4.i
+
+# target to preprocess a source file
+Class/lanqiao/4.cpp.i:
+	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/Class/lanqiao/4.cpp.i
+.PHONY : Class/lanqiao/4.cpp.i
+
+Class/lanqiao/4.s: Class/lanqiao/4.cpp.s
+
+.PHONY : Class/lanqiao/4.s
+
+# target to generate assembly for a file
+Class/lanqiao/4.cpp.s:
+	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/Class/lanqiao/4.cpp.s
+.PHONY : Class/lanqiao/4.cpp.s
+
+Class/lanqiao/5.o: Class/lanqiao/5.cpp.o
+
+.PHONY : Class/lanqiao/5.o
+
+# target to build an object file
+Class/lanqiao/5.cpp.o:
+	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/Class/lanqiao/5.cpp.o
+.PHONY : Class/lanqiao/5.cpp.o
+
+Class/lanqiao/5.i: Class/lanqiao/5.cpp.i
+
+.PHONY : Class/lanqiao/5.i
+
+# target to preprocess a source file
+Class/lanqiao/5.cpp.i:
+	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/Class/lanqiao/5.cpp.i
+.PHONY : Class/lanqiao/5.cpp.i
+
+Class/lanqiao/5.s: Class/lanqiao/5.cpp.s
+
+.PHONY : Class/lanqiao/5.s
+
+# target to generate assembly for a file
+Class/lanqiao/5.cpp.s:
+	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/Class/lanqiao/5.cpp.s
+.PHONY : Class/lanqiao/5.cpp.s
+
 Class/update/1/1422.o: Class/update/1/1422.cpp.o
 
 .PHONY : Class/update/1/1422.o
@@ -2654,6 +3049,411 @@ Class/update/1/test.s: Class/update/1/test.cpp.s
 Class/update/1/test.cpp.s:
 	$(MAKE) -f CMakeFiles/test1.dir/build.make CMakeFiles/test1.dir/Class/update/1/test.cpp.s
 .PHONY : Class/update/1/test.cpp.s
+
+Class/update/2/1455.o: Class/update/2/1455.cpp.o
+
+.PHONY : Class/update/2/1455.o
+
+# target to build an object file
+Class/update/2/1455.cpp.o:
+	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/Class/update/2/1455.cpp.o
+.PHONY : Class/update/2/1455.cpp.o
+
+Class/update/2/1455.i: Class/update/2/1455.cpp.i
+
+.PHONY : Class/update/2/1455.i
+
+# target to preprocess a source file
+Class/update/2/1455.cpp.i:
+	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/Class/update/2/1455.cpp.i
+.PHONY : Class/update/2/1455.cpp.i
+
+Class/update/2/1455.s: Class/update/2/1455.cpp.s
+
+.PHONY : Class/update/2/1455.s
+
+# target to generate assembly for a file
+Class/update/2/1455.cpp.s:
+	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/Class/update/2/1455.cpp.s
+.PHONY : Class/update/2/1455.cpp.s
+
+Class/update/2/1456-2.o: Class/update/2/1456-2.cpp.o
+
+.PHONY : Class/update/2/1456-2.o
+
+# target to build an object file
+Class/update/2/1456-2.cpp.o:
+	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/Class/update/2/1456-2.cpp.o
+.PHONY : Class/update/2/1456-2.cpp.o
+
+Class/update/2/1456-2.i: Class/update/2/1456-2.cpp.i
+
+.PHONY : Class/update/2/1456-2.i
+
+# target to preprocess a source file
+Class/update/2/1456-2.cpp.i:
+	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/Class/update/2/1456-2.cpp.i
+.PHONY : Class/update/2/1456-2.cpp.i
+
+Class/update/2/1456-2.s: Class/update/2/1456-2.cpp.s
+
+.PHONY : Class/update/2/1456-2.s
+
+# target to generate assembly for a file
+Class/update/2/1456-2.cpp.s:
+	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/Class/update/2/1456-2.cpp.s
+.PHONY : Class/update/2/1456-2.cpp.s
+
+Class/update/2/1456.o: Class/update/2/1456.cpp.o
+
+.PHONY : Class/update/2/1456.o
+
+# target to build an object file
+Class/update/2/1456.cpp.o:
+	$(MAKE) -f CMakeFiles/1456.dir/build.make CMakeFiles/1456.dir/Class/update/2/1456.cpp.o
+.PHONY : Class/update/2/1456.cpp.o
+
+Class/update/2/1456.i: Class/update/2/1456.cpp.i
+
+.PHONY : Class/update/2/1456.i
+
+# target to preprocess a source file
+Class/update/2/1456.cpp.i:
+	$(MAKE) -f CMakeFiles/1456.dir/build.make CMakeFiles/1456.dir/Class/update/2/1456.cpp.i
+.PHONY : Class/update/2/1456.cpp.i
+
+Class/update/2/1456.s: Class/update/2/1456.cpp.s
+
+.PHONY : Class/update/2/1456.s
+
+# target to generate assembly for a file
+Class/update/2/1456.cpp.s:
+	$(MAKE) -f CMakeFiles/1456.dir/build.make CMakeFiles/1456.dir/Class/update/2/1456.cpp.s
+.PHONY : Class/update/2/1456.cpp.s
+
+Class/update/2/1465.o: Class/update/2/1465.cpp.o
+
+.PHONY : Class/update/2/1465.o
+
+# target to build an object file
+Class/update/2/1465.cpp.o:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/Class/update/2/1465.cpp.o
+.PHONY : Class/update/2/1465.cpp.o
+
+Class/update/2/1465.i: Class/update/2/1465.cpp.i
+
+.PHONY : Class/update/2/1465.i
+
+# target to preprocess a source file
+Class/update/2/1465.cpp.i:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/Class/update/2/1465.cpp.i
+.PHONY : Class/update/2/1465.cpp.i
+
+Class/update/2/1465.s: Class/update/2/1465.cpp.s
+
+.PHONY : Class/update/2/1465.s
+
+# target to generate assembly for a file
+Class/update/2/1465.cpp.s:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/Class/update/2/1465.cpp.s
+.PHONY : Class/update/2/1465.cpp.s
+
+Class/update/2/1466.o: Class/update/2/1466.cpp.o
+
+.PHONY : Class/update/2/1466.o
+
+# target to build an object file
+Class/update/2/1466.cpp.o:
+	$(MAKE) -f CMakeFiles/1466.dir/build.make CMakeFiles/1466.dir/Class/update/2/1466.cpp.o
+.PHONY : Class/update/2/1466.cpp.o
+
+Class/update/2/1466.i: Class/update/2/1466.cpp.i
+
+.PHONY : Class/update/2/1466.i
+
+# target to preprocess a source file
+Class/update/2/1466.cpp.i:
+	$(MAKE) -f CMakeFiles/1466.dir/build.make CMakeFiles/1466.dir/Class/update/2/1466.cpp.i
+.PHONY : Class/update/2/1466.cpp.i
+
+Class/update/2/1466.s: Class/update/2/1466.cpp.s
+
+.PHONY : Class/update/2/1466.s
+
+# target to generate assembly for a file
+Class/update/2/1466.cpp.s:
+	$(MAKE) -f CMakeFiles/1466.dir/build.make CMakeFiles/1466.dir/Class/update/2/1466.cpp.s
+.PHONY : Class/update/2/1466.cpp.s
+
+Class/update/2/1471.o: Class/update/2/1471.cpp.o
+
+.PHONY : Class/update/2/1471.o
+
+# target to build an object file
+Class/update/2/1471.cpp.o:
+	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/Class/update/2/1471.cpp.o
+.PHONY : Class/update/2/1471.cpp.o
+
+Class/update/2/1471.i: Class/update/2/1471.cpp.i
+
+.PHONY : Class/update/2/1471.i
+
+# target to preprocess a source file
+Class/update/2/1471.cpp.i:
+	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/Class/update/2/1471.cpp.i
+.PHONY : Class/update/2/1471.cpp.i
+
+Class/update/2/1471.s: Class/update/2/1471.cpp.s
+
+.PHONY : Class/update/2/1471.s
+
+# target to generate assembly for a file
+Class/update/2/1471.cpp.s:
+	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/Class/update/2/1471.cpp.s
+.PHONY : Class/update/2/1471.cpp.s
+
+Class/update/2/1472.o: Class/update/2/1472.cpp.o
+
+.PHONY : Class/update/2/1472.o
+
+# target to build an object file
+Class/update/2/1472.cpp.o:
+	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/Class/update/2/1472.cpp.o
+.PHONY : Class/update/2/1472.cpp.o
+
+Class/update/2/1472.i: Class/update/2/1472.cpp.i
+
+.PHONY : Class/update/2/1472.i
+
+# target to preprocess a source file
+Class/update/2/1472.cpp.i:
+	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/Class/update/2/1472.cpp.i
+.PHONY : Class/update/2/1472.cpp.i
+
+Class/update/2/1472.s: Class/update/2/1472.cpp.s
+
+.PHONY : Class/update/2/1472.s
+
+# target to generate assembly for a file
+Class/update/2/1472.cpp.s:
+	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/Class/update/2/1472.cpp.s
+.PHONY : Class/update/2/1472.cpp.s
+
+Class/update/2/P3780.o: Class/update/2/P3780.cpp.o
+
+.PHONY : Class/update/2/P3780.o
+
+# target to build an object file
+Class/update/2/P3780.cpp.o:
+	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/Class/update/2/P3780.cpp.o
+.PHONY : Class/update/2/P3780.cpp.o
+
+Class/update/2/P3780.i: Class/update/2/P3780.cpp.i
+
+.PHONY : Class/update/2/P3780.i
+
+# target to preprocess a source file
+Class/update/2/P3780.cpp.i:
+	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/Class/update/2/P3780.cpp.i
+.PHONY : Class/update/2/P3780.cpp.i
+
+Class/update/2/P3780.s: Class/update/2/P3780.cpp.s
+
+.PHONY : Class/update/2/P3780.s
+
+# target to generate assembly for a file
+Class/update/2/P3780.cpp.s:
+	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/Class/update/2/P3780.cpp.s
+.PHONY : Class/update/2/P3780.cpp.s
+
+Class/update/2/P3796.o: Class/update/2/P3796.cpp.o
+
+.PHONY : Class/update/2/P3796.o
+
+# target to build an object file
+Class/update/2/P3796.cpp.o:
+	$(MAKE) -f CMakeFiles/1479.dir/build.make CMakeFiles/1479.dir/Class/update/2/P3796.cpp.o
+.PHONY : Class/update/2/P3796.cpp.o
+
+Class/update/2/P3796.i: Class/update/2/P3796.cpp.i
+
+.PHONY : Class/update/2/P3796.i
+
+# target to preprocess a source file
+Class/update/2/P3796.cpp.i:
+	$(MAKE) -f CMakeFiles/1479.dir/build.make CMakeFiles/1479.dir/Class/update/2/P3796.cpp.i
+.PHONY : Class/update/2/P3796.cpp.i
+
+Class/update/2/P3796.s: Class/update/2/P3796.cpp.s
+
+.PHONY : Class/update/2/P3796.s
+
+# target to generate assembly for a file
+Class/update/2/P3796.cpp.s:
+	$(MAKE) -f CMakeFiles/1479.dir/build.make CMakeFiles/1479.dir/Class/update/2/P3796.cpp.s
+.PHONY : Class/update/2/P3796.cpp.s
+
+Class/update/3/1486.o: Class/update/3/1486.cpp.o
+
+.PHONY : Class/update/3/1486.o
+
+# target to build an object file
+Class/update/3/1486.cpp.o:
+	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/Class/update/3/1486.cpp.o
+.PHONY : Class/update/3/1486.cpp.o
+
+Class/update/3/1486.i: Class/update/3/1486.cpp.i
+
+.PHONY : Class/update/3/1486.i
+
+# target to preprocess a source file
+Class/update/3/1486.cpp.i:
+	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/Class/update/3/1486.cpp.i
+.PHONY : Class/update/3/1486.cpp.i
+
+Class/update/3/1486.s: Class/update/3/1486.cpp.s
+
+.PHONY : Class/update/3/1486.s
+
+# target to generate assembly for a file
+Class/update/3/1486.cpp.s:
+	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/Class/update/3/1486.cpp.s
+.PHONY : Class/update/3/1486.cpp.s
+
+Class/update/3/1488.o: Class/update/3/1488.cpp.o
+
+.PHONY : Class/update/3/1488.o
+
+# target to build an object file
+Class/update/3/1488.cpp.o:
+	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/Class/update/3/1488.cpp.o
+.PHONY : Class/update/3/1488.cpp.o
+
+Class/update/3/1488.i: Class/update/3/1488.cpp.i
+
+.PHONY : Class/update/3/1488.i
+
+# target to preprocess a source file
+Class/update/3/1488.cpp.i:
+	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/Class/update/3/1488.cpp.i
+.PHONY : Class/update/3/1488.cpp.i
+
+Class/update/3/1488.s: Class/update/3/1488.cpp.s
+
+.PHONY : Class/update/3/1488.s
+
+# target to generate assembly for a file
+Class/update/3/1488.cpp.s:
+	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/Class/update/3/1488.cpp.s
+.PHONY : Class/update/3/1488.cpp.s
+
+Class/update/3/1489.o: Class/update/3/1489.cpp.o
+
+.PHONY : Class/update/3/1489.o
+
+# target to build an object file
+Class/update/3/1489.cpp.o:
+	$(MAKE) -f CMakeFiles/1489.dir/build.make CMakeFiles/1489.dir/Class/update/3/1489.cpp.o
+.PHONY : Class/update/3/1489.cpp.o
+
+Class/update/3/1489.i: Class/update/3/1489.cpp.i
+
+.PHONY : Class/update/3/1489.i
+
+# target to preprocess a source file
+Class/update/3/1489.cpp.i:
+	$(MAKE) -f CMakeFiles/1489.dir/build.make CMakeFiles/1489.dir/Class/update/3/1489.cpp.i
+.PHONY : Class/update/3/1489.cpp.i
+
+Class/update/3/1489.s: Class/update/3/1489.cpp.s
+
+.PHONY : Class/update/3/1489.s
+
+# target to generate assembly for a file
+Class/update/3/1489.cpp.s:
+	$(MAKE) -f CMakeFiles/1489.dir/build.make CMakeFiles/1489.dir/Class/update/3/1489.cpp.s
+.PHONY : Class/update/3/1489.cpp.s
+
+Class/zhuanti/P2375.o: Class/zhuanti/P2375.cpp.o
+
+.PHONY : Class/zhuanti/P2375.o
+
+# target to build an object file
+Class/zhuanti/P2375.cpp.o:
+	$(MAKE) -f CMakeFiles/P2375.dir/build.make CMakeFiles/P2375.dir/Class/zhuanti/P2375.cpp.o
+.PHONY : Class/zhuanti/P2375.cpp.o
+
+Class/zhuanti/P2375.i: Class/zhuanti/P2375.cpp.i
+
+.PHONY : Class/zhuanti/P2375.i
+
+# target to preprocess a source file
+Class/zhuanti/P2375.cpp.i:
+	$(MAKE) -f CMakeFiles/P2375.dir/build.make CMakeFiles/P2375.dir/Class/zhuanti/P2375.cpp.i
+.PHONY : Class/zhuanti/P2375.cpp.i
+
+Class/zhuanti/P2375.s: Class/zhuanti/P2375.cpp.s
+
+.PHONY : Class/zhuanti/P2375.s
+
+# target to generate assembly for a file
+Class/zhuanti/P2375.cpp.s:
+	$(MAKE) -f CMakeFiles/P2375.dir/build.make CMakeFiles/P2375.dir/Class/zhuanti/P2375.cpp.s
+.PHONY : Class/zhuanti/P2375.cpp.s
+
+Class/zhuanti/P3128.o: Class/zhuanti/P3128.cpp.o
+
+.PHONY : Class/zhuanti/P3128.o
+
+# target to build an object file
+Class/zhuanti/P3128.cpp.o:
+	$(MAKE) -f CMakeFiles/P3128.dir/build.make CMakeFiles/P3128.dir/Class/zhuanti/P3128.cpp.o
+.PHONY : Class/zhuanti/P3128.cpp.o
+
+Class/zhuanti/P3128.i: Class/zhuanti/P3128.cpp.i
+
+.PHONY : Class/zhuanti/P3128.i
+
+# target to preprocess a source file
+Class/zhuanti/P3128.cpp.i:
+	$(MAKE) -f CMakeFiles/P3128.dir/build.make CMakeFiles/P3128.dir/Class/zhuanti/P3128.cpp.i
+.PHONY : Class/zhuanti/P3128.cpp.i
+
+Class/zhuanti/P3128.s: Class/zhuanti/P3128.cpp.s
+
+.PHONY : Class/zhuanti/P3128.s
+
+# target to generate assembly for a file
+Class/zhuanti/P3128.cpp.s:
+	$(MAKE) -f CMakeFiles/P3128.dir/build.make CMakeFiles/P3128.dir/Class/zhuanti/P3128.cpp.s
+.PHONY : Class/zhuanti/P3128.cpp.s
+
+Class/zhuanti/P5312.o: Class/zhuanti/P5312.cpp.o
+
+.PHONY : Class/zhuanti/P5312.o
+
+# target to build an object file
+Class/zhuanti/P5312.cpp.o:
+	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/Class/zhuanti/P5312.cpp.o
+.PHONY : Class/zhuanti/P5312.cpp.o
+
+Class/zhuanti/P5312.i: Class/zhuanti/P5312.cpp.i
+
+.PHONY : Class/zhuanti/P5312.i
+
+# target to preprocess a source file
+Class/zhuanti/P5312.cpp.i:
+	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/Class/zhuanti/P5312.cpp.i
+.PHONY : Class/zhuanti/P5312.cpp.i
+
+Class/zhuanti/P5312.s: Class/zhuanti/P5312.cpp.s
+
+.PHONY : Class/zhuanti/P5312.s
+
+# target to generate assembly for a file
+Class/zhuanti/P5312.cpp.s:
+	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/Class/zhuanti/P5312.cpp.s
+.PHONY : Class/zhuanti/P5312.cpp.s
 
 LeetCode/1025.Divisor_Game.o: LeetCode/1025.Divisor_Game.cpp.o
 
@@ -4103,74 +4903,110 @@ help:
 	@echo "... SeqStack"
 	@echo "... 1-2"
 	@echo "... 767.Reorganize_String"
-	@echo "... Wildcard_Matching"
-	@echo "... data1"
-	@echo "... quick_sort"
-	@echo "... rebuild_cache"
-	@echo "... sort_the_struct2"
-	@echo "... sort_the_struct1"
 	@echo "... 27.Remove_Element"
+	@echo "... 1047.Remove_All_Adjacent_Duplicates_In_String"
+	@echo "... 453.Minimum_Moves_to_Equal_Array_Elements"
+	@echo "... 22.Generate_Parentheses"
+	@echo "... 263.Ugly_Number"
+	@echo "... 401.Binary_Watch"
+	@echo "... 143.Reorder_List"
+	@echo "... 213.House_Robber_II"
+	@echo "... 300.Longest_Increasing_Subsequence"
+	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
+	@echo "... 64.Minimum_Path_Sum"
+	@echo "... test2"
 	@echo "... sort"
-	@echo "... edit_cache"
-	@echo "... BubbleSort"
+	@echo "... 1479"
+	@echo "... 1471"
+	@echo "... 322.Coin_Change"
+	@echo "... 69.Sqrtx"
+	@echo "... 1456"
 	@echo "... 162.Find_Peak_Element"
-	@echo "... 1448"
-	@echo "... 1440"
 	@echo "... disjoint1"
-	@echo "... 1350"
-	@echo "... 1.Graphmtx"
 	@echo "... Not_AC"
+	@echo "... 72.Edit_Distance"
+	@echo "... 1314"
 	@echo "... LinkedStack"
 	@echo "... 4.stack"
+	@echo "... 2"
 	@echo "... 1.stack"
+	@echo "... 1472"
+	@echo "... edit_cache"
+	@echo "... 1465"
+	@echo "... BubbleSort"
 	@echo "... 1435"
 	@echo "... compare"
 	@echo "... 2-2"
 	@echo "... 674.Longest_Continuous_Increasing_Subsequence"
+	@echo "... 503.Next_Greater_Element_II"
+	@echo "... 1422"
 	@echo "... thhdlx"
 	@echo "... 1349"
 	@echo "... 1385"
 	@echo "... Huffman_Tree"
 	@echo "... test1"
-	@echo "... test"
 	@echo "... 2.Tree"
+	@echo "... 1486"
+	@echo "... 1350"
+	@echo "... 1.Graphmtx"
+	@echo "... 1456-2"
 	@echo "... 3.Tree"
 	@echo "... tianda2019-2"
 	@echo "... 5181.Distance_Between_Bus_Stops"
 	@echo "... 1.Tree"
-	@echo "... 322.Coin_Change"
-	@echo "... 69.Sqrtx"
-	@echo "... 448.Find_All_Numbers_Disappeared_in_an_Array"
-	@echo "... 22.Generate_Parentheses"
 	@echo "... 2.stack"
-	@echo "... 213.House_Robber_II"
 	@echo "... 3.stack"
 	@echo "... 1444"
 	@echo "... 1381"
+	@echo "... 4"
 	@echo "... 1382"
 	@echo "... 1383"
-	@echo "... 1436"
+	@echo "... 1448"
+	@echo "... 1440"
+	@echo "... 1488"
+	@echo "... 1489"
+	@echo "... P3128"
+	@echo "... 763.Partition_Labels"
+	@echo "... Binary_Tree_Order"
+	@echo "... 2018-2"
+	@echo "... SeqList"
+	@echo "... 279.Perfect_Squares"
+	@echo "... 1025.Divisor_Game"
+	@echo "... P5312"
+	@echo "... 771.JewelsandStones"
+	@echo "... P2375"
+	@echo "... 1"
+	@echo "... Linknode"
+	@echo "... 1.queue"
+	@echo "... CombinationSumIII"
+	@echo "... 704.Binary_Search"
+	@echo "... test"
+	@echo "... 3"
 	@echo "... 97.Interleaving_String"
+	@echo "... 1436"
+	@echo "... 5"
+	@echo "... Special_Multiplication"
+	@echo "... sort_the_struct1"
+	@echo "... rebuild_cache"
+	@echo "... sort_the_struct2"
+	@echo "... 1455"
+	@echo "... quick_sort"
+	@echo "... data1"
+	@echo "... 962.Maximum_Width_Ramp"
+	@echo "... Hash1"
+	@echo "... Wildcard_Matching"
 	@echo "... 1.heap"
 	@echo "... Hash2"
 	@echo "... search"
 	@echo "... 1108.Defanging_an_IP_Address"
 	@echo "... 198.House_Robber"
+	@echo "... 1466"
 	@echo "... data2"
 	@echo "... 66.PlusOne"
 	@echo "... FatMouseTrade"
 	@echo "... 461.Hamming_Distance"
 	@echo "... Bracket_Matching_Problem"
-	@echo "... 300.Longest_Increasing_Subsequence"
-	@echo "... 763.Partition_Labels"
-	@echo "... Binary_Tree_Order"
-	@echo "... Special_Multiplication"
-	@echo "... 1047.Remove_All_Adjacent_Duplicates_In_String"
 	@echo "... UncommonWordsfromTwoSentences"
-	@echo "... Linknode"
-	@echo "... 1.queue"
-	@echo "... CombinationSumIII"
-	@echo "... 704.Binary_Search"
 	@echo "... PathSum"
 	@echo "... 2014-1"
 	@echo "... Another_A+B"
@@ -4178,22 +5014,6 @@ help:
 	@echo "... 2018-3"
 	@echo "... 172.FactorialTrailingZeroes"
 	@echo "... 35.Search_Insert_Position"
-	@echo "... 771.JewelsandStones"
-	@echo "... 1314"
-	@echo "... 72.Edit_Distance"
-	@echo "... 64.Minimum_Path_Sum"
-	@echo "... 2018-2"
-	@echo "... SeqList"
-	@echo "... 1025.Divisor_Game"
-	@echo "... 279.Perfect_Squares"
-	@echo "... 143.Reorder_List"
-	@echo "... 401.Binary_Watch"
-	@echo "... 263.Ugly_Number"
-	@echo "... Hash1"
-	@echo "... 962.Maximum_Width_Ramp"
-	@echo "... 1422"
-	@echo "... 503.Next_Greater_Element_II"
-	@echo "... 453.Minimum_Moves_to_Equal_Array_Elements"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.o"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.i"
 	@echo "... 2.Classic_entry/1.sort/BubbleSort.s"
@@ -4311,6 +5131,21 @@ help:
 	@echo "... Class/basic/graph/thhdlx.o"
 	@echo "... Class/basic/graph/thhdlx.i"
 	@echo "... Class/basic/graph/thhdlx.s"
+	@echo "... Class/lanqiao/1.o"
+	@echo "... Class/lanqiao/1.i"
+	@echo "... Class/lanqiao/1.s"
+	@echo "... Class/lanqiao/2.o"
+	@echo "... Class/lanqiao/2.i"
+	@echo "... Class/lanqiao/2.s"
+	@echo "... Class/lanqiao/3.o"
+	@echo "... Class/lanqiao/3.i"
+	@echo "... Class/lanqiao/3.s"
+	@echo "... Class/lanqiao/4.o"
+	@echo "... Class/lanqiao/4.i"
+	@echo "... Class/lanqiao/4.s"
+	@echo "... Class/lanqiao/5.o"
+	@echo "... Class/lanqiao/5.i"
+	@echo "... Class/lanqiao/5.s"
 	@echo "... Class/update/1/1422.o"
 	@echo "... Class/update/1/1422.i"
 	@echo "... Class/update/1/1422.s"
@@ -4332,6 +5167,51 @@ help:
 	@echo "... Class/update/1/test.o"
 	@echo "... Class/update/1/test.i"
 	@echo "... Class/update/1/test.s"
+	@echo "... Class/update/2/1455.o"
+	@echo "... Class/update/2/1455.i"
+	@echo "... Class/update/2/1455.s"
+	@echo "... Class/update/2/1456-2.o"
+	@echo "... Class/update/2/1456-2.i"
+	@echo "... Class/update/2/1456-2.s"
+	@echo "... Class/update/2/1456.o"
+	@echo "... Class/update/2/1456.i"
+	@echo "... Class/update/2/1456.s"
+	@echo "... Class/update/2/1465.o"
+	@echo "... Class/update/2/1465.i"
+	@echo "... Class/update/2/1465.s"
+	@echo "... Class/update/2/1466.o"
+	@echo "... Class/update/2/1466.i"
+	@echo "... Class/update/2/1466.s"
+	@echo "... Class/update/2/1471.o"
+	@echo "... Class/update/2/1471.i"
+	@echo "... Class/update/2/1471.s"
+	@echo "... Class/update/2/1472.o"
+	@echo "... Class/update/2/1472.i"
+	@echo "... Class/update/2/1472.s"
+	@echo "... Class/update/2/P3780.o"
+	@echo "... Class/update/2/P3780.i"
+	@echo "... Class/update/2/P3780.s"
+	@echo "... Class/update/2/P3796.o"
+	@echo "... Class/update/2/P3796.i"
+	@echo "... Class/update/2/P3796.s"
+	@echo "... Class/update/3/1486.o"
+	@echo "... Class/update/3/1486.i"
+	@echo "... Class/update/3/1486.s"
+	@echo "... Class/update/3/1488.o"
+	@echo "... Class/update/3/1488.i"
+	@echo "... Class/update/3/1488.s"
+	@echo "... Class/update/3/1489.o"
+	@echo "... Class/update/3/1489.i"
+	@echo "... Class/update/3/1489.s"
+	@echo "... Class/zhuanti/P2375.o"
+	@echo "... Class/zhuanti/P2375.i"
+	@echo "... Class/zhuanti/P2375.s"
+	@echo "... Class/zhuanti/P3128.o"
+	@echo "... Class/zhuanti/P3128.i"
+	@echo "... Class/zhuanti/P3128.s"
+	@echo "... Class/zhuanti/P5312.o"
+	@echo "... Class/zhuanti/P5312.i"
+	@echo "... Class/zhuanti/P5312.s"
 	@echo "... LeetCode/1025.Divisor_Game.o"
 	@echo "... LeetCode/1025.Divisor_Game.i"
 	@echo "... LeetCode/1025.Divisor_Game.s"

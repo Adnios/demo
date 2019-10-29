@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1108.Defanging_an_IP_Address.dir/LeetCode/1108.Defanging_an_IP_Address.cpp.o  -o 1108.Defanging_an_IP_Address 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1108.Defanging_an_IP_Address.dir/LeetCode/1108.Defanging_an_IP_Address.cpp.o  -o 1108.Defanging_an_IP_Address 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Linknode.dir/LinkNode.cpp.o  -o Linknode 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Linknode.dir/LinkNode.cpp.o  -o Linknode 

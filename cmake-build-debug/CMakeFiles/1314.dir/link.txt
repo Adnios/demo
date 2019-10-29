@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1314.dir/Class/basic/graph/1314.cpp.o  -o 1314 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1314.dir/Class/basic/graph/1314.cpp.o  -o 1314 

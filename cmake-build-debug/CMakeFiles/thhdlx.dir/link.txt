@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/thhdlx.dir/Class/basic/graph/thhdlx.cpp.o  -o thhdlx 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/thhdlx.dir/Class/basic/graph/thhdlx.cpp.o  -o thhdlx 

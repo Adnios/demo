@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o  -o 453.Minimum_Moves_to_Equal_Array_Elements 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/LeetCode/453.Minimum_Moves_to_Equal_Array_Elements.cpp.o  -o 453.Minimum_Moves_to_Equal_Array_Elements 

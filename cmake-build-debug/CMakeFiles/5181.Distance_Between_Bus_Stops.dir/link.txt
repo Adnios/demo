@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/5181.Distance_Between_Bus_Stops.dir/LeetCode/5181.Distance_Between_Bus_Stops.cpp.o  -o 5181.Distance_Between_Bus_Stops 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/5181.Distance_Between_Bus_Stops.dir/LeetCode/5181.Distance_Between_Bus_Stops.cpp.o  -o 5181.Distance_Between_Bus_Stops 

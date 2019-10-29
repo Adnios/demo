@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1440.dir/Class/update/1/1440.cpp.o  -o 1440 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1440.dir/Class/update/1/1440.cpp.o  -o 1440 

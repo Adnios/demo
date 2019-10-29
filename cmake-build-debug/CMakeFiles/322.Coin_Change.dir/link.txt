@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/322.Coin_Change.dir/LeetCode/322.Coin_Change.cpp.o  -o 322.Coin_Change 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/322.Coin_Change.dir/LeetCode/322.Coin_Change.cpp.o  -o 322.Coin_Change 

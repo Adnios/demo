@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/tianda2019-2.dir/preparation/tianda/2019-2.cpp.o  -o tianda2019-2 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/tianda2019-2.dir/preparation/tianda/2019-2.cpp.o  -o tianda2019-2 

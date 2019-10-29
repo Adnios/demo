@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.o  -o CombinationSumIII 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/CombinationSumIII.dir/LeetCode/216.CombinationSumIII/Solution.cpp.o  -o CombinationSumIII 

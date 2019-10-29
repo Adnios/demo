@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/461.Hamming_Distance.dir/LeetCode/461.Hamming_Distance.cpp.o  -o 461.Hamming_Distance 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/461.Hamming_Distance.dir/LeetCode/461.Hamming_Distance.cpp.o  -o 461.Hamming_Distance 

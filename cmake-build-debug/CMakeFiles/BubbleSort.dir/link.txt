@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/BubbleSort.dir/2.Classic_entry/1.sort/BubbleSort.cpp.o  -o BubbleSort 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/BubbleSort.dir/2.Classic_entry/1.sort/BubbleSort.cpp.o  -o BubbleSort 

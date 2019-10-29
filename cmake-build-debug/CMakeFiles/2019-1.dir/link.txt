@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/2019-1.dir/preparation/nju/2019-1.cpp.o  -o 2019-1 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/2019-1.dir/preparation/nju/2019-1.cpp.o  -o 2019-1 

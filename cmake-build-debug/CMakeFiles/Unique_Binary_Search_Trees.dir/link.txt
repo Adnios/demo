@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o  -o Unique_Binary_Search_Trees 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Unique_Binary_Search_Trees.dir/LeetCode/96.Unique_Binary_Search_Trees/Solution.cpp.o  -o Unique_Binary_Search_Trees 

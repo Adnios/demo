@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Graphmtx.dir/Class/basic/1.Graphmtx.cpp.o  -o Graphmtx 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Graphmtx.dir/Class/basic/1.Graphmtx.cpp.o  -o Graphmtx 

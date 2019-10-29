@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/2-1.dir/preparation/bit/2-1.cpp.o  -o 2-1 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/2-1.dir/preparation/bit/2-1.cpp.o  -o 2-1 

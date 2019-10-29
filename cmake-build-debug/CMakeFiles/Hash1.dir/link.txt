@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Hash1.dir/2.Classic_entry/3.Hash/Hash1.cpp.o  -o Hash1 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Hash1.dir/2.Classic_entry/3.Hash/Hash1.cpp.o  -o Hash1 

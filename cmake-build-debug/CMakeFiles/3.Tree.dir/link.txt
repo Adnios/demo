@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/3.Tree.dir/Class/basic/3.Tree.cpp.o  -o 3.Tree 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/3.Tree.dir/Class/basic/3.Tree.cpp.o  -o 3.Tree 

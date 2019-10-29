@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.o  -o Wildcard_Matching 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Wildcard_Matching.dir/LeetCode/44.Wildcard_Matching/Solution.cpp.o  -o Wildcard_Matching 

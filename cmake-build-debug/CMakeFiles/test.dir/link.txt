@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/test.dir/Class/basic/dp/test.cpp.o  -o test 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/test.dir/Class/basic/dp/test.cpp.o  -o test 

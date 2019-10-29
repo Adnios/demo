@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1.heap.dir/Class/basic/1.heap.cpp.o  -o 1.heap 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1.heap.dir/Class/basic/1.heap.cpp.o  -o 1.heap 

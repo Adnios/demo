@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/data2.dir/2.Classic_entry/2.data/data2.cpp.o  -o data2 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/data2.dir/2.Classic_entry/2.data/data2.cpp.o  -o data2 

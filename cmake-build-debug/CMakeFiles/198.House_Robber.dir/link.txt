@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/198.House_Robber.dir/LeetCode/198.House_Robber.cpp.o  -o 198.House_Robber 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/198.House_Robber.dir/LeetCode/198.House_Robber.cpp.o  -o 198.House_Robber 

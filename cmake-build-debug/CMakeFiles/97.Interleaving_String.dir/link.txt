@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/97.Interleaving_String.dir/LeetCode/97.Interleaving_String.cpp.o  -o 97.Interleaving_String 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/97.Interleaving_String.dir/LeetCode/97.Interleaving_String.cpp.o  -o 97.Interleaving_String 

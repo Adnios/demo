@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/sort_the_struct2.dir/2.Classic_entry/1.sort/sort_the_struct2.cpp.o  -o sort_the_struct2 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/sort_the_struct2.dir/2.Classic_entry/1.sort/sort_the_struct2.cpp.o  -o sort_the_struct2 

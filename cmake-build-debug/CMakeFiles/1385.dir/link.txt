@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1385.dir/Class/basic/DisjointSet/1385.cpp.o  -o 1385 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1385.dir/Class/basic/DisjointSet/1385.cpp.o  -o 1385 

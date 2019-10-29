@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o  -o 448.Find_All_Numbers_Disappeared_in_an_Array 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/LeetCode/448.Find_All_Numbers_Disappeared_in_an_Array.cpp.o  -o 448.Find_All_Numbers_Disappeared_in_an_Array 

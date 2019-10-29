@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.o  -o 1025.Divisor_Game 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1025.Divisor_Game.dir/LeetCode/1025.Divisor_Game.cpp.o  -o 1025.Divisor_Game 

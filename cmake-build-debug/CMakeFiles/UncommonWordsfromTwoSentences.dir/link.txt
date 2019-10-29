@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o  -o UncommonWordsfromTwoSentences 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/UncommonWordsfromTwoSentences.dir/LeetCode/884.UncommonWordsfromTwoSentences/Solution.cpp.o  -o UncommonWordsfromTwoSentences 

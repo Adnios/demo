@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/962.Maximum_Width_Ramp.dir/LeetCode/962.Maximum_Width_Ramp.cpp.o  -o 962.Maximum_Width_Ramp 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/962.Maximum_Width_Ramp.dir/LeetCode/962.Maximum_Width_Ramp.cpp.o  -o 962.Maximum_Width_Ramp 

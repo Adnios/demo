@@ -1,6 +1,3 @@
-//
-// Created by scrutiny on 2019/10/4.
-//
 #include <iostream>
 using namespace std;
 

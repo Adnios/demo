@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/1.stack.dir/Class/basic/1.stack.cpp.o  -o 1.stack 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1.stack.dir/Class/basic/1.stack.cpp.o  -o 1.stack 

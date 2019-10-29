@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Not_AC.dir/2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp.o  -o Not_AC 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/Not_AC.dir/2.Classic_entry/6.GreedyAlgorithm/Not_AC.cpp.o  -o Not_AC 

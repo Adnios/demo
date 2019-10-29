@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/763.Partition_Labels.dir/LeetCode/763.Partition_Labels.cpp.o  -o 763.Partition_Labels 
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/763.Partition_Labels.dir/LeetCode/763.Partition_Labels.cpp.o  -o 763.Partition_Labels 
