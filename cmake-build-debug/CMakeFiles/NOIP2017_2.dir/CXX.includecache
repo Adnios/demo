@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scrutiny/Desktop/C++/demo/Class/pujizu/NOIP2017/2.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P2921.dir/Class/update/3/P2921.cpp.o  -o P2921 

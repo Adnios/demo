@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P2742.dir/Class/update/5.DP/P2742.cpp.o  -o P2742 

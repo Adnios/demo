@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1479.dir/Class/update/2/P3796.cpp.o  -o 1479 

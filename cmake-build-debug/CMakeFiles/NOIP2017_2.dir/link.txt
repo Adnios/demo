@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/NOIP2017_2.dir/Class/pujizu/NOIP2017/2.cpp.o  -o NOIP2017_2 

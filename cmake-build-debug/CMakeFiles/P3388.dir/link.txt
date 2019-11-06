@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P3388.dir/Class/update/3/P3388.cpp.o  -o P3388 

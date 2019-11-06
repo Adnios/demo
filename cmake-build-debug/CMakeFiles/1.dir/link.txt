@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1.dir/Class/pujizu/lanqiao/1.cpp.o  -o 1 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P2866.dir/Class/update/5.DP/P2866.cpp.o  -o P2866 

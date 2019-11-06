@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/lanqiaolianxi_5.dir/Class/pujizu/lanqiao_lianxi/5.cpp.o  -o lanqiaolianxi_5 

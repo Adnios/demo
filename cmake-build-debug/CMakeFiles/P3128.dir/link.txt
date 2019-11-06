@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P3128.dir/Class/zhuanti/P3128.cpp.o  -o P3128 

@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/scrutiny/Desktop/C++/demo/Class/test.cpp
+/home/scrutiny/Desktop/C++/demo/Class/basic/dp/test.cpp
 iostream
--
-vector
--
-algorithm
 -
 

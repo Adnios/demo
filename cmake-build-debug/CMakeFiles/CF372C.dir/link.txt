@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/CF372C.dir/Class/update/5.DP/CF372C.cpp.o  -o CF372C 

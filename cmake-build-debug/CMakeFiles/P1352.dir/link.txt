@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P1352.dir/Class/update/5.DP/P1352.cpp.o  -o P1352 

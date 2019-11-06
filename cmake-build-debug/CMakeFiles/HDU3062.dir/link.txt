@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/HDU3062.dir/Class/update/3/HDU3062.cpp.o  -o HDU3062 

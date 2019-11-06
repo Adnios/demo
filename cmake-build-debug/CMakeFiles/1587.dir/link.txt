@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/1587.dir/Class/update/5.DP/1587.cpp.o  -o 1587 

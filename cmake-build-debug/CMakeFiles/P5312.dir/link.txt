@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P5312.dir/Class/zhuanti/P5312.cpp.o  -o P5312 

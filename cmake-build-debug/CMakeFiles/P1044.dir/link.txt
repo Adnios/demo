@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P1044.dir/Class/update/math/P1044.cpp.o  -o P1044 

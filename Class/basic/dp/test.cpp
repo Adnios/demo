@@ -1,42 +1,43 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
 using namespace std;
-int n,m,t,x;
-#define inf 1000000000+7
-int main(){
-    cin>>n>>m;
-    cin>>t;
-    int dp[2*m*n];
-    for(int i=0;i<2*m*n;i++){
-        dp[i]=0;
-    }
-    vector<int> v;
-    for(int i=0;i<t;i++){
-        cin>>x;
-        v.push_back(x);
-    }
-    sort(v.begin(),v.end());
-    dp[m]=dp[n]=1;
-    for(int i=0;i<t;i++){
-        dp[v[i]]=-1;
-    }
-    int temp=m>n ? m:n;
-    for(int i=temp+1;i<=2*m*n;i++){
-        if(dp[i]==-1)
-            continue;
-        if(dp[i-n]==-1&&dp[i-m]==-1)
-            dp[i]=dp[i];
-        else if(dp[i-n]==-1)
-            dp[i]=dp[i-m];
-        else if(dp[i-m]==-1)
-            dp[i]=dp[i-n];
-        else
-            dp[i]=dp[i-n]+dp[i-m];
+bool dp[10][10]={false};
+bool dp_opt(int *array,int n,int s){
+    for(int i=0;i<=s;i++){
+        if(i==array[0]){
+            dp[0][i]=true;
+            cout<<"A"<<endl;
+        }
+        else{
+            dp[0][i]= false;
+            cout<<"B"<<endl;
+        }
 
-        if(dp[i]>=inf){
-            dp[i]=dp[i]%inf;
+    }
+    for(int i=0;i<n;i++){
+        dp[i][0]=true;
+    }
+    for(int i=1;i<n;i++){
+        for(int j=1;j<=s;j++){
+            if(array[i]>j)
+                dp[i][j]=dp[i-1][j];
+            else{
+                bool a=dp[i-1][j-array[i]];
+                bool b=dp[i-1][j];
+                dp[i][j]=a||b;
+            }
         }
     }
-    cout<<dp[2*m*n]<<endl;
+    for(int i=0;i<n;i++){
+        for(int j=0;j<=s;j++){
+            cout<<dp[i][j]<<" ";
+        }cout<<endl;
+    }
+    return dp[n-1][s];
+}
+int main()
+{
+    int array[6]={3,34,4,12,5,2};
+    int s=9;
+
+    cout<<dp_opt(array,6,13)<<endl;
 }

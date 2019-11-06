@@ -1,65 +1,76 @@
+#include <algorithm>
+#include <cstdio>
+#include <cstring>
 #include <iostream>
+#define maxn 2018
+#define maxm 4000400
 using namespace std;
-int main(){
-    int t;
-    cin>>t;
-    while(t--){
-        string s;
-        cin>>s;
-        //先找D
-        int length1=1;
-        int point1=2;
-        for(int i=1;i<s.size()-1;i++){
-            int left=i-1,right=i+1;
-            while(left>=0&&right<=s.size()-1){
-                if(s[left]==s[right]){
-                    left--;right++;
-
-                }else{
-                    if(right-left-1>length1){
-                        length1=right-left-1;
-                        point1=i+1;
-                    }
-                    break;
-                }
-            }
-            if(left==-1||right==s.size()){
-                if(right-left-1>length1){
-                    length1=right-left-1;
-                    point1=i+1;
-                }
-            }
-        }
-        if(1==point1-length1/2){
-            cout<<"1"<<endl;
-            cout<<point1-length1/2<<" "<<length1<<endl;
-        }
-        else{
-            //如果有BF，那么F一定从最后一位开始
-            int l=0,r=s.size()-1;
-            int flag=0;
-            while(l<point1-length1/2-1&&r>point1+length1/2-1){
-                if(s[r]==s[l]){
-                    r--;l++;
-                    flag=1;
-                }
-                else{
-                    if(flag==1){
-                        break;
-                    }
-                    l++;
-                }
-            }
-            if(r==s.size()-1){
-                cout<<"1"<<endl;
-                cout<<point1-length1/2<<" "<<length1<<endl;
-            }
-            else{
-                cout<<"3"<<endl;
-                cout<<l<<" "<<s.size()-r-1<<endl;
-                cout<<point1-length1/2<<" "<<length1<<endl;
-                cout<<r+2<<" "<<s.size()-r-1<<endl;
-            }
-        }
+int Index, instack[maxn], DFN[maxn], LOW[maxn];
+int tot, color[maxn];
+int numedge, head[maxn];
+struct Edge {
+    int nxt, to;
+} edge[maxm];
+int sta[maxn], top;
+int n, m;
+void add(int x, int y) {
+    edge[++numedge].to = y;
+    edge[numedge].nxt = head[x];
+    head[x] = numedge;
+}
+void tarjan(int x) {  // 缩点看不懂请移步强连通分量上面有一个链接可以点。
+    sta[++top] = x;
+    instack[x] = 1;
+    DFN[x] = LOW[x] = ++Index;
+    for (int i = head[x]; i; i = edge[i].nxt) {
+        int v = edge[i].to;
+        if (!DFN[v]) {
+            tarjan(v);
+            LOW[x] = min(LOW[x], LOW[v]);
+        } else if (instack[v])
+            LOW[x] = min(LOW[x], DFN[v]);
     }
+    if (DFN[x] == LOW[x]) {
+        tot++;
+        do {
+            color[sta[top]] = tot;  // 染色
+            instack[sta[top]] = 0;
+        } while (sta[top--] != x);
+    }
+}
+bool solve() {
+    for (int i = 0; i < 2 * n; i++)
+        if (!DFN[i]) tarjan(i);
+    for (int i = 0; i < 2 * n; i += 2)
+        if (color[i] == color[i + 1]) return 0;
+    return 1;
+}
+void init() {
+    top = 0;
+    tot = 0;
+    Index = 0;
+    numedge = 0;
+    memset(sta, 0, sizeof(sta));
+    memset(DFN, 0, sizeof(DFN));
+    memset(instack, 0, sizeof(instack));
+    memset(LOW, 0, sizeof(LOW));
+    memset(color, 0, sizeof(color));
+    memset(head, 0, sizeof(head));
+}
+int main() {
+    while (~scanf("%d%d", &n, &m)) {
+        init();
+        for (int i = 1; i <= m; i++) {
+            int a1, a2, c1, c2;
+            scanf("%d%d%d%d", &a1, &a2, &c1, &c2);  // 自己做的时候别用 cin 会被卡
+            add(2 * a1 + c1,
+                2 * a2 + 1 - c2);  // 我们将 2i+1 表示为第 i 对中的，2i 表示为妻子。
+            add(2 * a2 + c2, 2 * a1 + 1 - c1);
+        }
+        if (solve())
+            printf("YES\n");
+        else
+            printf("NO\n");
+    }
+    return 0;
 }

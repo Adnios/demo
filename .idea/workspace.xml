@@ -2,126 +2,152 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="demo" targetName="1349" />
-      <config projectName="demo" targetName="test1" />
-      <config projectName="demo" targetName="1.stack" />
-      <config projectName="demo" targetName="763.Partition_Labels" />
-      <config projectName="demo" targetName="Not_AC" />
-      <config projectName="demo" targetName="4.stack" />
-      <config projectName="demo" targetName="2019-1" />
-      <config projectName="demo" targetName="704.Binary_Search" />
-      <config projectName="demo" targetName="thhdlx" />
-      <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
-      <config projectName="demo" targetName="PathSum" />
-      <config projectName="demo" targetName="Bracket_Matching_Problem" />
-      <config projectName="demo" targetName="1448" />
-      <config projectName="demo" targetName="962.Maximum_Width_Ramp" />
-      <config projectName="demo" targetName="1444" />
-      <config projectName="demo" targetName="data2" />
-      <config projectName="demo" targetName="data1" />
-      <config projectName="demo" targetName="Binary_Tree_Order" />
-      <config projectName="demo" targetName="5" />
-      <config projectName="demo" targetName="97.Interleaving_String" />
       <config projectName="demo" targetName="3" />
-      <config projectName="demo" targetName="2" />
-      <config projectName="demo" targetName="Hash1" />
+      <config projectName="demo" targetName="1.heap" />
+      <config projectName="demo" targetName="4" />
+      <config projectName="demo" targetName="5" />
+      <config projectName="demo" targetName="1479" />
+      <config projectName="demo" targetName="767.Reorganize_String" />
       <config projectName="demo" targetName="771.JewelsandStones" />
-      <config projectName="demo" targetName="2014-1" />
-      <config projectName="demo" targetName="1456-2" />
-      <config projectName="demo" targetName="69.Sqrtx" />
-      <config projectName="demo" targetName="BubbleSort" />
-      <config projectName="demo" targetName="2-2" />
+      <config projectName="demo" targetName="401.Binary_Watch" />
       <config projectName="demo" targetName="disjoint1" />
-      <config projectName="demo" targetName="27.Remove_Element" />
+      <config projectName="demo" targetName="3.stack" />
+      <config projectName="demo" targetName="461.Hamming_Distance" />
+      <config projectName="demo" targetName="NOIP2018_2" />
+      <config projectName="demo" targetName="NOIP2018_1" />
+      <config projectName="demo" targetName="1486" />
+      <config projectName="demo" targetName="NOIP2018_4" />
+      <config projectName="demo" targetName="data2" />
+      <config projectName="demo" targetName="NOIP2018_3" />
+      <config projectName="demo" targetName="data1" />
+      <config projectName="demo" targetName="P3388" />
+      <config projectName="demo" targetName="1" />
       <config projectName="demo" targetName="test2" />
-      <config projectName="demo" targetName="1383" />
-      <config projectName="demo" targetName="1382" />
-      <config projectName="demo" targetName="1381" />
-      <config projectName="demo" targetName="322.Coin_Change" />
-      <config projectName="demo" targetName="2018-1" />
-      <config projectName="demo" targetName="1436" />
-      <config projectName="demo" targetName="1435" />
+      <config projectName="demo" targetName="2" />
+      <config projectName="demo" targetName="test1" />
+      <config projectName="demo" targetName="22.Generate_Parentheses" />
+      <config projectName="demo" targetName="1047.Remove_All_Adjacent_Duplicates_In_String" />
+      <config projectName="demo" targetName="lanqiaolianxi_1" />
+      <config projectName="demo" targetName="1.queue" />
+      <config projectName="demo" targetName="lanqiaolianxi_2" />
+      <config projectName="demo" targetName="lanqiaolianxi_3" />
+      <config projectName="demo" targetName="P1352" />
+      <config projectName="demo" targetName="lanqiaolianxi_4" />
+      <config projectName="demo" targetName="lanqiaolianxi_5" />
+      <config projectName="demo" targetName="SeqStack" />
+      <config projectName="demo" targetName="Bracket_Matching_Problem" />
+      <config projectName="demo" targetName="1.Tree" />
       <config projectName="demo" targetName="1489" />
       <config projectName="demo" targetName="1488" />
-      <config projectName="demo" targetName="Hash2" />
-      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
-      <config projectName="demo" targetName="4" />
-      <config projectName="demo" targetName="1.Tree" />
-      <config projectName="demo" targetName="FatMouseTrade" />
-      <config projectName="demo" targetName="SeqList" />
-      <config projectName="demo" targetName="1465" />
-      <config projectName="demo" targetName="quick_sort" />
-      <config projectName="demo" targetName="2.Tree" />
-      <config projectName="demo" targetName="1108.Defanging_an_IP_Address" />
-      <config projectName="demo" targetName="279.Perfect_Squares" />
-      <config projectName="demo" targetName="3.Tree" />
-      <config projectName="demo" targetName="2.stack" />
-      <config projectName="demo" targetName="448.Find_All_Numbers_Disappeared_in_an_Array" />
-      <config projectName="demo" targetName="453.Minimum_Moves_to_Equal_Array_Elements" />
-      <config projectName="demo" targetName="floyed" />
-      <config projectName="demo" targetName="sort" />
-      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
-      <config projectName="demo" targetName="461.Hamming_Distance" />
-      <config projectName="demo" targetName="72.Edit_Distance" />
-      <config projectName="demo" targetName="1422" />
-      <config projectName="demo" targetName="1479" />
-      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="97.Interleaving_String" />
+      <config projectName="demo" targetName="LinkedStack" />
+      <config projectName="demo" targetName="compare" />
+      <config projectName="demo" targetName="5181.Distance_Between_Bus_Stops" />
       <config projectName="demo" targetName="213.House_Robber_II" />
       <config projectName="demo" targetName="263.Ugly_Number" />
-      <config projectName="demo" targetName="search" />
-      <config projectName="demo" targetName="sort_the_struct2" />
-      <config projectName="demo" targetName="1472" />
-      <config projectName="demo" targetName="1471" />
-      <config projectName="demo" targetName="503.Next_Greater_Element_II" />
-      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
-      <config projectName="demo" targetName="1314" />
-      <config projectName="demo" targetName="3.stack" />
-      <config projectName="demo" targetName="1486" />
-      <config projectName="demo" targetName="Huffman_Tree" />
-      <config projectName="demo" targetName="2018-3" />
-      <config projectName="demo" targetName="2018-2" />
-      <config projectName="demo" targetName="sort_the_struct1" />
-      <config projectName="demo" targetName="tianda2019-1" />
-      <config projectName="demo" targetName="1466" />
-      <config projectName="demo" targetName="143.Reorder_List" />
-      <config projectName="demo" targetName="66.PlusOne" />
-      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
+      <config projectName="demo" targetName="27.Remove_Element" />
+      <config projectName="demo" targetName="2019-1" />
       <config projectName="demo" targetName="P5312" />
-      <config projectName="demo" targetName="Another_A+B" />
-      <config projectName="demo" targetName="198.House_Robber" />
-      <config projectName="demo" targetName="767.Reorganize_String" />
-      <config projectName="demo" targetName="1-2" />
-      <config projectName="demo" targetName="SeqStack" />
-      <config projectName="demo" targetName="compare" />
-      <config projectName="demo" targetName="1" />
-      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
-      <config projectName="demo" targetName="1.heap" />
-      <config projectName="demo" targetName="5181.Distance_Between_Bus_Stops" />
-      <config projectName="demo" targetName="P3128" />
-      <config projectName="demo" targetName="35.Search_Insert_Position" />
-      <config projectName="demo" targetName="test" />
-      <config projectName="demo" targetName="tianda2019-2" />
-      <config projectName="demo" targetName="1.queue" />
-      <config projectName="demo" targetName="CombinationSumIII" />
-      <config projectName="demo" targetName="P2375" />
-      <config projectName="demo" targetName="2-1" />
-      <config projectName="demo" targetName="22.Generate_Parentheses" />
-      <config projectName="demo" targetName="1.Graphmtx" />
-      <config projectName="demo" targetName="1047.Remove_All_Adjacent_Duplicates_In_String" />
-      <config projectName="demo" targetName="bit2019-1" />
-      <config projectName="demo" targetName="1350" />
-      <config projectName="demo" targetName="162.Find_Peak_Element" />
-      <config projectName="demo" targetName="Graphmtx" />
-      <config projectName="demo" targetName="1025.Divisor_Game" />
+      <config projectName="demo" targetName="453.Minimum_Moves_to_Equal_Array_Elements" />
+      <config projectName="demo" targetName="Huffman_Tree" />
       <config projectName="demo" targetName="1456" />
+      <config projectName="demo" targetName="1610" />
+      <config projectName="demo" targetName="503.Next_Greater_Element_II" />
       <config projectName="demo" targetName="1455" />
+      <config projectName="demo" targetName="300.Longest_Increasing_Subsequence" />
+      <config projectName="demo" targetName="bit2019-1" />
+      <config projectName="demo" targetName="Unique_Binary_Search_Trees" />
+      <config projectName="demo" targetName="1465" />
       <config projectName="demo" targetName="Linknode" />
-      <config projectName="demo" targetName="1385" />
-      <config projectName="demo" targetName="1440" />
-      <config projectName="demo" targetName="LinkedStack" />
-      <config projectName="demo" targetName="401.Binary_Watch" />
-      <config projectName="demo" targetName="1-1" />
+      <config projectName="demo" targetName="172.FactorialTrailingZeroes" />
+      <config projectName="demo" targetName="2-1" />
+      <config projectName="demo" targetName="1349" />
+      <config projectName="demo" targetName="66.PlusOne" />
+      <config projectName="demo" targetName="1456-2" />
+      <config projectName="demo" targetName="2-2" />
+      <config projectName="demo" targetName="1587" />
+      <config projectName="demo" targetName="1466" />
+      <config projectName="demo" targetName="Binary_Tree_Order" />
+      <config projectName="demo" targetName="279.Perfect_Squares" />
+      <config projectName="demo" targetName="69.Sqrtx" />
+      <config projectName="demo" targetName="2018-3" />
+      <config projectName="demo" targetName="1597" />
+      <config projectName="demo" targetName="2018-1" />
+      <config projectName="demo" targetName="2018-2" />
+      <config projectName="demo" targetName="P2866" />
+      <config projectName="demo" targetName="1472" />
+      <config projectName="demo" targetName="2014-1" />
+      <config projectName="demo" targetName="1471" />
+      <config projectName="demo" targetName="1350" />
+      <config projectName="demo" targetName="P1896" />
+      <config projectName="demo" targetName="3.Tree" />
+      <config projectName="demo" targetName="P2742" />
+      <config projectName="demo" targetName="P3865" />
+      <config projectName="demo" targetName="P1044" />
+      <config projectName="demo" targetName="P2375" />
+      <config projectName="demo" targetName="1436" />
+      <config projectName="demo" targetName="1435" />
+      <config projectName="demo" targetName="1314" />
       <config projectName="demo" targetName="Special_Multiplication" />
+      <config projectName="demo" targetName="322.Coin_Change" />
+      <config projectName="demo" targetName="search" />
+      <config projectName="demo" targetName="Hash2" />
+      <config projectName="demo" targetName="1108.Defanging_an_IP_Address" />
+      <config projectName="demo" targetName="Hash1" />
+      <config projectName="demo" targetName="704.Binary_Search" />
+      <config projectName="demo" targetName="1440" />
+      <config projectName="demo" targetName="1-2" />
+      <config projectName="demo" targetName="1569" />
+      <config projectName="demo" targetName="1448" />
+      <config projectName="demo" targetName="1-1" />
+      <config projectName="demo" targetName="1444" />
+      <config projectName="demo" targetName="FatMouseTrade" />
+      <config projectName="demo" targetName="floyed" />
+      <config projectName="demo" targetName="CombinationSumIII" />
+      <config projectName="demo" targetName="962.Maximum_Width_Ramp" />
+      <config projectName="demo" targetName="763.Partition_Labels" />
+      <config projectName="demo" targetName="4.stack" />
+      <config projectName="demo" targetName="Not_AC" />
+      <config projectName="demo" targetName="1.Graphmtx" />
+      <config projectName="demo" targetName="P2921" />
+      <config projectName="demo" targetName="Another_A+B" />
+      <config projectName="demo" targetName="35.Search_Insert_Position" />
+      <config projectName="demo" targetName="sort_the_struct2" />
+      <config projectName="demo" targetName="P3128" />
+      <config projectName="demo" targetName="sort_the_struct1" />
+      <config projectName="demo" targetName="72.Edit_Distance" />
+      <config projectName="demo" targetName="1.stack" />
+      <config projectName="demo" targetName="2.Tree" />
+      <config projectName="demo" targetName="Graphmtx" />
+      <config projectName="demo" targetName="143.Reorder_List" />
+      <config projectName="demo" targetName="Wildcard_Matching" />
+      <config projectName="demo" targetName="BubbleSort" />
+      <config projectName="demo" targetName="NOIP2017_2" />
+      <config projectName="demo" targetName="1025.Divisor_Game" />
+      <config projectName="demo" targetName="1385" />
+      <config projectName="demo" targetName="P1226" />
+      <config projectName="demo" targetName="1383" />
+      <config projectName="demo" targetName="NOIP2017_1" />
+      <config projectName="demo" targetName="1382" />
+      <config projectName="demo" targetName="tianda2019-1" />
+      <config projectName="demo" targetName="1381" />
+      <config projectName="demo" targetName="tianda2019-2" />
+      <config projectName="demo" targetName="quick_sort" />
+      <config projectName="demo" targetName="CF372C" />
+      <config projectName="demo" targetName="1422" />
+      <config projectName="demo" targetName="448.Find_All_Numbers_Disappeared_in_an_Array" />
+      <config projectName="demo" targetName="test" />
+      <config projectName="demo" targetName="HDU3062" />
+      <config projectName="demo" targetName="SeqList" />
+      <config projectName="demo" targetName="UncommonWordsfromTwoSentences" />
+      <config projectName="demo" targetName="thhdlx" />
+      <config projectName="demo" targetName="674.Longest_Continuous_Increasing_Subsequence" />
+      <config projectName="demo" targetName="198.House_Robber" />
+      <config projectName="demo" targetName="64.Minimum_Path_Sum" />
+      <config projectName="demo" targetName="2.stack" />
+      <config projectName="demo" targetName="sort" />
+      <config projectName="demo" targetName="162.Find_Peak_Element" />
+      <config projectName="demo" targetName="PathSum" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -130,325 +156,138 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="2019/9/8/LeetCode练习">
-      <change afterPath="$PROJECT_DIR$/Class/lanqiao/1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/lanqiao/2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/lanqiao/3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/lanqiao/4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/lanqiao/5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/update/2/P3780.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/update/2/P3796.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/update/3/1486.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/update/3/1488.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/update/3/1489.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/zhuanti/P2375.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/zhuanti/P3128.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/zhuanti/P5312.cpp" afterDir="false" />
+    <list default="true" id="f32e45e7-fd2c-4c85-866c-619b5db470c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Class/update/3/HDU3062.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/update/3/P2921.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/update/3/P3388.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/basic/3.Tree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/basic/3.Tree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1455.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1455.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1456-2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1456-2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1456.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1456.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1465.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1465.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1466.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1466.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1471.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1471.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/1472.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/2/1472.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/update/2/test.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/basic/dp/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/basic/dp/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2017/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2017/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2017/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2017/2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2018/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2018/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2018/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2018/2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2018/3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2018/3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/NOIP2018/4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/NOIP2018/4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/pujizu/lanqiao_lianxi/5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/1/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/1/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/1569.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/1569.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/1587.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/1587.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/1597.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/1597.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/1610.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/1610.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/CF372C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/CF372C.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/P1352.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/P1352.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/P1896.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/P1896.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/P2742.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/P2742.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/P2866.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/P2866.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/5.DP/P3865.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/5.DP/P3865.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/math/P1044.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/math/P1044.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/update/math/P1226.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Class/update/math/P1226.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1-2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.queue.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Graphmtx.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.Tree.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.heap.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1.stack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1025.Divisor_Game.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1314.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1349.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1350.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1381.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1382.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1383.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1385.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1422.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/143.Reorder_List.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1435.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1436.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1440.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1444.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1448.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/162.Find_Peak_Element.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/172.FactorialTrailingZeroes.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/198.House_Robber.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2-2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.Tree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2.stack.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2014-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2014-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2018-3.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2019-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22.Generate_Parentheses.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/263.Ugly_Number.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/27.Remove_Element.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/279.Perfect_Squares.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.Tree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.stack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/322.Coin_Change.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/35.Search_Insert_Position.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4.stack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/461.Hamming_Distance.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/5181.Distance_Between_Bus_Stops.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/66.PlusOne.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/69.Sqrtx.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/704.Binary_Search.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/72.Edit_Distance.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/763.Partition_Labels.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/97.Interleaving_String.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Another_A+B.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Binary_Tree_Order.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bracket_Matching_Problem.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BubbleSort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CombinationSumIII.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FatMouseTrade.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Graphmtx.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Hash2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Huffman_Tree.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkedStack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linknode.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Not_AC.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PathSum.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SeqStack.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Special_Multiplication.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/UncommonWordsfromTwoSentences.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Unique_Binary_Search_Trees.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Wildcard_Matching.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bit2019-1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/compare.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/data2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/disjoint1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/floyed.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/quick_sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/search.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sort_the_struct2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/Class/test.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test1.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-1.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-2.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tianda2019-2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thhdlx.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/demo.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -483,6 +322,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -496,21 +336,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class/pujizu" />
+      <recent name="$PROJECT_DIR$/Class/update/3" />
+      <recent name="$PROJECT_DIR$/Class/basic" />
+      <recent name="$PROJECT_DIR$/Class/dp" />
+      <recent name="$PROJECT_DIR$/Class/DisjointSet" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/preparation/tianda" />
       <recent name="$PROJECT_DIR$/preparation/buaa" />
       <recent name="$PROJECT_DIR$/LeetCode/704.Binary_Search" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Class/update/3" />
-      <recent name="$PROJECT_DIR$/Class/basic" />
-      <recent name="$PROJECT_DIR$/Class/dp" />
-      <recent name="$PROJECT_DIR$/Class/DisjointSet" />
-      <recent name="$PROJECT_DIR$/Class/graph" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -525,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.3">
+  <component name="RunManager" selected="CMake Application.HDU3062">
     <configuration name="1-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1-1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -677,6 +517,26 @@
       </method>
     </configuration>
     <configuration name="1489" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1489" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1489">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1569" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1569" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1569">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1587" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1587" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1587">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1597" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1597" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1597">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1610" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="1610" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="1610">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -946,6 +806,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CF372C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="CF372C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="CF372C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CombinationSumIII" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="CombinationSumIII" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="CombinationSumIII">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -957,6 +822,11 @@
       </method>
     </configuration>
     <configuration name="Graphmtx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Graphmtx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Graphmtx">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU3062" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="HDU3062" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="HDU3062">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -986,7 +856,57 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NOIP2017_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2017_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2017_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOIP2017_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2017_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2017_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOIP2018_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2018_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2018_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOIP2018_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2018_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2018_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOIP2018_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2018_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2018_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NOIP2018_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="NOIP2018_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="NOIP2018_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Not_AC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="Not_AC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="Not_AC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1044" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P1044" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P1044">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1226" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P1226" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P1226">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1352" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P1352" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P1352">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1896" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P1896" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P1896">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -996,7 +916,32 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P2742" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P2742" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P2742">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2866" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P2866" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P2866">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2921" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P2921" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P2921">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P3128" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P3128" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P3128">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3388" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P3388" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P3388">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3865" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="P3865" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="P3865">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1067,6 +1012,31 @@
       </method>
     </configuration>
     <configuration name="floyed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="floyed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="floyed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lanqiaolianxi_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="lanqiaolianxi_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="lanqiaolianxi_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lanqiaolianxi_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="lanqiaolianxi_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="lanqiaolianxi_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lanqiaolianxi_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="lanqiaolianxi_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="lanqiaolianxi_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lanqiaolianxi_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="lanqiaolianxi_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="lanqiaolianxi_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lanqiaolianxi_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="lanqiaolianxi_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="lanqiaolianxi_5">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -1163,6 +1133,10 @@
       <item itemvalue="CMake Application.1486" />
       <item itemvalue="CMake Application.1488" />
       <item itemvalue="CMake Application.1489" />
+      <item itemvalue="CMake Application.1569" />
+      <item itemvalue="CMake Application.1587" />
+      <item itemvalue="CMake Application.1597" />
+      <item itemvalue="CMake Application.1610" />
       <item itemvalue="CMake Application.162.Find_Peak_Element" />
       <item itemvalue="CMake Application.172.FactorialTrailingZeroes" />
       <item itemvalue="CMake Application.198.House_Robber" />
@@ -1212,6 +1186,7 @@
       <item itemvalue="CMake Application.bit2019-1" />
       <item itemvalue="CMake Application.Bracket_Matching_Problem" />
       <item itemvalue="CMake Application.BubbleSort" />
+      <item itemvalue="CMake Application.CF372C" />
       <item itemvalue="CMake Application.CombinationSumIII" />
       <item itemvalue="CMake Application.compare" />
       <item itemvalue="CMake Application.data1" />
@@ -1222,12 +1197,33 @@
       <item itemvalue="CMake Application.Graphmtx" />
       <item itemvalue="CMake Application.Hash1" />
       <item itemvalue="CMake Application.Hash2" />
+      <item itemvalue="CMake Application.HDU3062" />
       <item itemvalue="CMake Application.Huffman_Tree" />
+      <item itemvalue="CMake Application.lanqiaolianxi_1" />
+      <item itemvalue="CMake Application.lanqiaolianxi_2" />
+      <item itemvalue="CMake Application.lanqiaolianxi_3" />
+      <item itemvalue="CMake Application.lanqiaolianxi_4" />
+      <item itemvalue="CMake Application.lanqiaolianxi_5" />
       <item itemvalue="CMake Application.LinkedStack" />
       <item itemvalue="CMake Application.Linknode" />
+      <item itemvalue="CMake Application.NOIP2017_1" />
+      <item itemvalue="CMake Application.NOIP2017_2" />
+      <item itemvalue="CMake Application.NOIP2018_1" />
+      <item itemvalue="CMake Application.NOIP2018_2" />
+      <item itemvalue="CMake Application.NOIP2018_3" />
+      <item itemvalue="CMake Application.NOIP2018_4" />
       <item itemvalue="CMake Application.Not_AC" />
+      <item itemvalue="CMake Application.P1044" />
+      <item itemvalue="CMake Application.P1226" />
+      <item itemvalue="CMake Application.P1352" />
+      <item itemvalue="CMake Application.P1896" />
       <item itemvalue="CMake Application.P2375" />
+      <item itemvalue="CMake Application.P2742" />
+      <item itemvalue="CMake Application.P2866" />
+      <item itemvalue="CMake Application.P2921" />
       <item itemvalue="CMake Application.P3128" />
+      <item itemvalue="CMake Application.P3388" />
+      <item itemvalue="CMake Application.P3865" />
       <item itemvalue="CMake Application.P5312" />
       <item itemvalue="CMake Application.PathSum" />
       <item itemvalue="CMake Application.quick_sort" />
@@ -1398,7 +1394,24 @@
       <workItem from="1572090596303" duration="7449000" />
       <workItem from="1572140439676" duration="2052000" />
       <workItem from="1572145302129" duration="5461000" />
-      <workItem from="1572342928547" duration="717000" />
+      <workItem from="1572342928547" duration="4434000" />
+      <workItem from="1572408544622" duration="2414000" />
+      <workItem from="1572422442481" duration="3646000" />
+      <workItem from="1572426883586" duration="6156000" />
+      <workItem from="1572442406785" duration="732000" />
+      <workItem from="1572482993592" duration="2929000" />
+      <workItem from="1572506114164" duration="10523000" />
+      <workItem from="1572569346250" duration="6040000" />
+      <workItem from="1572590173225" duration="5898000" />
+      <workItem from="1572605559947" duration="5688000" />
+      <workItem from="1572656674751" duration="1385000" />
+      <workItem from="1572666049567" duration="10879000" />
+      <workItem from="1572695548813" duration="2700000" />
+      <workItem from="1572702958678" duration="2717000" />
+      <workItem from="1572740653078" duration="4410000" />
+      <workItem from="1572927855373" duration="6578000" />
+      <workItem from="1572956894455" duration="598000" />
+      <workItem from="1573025531462" duration="15979000" />
     </task>
     <task id="LOCAL-00001" summary="单链表">
       <created>1556009249800</created>
@@ -1708,7 +1721,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567909596103</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2019/10/29">
+      <created>1572349996038</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1572349996038</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1762,7 +1782,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="18/6/10/LeetCode/35. Search Insert Position王者回归" />
     <MESSAGE value="66.Plus One" />
     <MESSAGE value="172. Factorial Trailing Zeroes" />
     <MESSAGE value="771. Jewels and Stones" />
@@ -1787,7 +1806,8 @@
     <MESSAGE value="2019/9/7/LeetCode练习*2" />
     <MESSAGE value="2019/9/7/LeetCode练习*3" />
     <MESSAGE value="2019/9/8/LeetCode练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/8/LeetCode练习" />
+    <MESSAGE value="2019/10/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/10/29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
