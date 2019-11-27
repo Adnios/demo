@@ -60,8 +60,6 @@ all: CMakeFiles/tianda2019-1.dir/all
 all: CMakeFiles/2018-1.dir/all
 all: CMakeFiles/Graphmtx.dir/all
 all: CMakeFiles/SeqStack.dir/all
-all: CMakeFiles/1-2.dir/all
-all: CMakeFiles/767.Reorganize_String.dir/all
 all: CMakeFiles/27.Remove_Element.dir/all
 all: CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/all
 all: CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/all
@@ -70,7 +68,6 @@ all: CMakeFiles/263.Ugly_Number.dir/all
 all: CMakeFiles/401.Binary_Watch.dir/all
 all: CMakeFiles/143.Reorder_List.dir/all
 all: CMakeFiles/213.House_Robber_II.dir/all
-all: CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
 all: CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/all
 all: CMakeFiles/64.Minimum_Path_Sum.dir/all
 all: CMakeFiles/771.JewelsandStones.dir/all
@@ -94,7 +91,11 @@ all: CMakeFiles/FatMouseTrade.dir/all
 all: CMakeFiles/search.dir/all
 all: CMakeFiles/962.Maximum_Width_Ramp.dir/all
 all: CMakeFiles/Hash1.dir/all
+all: CMakeFiles/sort_the_struct2.dir/all
+all: CMakeFiles/sort_the_struct1.dir/all
 all: CMakeFiles/sort.dir/all
+all: CMakeFiles/BubbleSort.dir/all
+all: CMakeFiles/1465.dir/all
 all: CMakeFiles/1479.dir/all
 all: CMakeFiles/1108.Defanging_an_IP_Address.dir/all
 all: CMakeFiles/198.House_Robber.dir/all
@@ -117,8 +118,6 @@ all: CMakeFiles/1610.dir/all
 all: CMakeFiles/2.dir/all
 all: CMakeFiles/1.stack.dir/all
 all: CMakeFiles/1472.dir/all
-all: CMakeFiles/1465.dir/all
-all: CMakeFiles/BubbleSort.dir/all
 all: CMakeFiles/1435.dir/all
 all: CMakeFiles/compare.dir/all
 all: CMakeFiles/503.Next_Greater_Element_II.dir/all
@@ -158,7 +157,6 @@ all: CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all
 all: CMakeFiles/lanqiaolianxi_4.dir/all
 all: CMakeFiles/test2.dir/all
 all: CMakeFiles/P2921.dir/all
-all: CMakeFiles/sort_the_struct2.dir/all
 all: CMakeFiles/NOIP2018_2.dir/all
 all: CMakeFiles/1489.dir/all
 all: CMakeFiles/P3388.dir/all
@@ -172,7 +170,13 @@ all: CMakeFiles/lanqiaolianxi_3.dir/all
 all: CMakeFiles/NOIP2018_1.dir/all
 all: CMakeFiles/P1226.dir/all
 all: CMakeFiles/P1044.dir/all
+all: CMakeFiles/1-2.dir/all
+all: CMakeFiles/767.Reorganize_String.dir/all
+all: CMakeFiles/HDU1847.dir/all
 all: CMakeFiles/1587.dir/all
+all: CMakeFiles/P3390.dir/all
+all: CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
+all: CMakeFiles/P1962.dir/all
 all: CMakeFiles/data1.dir/all
 all: CMakeFiles/P1896.dir/all
 all: CMakeFiles/P3128.dir/all
@@ -194,11 +198,11 @@ all: CMakeFiles/5.dir/all
 all: CMakeFiles/CF372C.dir/all
 all: CMakeFiles/lanqiaolianxi_1.dir/all
 all: CMakeFiles/floyed.dir/all
+all: CMakeFiles/HDU1848.dir/all
 all: CMakeFiles/lanqiaolianxi_2.dir/all
 all: CMakeFiles/NOIP2018_4.dir/all
 all: CMakeFiles/lanqiaolianxi_5.dir/all
 all: CMakeFiles/NOIP2017_1.dir/all
-all: CMakeFiles/sort_the_struct1.dir/all
 
 .PHONY : all
 
@@ -210,8 +214,6 @@ clean: CMakeFiles/tianda2019-1.dir/clean
 clean: CMakeFiles/2018-1.dir/clean
 clean: CMakeFiles/Graphmtx.dir/clean
 clean: CMakeFiles/SeqStack.dir/clean
-clean: CMakeFiles/1-2.dir/clean
-clean: CMakeFiles/767.Reorganize_String.dir/clean
 clean: CMakeFiles/27.Remove_Element.dir/clean
 clean: CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/clean
 clean: CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/clean
@@ -220,7 +222,6 @@ clean: CMakeFiles/263.Ugly_Number.dir/clean
 clean: CMakeFiles/401.Binary_Watch.dir/clean
 clean: CMakeFiles/143.Reorder_List.dir/clean
 clean: CMakeFiles/213.House_Robber_II.dir/clean
-clean: CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
 clean: CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/clean
 clean: CMakeFiles/64.Minimum_Path_Sum.dir/clean
 clean: CMakeFiles/771.JewelsandStones.dir/clean
@@ -244,7 +245,11 @@ clean: CMakeFiles/FatMouseTrade.dir/clean
 clean: CMakeFiles/search.dir/clean
 clean: CMakeFiles/962.Maximum_Width_Ramp.dir/clean
 clean: CMakeFiles/Hash1.dir/clean
+clean: CMakeFiles/sort_the_struct2.dir/clean
+clean: CMakeFiles/sort_the_struct1.dir/clean
 clean: CMakeFiles/sort.dir/clean
+clean: CMakeFiles/BubbleSort.dir/clean
+clean: CMakeFiles/1465.dir/clean
 clean: CMakeFiles/1479.dir/clean
 clean: CMakeFiles/1108.Defanging_an_IP_Address.dir/clean
 clean: CMakeFiles/198.House_Robber.dir/clean
@@ -267,8 +272,6 @@ clean: CMakeFiles/1610.dir/clean
 clean: CMakeFiles/2.dir/clean
 clean: CMakeFiles/1.stack.dir/clean
 clean: CMakeFiles/1472.dir/clean
-clean: CMakeFiles/1465.dir/clean
-clean: CMakeFiles/BubbleSort.dir/clean
 clean: CMakeFiles/1435.dir/clean
 clean: CMakeFiles/compare.dir/clean
 clean: CMakeFiles/503.Next_Greater_Element_II.dir/clean
@@ -308,7 +311,6 @@ clean: CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/clean
 clean: CMakeFiles/lanqiaolianxi_4.dir/clean
 clean: CMakeFiles/test2.dir/clean
 clean: CMakeFiles/P2921.dir/clean
-clean: CMakeFiles/sort_the_struct2.dir/clean
 clean: CMakeFiles/NOIP2018_2.dir/clean
 clean: CMakeFiles/1489.dir/clean
 clean: CMakeFiles/P3388.dir/clean
@@ -322,7 +324,13 @@ clean: CMakeFiles/lanqiaolianxi_3.dir/clean
 clean: CMakeFiles/NOIP2018_1.dir/clean
 clean: CMakeFiles/P1226.dir/clean
 clean: CMakeFiles/P1044.dir/clean
+clean: CMakeFiles/1-2.dir/clean
+clean: CMakeFiles/767.Reorganize_String.dir/clean
+clean: CMakeFiles/HDU1847.dir/clean
 clean: CMakeFiles/1587.dir/clean
+clean: CMakeFiles/P3390.dir/clean
+clean: CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
+clean: CMakeFiles/P1962.dir/clean
 clean: CMakeFiles/data1.dir/clean
 clean: CMakeFiles/P1896.dir/clean
 clean: CMakeFiles/P3128.dir/clean
@@ -344,11 +352,11 @@ clean: CMakeFiles/5.dir/clean
 clean: CMakeFiles/CF372C.dir/clean
 clean: CMakeFiles/lanqiaolianxi_1.dir/clean
 clean: CMakeFiles/floyed.dir/clean
+clean: CMakeFiles/HDU1848.dir/clean
 clean: CMakeFiles/lanqiaolianxi_2.dir/clean
 clean: CMakeFiles/NOIP2018_4.dir/clean
 clean: CMakeFiles/lanqiaolianxi_5.dir/clean
 clean: CMakeFiles/NOIP2017_1.dir/clean
-clean: CMakeFiles/sort_the_struct1.dir/clean
 
 .PHONY : clean
 
@@ -364,7 +372,7 @@ preinstall:
 CMakeFiles/2019-1.dir/all:
 	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/depend
 	$(MAKE) -f CMakeFiles/2019-1.dir/build.make CMakeFiles/2019-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=36 "Built target 2019-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 2019-1"
 .PHONY : CMakeFiles/2019-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -391,7 +399,7 @@ CMakeFiles/2019-1.dir/clean:
 CMakeFiles/bit2019-1.dir/all:
 	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/depend
 	$(MAKE) -f CMakeFiles/bit2019-1.dir/build.make CMakeFiles/bit2019-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=85 "Built target bit2019-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=86 "Built target bit2019-1"
 .PHONY : CMakeFiles/bit2019-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -418,12 +426,12 @@ CMakeFiles/bit2019-1.dir/clean:
 CMakeFiles/2-1.dir/all:
 	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/depend
 	$(MAKE) -f CMakeFiles/2-1.dir/build.make CMakeFiles/2-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=30 "Built target 2-1"
 .PHONY : CMakeFiles/2-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2-1.dir/rule
@@ -472,7 +480,7 @@ CMakeFiles/tianda2019-1.dir/clean:
 CMakeFiles/2018-1.dir/all:
 	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/depend
 	$(MAKE) -f CMakeFiles/2018-1.dir/build.make CMakeFiles/2018-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=34 "Built target 2018-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=33 "Built target 2018-1"
 .PHONY : CMakeFiles/2018-1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -499,7 +507,7 @@ CMakeFiles/2018-1.dir/clean:
 CMakeFiles/Graphmtx.dir/all:
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/depend
 	$(MAKE) -f CMakeFiles/Graphmtx.dir/build.make CMakeFiles/Graphmtx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=63 "Built target Graphmtx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=61 "Built target Graphmtx"
 .PHONY : CMakeFiles/Graphmtx.dir/all
 
 # Build rule for subdir invocation for target.
@@ -526,12 +534,12 @@ CMakeFiles/Graphmtx.dir/clean:
 CMakeFiles/SeqStack.dir/all:
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/depend
 	$(MAKE) -f CMakeFiles/SeqStack.dir/build.make CMakeFiles/SeqStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=82 "Built target SeqStack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target SeqStack"
 .PHONY : CMakeFiles/SeqStack.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SeqStack.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SeqStack.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SeqStack.dir/rule
@@ -547,67 +555,13 @@ CMakeFiles/SeqStack.dir/clean:
 .PHONY : CMakeFiles/SeqStack.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/1-2.dir
-
-# All Build rule for target.
-CMakeFiles/1-2.dir/all:
-	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/depend
-	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=2 "Built target 1-2"
-.PHONY : CMakeFiles/1-2.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/1-2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1-2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/1-2.dir/rule
-
-# Convenience name for target.
-1-2: CMakeFiles/1-2.dir/rule
-
-.PHONY : 1-2
-
-# clean rule for target.
-CMakeFiles/1-2.dir/clean:
-	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/clean
-.PHONY : CMakeFiles/1-2.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/767.Reorganize_String.dir
-
-# All Build rule for target.
-CMakeFiles/767.Reorganize_String.dir/all:
-	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/depend
-	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=55 "Built target 767.Reorganize_String"
-.PHONY : CMakeFiles/767.Reorganize_String.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/767.Reorganize_String.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/767.Reorganize_String.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/767.Reorganize_String.dir/rule
-
-# Convenience name for target.
-767.Reorganize_String: CMakeFiles/767.Reorganize_String.dir/rule
-
-.PHONY : 767.Reorganize_String
-
-# clean rule for target.
-CMakeFiles/767.Reorganize_String.dir/clean:
-	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/clean
-.PHONY : CMakeFiles/767.Reorganize_String.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/27.Remove_Element.dir
 
 # All Build rule for target.
 CMakeFiles/27.Remove_Element.dir/all:
 	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/depend
 	$(MAKE) -f CMakeFiles/27.Remove_Element.dir/build.make CMakeFiles/27.Remove_Element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=39 "Built target 27.Remove_Element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 27.Remove_Element"
 .PHONY : CMakeFiles/27.Remove_Element.dir/all
 
 # Build rule for subdir invocation for target.
@@ -661,7 +615,7 @@ CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir/clean:
 CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/all:
 	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/depend
 	$(MAKE) -f CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build.make CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=47 "Built target 453.Minimum_Moves_to_Equal_Array_Elements"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=46 "Built target 453.Minimum_Moves_to_Equal_Array_Elements"
 .PHONY : CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/all
 
 # Build rule for subdir invocation for target.
@@ -688,12 +642,12 @@ CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir/clean:
 CMakeFiles/22.Generate_Parentheses.dir/all:
 	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/depend
 	$(MAKE) -f CMakeFiles/22.Generate_Parentheses.dir/build.make CMakeFiles/22.Generate_Parentheses.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=37 "Built target 22.Generate_Parentheses"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 22.Generate_Parentheses"
 .PHONY : CMakeFiles/22.Generate_Parentheses.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/22.Generate_Parentheses.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/22.Generate_Parentheses.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/22.Generate_Parentheses.dir/rule
@@ -715,7 +669,7 @@ CMakeFiles/22.Generate_Parentheses.dir/clean:
 CMakeFiles/263.Ugly_Number.dir/all:
 	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/depend
 	$(MAKE) -f CMakeFiles/263.Ugly_Number.dir/build.make CMakeFiles/263.Ugly_Number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 263.Ugly_Number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=37 "Built target 263.Ugly_Number"
 .PHONY : CMakeFiles/263.Ugly_Number.dir/all
 
 # Build rule for subdir invocation for target.
@@ -769,12 +723,12 @@ CMakeFiles/401.Binary_Watch.dir/clean:
 CMakeFiles/143.Reorder_List.dir/all:
 	$(MAKE) -f CMakeFiles/143.Reorder_List.dir/build.make CMakeFiles/143.Reorder_List.dir/depend
 	$(MAKE) -f CMakeFiles/143.Reorder_List.dir/build.make CMakeFiles/143.Reorder_List.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 143.Reorder_List"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=13 "Built target 143.Reorder_List"
 .PHONY : CMakeFiles/143.Reorder_List.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/143.Reorder_List.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/143.Reorder_List.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/143.Reorder_List.dir/rule
@@ -796,12 +750,12 @@ CMakeFiles/143.Reorder_List.dir/clean:
 CMakeFiles/213.House_Robber_II.dir/all:
 	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/depend
 	$(MAKE) -f CMakeFiles/213.House_Robber_II.dir/build.make CMakeFiles/213.House_Robber_II.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 213.House_Robber_II"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=36 "Built target 213.House_Robber_II"
 .PHONY : CMakeFiles/213.House_Robber_II.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/213.House_Robber_II.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/213.House_Robber_II.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/213.House_Robber_II.dir/rule
@@ -817,40 +771,13 @@ CMakeFiles/213.House_Robber_II.dir/clean:
 .PHONY : CMakeFiles/213.House_Robber_II.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/300.Longest_Increasing_Subsequence.dir
-
-# All Build rule for target.
-CMakeFiles/300.Longest_Increasing_Subsequence.dir/all:
-	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/depend
-	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=42 "Built target 300.Longest_Increasing_Subsequence"
-.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule
-
-# Convenience name for target.
-300.Longest_Increasing_Subsequence: CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule
-
-.PHONY : 300.Longest_Increasing_Subsequence
-
-# clean rule for target.
-CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean:
-	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
-.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir
 
 # All Build rule for target.
 CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/all:
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/depend
 	$(MAKE) -f CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build.make CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=46 "Built target 448.Find_All_Numbers_Disappeared_in_an_Array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 448.Find_All_Numbers_Disappeared_in_an_Array"
 .PHONY : CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -877,12 +804,12 @@ CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir/clean:
 CMakeFiles/64.Minimum_Path_Sum.dir/all:
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/depend
 	$(MAKE) -f CMakeFiles/64.Minimum_Path_Sum.dir/build.make CMakeFiles/64.Minimum_Path_Sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 64.Minimum_Path_Sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=49 "Built target 64.Minimum_Path_Sum"
 .PHONY : CMakeFiles/64.Minimum_Path_Sum.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/64.Minimum_Path_Sum.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/64.Minimum_Path_Sum.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/64.Minimum_Path_Sum.dir/rule
@@ -904,12 +831,12 @@ CMakeFiles/64.Minimum_Path_Sum.dir/clean:
 CMakeFiles/771.JewelsandStones.dir/all:
 	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/depend
 	$(MAKE) -f CMakeFiles/771.JewelsandStones.dir/build.make CMakeFiles/771.JewelsandStones.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=56 "Built target 771.JewelsandStones"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 771.JewelsandStones"
 .PHONY : CMakeFiles/771.JewelsandStones.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/771.JewelsandStones.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/771.JewelsandStones.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/771.JewelsandStones.dir/rule
@@ -931,7 +858,7 @@ CMakeFiles/771.JewelsandStones.dir/clean:
 CMakeFiles/322.Coin_Change.dir/all:
 	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/depend
 	$(MAKE) -f CMakeFiles/322.Coin_Change.dir/build.make CMakeFiles/322.Coin_Change.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=43 "Built target 322.Coin_Change"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=42 "Built target 322.Coin_Change"
 .PHONY : CMakeFiles/322.Coin_Change.dir/all
 
 # Build rule for subdir invocation for target.
@@ -958,12 +885,12 @@ CMakeFiles/322.Coin_Change.dir/clean:
 CMakeFiles/69.Sqrtx.dir/all:
 	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/depend
 	$(MAKE) -f CMakeFiles/69.Sqrtx.dir/build.make CMakeFiles/69.Sqrtx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 69.Sqrtx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=51 "Built target 69.Sqrtx"
 .PHONY : CMakeFiles/69.Sqrtx.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/69.Sqrtx.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/69.Sqrtx.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/69.Sqrtx.dir/rule
@@ -1012,7 +939,7 @@ CMakeFiles/35.Search_Insert_Position.dir/clean:
 CMakeFiles/704.Binary_Search.dir/all:
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/depend
 	$(MAKE) -f CMakeFiles/704.Binary_Search.dir/build.make CMakeFiles/704.Binary_Search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=53 "Built target 704.Binary_Search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=52 "Built target 704.Binary_Search"
 .PHONY : CMakeFiles/704.Binary_Search.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1039,7 +966,7 @@ CMakeFiles/704.Binary_Search.dir/clean:
 CMakeFiles/162.Find_Peak_Element.dir/all:
 	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/depend
 	$(MAKE) -f CMakeFiles/162.Find_Peak_Element.dir/build.make CMakeFiles/162.Find_Peak_Element.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 162.Find_Peak_Element"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=27 "Built target 162.Find_Peak_Element"
 .PHONY : CMakeFiles/162.Find_Peak_Element.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1066,12 +993,12 @@ CMakeFiles/162.Find_Peak_Element.dir/clean:
 CMakeFiles/PathSum.dir/all:
 	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/depend
 	$(MAKE) -f CMakeFiles/PathSum.dir/build.make CMakeFiles/PathSum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target PathSum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=81 "Built target PathSum"
 .PHONY : CMakeFiles/PathSum.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/PathSum.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/PathSum.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/PathSum.dir/rule
@@ -1093,12 +1020,12 @@ CMakeFiles/PathSum.dir/clean:
 CMakeFiles/Wildcard_Matching.dir/all:
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/depend
 	$(MAKE) -f CMakeFiles/Wildcard_Matching.dir/build.make CMakeFiles/Wildcard_Matching.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Wildcard_Matching"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=85 "Built target Wildcard_Matching"
 .PHONY : CMakeFiles/Wildcard_Matching.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Wildcard_Matching.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Wildcard_Matching.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Wildcard_Matching.dir/rule
@@ -1120,12 +1047,12 @@ CMakeFiles/Wildcard_Matching.dir/clean:
 CMakeFiles/2014-1.dir/all:
 	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/depend
 	$(MAKE) -f CMakeFiles/2014-1.dir/build.make CMakeFiles/2014-1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=33 "Built target 2014-1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2014-1"
 .PHONY : CMakeFiles/2014-1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2014-1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2014-1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2014-1.dir/rule
@@ -1147,12 +1074,12 @@ CMakeFiles/2014-1.dir/clean:
 CMakeFiles/Unique_Binary_Search_Trees.dir/all:
 	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/depend
 	$(MAKE) -f CMakeFiles/Unique_Binary_Search_Trees.dir/build.make CMakeFiles/Unique_Binary_Search_Trees.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=84 "Built target Unique_Binary_Search_Trees"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Unique_Binary_Search_Trees"
 .PHONY : CMakeFiles/Unique_Binary_Search_Trees.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Unique_Binary_Search_Trees.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Unique_Binary_Search_Trees.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Unique_Binary_Search_Trees.dir/rule
@@ -1174,12 +1101,12 @@ CMakeFiles/Unique_Binary_Search_Trees.dir/clean:
 CMakeFiles/Another_A+B.dir/all:
 	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/depend
 	$(MAKE) -f CMakeFiles/Another_A+B.dir/build.make CMakeFiles/Another_A+B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=58 "Built target Another_A+B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Another_A+B"
 .PHONY : CMakeFiles/Another_A+B.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Another_A+B.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Another_A+B.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Another_A+B.dir/rule
@@ -1201,12 +1128,12 @@ CMakeFiles/Another_A+B.dir/clean:
 CMakeFiles/Special_Multiplication.dir/all:
 	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/depend
 	$(MAKE) -f CMakeFiles/Special_Multiplication.dir/build.make CMakeFiles/Special_Multiplication.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Special_Multiplication"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=83 "Built target Special_Multiplication"
 .PHONY : CMakeFiles/Special_Multiplication.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Special_Multiplication.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Special_Multiplication.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Special_Multiplication.dir/rule
@@ -1228,12 +1155,12 @@ CMakeFiles/Special_Multiplication.dir/clean:
 CMakeFiles/763.Partition_Labels.dir/all:
 	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/depend
 	$(MAKE) -f CMakeFiles/763.Partition_Labels.dir/build.make CMakeFiles/763.Partition_Labels.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 763.Partition_Labels"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=53 "Built target 763.Partition_Labels"
 .PHONY : CMakeFiles/763.Partition_Labels.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/763.Partition_Labels.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/763.Partition_Labels.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/763.Partition_Labels.dir/rule
@@ -1255,12 +1182,12 @@ CMakeFiles/763.Partition_Labels.dir/clean:
 CMakeFiles/Binary_Tree_Order.dir/all:
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/depend
 	$(MAKE) -f CMakeFiles/Binary_Tree_Order.dir/build.make CMakeFiles/Binary_Tree_Order.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Binary_Tree_Order"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=57 "Built target Binary_Tree_Order"
 .PHONY : CMakeFiles/Binary_Tree_Order.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Binary_Tree_Order.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Binary_Tree_Order.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Binary_Tree_Order.dir/rule
@@ -1309,7 +1236,7 @@ CMakeFiles/461.Hamming_Distance.dir/clean:
 CMakeFiles/Bracket_Matching_Problem.dir/all:
 	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/depend
 	$(MAKE) -f CMakeFiles/Bracket_Matching_Problem.dir/build.make CMakeFiles/Bracket_Matching_Problem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=59 "Built target Bracket_Matching_Problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=58 "Built target Bracket_Matching_Problem"
 .PHONY : CMakeFiles/Bracket_Matching_Problem.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1336,12 +1263,12 @@ CMakeFiles/Bracket_Matching_Problem.dir/clean:
 CMakeFiles/Not_AC.dir/all:
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/depend
 	$(MAKE) -f CMakeFiles/Not_AC.dir/build.make CMakeFiles/Not_AC.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Not_AC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=71 "Built target Not_AC"
 .PHONY : CMakeFiles/Not_AC.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Not_AC.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Not_AC.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Not_AC.dir/rule
@@ -1363,12 +1290,12 @@ CMakeFiles/Not_AC.dir/clean:
 CMakeFiles/FatMouseTrade.dir/all:
 	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/depend
 	$(MAKE) -f CMakeFiles/FatMouseTrade.dir/build.make CMakeFiles/FatMouseTrade.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=62 "Built target FatMouseTrade"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target FatMouseTrade"
 .PHONY : CMakeFiles/FatMouseTrade.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FatMouseTrade.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/FatMouseTrade.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/FatMouseTrade.dir/rule
@@ -1390,12 +1317,12 @@ CMakeFiles/FatMouseTrade.dir/clean:
 CMakeFiles/search.dir/all:
 	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/depend
 	$(MAKE) -f CMakeFiles/search.dir/build.make CMakeFiles/search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=94 "Built target search"
 .PHONY : CMakeFiles/search.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/search.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/search.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/search.dir/rule
@@ -1417,12 +1344,12 @@ CMakeFiles/search.dir/clean:
 CMakeFiles/962.Maximum_Width_Ramp.dir/all:
 	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/depend
 	$(MAKE) -f CMakeFiles/962.Maximum_Width_Ramp.dir/build.make CMakeFiles/962.Maximum_Width_Ramp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 962.Maximum_Width_Ramp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=55 "Built target 962.Maximum_Width_Ramp"
 .PHONY : CMakeFiles/962.Maximum_Width_Ramp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/962.Maximum_Width_Ramp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/962.Maximum_Width_Ramp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/962.Maximum_Width_Ramp.dir/rule
@@ -1465,18 +1392,72 @@ CMakeFiles/Hash1.dir/clean:
 .PHONY : CMakeFiles/Hash1.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct2.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct2.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=96 "Built target sort_the_struct2"
+.PHONY : CMakeFiles/sort_the_struct2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct2.dir/rule
+
+# Convenience name for target.
+sort_the_struct2: CMakeFiles/sort_the_struct2.dir/rule
+
+.PHONY : sort_the_struct2
+
+# clean rule for target.
+CMakeFiles/sort_the_struct2.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/clean
+.PHONY : CMakeFiles/sort_the_struct2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/sort_the_struct1.dir
+
+# All Build rule for target.
+CMakeFiles/sort_the_struct1.dir/all:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/depend
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=95 "Built target sort_the_struct1"
+.PHONY : CMakeFiles/sort_the_struct1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/sort_the_struct1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/sort_the_struct1.dir/rule
+
+# Convenience name for target.
+sort_the_struct1: CMakeFiles/sort_the_struct1.dir/rule
+
+.PHONY : sort_the_struct1
+
+# clean rule for target.
+CMakeFiles/sort_the_struct1.dir/clean:
+	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/clean
+.PHONY : CMakeFiles/sort_the_struct1.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/sort.dir
 
 # All Build rule for target.
 CMakeFiles/sort.dir/all:
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/depend
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=94 "Built target sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target sort"
 .PHONY : CMakeFiles/sort.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/sort.dir/rule
@@ -1490,6 +1471,60 @@ sort: CMakeFiles/sort.dir/rule
 CMakeFiles/sort.dir/clean:
 	$(MAKE) -f CMakeFiles/sort.dir/build.make CMakeFiles/sort.dir/clean
 .PHONY : CMakeFiles/sort.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/BubbleSort.dir
+
+# All Build rule for target.
+CMakeFiles/BubbleSort.dir/all:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/depend
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target BubbleSort"
+.PHONY : CMakeFiles/BubbleSort.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/BubbleSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BubbleSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/BubbleSort.dir/rule
+
+# Convenience name for target.
+BubbleSort: CMakeFiles/BubbleSort.dir/rule
+
+.PHONY : BubbleSort
+
+# clean rule for target.
+CMakeFiles/BubbleSort.dir/clean:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/clean
+.PHONY : CMakeFiles/BubbleSort.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1465.dir
+
+# All Build rule for target.
+CMakeFiles/1465.dir/all:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/depend
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=19 "Built target 1465"
+.PHONY : CMakeFiles/1465.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1465.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1465.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1465.dir/rule
+
+# Convenience name for target.
+1465: CMakeFiles/1465.dir/rule
+
+.PHONY : 1465
+
+# clean rule for target.
+CMakeFiles/1465.dir/clean:
+	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/clean
+.PHONY : CMakeFiles/1465.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/1479.dir
@@ -1552,12 +1587,12 @@ CMakeFiles/1108.Defanging_an_IP_Address.dir/clean:
 CMakeFiles/198.House_Robber.dir/all:
 	$(MAKE) -f CMakeFiles/198.House_Robber.dir/build.make CMakeFiles/198.House_Robber.dir/depend
 	$(MAKE) -f CMakeFiles/198.House_Robber.dir/build.make CMakeFiles/198.House_Robber.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=29 "Built target 198.House_Robber"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 198.House_Robber"
 .PHONY : CMakeFiles/198.House_Robber.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/198.House_Robber.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/198.House_Robber.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/198.House_Robber.dir/rule
@@ -1579,7 +1614,7 @@ CMakeFiles/198.House_Robber.dir/clean:
 CMakeFiles/66.PlusOne.dir/all:
 	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/depend
 	$(MAKE) -f CMakeFiles/66.PlusOne.dir/build.make CMakeFiles/66.PlusOne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=51 "Built target 66.PlusOne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=50 "Built target 66.PlusOne"
 .PHONY : CMakeFiles/66.PlusOne.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1606,7 +1641,7 @@ CMakeFiles/66.PlusOne.dir/clean:
 CMakeFiles/data2.dir/all:
 	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/depend
 	$(MAKE) -f CMakeFiles/data2.dir/build.make CMakeFiles/data2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=87 "Built target data2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=88 "Built target data2"
 .PHONY : CMakeFiles/data2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1687,12 +1722,12 @@ CMakeFiles/quick_sort.dir/clean:
 CMakeFiles/1455.dir/all:
 	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/depend
 	$(MAKE) -f CMakeFiles/1455.dir/build.make CMakeFiles/1455.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1455"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=17 "Built target 1455"
 .PHONY : CMakeFiles/1455.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1455.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1455.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1455.dir/rule
@@ -1714,12 +1749,12 @@ CMakeFiles/1455.dir/clean:
 CMakeFiles/1471.dir/all:
 	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/depend
 	$(MAKE) -f CMakeFiles/1471.dir/build.make CMakeFiles/1471.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 1471"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1471"
 .PHONY : CMakeFiles/1471.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1471.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1471.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1471.dir/rule
@@ -1768,12 +1803,12 @@ CMakeFiles/1456.dir/clean:
 CMakeFiles/Huffman_Tree.dir/all:
 	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/depend
 	$(MAKE) -f CMakeFiles/Huffman_Tree.dir/build.make CMakeFiles/Huffman_Tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Huffman_Tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=65 "Built target Huffman_Tree"
 .PHONY : CMakeFiles/Huffman_Tree.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Huffman_Tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Huffman_Tree.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Huffman_Tree.dir/rule
@@ -1822,12 +1857,12 @@ CMakeFiles/1385.dir/clean:
 CMakeFiles/disjoint1.dir/all:
 	$(MAKE) -f CMakeFiles/disjoint1.dir/build.make CMakeFiles/disjoint1.dir/depend
 	$(MAKE) -f CMakeFiles/disjoint1.dir/build.make CMakeFiles/disjoint1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=88 "Built target disjoint1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target disjoint1"
 .PHONY : CMakeFiles/disjoint1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/disjoint1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/disjoint1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/disjoint1.dir/rule
@@ -1849,7 +1884,7 @@ CMakeFiles/disjoint1.dir/clean:
 CMakeFiles/P3865.dir/all:
 	$(MAKE) -f CMakeFiles/P3865.dir/build.make CMakeFiles/P3865.dir/depend
 	$(MAKE) -f CMakeFiles/P3865.dir/build.make CMakeFiles/P3865.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=79 "Built target P3865"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=80 "Built target P3865"
 .PHONY : CMakeFiles/P3865.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1876,12 +1911,12 @@ CMakeFiles/P3865.dir/clean:
 CMakeFiles/72.Edit_Distance.dir/all:
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/depend
 	$(MAKE) -f CMakeFiles/72.Edit_Distance.dir/build.make CMakeFiles/72.Edit_Distance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=54 "Built target 72.Edit_Distance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 72.Edit_Distance"
 .PHONY : CMakeFiles/72.Edit_Distance.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/72.Edit_Distance.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/72.Edit_Distance.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/72.Edit_Distance.dir/rule
@@ -1957,7 +1992,7 @@ CMakeFiles/LinkedStack.dir/clean:
 CMakeFiles/4.stack.dir/all:
 	$(MAKE) -f CMakeFiles/4.stack.dir/build.make CMakeFiles/4.stack.dir/depend
 	$(MAKE) -f CMakeFiles/4.stack.dir/build.make CMakeFiles/4.stack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 4.stack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=44 "Built target 4.stack"
 .PHONY : CMakeFiles/4.stack.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1984,12 +2019,12 @@ CMakeFiles/4.stack.dir/clean:
 CMakeFiles/1610.dir/all:
 	$(MAKE) -f CMakeFiles/1610.dir/build.make CMakeFiles/1610.dir/depend
 	$(MAKE) -f CMakeFiles/1610.dir/build.make CMakeFiles/1610.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=27 "Built target 1610"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1610"
 .PHONY : CMakeFiles/1610.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1610.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1610.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1610.dir/rule
@@ -2011,7 +2046,7 @@ CMakeFiles/1610.dir/clean:
 CMakeFiles/2.dir/all:
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/depend
 	$(MAKE) -f CMakeFiles/2.dir/build.make CMakeFiles/2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=30 "Built target 2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=29 "Built target 2"
 .PHONY : CMakeFiles/2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2065,12 +2100,12 @@ CMakeFiles/1.stack.dir/clean:
 CMakeFiles/1472.dir/all:
 	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/depend
 	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1472"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 1472"
 .PHONY : CMakeFiles/1472.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1472.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1472.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1472.dir/rule
@@ -2084,60 +2119,6 @@ CMakeFiles/1472.dir/rule: cmake_check_build_system
 CMakeFiles/1472.dir/clean:
 	$(MAKE) -f CMakeFiles/1472.dir/build.make CMakeFiles/1472.dir/clean
 .PHONY : CMakeFiles/1472.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/1465.dir
-
-# All Build rule for target.
-CMakeFiles/1465.dir/all:
-	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/depend
-	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1465"
-.PHONY : CMakeFiles/1465.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/1465.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1465.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/1465.dir/rule
-
-# Convenience name for target.
-1465: CMakeFiles/1465.dir/rule
-
-.PHONY : 1465
-
-# clean rule for target.
-CMakeFiles/1465.dir/clean:
-	$(MAKE) -f CMakeFiles/1465.dir/build.make CMakeFiles/1465.dir/clean
-.PHONY : CMakeFiles/1465.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/BubbleSort.dir
-
-# All Build rule for target.
-CMakeFiles/BubbleSort.dir/all:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/depend
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=60 "Built target BubbleSort"
-.PHONY : CMakeFiles/BubbleSort.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/BubbleSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BubbleSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/BubbleSort.dir/rule
-
-# Convenience name for target.
-BubbleSort: CMakeFiles/BubbleSort.dir/rule
-
-.PHONY : BubbleSort
-
-# clean rule for target.
-CMakeFiles/BubbleSort.dir/clean:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/clean
-.PHONY : CMakeFiles/BubbleSort.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/1435.dir
@@ -2173,12 +2154,12 @@ CMakeFiles/1435.dir/clean:
 CMakeFiles/compare.dir/all:
 	$(MAKE) -f CMakeFiles/compare.dir/build.make CMakeFiles/compare.dir/depend
 	$(MAKE) -f CMakeFiles/compare.dir/build.make CMakeFiles/compare.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=86 "Built target compare"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target compare"
 .PHONY : CMakeFiles/compare.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/compare.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/compare.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/compare.dir/rule
@@ -2200,7 +2181,7 @@ CMakeFiles/compare.dir/clean:
 CMakeFiles/503.Next_Greater_Element_II.dir/all:
 	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/depend
 	$(MAKE) -f CMakeFiles/503.Next_Greater_Element_II.dir/build.make CMakeFiles/503.Next_Greater_Element_II.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=49 "Built target 503.Next_Greater_Element_II"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=48 "Built target 503.Next_Greater_Element_II"
 .PHONY : CMakeFiles/503.Next_Greater_Element_II.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2227,12 +2208,12 @@ CMakeFiles/503.Next_Greater_Element_II.dir/clean:
 CMakeFiles/1422.dir/all:
 	$(MAKE) -f CMakeFiles/1422.dir/build.make CMakeFiles/1422.dir/depend
 	$(MAKE) -f CMakeFiles/1422.dir/build.make CMakeFiles/1422.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=13 "Built target 1422"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1422"
 .PHONY : CMakeFiles/1422.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1422.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1422.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1422.dir/rule
@@ -2254,12 +2235,12 @@ CMakeFiles/1422.dir/clean:
 CMakeFiles/thhdlx.dir/all:
 	$(MAKE) -f CMakeFiles/thhdlx.dir/build.make CMakeFiles/thhdlx.dir/depend
 	$(MAKE) -f CMakeFiles/thhdlx.dir/build.make CMakeFiles/thhdlx.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=98 "Built target thhdlx"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target thhdlx"
 .PHONY : CMakeFiles/thhdlx.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/thhdlx.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/thhdlx.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/thhdlx.dir/rule
@@ -2389,7 +2370,7 @@ CMakeFiles/NOIP2018_3.dir/clean:
 CMakeFiles/2.Tree.dir/all:
 	$(MAKE) -f CMakeFiles/2.Tree.dir/build.make CMakeFiles/2.Tree.dir/depend
 	$(MAKE) -f CMakeFiles/2.Tree.dir/build.make CMakeFiles/2.Tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 2.Tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=31 "Built target 2.Tree"
 .PHONY : CMakeFiles/2.Tree.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2416,12 +2397,12 @@ CMakeFiles/2.Tree.dir/clean:
 CMakeFiles/1486.dir/all:
 	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/depend
 	$(MAKE) -f CMakeFiles/1486.dir/build.make CMakeFiles/1486.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=23 "Built target 1486"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1486"
 .PHONY : CMakeFiles/1486.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1486.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1486.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1486.dir/rule
@@ -2497,12 +2478,12 @@ CMakeFiles/1.Graphmtx.dir/clean:
 CMakeFiles/1456-2.dir/all:
 	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/depend
 	$(MAKE) -f CMakeFiles/1456-2.dir/build.make CMakeFiles/1456-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=19 "Built target 1456-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1456-2"
 .PHONY : CMakeFiles/1456-2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1456-2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1456-2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1456-2.dir/rule
@@ -2524,7 +2505,7 @@ CMakeFiles/1456-2.dir/clean:
 CMakeFiles/3.Tree.dir/all:
 	$(MAKE) -f CMakeFiles/3.Tree.dir/build.make CMakeFiles/3.Tree.dir/depend
 	$(MAKE) -f CMakeFiles/3.Tree.dir/build.make CMakeFiles/3.Tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=41 "Built target 3.Tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 3.Tree"
 .PHONY : CMakeFiles/3.Tree.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2578,12 +2559,12 @@ CMakeFiles/tianda2019-2.dir/clean:
 CMakeFiles/5181.Distance_Between_Bus_Stops.dir/all:
 	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/depend
 	$(MAKE) -f CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build.make CMakeFiles/5181.Distance_Between_Bus_Stops.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=50 "Built target 5181.Distance_Between_Bus_Stops"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 5181.Distance_Between_Bus_Stops"
 .PHONY : CMakeFiles/5181.Distance_Between_Bus_Stops.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/5181.Distance_Between_Bus_Stops.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/5181.Distance_Between_Bus_Stops.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/5181.Distance_Between_Bus_Stops.dir/rule
@@ -2632,12 +2613,12 @@ CMakeFiles/1.Tree.dir/clean:
 CMakeFiles/P1352.dir/all:
 	$(MAKE) -f CMakeFiles/P1352.dir/build.make CMakeFiles/P1352.dir/depend
 	$(MAKE) -f CMakeFiles/P1352.dir/build.make CMakeFiles/P1352.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target P1352"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=73 "Built target P1352"
 .PHONY : CMakeFiles/P1352.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/P1352.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/P1352.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/P1352.dir/rule
@@ -2659,12 +2640,12 @@ CMakeFiles/P1352.dir/clean:
 CMakeFiles/Hash2.dir/all:
 	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/depend
 	$(MAKE) -f CMakeFiles/Hash2.dir/build.make CMakeFiles/Hash2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=65 "Built target Hash2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Hash2"
 .PHONY : CMakeFiles/Hash2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Hash2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Hash2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Hash2.dir/rule
@@ -2713,12 +2694,12 @@ CMakeFiles/1.heap.dir/clean:
 CMakeFiles/2.stack.dir/all:
 	$(MAKE) -f CMakeFiles/2.stack.dir/build.make CMakeFiles/2.stack.dir/depend
 	$(MAKE) -f CMakeFiles/2.stack.dir/build.make CMakeFiles/2.stack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2.stack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=32 "Built target 2.stack"
 .PHONY : CMakeFiles/2.stack.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2.stack.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2.stack.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2.stack.dir/rule
@@ -2848,12 +2829,12 @@ CMakeFiles/1383.dir/clean:
 CMakeFiles/1448.dir/all:
 	$(MAKE) -f CMakeFiles/1448.dir/build.make CMakeFiles/1448.dir/depend
 	$(MAKE) -f CMakeFiles/1448.dir/build.make CMakeFiles/1448.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=17 "Built target 1448"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1448"
 .PHONY : CMakeFiles/1448.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1448.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1448.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1448.dir/rule
@@ -2875,12 +2856,12 @@ CMakeFiles/1448.dir/clean:
 CMakeFiles/1440.dir/all:
 	$(MAKE) -f CMakeFiles/1440.dir/build.make CMakeFiles/1440.dir/depend
 	$(MAKE) -f CMakeFiles/1440.dir/build.make CMakeFiles/1440.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1440"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 1440"
 .PHONY : CMakeFiles/1440.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1440.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1440.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1440.dir/rule
@@ -2902,12 +2883,12 @@ CMakeFiles/1440.dir/clean:
 CMakeFiles/1488.dir/all:
 	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/depend
 	$(MAKE) -f CMakeFiles/1488.dir/build.make CMakeFiles/1488.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1488"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=23 "Built target 1488"
 .PHONY : CMakeFiles/1488.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1488.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1488.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1488.dir/rule
@@ -2929,7 +2910,7 @@ CMakeFiles/1488.dir/clean:
 CMakeFiles/UncommonWordsfromTwoSentences.dir/all:
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/depend
 	$(MAKE) -f CMakeFiles/UncommonWordsfromTwoSentences.dir/build.make CMakeFiles/UncommonWordsfromTwoSentences.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=83 "Built target UncommonWordsfromTwoSentences"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=84 "Built target UncommonWordsfromTwoSentences"
 .PHONY : CMakeFiles/UncommonWordsfromTwoSentences.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2956,12 +2937,12 @@ CMakeFiles/UncommonWordsfromTwoSentences.dir/clean:
 CMakeFiles/1569.dir/all:
 	$(MAKE) -f CMakeFiles/1569.dir/build.make CMakeFiles/1569.dir/depend
 	$(MAKE) -f CMakeFiles/1569.dir/build.make CMakeFiles/1569.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 1569"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1569"
 .PHONY : CMakeFiles/1569.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1569.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1569.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1569.dir/rule
@@ -2983,7 +2964,7 @@ CMakeFiles/1569.dir/clean:
 CMakeFiles/4.dir/all:
 	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/depend
 	$(MAKE) -f CMakeFiles/4.dir/build.make CMakeFiles/4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=44 "Built target 4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=43 "Built target 4"
 .PHONY : CMakeFiles/4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3037,12 +3018,12 @@ CMakeFiles/1382.dir/clean:
 CMakeFiles/1597.dir/all:
 	$(MAKE) -f CMakeFiles/1597.dir/build.make CMakeFiles/1597.dir/depend
 	$(MAKE) -f CMakeFiles/1597.dir/build.make CMakeFiles/1597.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1597"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=26 "Built target 1597"
 .PHONY : CMakeFiles/1597.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1597.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1597.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1597.dir/rule
@@ -3064,12 +3045,12 @@ CMakeFiles/1597.dir/clean:
 CMakeFiles/2-2.dir/all:
 	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/depend
 	$(MAKE) -f CMakeFiles/2-2.dir/build.make CMakeFiles/2-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=31 "Built target 2-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2-2"
 .PHONY : CMakeFiles/2-2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2-2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2-2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2-2.dir/rule
@@ -3091,12 +3072,12 @@ CMakeFiles/2-2.dir/clean:
 CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all:
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/depend
 	$(MAKE) -f CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build.make CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=52 "Built target 674.Longest_Continuous_Increasing_Subsequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 674.Longest_Continuous_Increasing_Subsequence"
 .PHONY : CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/rule
@@ -3118,12 +3099,12 @@ CMakeFiles/674.Longest_Continuous_Increasing_Subsequence.dir/clean:
 CMakeFiles/lanqiaolianxi_4.dir/all:
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_4.dir/build.make CMakeFiles/lanqiaolianxi_4.dir/depend
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_4.dir/build.make CMakeFiles/lanqiaolianxi_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target lanqiaolianxi_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=92 "Built target lanqiaolianxi_4"
 .PHONY : CMakeFiles/lanqiaolianxi_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lanqiaolianxi_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lanqiaolianxi_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lanqiaolianxi_4.dir/rule
@@ -3145,12 +3126,12 @@ CMakeFiles/lanqiaolianxi_4.dir/clean:
 CMakeFiles/test2.dir/all:
 	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/depend
 	$(MAKE) -f CMakeFiles/test2.dir/build.make CMakeFiles/test2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target test2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=98 "Built target test2"
 .PHONY : CMakeFiles/test2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/test2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/test2.dir/rule
@@ -3193,45 +3174,18 @@ CMakeFiles/P2921.dir/clean:
 .PHONY : CMakeFiles/P2921.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/sort_the_struct2.dir
-
-# All Build rule for target.
-CMakeFiles/sort_the_struct2.dir/all:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/depend
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target sort_the_struct2"
-.PHONY : CMakeFiles/sort_the_struct2.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/sort_the_struct2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/sort_the_struct2.dir/rule
-
-# Convenience name for target.
-sort_the_struct2: CMakeFiles/sort_the_struct2.dir/rule
-
-.PHONY : sort_the_struct2
-
-# clean rule for target.
-CMakeFiles/sort_the_struct2.dir/clean:
-	$(MAKE) -f CMakeFiles/sort_the_struct2.dir/build.make CMakeFiles/sort_the_struct2.dir/clean
-.PHONY : CMakeFiles/sort_the_struct2.dir/clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/NOIP2018_2.dir
 
 # All Build rule for target.
 CMakeFiles/NOIP2018_2.dir/all:
 	$(MAKE) -f CMakeFiles/NOIP2018_2.dir/build.make CMakeFiles/NOIP2018_2.dir/depend
 	$(MAKE) -f CMakeFiles/NOIP2018_2.dir/build.make CMakeFiles/NOIP2018_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target NOIP2018_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=69 "Built target NOIP2018_2"
 .PHONY : CMakeFiles/NOIP2018_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NOIP2018_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/NOIP2018_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/NOIP2018_2.dir/rule
@@ -3307,12 +3261,12 @@ CMakeFiles/P3388.dir/clean:
 CMakeFiles/2018-3.dir/all:
 	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/depend
 	$(MAKE) -f CMakeFiles/2018-3.dir/build.make CMakeFiles/2018-3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 2018-3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2018-3"
 .PHONY : CMakeFiles/2018-3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2018-3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018-3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2018-3.dir/rule
@@ -3334,12 +3288,12 @@ CMakeFiles/2018-3.dir/clean:
 CMakeFiles/172.FactorialTrailingZeroes.dir/all:
 	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/depend
 	$(MAKE) -f CMakeFiles/172.FactorialTrailingZeroes.dir/build.make CMakeFiles/172.FactorialTrailingZeroes.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 172.FactorialTrailingZeroes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 172.FactorialTrailingZeroes"
 .PHONY : CMakeFiles/172.FactorialTrailingZeroes.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/172.FactorialTrailingZeroes.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/172.FactorialTrailingZeroes.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/172.FactorialTrailingZeroes.dir/rule
@@ -3361,12 +3315,12 @@ CMakeFiles/172.FactorialTrailingZeroes.dir/clean:
 CMakeFiles/HDU3062.dir/all:
 	$(MAKE) -f CMakeFiles/HDU3062.dir/build.make CMakeFiles/HDU3062.dir/depend
 	$(MAKE) -f CMakeFiles/HDU3062.dir/build.make CMakeFiles/HDU3062.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target HDU3062"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=63 "Built target HDU3062"
 .PHONY : CMakeFiles/HDU3062.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HDU3062.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HDU3062.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/HDU3062.dir/rule
@@ -3388,12 +3342,12 @@ CMakeFiles/HDU3062.dir/clean:
 CMakeFiles/Linknode.dir/all:
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/depend
 	$(MAKE) -f CMakeFiles/Linknode.dir/build.make CMakeFiles/Linknode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=67 "Built target Linknode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target Linknode"
 .PHONY : CMakeFiles/Linknode.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Linknode.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Linknode.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Linknode.dir/rule
@@ -3415,7 +3369,7 @@ CMakeFiles/Linknode.dir/clean:
 CMakeFiles/CombinationSumIII.dir/all:
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/depend
 	$(MAKE) -f CMakeFiles/CombinationSumIII.dir/build.make CMakeFiles/CombinationSumIII.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=61 "Built target CombinationSumIII"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=60 "Built target CombinationSumIII"
 .PHONY : CMakeFiles/CombinationSumIII.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3496,12 +3450,12 @@ CMakeFiles/lanqiaolianxi_3.dir/clean:
 CMakeFiles/NOIP2018_1.dir/all:
 	$(MAKE) -f CMakeFiles/NOIP2018_1.dir/build.make CMakeFiles/NOIP2018_1.dir/depend
 	$(MAKE) -f CMakeFiles/NOIP2018_1.dir/build.make CMakeFiles/NOIP2018_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=69 "Built target NOIP2018_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target NOIP2018_1"
 .PHONY : CMakeFiles/NOIP2018_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NOIP2018_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/NOIP2018_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/NOIP2018_1.dir/rule
@@ -3523,12 +3477,12 @@ CMakeFiles/NOIP2018_1.dir/clean:
 CMakeFiles/P1226.dir/all:
 	$(MAKE) -f CMakeFiles/P1226.dir/build.make CMakeFiles/P1226.dir/depend
 	$(MAKE) -f CMakeFiles/P1226.dir/build.make CMakeFiles/P1226.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=73 "Built target P1226"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target P1226"
 .PHONY : CMakeFiles/P1226.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/P1226.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/P1226.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/P1226.dir/rule
@@ -3571,13 +3525,94 @@ CMakeFiles/P1044.dir/clean:
 .PHONY : CMakeFiles/P1044.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/1-2.dir
+
+# All Build rule for target.
+CMakeFiles/1-2.dir/all:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/depend
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=2 "Built target 1-2"
+.PHONY : CMakeFiles/1-2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1-2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1-2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1-2.dir/rule
+
+# Convenience name for target.
+1-2: CMakeFiles/1-2.dir/rule
+
+.PHONY : 1-2
+
+# clean rule for target.
+CMakeFiles/1-2.dir/clean:
+	$(MAKE) -f CMakeFiles/1-2.dir/build.make CMakeFiles/1-2.dir/clean
+.PHONY : CMakeFiles/1-2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/767.Reorganize_String.dir
+
+# All Build rule for target.
+CMakeFiles/767.Reorganize_String.dir/all:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/depend
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=54 "Built target 767.Reorganize_String"
+.PHONY : CMakeFiles/767.Reorganize_String.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/767.Reorganize_String.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/767.Reorganize_String.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/767.Reorganize_String.dir/rule
+
+# Convenience name for target.
+767.Reorganize_String: CMakeFiles/767.Reorganize_String.dir/rule
+
+.PHONY : 767.Reorganize_String
+
+# clean rule for target.
+CMakeFiles/767.Reorganize_String.dir/clean:
+	$(MAKE) -f CMakeFiles/767.Reorganize_String.dir/build.make CMakeFiles/767.Reorganize_String.dir/clean
+.PHONY : CMakeFiles/767.Reorganize_String.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/HDU1847.dir
+
+# All Build rule for target.
+CMakeFiles/HDU1847.dir/all:
+	$(MAKE) -f CMakeFiles/HDU1847.dir/build.make CMakeFiles/HDU1847.dir/depend
+	$(MAKE) -f CMakeFiles/HDU1847.dir/build.make CMakeFiles/HDU1847.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=62 "Built target HDU1847"
+.PHONY : CMakeFiles/HDU1847.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/HDU1847.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HDU1847.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/HDU1847.dir/rule
+
+# Convenience name for target.
+HDU1847: CMakeFiles/HDU1847.dir/rule
+
+.PHONY : HDU1847
+
+# clean rule for target.
+CMakeFiles/HDU1847.dir/clean:
+	$(MAKE) -f CMakeFiles/HDU1847.dir/build.make CMakeFiles/HDU1847.dir/clean
+.PHONY : CMakeFiles/HDU1847.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/1587.dir
 
 # All Build rule for target.
 CMakeFiles/1587.dir/all:
 	$(MAKE) -f CMakeFiles/1587.dir/build.make CMakeFiles/1587.dir/depend
 	$(MAKE) -f CMakeFiles/1587.dir/build.make CMakeFiles/1587.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=26 "Built target 1587"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 1587"
 .PHONY : CMakeFiles/1587.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3598,18 +3633,99 @@ CMakeFiles/1587.dir/clean:
 .PHONY : CMakeFiles/1587.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/P3390.dir
+
+# All Build rule for target.
+CMakeFiles/P3390.dir/all:
+	$(MAKE) -f CMakeFiles/P3390.dir/build.make CMakeFiles/P3390.dir/depend
+	$(MAKE) -f CMakeFiles/P3390.dir/build.make CMakeFiles/P3390.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=79 "Built target P3390"
+.PHONY : CMakeFiles/P3390.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/P3390.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/P3390.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/P3390.dir/rule
+
+# Convenience name for target.
+P3390: CMakeFiles/P3390.dir/rule
+
+.PHONY : P3390
+
+# clean rule for target.
+CMakeFiles/P3390.dir/clean:
+	$(MAKE) -f CMakeFiles/P3390.dir/build.make CMakeFiles/P3390.dir/clean
+.PHONY : CMakeFiles/P3390.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/300.Longest_Increasing_Subsequence.dir
+
+# All Build rule for target.
+CMakeFiles/300.Longest_Increasing_Subsequence.dir/all:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/depend
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=41 "Built target 300.Longest_Increasing_Subsequence"
+.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/300.Longest_Increasing_Subsequence.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule
+
+# Convenience name for target.
+300.Longest_Increasing_Subsequence: CMakeFiles/300.Longest_Increasing_Subsequence.dir/rule
+
+.PHONY : 300.Longest_Increasing_Subsequence
+
+# clean rule for target.
+CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean:
+	$(MAKE) -f CMakeFiles/300.Longest_Increasing_Subsequence.dir/build.make CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
+.PHONY : CMakeFiles/300.Longest_Increasing_Subsequence.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/P1962.dir
+
+# All Build rule for target.
+CMakeFiles/P1962.dir/all:
+	$(MAKE) -f CMakeFiles/P1962.dir/build.make CMakeFiles/P1962.dir/depend
+	$(MAKE) -f CMakeFiles/P1962.dir/build.make CMakeFiles/P1962.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target P1962"
+.PHONY : CMakeFiles/P1962.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/P1962.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/P1962.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/P1962.dir/rule
+
+# Convenience name for target.
+P1962: CMakeFiles/P1962.dir/rule
+
+.PHONY : P1962
+
+# clean rule for target.
+CMakeFiles/P1962.dir/clean:
+	$(MAKE) -f CMakeFiles/P1962.dir/build.make CMakeFiles/P1962.dir/clean
+.PHONY : CMakeFiles/P1962.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/data1.dir
 
 # All Build rule for target.
 CMakeFiles/data1.dir/all:
 	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/depend
 	$(MAKE) -f CMakeFiles/data1.dir/build.make CMakeFiles/data1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target data1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=87 "Built target data1"
 .PHONY : CMakeFiles/data1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/data1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/data1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/data1.dir/rule
@@ -3685,12 +3801,12 @@ CMakeFiles/P3128.dir/clean:
 CMakeFiles/2018-2.dir/all:
 	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/depend
 	$(MAKE) -f CMakeFiles/2018-2.dir/build.make CMakeFiles/2018-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 2018-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=34 "Built target 2018-2"
 .PHONY : CMakeFiles/2018-2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2018-2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/2018-2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2018-2.dir/rule
@@ -3712,7 +3828,7 @@ CMakeFiles/2018-2.dir/clean:
 CMakeFiles/SeqList.dir/all:
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/depend
 	$(MAKE) -f CMakeFiles/SeqList.dir/build.make CMakeFiles/SeqList.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=81 "Built target SeqList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=82 "Built target SeqList"
 .PHONY : CMakeFiles/SeqList.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3793,12 +3909,12 @@ CMakeFiles/1025.Divisor_Game.dir/clean:
 CMakeFiles/P5312.dir/all:
 	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/depend
 	$(MAKE) -f CMakeFiles/P5312.dir/build.make CMakeFiles/P5312.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=80 "Built target P5312"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target P5312"
 .PHONY : CMakeFiles/P5312.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/P5312.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/P5312.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/P5312.dir/rule
@@ -3955,12 +4071,12 @@ CMakeFiles/1.dir/clean:
 CMakeFiles/test.dir/all:
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/depend
 	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=96 "Built target test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target test"
 .PHONY : CMakeFiles/test.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/test.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/test.dir/rule
@@ -3982,7 +4098,7 @@ CMakeFiles/test.dir/clean:
 CMakeFiles/3.dir/all:
 	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/depend
 	$(MAKE) -f CMakeFiles/3.dir/build.make CMakeFiles/3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=39 "Built target 3"
 .PHONY : CMakeFiles/3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4009,7 +4125,7 @@ CMakeFiles/3.dir/clean:
 CMakeFiles/97.Interleaving_String.dir/all:
 	$(MAKE) -f CMakeFiles/97.Interleaving_String.dir/build.make CMakeFiles/97.Interleaving_String.dir/depend
 	$(MAKE) -f CMakeFiles/97.Interleaving_String.dir/build.make CMakeFiles/97.Interleaving_String.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=57 "Built target 97.Interleaving_String"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=56 "Built target 97.Interleaving_String"
 .PHONY : CMakeFiles/97.Interleaving_String.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4036,12 +4152,12 @@ CMakeFiles/97.Interleaving_String.dir/clean:
 CMakeFiles/1436.dir/all:
 	$(MAKE) -f CMakeFiles/1436.dir/build.make CMakeFiles/1436.dir/depend
 	$(MAKE) -f CMakeFiles/1436.dir/build.make CMakeFiles/1436.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 1436"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target 1436"
 .PHONY : CMakeFiles/1436.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/1436.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1436.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/1436.dir/rule
@@ -4063,7 +4179,7 @@ CMakeFiles/1436.dir/clean:
 CMakeFiles/5.dir/all:
 	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/depend
 	$(MAKE) -f CMakeFiles/5.dir/build.make CMakeFiles/5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=48 "Built target 5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=47 "Built target 5"
 .PHONY : CMakeFiles/5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4090,12 +4206,12 @@ CMakeFiles/5.dir/clean:
 CMakeFiles/CF372C.dir/all:
 	$(MAKE) -f CMakeFiles/CF372C.dir/build.make CMakeFiles/CF372C.dir/depend
 	$(MAKE) -f CMakeFiles/CF372C.dir/build.make CMakeFiles/CF372C.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target CF372C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=59 "Built target CF372C"
 .PHONY : CMakeFiles/CF372C.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CF372C.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CF372C.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CF372C.dir/rule
@@ -4117,12 +4233,12 @@ CMakeFiles/CF372C.dir/clean:
 CMakeFiles/lanqiaolianxi_1.dir/all:
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_1.dir/build.make CMakeFiles/lanqiaolianxi_1.dir/depend
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_1.dir/build.make CMakeFiles/lanqiaolianxi_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target lanqiaolianxi_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=90 "Built target lanqiaolianxi_1"
 .PHONY : CMakeFiles/lanqiaolianxi_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lanqiaolianxi_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lanqiaolianxi_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lanqiaolianxi_1.dir/rule
@@ -4165,18 +4281,45 @@ CMakeFiles/floyed.dir/clean:
 .PHONY : CMakeFiles/floyed.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/HDU1848.dir
+
+# All Build rule for target.
+CMakeFiles/HDU1848.dir/all:
+	$(MAKE) -f CMakeFiles/HDU1848.dir/build.make CMakeFiles/HDU1848.dir/depend
+	$(MAKE) -f CMakeFiles/HDU1848.dir/build.make CMakeFiles/HDU1848.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target HDU1848"
+.PHONY : CMakeFiles/HDU1848.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/HDU1848.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/HDU1848.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/HDU1848.dir/rule
+
+# Convenience name for target.
+HDU1848: CMakeFiles/HDU1848.dir/rule
+
+.PHONY : HDU1848
+
+# clean rule for target.
+CMakeFiles/HDU1848.dir/clean:
+	$(MAKE) -f CMakeFiles/HDU1848.dir/build.make CMakeFiles/HDU1848.dir/clean
+.PHONY : CMakeFiles/HDU1848.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lanqiaolianxi_2.dir
 
 # All Build rule for target.
 CMakeFiles/lanqiaolianxi_2.dir/all:
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_2.dir/build.make CMakeFiles/lanqiaolianxi_2.dir/depend
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_2.dir/build.make CMakeFiles/lanqiaolianxi_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=90 "Built target lanqiaolianxi_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target lanqiaolianxi_2"
 .PHONY : CMakeFiles/lanqiaolianxi_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lanqiaolianxi_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lanqiaolianxi_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lanqiaolianxi_2.dir/rule
@@ -4198,12 +4341,12 @@ CMakeFiles/lanqiaolianxi_2.dir/clean:
 CMakeFiles/NOIP2018_4.dir/all:
 	$(MAKE) -f CMakeFiles/NOIP2018_4.dir/build.make CMakeFiles/NOIP2018_4.dir/depend
 	$(MAKE) -f CMakeFiles/NOIP2018_4.dir/build.make CMakeFiles/NOIP2018_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=71 "Built target NOIP2018_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target NOIP2018_4"
 .PHONY : CMakeFiles/NOIP2018_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NOIP2018_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/NOIP2018_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/NOIP2018_4.dir/rule
@@ -4225,12 +4368,12 @@ CMakeFiles/NOIP2018_4.dir/clean:
 CMakeFiles/lanqiaolianxi_5.dir/all:
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_5.dir/build.make CMakeFiles/lanqiaolianxi_5.dir/depend
 	$(MAKE) -f CMakeFiles/lanqiaolianxi_5.dir/build.make CMakeFiles/lanqiaolianxi_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=92 "Built target lanqiaolianxi_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target lanqiaolianxi_5"
 .PHONY : CMakeFiles/lanqiaolianxi_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lanqiaolianxi_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lanqiaolianxi_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lanqiaolianxi_5.dir/rule
@@ -4252,12 +4395,12 @@ CMakeFiles/lanqiaolianxi_5.dir/clean:
 CMakeFiles/NOIP2017_1.dir/all:
 	$(MAKE) -f CMakeFiles/NOIP2017_1.dir/build.make CMakeFiles/NOIP2017_1.dir/depend
 	$(MAKE) -f CMakeFiles/NOIP2017_1.dir/build.make CMakeFiles/NOIP2017_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num= "Built target NOIP2017_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=67 "Built target NOIP2017_1"
 .PHONY : CMakeFiles/NOIP2017_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NOIP2017_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/NOIP2017_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/NOIP2017_1.dir/rule
@@ -4271,33 +4414,6 @@ NOIP2017_1: CMakeFiles/NOIP2017_1.dir/rule
 CMakeFiles/NOIP2017_1.dir/clean:
 	$(MAKE) -f CMakeFiles/NOIP2017_1.dir/build.make CMakeFiles/NOIP2017_1.dir/clean
 .PHONY : CMakeFiles/NOIP2017_1.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/sort_the_struct1.dir
-
-# All Build rule for target.
-CMakeFiles/sort_the_struct1.dir/all:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/depend
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles --progress-num=95 "Built target sort_the_struct1"
-.PHONY : CMakeFiles/sort_the_struct1.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/sort_the_struct1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/sort_the_struct1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/sort_the_struct1.dir/rule
-
-# Convenience name for target.
-sort_the_struct1: CMakeFiles/sort_the_struct1.dir/rule
-
-.PHONY : sort_the_struct1
-
-# clean rule for target.
-CMakeFiles/sort_the_struct1.dir/clean:
-	$(MAKE) -f CMakeFiles/sort_the_struct1.dir/build.make CMakeFiles/sort_the_struct1.dir/clean
-.PHONY : CMakeFiles/sort_the_struct1.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

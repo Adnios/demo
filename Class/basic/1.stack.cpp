@@ -26,7 +26,6 @@ int compute(char s[256]){
 }
 int main(){
 	cin.getline(s,256);
-    
 	cout<<compute(s);
 	return 0;
 }

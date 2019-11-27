@@ -1,6 +1,3 @@
-//
-// Created by scrutiny on 2019/10/3.
-//
 #include<iostream>
 #include<cstdio>
 #include<cstring>

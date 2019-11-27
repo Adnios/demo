@@ -9,19 +9,14 @@ using namespace std;
 
 stack <int> s;
 
-int main()
-{
+int main(){
     string v;
     bool flag=false;
-
     cin>>v;
-
-    for (int i=0;i<=v.length();i++)
-    {
+    for (int i=0;i<=v.length();i++){
         char t=v[i];
         if (t=='@')
             break;
-
         if (t=='(')
             s.push(1);
         else if (t==')'&&s.size())

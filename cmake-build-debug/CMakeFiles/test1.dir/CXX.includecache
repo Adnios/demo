@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/scrutiny/Desktop/C++/demo/Class/update/1/test.cpp
-algorithm
--
-cstdio
--
-cstring
--
+/home/scrutiny/Desktop/C++/demo/test.cpp
 iostream
+-
+queue
 -
 

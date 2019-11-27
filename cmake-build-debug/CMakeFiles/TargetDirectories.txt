@@ -5,8 +5,6 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/2018-1.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/Graphmtx.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/SeqStack.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1-2.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/27.Remove_Element.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1047.Remove_All_Adjacent_Duplicates_In_String.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/453.Minimum_Moves_to_Equal_Array_Elements.dir
@@ -15,7 +13,6 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/401.Binary_Watch.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/143.Reorder_List.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/213.House_Robber_II.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/448.Find_All_Numbers_Disappeared_in_an_Array.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/64.Minimum_Path_Sum.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/771.JewelsandStones.dir
@@ -39,7 +36,13 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/search.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/962.Maximum_Width_Ramp.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/Hash1.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/sort_the_struct2.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/sort_the_struct1.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/sort.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1465.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1479.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1108.Defanging_an_IP_Address.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/198.House_Robber.dir
@@ -62,9 +65,6 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/2.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1.stack.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1472.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1465.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/BubbleSort.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1435.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/compare.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/503.Next_Greater_Element_II.dir
@@ -104,8 +104,6 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/lanqiaolianxi_4.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/test2.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P2921.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/sort_the_struct2.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/NOIP2018_2.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1489.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P3388.dir
@@ -119,7 +117,13 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/NOIP2018_1.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P1226.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P1044.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1-2.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/767.Reorganize_String.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/HDU1847.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/1587.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P3390.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/300.Longest_Increasing_Subsequence.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P1962.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/data1.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P1896.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/P3128.dir
@@ -141,8 +145,8 @@
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/CF372C.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/lanqiaolianxi_1.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/floyed.dir
+/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/HDU1848.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/lanqiaolianxi_2.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/NOIP2018_4.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/lanqiaolianxi_5.dir
 /home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/NOIP2017_1.dir
-/home/scrutiny/Desktop/C++/demo/cmake-build-debug/CMakeFiles/sort_the_struct1.dir
