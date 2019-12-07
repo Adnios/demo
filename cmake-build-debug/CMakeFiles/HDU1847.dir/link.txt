@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/HDU1847.dir/Class/update/math/HDU1847.cpp.o  -o HDU1847 

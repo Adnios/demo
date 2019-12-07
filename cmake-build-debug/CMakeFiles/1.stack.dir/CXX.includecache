@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/scrutiny/Desktop/C++/demo/test.cpp
+/home/scrutiny/Desktop/C++/demo/Class/basic/1.stack.cpp
 iostream
+-
+cstring
 -
 

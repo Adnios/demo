@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/scrutiny/Desktop/C++/demo/test.cpp
-iostream
+/home/scrutiny/Desktop/C++/demo/Class/update/math/HDU1847.cpp
+bits/stdc++.h
 -
 

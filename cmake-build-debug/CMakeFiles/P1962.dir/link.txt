@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P1962.dir/Class/update/math/P1962.cpp.o  -o P1962 

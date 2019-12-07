@@ -11,7 +11,7 @@ int cnt;
 void add_edge(int from, int to, int dis)
 {
     s[++cnt].next = head[from];
-    s[cnt].to = to;;
+    s[cnt].to = to;
     s[cnt].dis = dis;
     head[from] = cnt;
 }

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/P3390.dir/Class/update/math/P3390.cpp.o  -o P3390 

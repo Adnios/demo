@@ -6,19 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/scrutiny/Desktop/C++/demo/floyed.cpp
+/home/scrutiny/Desktop/C++/demo/Class/basic/graph/1376.cpp
 iostream
 -
 climits
 -
-cstring
--
-stdio.h
--
-math.h
--
 string
--
-stdio.h
 -
 
